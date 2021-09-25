@@ -2,13 +2,19 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<div class="search">
+<div class="row g-3 align-items-center">
   <form action="search" method="get">
-    <input type="text" id="search-box" class="form-control" name="query">
-    <input type="submit" class="btn btn-primary" value="Search">
+    <div class="col-10">
+      <input type="text" id="search-box" class="form-control" name="query">
+    </div>
+    <div class="col-2">
+      <input type="submit" class="btn btn-primary" value="Search">
+    </div>
   </form>
-  <ul id="search-results" class="search-results"></ul>
 </div>
+
+<ul id="search-results" class="search-results"></ul>
+
 
 <script src="/sturdy-robots/assets/javascript/search-content.js"></script>
 <script src="/sturdy-robots/assets/javascript/lunr.js"></script>
