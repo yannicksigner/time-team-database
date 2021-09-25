@@ -81,6 +81,7 @@
         appendString += '<p class="description">' + item.summary + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
         appendString += '<p class="value3 mt-sm">' + item.broadcast.date + '</p></div>'
+        appendString += '</div></div></section>'
       }
 
       searchResults.innerHTML = appendString;
