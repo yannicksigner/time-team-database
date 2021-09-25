@@ -1,18 +1,69 @@
 (function() {
 
-    var documents = [{
-      "name": "Lunr",
-      "text": "Like Solr, but much smaller, and not as bright.",
-      "image_url": "https://static-cse.canva.com/blob/651263/youtube.b1db6241.jpg"
-    }, {
-      "name": "React",
-      "text": "A JavaScript library for building user interfaces.",
-      "image_url": "https://static-cse.canva.com/blob/651263/youtube.b1db6241.jpg"
-    }, {
-      "name": "Lodash",
-      "text": "A modern JavaScript utility library delivering modularity, performance & extras.",
-      "image_url": "https://static-cse.canva.com/blob/651263/youtube.b1db6241.jpg"
-    }]
+    var documents = [
+    {
+        "id": 1,
+        "title": "Wedgwood's First Factory",
+        "thumbnailurl": "static-cse.canva.com/blob/651263/youtube.b1db6241.jpg",
+        "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world. But few people know that it was here in Burslem on the outskirts of Stoke-On-Trent, that Josiah Wedgwood’s climb to fame and fortune first began. This is actually the site of his first factory, which was at the heart of the pottery industry when it took off in the eighteenth century, but does any of it remain under the paving stones of present day Burslem.",
+        "location": "Burslem, Stoke-on-Trent",
+        "report": {
+            "availability": "no",
+            "link": "no",
+            "abstract": "no"
+        },
+        "broadcast": {
+            "date": "03.01.1999",
+            "seriesepisode": 1,
+            "series": 6,
+            "episode": 31,
+            "title": "Wedgwood's First Factory",
+            "year": 1999
+        },
+        "links": {
+            "her": {
+                "name": "no",
+                "globallink": "no",
+                "url": "no"
+            },
+            "imdb": {
+                "name": "no",
+                "url": "no"
+            }
+        }
+    },
+    {
+        "id": 2,
+        "title": "Wedgwood's First Factory",
+        "thumbnailurl": "static-cse.canva.com/blob/651263/youtube.b1db6241.jpg",
+        "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world. But few people know that it was here in Burslem on the outskirts of Stoke-On-Trent, that Josiah Wedgwood’s climb to fame and fortune first began. This is actually the site of his first factory, which was at the heart of the pottery industry when it took off in the eighteenth century, but does any of it remain under the paving stones of present day Burslem.",
+        "location": "Burslem, Stoke-on-Trent",
+        "report": {
+            "availability": "no",
+            "link": "no",
+            "abstract": "no"
+        },
+        "broadcast": {
+            "date": "03.01.1999",
+            "seriesepisode": 1,
+            "series": 6,
+            "episode": 31,
+            "title": "Wedgwood's First Factory",
+            "year": 1999
+        },
+        "links": {
+            "her": {
+                "name": "no",
+                "globallink": "no",
+                "url": "no"
+            },
+            "imdb": {
+                "name": "no",
+                "url": "no"
+            }
+        }
+    }
+]
 
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
@@ -21,9 +72,9 @@
       var appendString = '';
 
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
-        var item = documents.find(({name}) => name === results[i].ref)
-        appendString += '<li><img src="'+ item.image_url +'" alt="" width="600" height="400">';
-        appendString += '<h3>' + item.name + '</h3><p>'+ item.text+'</p></li>';
+        var item = documents.find(({id}) => id === results[i].ref)
+        appendString += '<li><img src="'+ item.thumbnailurl +'" alt="" width="600" height="400">';
+        appendString += '<h3>' + item.title + '</h3><p>'+ item.summary+'</p></li>';
       }
 
       searchResults.innerHTML = appendString;
@@ -54,9 +105,9 @@
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
-  this.ref('name')
-  this.field('name')
-  this.field('text')
+  this.ref('id')
+  this.field('title')
+  this.field('location')
 
   documents.forEach(function (doc) {
     this.add(doc)
