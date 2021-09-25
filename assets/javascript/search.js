@@ -80,8 +80,8 @@
         appendString += '<p class="info">' + item.location + '</p>'
         appendString += '<p class="description">' + item.summary + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Series ' + item.broadcast.series + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Episode' + item.broadcast.episode + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Tooltip on left">Tooltip on left</i>Series ' + item.broadcast.series + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;"></i>' + item.broadcast.date + '</p>'
         appendString += '</div></div></div></section>'
       }
@@ -90,6 +90,8 @@
     } else {
       searchResults.innerHTML = '<li>No results found!</li>';
     }
+    // activate the tooltips (after they have been created)
+    $('[data-toggle="tooltip"]').tooltip()
   }
 
   function getQueryVariable(variable) {
