@@ -73,7 +73,7 @@
       for (var i = 0; i < results.length; i++) { // Iterate over the results
         var item = documents.find(({id}) => id === parseInt(results[i].ref))
         appendString += '<li><img src="http://' + item.thumbnailurl + '" alt="" width="600" height="400">';
-        appendString += '<h3>' + item.name + '</h3><p>' + item.text + '</p></li>';
+        appendString += '<h3>' + item.title + '</h3><p>' + item.summary + '</p></li>';
       }
 
       searchResults.innerHTML = appendString;
