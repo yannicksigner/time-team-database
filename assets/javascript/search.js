@@ -80,9 +80,9 @@
         appendString += '<p class="info">' + item.location + '</p>'
         appendString += '<p class="description">' + item.summary + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Tooltip on left">Tooltip on left</i>Series ' + item.broadcast.series + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;"></i>' + item.broadcast.date + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Episode within the series"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
         appendString += '</div></div></div></section>'
       }
 
