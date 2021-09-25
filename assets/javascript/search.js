@@ -73,7 +73,7 @@
       for (var i = 0; i < results.length; i++) { // Iterate over the results
         var item = documents.find(({id}) => id === parseInt(results[i].ref))
         appendString += '<section class="search-result-item">'
-        appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
+        appendString += '<a class="image-link" href="#"><img class="image" src="http://' + item.thumbnailurl + '"></a>'
         appendString += '<div class="search-result-item-body">'
         appendString += '<div class="row"><div class="col-sm-9">'
         appendString += '<h4 class="search-result-item-heading">' + item.title + '</h4>'
