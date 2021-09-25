@@ -83,12 +83,12 @@
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (' + item.links.her.id + ')</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Episode within the series"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' <a href="' + item.links.imdb.url + '">IMDb</a></p>'
+        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' <a href="' + item.links.imdb.url + '">IMDb</a> rating</p>'
         appendString += '</div></div></div></section>'
       }
 
