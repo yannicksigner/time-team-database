@@ -23,9 +23,9 @@
         },
         "links": {
             "her": {
-                "name": "no",
-                "globallink": "no",
-                "url": "no"
+                "name": "Lincolnshire HER",
+                "id": "MLI91503",
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI91503&resourceID=1006"
             },
             "imdb": {
                 "name": "no",
@@ -55,9 +55,9 @@
         },
         "links": {
             "her": {
-                "name": "no",
-                "globallink": "no",
-                "url": "no"
+                "name": "Lincolnshire HER",
+                "id": "MLI91503",
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI91503&resourceID=1006"
             },
             "imdb": {
                 "name": "no",
@@ -82,7 +82,7 @@
         appendString += '<h4 class="search-result-item-heading">' + item.title + '</h4>'
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p></div>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (' + item.links.her.id + ')</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Episode within the series"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
