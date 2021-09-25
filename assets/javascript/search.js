@@ -4,12 +4,12 @@
     {
         "id": 1,
         "title": "Wedgwood's First Factory",
-        "thumbnailurl": "static-cse.canva.com/blob/651263/youtube.b1db6241.jpg",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
         "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world. But few people know that it was here in Burslem on the outskirts of Stoke-On-Trent, that Josiah Wedgwood’s climb to fame and fortune first began. This is actually the site of his first factory, which was at the heart of the pottery industry when it took off in the eighteenth century, but does any of it remain under the paving stones of present day Burslem.",
         "location": "Burslem, Stoke-on-Trent",
         "ngr": "SJ 87099 49908",
         "report": {
-            "availability": "no",
+            "availability": "no excavation report available",
             "link": "no",
             "abstract": "no"
         },
@@ -36,12 +36,12 @@
     {
         "id": 2,
         "title": "Wedgwood's First Factory",
-        "thumbnailurl": "static-cse.canva.com/blob/651263/youtube.b1db6241.jpg",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
         "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world. But few people know that it was here in Burslem on the outskirts of Stoke-On-Trent, that Josiah Wedgwood’s climb to fame and fortune first began. This is actually the site of his first factory, which was at the heart of the pottery industry when it took off in the eighteenth century, but does any of it remain under the paving stones of present day Burslem.",
         "location": "Burslem, Stoke-on-Trent",
         "ngr": "SJ 87099 49908",
         "report": {
-            "availability": "no",
+            "availability": "no excavation report available",
             "link": "no",
             "abstract": "no"
         },
@@ -83,7 +83,7 @@
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (' + item.links.her.id + ')</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + ')</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> <a href="' + item.links.imdb.url + '">entry on IMDb</a> – average IMDb rating of ' + item.links.imdb.rating + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
