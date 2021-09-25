@@ -88,7 +88,7 @@
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Episode within the series"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' <a href="' + item.links.imdb.url + '">IMDb</a> rating</p>'
+        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' <a href="' + item.links.imdb.url + '">IMDb</a></p>'
         appendString += '</div></div></div></section>'
       }
 
