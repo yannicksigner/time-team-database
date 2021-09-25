@@ -4,7 +4,7 @@
     {
         "id": 1,
         "title": "Wedgwood's First Factory",
-        "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BNTU0Mjc1MzM1OF5BMl5BanBnXkFtZTgwOTY3MTkyMDI@._V1_FMjpg_UX500_.jpg",
         "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world.",
         "location": "Burslem, Stoke-on-Trent",
         "ngr": "SJ 87099 49908",
@@ -35,33 +35,33 @@
     },
     {
         "id": 2,
-        "title": "Wedgwood's First Factory",
+        "title": "Smallhythe, Kent",
         "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
-        "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world.",
-        "location": "Burslem, Stoke-on-Trent",
-        "ngr": "SJ 87099 49908",
+        "summary": "Smallhythe is now a village amid fields. The nearest body of water being a Sewer and a drainage ditch. But in the 15th and 16th centuries, it was the site of a bustling shipbuilding industry right next to the mile-wide River Rother.",
+        "location": "Smallhythe, Kent",
+        "ngr": "TQ 89400 30000",
         "report": {
             "availability": "no excavation report available",
             "link": "no",
             "abstract": "no"
         },
         "broadcast": {
-            "date": "03.01.1999",
-            "seriesepisode": 1,
+            "date": "07.02.1999",
+            "seriesepisode": 6,
             "series": 6,
-            "episode": 31,
-            "title": "Wedgwood's First Factory",
+            "episode": 37,
+            "title": "Smallhythe, Kent",
             "year": 1999
         },
         "links": {
             "her": {
-                "name": "Lincolnshire HER",
-                "id": "MLI91503",
-                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI91503&resourceID=1006"
+                "name": "Kent HER",
+                "id": "TQ 83 SE 52",
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MKE14001&resourceID=1005"
             },
             "imdb": {
-                "rating": 8.7,
-                "url": "www.imdb.com/title/tt0952372/?ref_=ttep_ep1"
+                "rating": 8,
+                "url": "www.imdb.com/title/tt0952384/?ref_=ttep_ep6"
             }
         }
     }
