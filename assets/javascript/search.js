@@ -80,8 +80,10 @@
         appendString += '<p class="info">' + item.location + '</p>'
         appendString += '<p class="description">' + item.summary + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 4px;"></i>' + item.broadcast.date + '</p></div>'
-        appendString += '</div></div></section>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Series ' + item.broadcast.series + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;"></i>Episode' + item.broadcast.episode + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;"></i>' + item.broadcast.date + '</p>'
+        appendString += '</div></div></div></section>'
       }
 
       searchResults.innerHTML = appendString;
