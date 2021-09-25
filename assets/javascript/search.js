@@ -72,8 +72,15 @@
 
       for (var i = 0; i < results.length; i++) { // Iterate over the results
         var item = documents.find(({id}) => id === parseInt(results[i].ref))
-        appendString += '<li><img src="http://' + item.thumbnailurl + '" alt="" width="600" height="400">';
-        appendString += '<h3>' + item.title + '</h3><p>' + item.summary + '</p></li>';
+        appendString += '<section class="search-result-item">'
+        appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
+        appendString += '<div class="search-result-item-body">'
+        appendString += '<div class="row"><div class="col-sm-9">'
+        appendString += '<h4 class="search-result-item-heading">' + item.title + '</h4>'
+        appendString += '<p class="info">' + item.location + '</p>'
+        appendString += '<p class="description">' + item.summary + '</p></div>'
+        appendString += '<div class="col-sm-3 text-align-center">'
+        appendString += '<p class="value3 mt-sm">' + item.broadcast.date + '</p></div>'
       }
 
       searchResults.innerHTML = appendString;
