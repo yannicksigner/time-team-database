@@ -2,7 +2,7 @@
 
   var documents = [
     {
-        "id": 1,
+        "id": 998,
         "title": "Wedgwood's First Factory",
         "thumbnailurl": "m.media-amazon.com/images/M/MV5BNTU0Mjc1MzM1OF5BMl5BanBnXkFtZTgwOTY3MTkyMDI@._V1_FMjpg_UX500_.jpg",
         "summary": "Everyone knows the name of Wedgwood when it comes to pottery, and this is what they have in mind, this blue and white design, it’s famous throughout the world.",
@@ -38,10 +38,11 @@
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
             }
-        }
+        },
+        "lastupdated": "26.09.2021"
     },
     {
-        "id": 2,
+        "id": 999,
         "title": "Smallhythe, Kent",
         "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
         "summary": "Smallhythe is now a village amid fields. The nearest body of water being a Sewer and a drainage ditch. But in the 15th and 16th centuries, it was the site of a bustling shipbuilding industry right next to the mile-wide River Rother.",
@@ -77,7 +78,48 @@
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
             }
-        }
+        },
+        "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 1,
+        "title": "The Guerrilla Base of the King",
+        "summary": "The Team investigate a site in Somerset that could hold the key to a crucial phase in English history: Alfred the Great's defeat of the Danes. Were this orchard and farmland once Alfred's fortress?",
+        "location": "Athelney, Somerset",
+        "ngr": "ST 34452 29270",
+        "recorded": "16–18 April 1993",
+        "report": {
+            "availability": false,
+            "title": "Field Survey at Athelney, Somerset in 1993 (forthcoming)",
+            "url": "–",
+            "abstract": "–"
+        },
+        "broadcast": {
+            "date": "1994-01-16T00:00:00.000Z",
+            "seriesepisode": 1,
+            "series": 1,
+            "episode": 1,
+            "title": "The Guerrilla Base of the King",
+            "year": 1994
+        },
+        "links": {
+            "her": {
+                "availability": true,
+                "name": "Somerset HER",
+                "id": 11620,
+                "url": "www.somersetheritage.org.uk/record/11620"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8,
+                "url": "www.imdb.com/title/tt0952368/?ref_=ttep_ep1"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-001"
+            }
+        },
+        "lastupdated": "26.09.2021"
     }
 ]
 
@@ -112,6 +154,7 @@
         appendString += '<div class="col-sm-4 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i> Series ' + item.broadcast.series + ' – Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i> Aired ' + item.broadcast.date + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i> Recorded ' + item.recorded + '</p>'
 
         if (item.links.imdb.availability) {
           appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> IMDb rating ' + item.links.imdb.rating + '/10 <a href="http://' + item.links.imdb.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
