@@ -142,5 +142,53 @@
             }
         },
         "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 4,
+        "title": "The Fortress in the Lake",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BMGJlNzhiMmEtNWJkNS00MTYxLTgzYWMtYTQ4NDc3MzcxN2Q2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX500_.jpg",
+        "summary": "The Team visit the site of a Dark Age crannog - a man-made island - in Brecon. What happened to the people who lived there? What was their connection with Ireland and an ancient script known as ogham?",
+        "location": "Llangorse Lake, Powys",
+        "ngr": "SO 12884 26890",
+        "recorded": "16–18 September 1993",
+        "report": {
+            "availability": false,
+            "comment": "–",
+            "title": "–",
+            "url": "–",
+            "abstract": "–"
+        },
+        "broadcast": {
+            "date": "6 February 1994",
+            "seriesepisode": 4,
+            "series": 1,
+            "episode": 4,
+            "title": "The Fortress in the Lake",
+            "year": 1994
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "id": "–",
+                "name": "–",
+                "url": "–"
+            },
+            "her": {
+                "availability": false,
+                "name": "–",
+                "id": "–",
+                "url": "–"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8.2,
+                "url": "www.imdb.com/title/tt0952379/?ref_=tt_mv_close"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-004"
+            }
+        },
+        "lastupdated": "26.09.2021"
     }
 ]
