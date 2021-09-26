@@ -19,6 +19,12 @@
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
+        if (item.links.ei.availability) {
+          appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" style="margin-right: 15px;height: 16px;vertical-align: text-top;">' + item.links.ei.name + ' (Id: ' + item.links.ei.id + ') <a href="http://' + item.links.ei.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+        } else {
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
+        }
+
         if (item.links.her.availability) {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (Id: ' + item.links.her.id + ') <a href="http://' + item.links.her.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
         } else {
@@ -47,9 +53,9 @@
         }
 
         if (item.links.channel4.availability) {
-          appendString += '<p class="value3 mt-sm"><img src="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg" style="margin-right: 15px;height: 16px;vertical-align: text-top;"></i>Available on Channel4 <a href="http://' + item.links.channel4.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="value3 mt-sm"><img src="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg" style="margin-right: 15px;height: 16px;vertical-align: text-top;">Available on Channel4 <a href="http://' + item.links.channel4.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
         } else {
-          appendString += '<p class="value3 mt-sm"><img src="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg" style="margin-right: 15px;height: 16px;vertical-align: text-top;"></i>Not available on Channel4</p>'
+          appendString += '<p class="value3 mt-sm"><img src="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg" style="margin-right: 15px;height: 16px;vertical-align: text-top;">Not available on Channel4</p>'
         }
 
         appendString += '</div></div></div></section>'

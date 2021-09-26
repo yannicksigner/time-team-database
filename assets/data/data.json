@@ -147,11 +147,17 @@
             "year": 1994
         },
         "links": {
-            "her": {
+            "ei": {
                 "availability": true,
-                "name": "Historic England",
                 "id": 1339858,
+                "name": "RIBCHESTER (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845365&resourceID=304"
+            },
+            "her": {
+                "availability": false,
+                "name": "–",
+                "id": "–",
+                "url": "–"
             },
             "imdb": {
                 "availability": true,
@@ -161,6 +167,54 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-002"
+            }
+        },
+        "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 3,
+        "title": "The New Town of a Norman Prince",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BNjM4ZDFlMjMtZjZjYi00ZjJlLThhNjMtYzJmMDRlMGUxYjY2XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX500_.jpg",
+        "summary": "In the gardens - and one kitchen - of Much Wenlock in Shropshire, the Team reveal fascinating evidence about the early development of a medieval town and an important aspect of England's past",
+        "location": "Much Wenlock, Shropshire",
+        "ngr": "SO 62351 99936",
+        "recorded": "9–11 April 1993",
+        "report": {
+            "availability": false,
+            "comment": "No reports could be identified",
+            "title": "–",
+            "url": "–",
+            "abstract": "–"
+        },
+        "broadcast": {
+            "date": "1994-01-30T00:00:00.000Z",
+            "seriesepisode": 3,
+            "series": 1,
+            "episode": 3,
+            "title": "The New Town of a Norman Prince",
+            "year": 1994
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "id": 1339854,
+                "name": "55 SHEINTON STREET (TIME TEAM)",
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845323&resourceID=304"
+            },
+            "her": {
+                "availability": false,
+                "name": "–",
+                "id": "–",
+                "url": "–"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8.3,
+                "url": "www.imdb.com/title/tt0952380"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
             }
         },
         "lastupdated": "26.09.2021"
