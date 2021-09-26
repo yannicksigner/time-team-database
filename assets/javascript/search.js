@@ -20,7 +20,7 @@
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
         if (item.links.ei.availability) {
-          appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" style="margin-right: 15px;height: 16px;vertical-align: text-top;filter: invert(69%) sepia(0%) saturate(6125%) hue-rotate(331deg) brightness(110%) contrast(71%);object-fit: cover;object-position: left;width: 16px;">' + item.links.ei.name + ' (Id: ' + item.links.ei.id + ') <a href="http://' + item.links.ei.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" style="margin-right: 15px;height: 16px;vertical-align: text-top;filter: invert(69%) sepia(0%) saturate(6125%) hue-rotate(331deg) brightness(110%) contrast(17%);object-fit: cover;object-position: left;width: 16px;">' + item.links.ei.name + ' (Id: ' + item.links.ei.id + ') <a href="http://' + item.links.ei.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
         } else {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
         }
