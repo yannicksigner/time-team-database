@@ -24,6 +24,7 @@
     padding: 20px;
     background-color: #fff;
     border-radius: 4px
+    display: flex;
 }
 
 .search-result-item:after,
@@ -45,11 +46,9 @@
 
 @media (min-width:768px) {
     .search-result-item .image-link {
-        /*display: inline-block;*/
         margin: -20px 0 -20px -20px;
         float: left;
-        width: 200px;
-        height: 300px;
+        width: 40%;
     }
 }
 
@@ -80,7 +79,7 @@
 
 @media (min-width:768px) {
     .search-result-item-body {
-        margin-left: 200px
+        margin-left: 20px
     }
 }
 
