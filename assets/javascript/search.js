@@ -1,6 +1,6 @@
 (function() {
 
-  var json = $.getJSON({'url': "https://github.com/yannicksigner/sturdy-robots/blob/master/assets/data/data.json", 'async': false});
+  var json = $.getJSON({'url': "assets/data/data.json", 'async': false});
   var documents = JSON.parse(json.responseText);
 
   function displaySearchResults(results, store) {
