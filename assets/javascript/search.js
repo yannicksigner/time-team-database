@@ -10,7 +10,8 @@
         "ngr": "SJ 87099 49908",
         "report": {
             "availability": false,
-            "link": "–",
+            "title": "–",
+            "url": "–",
             "abstract": "–"
         },
         "broadcast": {
@@ -32,6 +33,10 @@
                 "availability": true,
                 "rating": 8.7,
                 "url": "www.imdb.com/title/tt0952372/?ref_=ttep_ep1"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
             }
         }
     },
@@ -44,7 +49,8 @@
         "ngr": "TQ 89400 30000",
         "report": {
             "availability": false,
-            "link": "–",
+            "title": "–",
+            "url": "–",
             "abstract": "–"
         },
         "broadcast": {
@@ -66,6 +72,10 @@
                 "availability": true,
                 "rating": 8,
                 "url": "www.imdb.com/title/tt0952384/?ref_=ttep_ep6"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
             }
         }
     }
