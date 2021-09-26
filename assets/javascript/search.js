@@ -103,7 +103,7 @@
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no HER entry identified</p>'
         }
 
-        if (item.links.report.availability) {
+        if (item.report.availability) {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.title + ' <a href="http://' + item.report.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
         } else {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no excavation report identified</p>'
@@ -115,6 +115,8 @@
         appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i>IMDb rating ' + item.links.imdb.rating + '/10 <a href="http://' + item.links.imdb.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
         appendString += '</div></div></div></section>'
       }
+
+      https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg
 
       searchResults.innerHTML = appendString;
     } else {
