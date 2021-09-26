@@ -82,7 +82,7 @@
         appendString += '<section class="search-result-item">'
         appendString += '<a class="image-link" href="#"><img class="image" src="http://' + item.thumbnailurl + '"></a>'
         appendString += '<div class="search-result-item-body">'
-        appendString += '<div class="row"><div class="col-sm-9">'
+        appendString += '<div class="row"><div class="col-sm-8">'
         appendString += '<h4 class="search-result-item-heading">' + item.title + '</h4>'
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
@@ -94,7 +94,7 @@
         }
 
         appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + '</p></div>'
-        appendString += '<div class="col-sm-3 text-align-center">'
+        appendString += '<div class="col-sm-4 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' – Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>Aired ' + item.broadcast.date + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i>IMDb rating ' + item.links.imdb.rating + '/10 <a href="http://' + item.links.imdb.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
