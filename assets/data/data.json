@@ -91,7 +91,7 @@
         "recorded": "16–18 April 1993",
         "report": {
             "availability": false,
-            "comment": "unpublished reports exists in the HER file, but not available online",
+            "comment": "Unpublished reports exist in the HER file; not available online",
             "title": "Field Survey at Athelney, Somerset in 1993 (forthcoming)",
             "url": "–",
             "abstract": "–"
@@ -119,6 +119,48 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-001"
+            }
+        },
+        "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 2,
+        "title": "On the Edge of an Empire",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BYTVlYjNhN2EtZDlhZi00MDE0LTgxNTEtMjIwODI1ZjI0MzQ2XkEyXkFqcGdeQXVyMTA4NDg3MDg2._V1_FMjpg_UX1000_.jpg",
+        "summary": "The Team investigate a unique piece of military engineering at Ribchester in Lancashire that reveals how the Roman army survived - around AD100 - at the northern frontier of their Empire",
+        "location": "Ribchester, Lancashire",
+        "ngr": "SD 65049 35116",
+        "recorded": "3–5 September 1993",
+        "report": {
+            "availability": true,
+            "comment": "–",
+            "title": "Geophysical Report: Ribchester",
+            "url": "doi.org/10.5284/1000870",
+            "abstract": "The resistance survey has identified several ditch features that can be related to the extramural settlement and a broad high resistance anomaly that is thought to be part of the Roman road. No ditch type anomalies were identified that could be associated with the early, wooden phase of the fort. The gradiometer data are generally noisy and any archaeological interpretation for anomalies that have been highlighted remains tentative."
+        },
+        "broadcast": {
+            "date": "1994-01-23T00:00:00.000Z",
+            "seriesepisode": 2,
+            "series": 1,
+            "episode": 2,
+            "title": "On the Edge of an Empire",
+            "year": 1994
+        },
+        "links": {
+            "her": {
+                "availability": true,
+                "name": "Historic England",
+                "id": 1339858,
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845365&resourceID=304"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8,
+                "url": "www.imdb.com/title/tt0952382/"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/16521-002"
             }
         },
         "lastupdated": "26.09.2021"
