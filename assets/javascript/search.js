@@ -9,9 +9,9 @@
         "location": "Burslem, Stoke-on-Trent",
         "ngr": "SJ 87099 49908",
         "report": {
-            "availability": "no excavation report available",
-            "link": "no",
-            "abstract": "no"
+            "availability": false,
+            "link": "–",
+            "abstract": "–"
         },
         "broadcast": {
             "date": "03.01.1999",
@@ -23,11 +23,13 @@
         },
         "links": {
             "her": {
+                "availability": false,
                 "name": "Lincolnshire HER",
                 "id": "MLI91503",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI91503&resourceID=1006"
             },
             "imdb": {
+                "availability": true,
                 "rating": 8.7,
                 "url": "www.imdb.com/title/tt0952372/?ref_=ttep_ep1"
             }
@@ -41,9 +43,9 @@
         "location": "Smallhythe, Kent",
         "ngr": "TQ 89400 30000",
         "report": {
-            "availability": "no excavation report available",
-            "link": "no",
-            "abstract": "no"
+            "availability": false,
+            "link": "–",
+            "abstract": "–"
         },
         "broadcast": {
             "date": "07.02.1999",
@@ -55,11 +57,13 @@
         },
         "links": {
             "her": {
+                "availability": true,
                 "name": "Kent HER",
                 "id": "TQ 83 SE 52",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MKE14001&resourceID=1005"
             },
             "imdb": {
+                "availability": true,
                 "rating": 8,
                 "url": "www.imdb.com/title/tt0952384/?ref_=ttep_ep6"
             }
@@ -82,7 +86,11 @@
         appendString += '<h4 class="search-result-item-heading">' + item.title + '</h4>'
         appendString += '<p class="info">' + item.location + ' (' + item.ngr + ')</p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (' + item.links.her.id + ')</p>'
+        if (item.links.her.availability) {
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (' + item.links.her.id + ')</p>'
+        } else {
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no HER entry identified</p>'
+        }
         appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.availability + '</p></div>'
         appendString += '<div class="col-sm-3 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
