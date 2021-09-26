@@ -88,7 +88,7 @@
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
         if (item.links.her.availability) {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (Id: ' + item.links.her.id + ') <a href="' + item.links.her.url + '"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (Id: ' + item.links.her.id + ') <a href="http://' + item.links.her.url + '"><i class="bi bi-link-45deg"></i></a></p>'
         } else {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no HER entry identified</p>'
         }
@@ -98,7 +98,7 @@
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' (' + item.broadcast.year + ')</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Episode within the series"></i>Episode ' + item.broadcast.seriesepisode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' IMDb rating <a href="' + item.links.imdb.url + '"><i class="bi bi-link-45deg"></i></a></p>'
+        appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i> ' + item.links.imdb.rating + ' IMDb rating <a href="http://' + item.links.imdb.url + '"><i class="bi bi-link-45deg"></i></a></p>'
         appendString += '</div></div></div></section>'
       }
 
