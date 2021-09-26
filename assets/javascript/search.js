@@ -28,7 +28,11 @@
         if (item.report.availability) {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.report.title + ' <a href="http://' + item.report.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
         } else {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no excavation report identified</p></div>'
+          if (item.report.comment != "–") {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock2" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> ' + item.report.comment + '</p></div>'
+          } else {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i> no excavation report identified</p></div>'
+          }
         }
 
         appendString += '<div class="col-sm-4 text-align-center">'

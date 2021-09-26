@@ -8,6 +8,7 @@
         "ngr": "SJ 87099 49908",
         "report": {
             "availability": false,
+            "comment": "–",
             "title": "–",
             "url": "–",
             "abstract": "–"
@@ -48,6 +49,7 @@
         "ngr": "TQ 89400 30000",
         "report": {
             "availability": false,
+            "comment": "–",
             "title": "–",
             "url": "–",
             "abstract": "–"
@@ -89,6 +91,7 @@
         "recorded": "16–18 April 1993",
         "report": {
             "availability": false,
+            "comment": "unpublished reports exists in the HER file, but not available online",
             "title": "Field Survey at Athelney, Somerset in 1993 (forthcoming)",
             "url": "–",
             "abstract": "–"
