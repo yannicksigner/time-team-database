@@ -190,5 +190,102 @@
             }
         },
         "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 5,
+        "title": "Lord of the Isles",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BNzBjZmE1ZmEtYTk2ZC00Zjg1LWE4ODktMTg5YjQzODQ5Nzc4XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX500_.jpg",
+        "summary": "On Islay in the Scottish Hebrides, the Team try to crack the mysteries of the Lords of the Isles: where were these 13th-century Kings crowned and how did they live?",
+        "location": "Finlaggan, Islay",
+        "ngr": "NR 38918 68055",
+        "recorded": "24–26 June 1994",
+        "report": {
+            "availability": false,
+            "comment": "–",
+            "title": "–",
+            "url": "–",
+            "abstract": "–"
+        },
+        "broadcast": {
+            "date": "8 January 1995",
+            "seriesepisode": 5,
+            "series": 2,
+            "episode": 1,
+            "title": "Lord of the Isles",
+            "year": 1995
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "id": "–",
+                "name": "–",
+                "url": "–"
+            },
+            "her": {
+                "availability": false,
+                "name": "–",
+                "id": "–",
+                "url": "–"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8.3,
+                "url": "www.imdb.com/title/tt0952374/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/19860-001"
+            }
+        },
+        "lastupdated": "26.09.2021"
+    },
+    {
+        "id": 6,
+        "title": "The Saxon Graves",
+        "thumbnailurl": "m.media-amazon.com/images/M/MV5BMmQ1MmFiNmEtM2I0ZC00ODIzLTg0YWItMDYzNmU4ZTc4Zjc0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_FMjpg_UX500_.jpg",
+        "summary": "This episode takes an in-depth look at archaeology as it happens in a derelict medieval castle stranded in the middle of a Sunderland housing estate",
+        "location": "Winterbourne Gunner, Wiltshire",
+        "ngr": "SU 18252 35209",
+        "recorded": "6–8 May 1994",
+        "report": {
+            "availability": false,
+            "comment": "–",
+            "title": "–",
+            "url": "–",
+            "abstract": "–"
+        },
+        "broadcast": {
+            "date": "15 January 1995",
+            "seriesepisode": 6,
+            "series": 2,
+            "episode": 2,
+            "title": "The Saxon Graves",
+            "year": 1995
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "id": 1050577,
+                "name": "SALT LANE, WINTERBOURNE (TIME TEAM)",
+                "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1848440&resourceID=304"
+            },
+            "her": {
+                "availability": true,
+                "name": "Wiltshire and Swindon HER",
+                "id": "SU13NE661",
+                "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10573"
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 7.8,
+                "url": "www.imdb.com/title/tt0952396/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+            }
+        },
+        "lastupdated": "26.09.2021",
+        "comment": "sort out multiple HER entries; sort out order of airing; paper report? see EI entry"
     }
 ]
