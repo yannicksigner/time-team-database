@@ -128,7 +128,7 @@
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
-    import Fuse from 'https://deno.land/x/fuse@v6.4.6/dist/fuse.esm.min.js'
+    import Fuse from '/sturdy-robots/assets/javascript/search.js'
 
     const options = {
       keys: [
