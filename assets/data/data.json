@@ -1081,5 +1081,171 @@
         },
         "datecreated": "27.09.2021",
         "comment": "paper report?"
+    },
+    {
+        "id": 14,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep5.png",
+        "summary": "According to Celtic legend, the fort of Emain Macha was built by a king who also built a palace for his treasure and another for the spoils of war. Can the Team find any trace of these other palaces?",
+        "location": "Emain Macha, County Armagh",
+        "country": "Northern Ireland",
+        "ngr": "NV 93463 04687",
+        "coord": "54.3453,-6.7186",
+        "recorded": "7–9 April 1995",
+        "broadcast": {
+            "date": "4 February 1996",
+            "seriesepisode": 14,
+            "series": 3,
+            "episode": 5,
+            "title": "Palace of the Irish Kings",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0957394/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-005"
+            }
+        },
+        "datecreated": "27.09.2021"
+    },
+    {
+        "id": 15,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep5.png",
+        "summary": "A Suffolk farmer has gathered hundreds of pieces of Roman pottery, jewellery and coins from one of his fields. Where did all this rich material come from and why is it so concentrated in one area?",
+        "location": "Preston St. Mary, Suffolk",
+        "country": "England",
+        "ngr": "TL 93852 51087",
+        "coord": "52.12409,0.83037",
+        "recorded": "28–30 August 1995",
+        "broadcast": {
+            "date": "11 February 1996",
+            "seriesepisode": 15,
+            "series": 3,
+            "episode": 6,
+            "title": "Treasures of the Roman Field",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1065729,
+                    "name": "PRIORY FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "id": 1065734,
+                    "name": "PRIORY FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "MSF4040",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF4040"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Boulter (1995) Preston St Mary PSM 003 & PSM 008 (Report No 96/15)",
+                    "url": "suffolkarchaeology.co.uk/reports-pdfs/1996_015.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Harvey (1995) Priory Farm, Preston St Mary: geophysical survey (Report 95/9)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0957909/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-006"
+            }
+        },
+        "datecreated": "27.09.2021"
     }
 ]
