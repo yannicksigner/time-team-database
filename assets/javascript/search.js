@@ -135,6 +135,8 @@
       keys: [
         "location",
         "broadcast.title",
+        "broadcast.series",
+        "broadcast.episode",
         "country"
       ]
     };
