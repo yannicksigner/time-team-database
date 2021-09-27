@@ -134,6 +134,7 @@
       threshold: 0.2,
       keys: [
         "location",
+        "summary",
         "broadcast.title",
         "broadcast.series",
         "broadcast.episode",
