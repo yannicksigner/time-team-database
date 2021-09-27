@@ -128,20 +128,19 @@
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
-    // Initalize lunr with the fields it will be searching on. I've given title
-    // a boost of 10 to indicate matches on this field are more important.
-    var idx = lunr(function() {
-      this.ref('id')
-      this.field('country')
-      this.field('location')
-      this.field('broadcast.title')
+    const options = {
+      keys: [
+        "location",
+        "broadcast.title",
+        "country",
+        "summary"
+      ]
+    };
 
-      documents.forEach(function(doc) {
-        this.add(doc)
-      }, this)
-    })
+    const fuse = new Fuse(documents, options);
 
-    var results = idx.search(searchTerm); // Get lunr to perform a search
-    displaySearchResults(results, window.store); // We'll write this in the next section
+    fuse.search(searchTerm)
+
+    displaySearchResults(fuse.search(searchTerm), window.store); // We'll write this in the next section
   }
 })();
