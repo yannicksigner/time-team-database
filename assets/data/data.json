@@ -11,8 +11,8 @@
         "broadcast": {
             "date": "16 January 1994",
             "seriesepisode": 1,
-            "series": 1,
-            "episode": 1,
+            "series": "Series 1",
+            "episode": "Episode 1",
             "title": "The Guerrilla Base of the King",
             "year": 1994
         },
@@ -94,8 +94,8 @@
         "broadcast": {
             "date": "23 January 1994",
             "seriesepisode": 2,
-            "series": 1,
-            "episode": 2,
+            "series": "Series 1",
+            "episode": "Episode 2",
             "title": "On the Edge of an Empire",
             "year": 1994
         },
@@ -177,8 +177,8 @@
         "broadcast": {
             "date": "30 January 1994",
             "seriesepisode": 3,
-            "series": 1,
-            "episode": 3,
+            "series": "Series 1",
+            "episode": "Episode 3",
             "title": "The New Town of a Norman Prince",
             "year": 1994
         },
@@ -260,8 +260,8 @@
         "broadcast": {
             "date": "6 February 1994",
             "seriesepisode": 4,
-            "series": 1,
-            "episode": 4,
+            "series": "Series 1",
+            "episode": "Episode 4",
             "title": "The Fortress in the Lake",
             "year": 1994
         },
@@ -343,8 +343,8 @@
         "broadcast": {
             "date": "8 January 1995",
             "seriesepisode": 5,
-            "series": 2,
-            "episode": 1,
+            "series": "Series 2",
+            "episode": "Episode 1",
             "title": "Lord of the Isles",
             "year": 1995
         },
@@ -426,8 +426,8 @@
         "broadcast": {
             "date": "15 January 1995",
             "seriesepisode": 6,
-            "series": 2,
-            "episode": 2,
+            "series": "Series 2",
+            "episode": "Episode 2",
             "title": "The Saxon Graves",
             "year": 1995
         },
@@ -511,8 +511,8 @@
         "broadcast": {
             "date": "22 January 1995",
             "seriesepisode": 7,
-            "series": 2,
-            "episode": 3,
+            "series": "Series 2",
+            "episode": "Episode 3",
             "title": "The Lost Villa",
             "year": 1995
         },
@@ -594,8 +594,8 @@
         "broadcast": {
             "date": "29 January 1995",
             "seriesepisode": 8,
-            "series": 2,
-            "episode": 4,
+            "series": "Series 2",
+            "episode": "Episode 4",
             "title": "The Archbishop's Back Garden",
             "year": 1995
         },
@@ -678,8 +678,8 @@
         "broadcast": {
             "date": "5 February 1995",
             "seriesepisode": 9,
-            "series": 2,
-            "episode": 5,
+            "series": "Series 2",
+            "episode": "Episode 5",
             "title": "Medieval Dining Hall",
             "year": 1995
         },
@@ -761,8 +761,8 @@
         "broadcast": {
             "date": "7 January 1996",
             "seriesepisode": 10,
-            "series": 3,
-            "episode": 1,
+            "series": "Series 3",
+            "episode": "Episode 1",
             "title": "Prehistoric Fogou",
             "year": 1996
         },
@@ -844,8 +844,8 @@
         "broadcast": {
             "date": "14 January 1996",
             "seriesepisode": 11,
-            "series": 3,
-            "episode": 2,
+            "series": "Series 3",
+            "episode": "Episode 2",
             "title": "Hunting for Mammoth",
             "year": 1996
         },
@@ -927,8 +927,8 @@
         "broadcast": {
             "date": "21 January 1996",
             "seriesepisode": 12,
-            "series": 3,
-            "episode": 3,
+            "series": "Series 3",
+            "episode": "Episode 3",
             "title": "Village of the Templars",
             "year": 1996
         },
@@ -1010,8 +1010,8 @@
         "broadcast": {
             "date": "28 January 1996",
             "seriesepisode": 13,
-            "series": 3,
-            "episode": 4,
+            "series": "Series 3",
+            "episode": "Episode 4",
             "title": "A Wreck of the Spanish Armada",
             "year": 1996
         },
@@ -1094,8 +1094,8 @@
         "broadcast": {
             "date": "4 February 1996",
             "seriesepisode": 14,
-            "series": 3,
-            "episode": 5,
+            "series": "Series 3",
+            "episode": "Episode 5",
             "title": "Palace of the Irish Kings",
             "year": 1996
         },
@@ -1177,8 +1177,8 @@
         "broadcast": {
             "date": "11 February 1996",
             "seriesepisode": 15,
-            "series": 3,
-            "episode": 6,
+            "series": "Series 3",
+            "episode": "Episode 6",
             "title": "Treasures of the Roman Field",
             "year": 1996
         },
