@@ -42,34 +42,34 @@
 
         if (item.links.report.availability) {
           if (item.links.report.main.accessable) {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           } else {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           }
           if (item.links.report.multiple) {
             if (item.links.report.additional1.accessable) {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             } else {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             }
 
             if (item.links.report.additional2.title != "–") {
               if (item.links.report.additional2.accessable) {
-                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
               } else {
-                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
               }
             }
           }
         } else {
           if (item.links.report.comment != "–") {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p></div>'
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p>'
           } else {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p></div>'
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p>'
           }
         }
 
-        appendString += '<div class="col-sm-4 text-align-center">'
+        appendString += '</div><div class="col-sm-4 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Series"></i>Series ' + item.broadcast.series + ' – Episode ' + item.broadcast.episode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i>' + item.recorded + '</p>'
