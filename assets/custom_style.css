@@ -62,6 +62,8 @@
     object-fit: cover;
     float: left;
     margin: -20px 0 -20px -20px;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
 }
 
 .search-result-item .info {
