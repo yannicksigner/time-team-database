@@ -25,6 +25,7 @@
         "links": {
             "ei": {
                 "availability": true,
+                "multiple": false,
                 "id": 1339841,
                 "name": "ATHELNEY ISLAND (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845344&resourceID=304"
@@ -50,7 +51,7 @@
     {
         "id": 2,
         "title": "On the Edge of an Empire",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep2.png",
         "summary": "The Team investigate a unique piece of military engineering at Ribchester in Lancashire that reveals how the Roman army survived - around AD100 - at the northern frontier of their Empire",
         "location": "Ribchester, Lancashire",
         "ngr": "SD 65049 35116",
@@ -73,6 +74,7 @@
         "links": {
             "ei": {
                 "availability": true,
+                "multiple": false,
                 "id": 1339858,
                 "name": "RIBCHESTER (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845365&resourceID=304"
@@ -98,7 +100,7 @@
     {
         "id": 3,
         "title": "The New Town of a Norman Prince",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep3.png",
         "summary": "In the gardens - and one kitchen - of Much Wenlock in Shropshire, the Team reveal fascinating evidence about the early development of a medieval town and an important aspect of England's past",
         "location": "Much Wenlock, Shropshire",
         "ngr": "SO 62351 99936",
@@ -121,6 +123,7 @@
         "links": {
             "ei": {
                 "availability": true,
+                "multiple": false,
                 "id": 1339854,
                 "name": "55 SHEINTON STREET (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845323&resourceID=304"
@@ -146,7 +149,7 @@
     {
         "id": 4,
         "title": "The Fortress in the Lake",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep4.png",
         "summary": "The Team visit the site of a Dark Age crannog - a man-made island - in Brecon. What happened to the people who lived there? What was their connection with Ireland and an ancient script known as ogham?",
         "location": "Llangorse Lake, Powys",
         "ngr": "SO 12884 26890",
@@ -169,6 +172,7 @@
         "links": {
             "ei": {
                 "availability": false,
+                "multiple": false,
                 "id": "–",
                 "name": "–",
                 "url": "–"
@@ -194,7 +198,7 @@
     {
         "id": 5,
         "title": "Lord of the Isles",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s2ep1.png",
         "summary": "On Islay in the Scottish Hebrides, the Team try to crack the mysteries of the Lords of the Isles: where were these 13th-century Kings crowned and how did they live?",
         "location": "Finlaggan, Islay",
         "ngr": "NR 38918 68055",
@@ -217,6 +221,7 @@
         "links": {
             "ei": {
                 "availability": false,
+                "multiple": false,
                 "id": "–",
                 "name": "–",
                 "url": "–"
@@ -242,7 +247,7 @@
     {
         "id": 6,
         "title": "The Saxon Graves",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s2ep2.png",
         "summary": "This episode takes an in-depth look at archaeology as it happens in a derelict medieval castle stranded in the middle of a Sunderland housing estate",
         "location": "Winterbourne Gunner, Wiltshire",
         "ngr": "SU 18252 35209",
@@ -265,6 +270,7 @@
         "links": {
             "ei": {
                 "availability": true,
+                "multiple": false,
                 "id": 1050577,
                 "name": "SALT LANE, WINTERBOURNE (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1848440&resourceID=304"
@@ -291,7 +297,7 @@
     {
         "id": 7,
         "title": "The Lost Villa",
-        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s1ep1.png",
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s2ep3.png",
         "summary": "The Time Team visit the picturesque village of Tockenham, deep in the heart of the ancient Wiltshire countryside",
         "location": "Tockenham, Wiltshire",
         "ngr": "SU 03945 79281",
@@ -314,6 +320,7 @@
         "links": {
             "ei": {
                 "availability": true,
+                "multiple": false,
                 "id": 1073776,
                 "name": "TOCKENHAM (TIME TEAM)",
                 "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1860883&resourceID=304"
