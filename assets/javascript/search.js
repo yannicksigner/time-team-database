@@ -131,7 +131,7 @@
     const options = {
       ignoreLocation: true,
       includeScore: true,
-      threshold: 0.3,
+      threshold: 0.2,
       keys: [
         "location",
         "broadcast.title",
