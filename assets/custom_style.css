@@ -24,7 +24,7 @@
     padding: 20px;
     background-color: #fff;
     border-radius: 4px;
-    /*display: flex;*/
+    display: flex;
 }
 
 .search-result-item:after,
