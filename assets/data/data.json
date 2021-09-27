@@ -50,6 +50,22 @@
                     "url": "–"
                 }
             },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "title": "Field Survey at Athelney, Somerset in 1993 (forthcoming)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
+                    "url": "–"
+                }
+            },
             "imdb": {
                 "availability": true,
                 "rating": 8,
@@ -110,6 +126,22 @@
                 "additional1": {
                     "name": "–",
                     "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "title": "Geophysical Report: Ribchester",
+                    "url": "doi.org/10.5284/1000870"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
                     "url": "–"
                 }
             },
@@ -176,6 +208,22 @@
                     "url": "–"
                 }
             },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
+                    "url": "–"
+                }
+            },
             "imdb": {
                 "availability": true,
                 "rating": 8.3,
@@ -236,6 +284,22 @@
                 "additional1": {
                     "name": "–",
                     "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
                     "url": "–"
                 }
             },
@@ -302,6 +366,22 @@
                     "url": "–"
                 }
             },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
+                    "url": "–"
+                }
+            },
             "imdb": {
                 "availability": true,
                 "rating": 8.3,
@@ -339,7 +419,7 @@
         "links": {
             "ei": {
                 "availability": true,
-                "multiple": true,
+                "multiple": false,
                 "main": {
                     "id": 1050577,
                     "name": "SALT LANE, WINTERBOURNE (TIME TEAM)",
@@ -363,6 +443,22 @@
                     "name": "Wiltshire and Swindon HER",
                     "id": "SU13NE660",
                     "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10572"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
+                    "url": "–"
                 }
             },
             "imdb": {
@@ -427,6 +523,22 @@
                 "additional1": {
                     "name": "–",
                     "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "title": "Archaeological Investigations at Tockenham, 1994",
+                    "url": "www.biodiversitylibrary.org/page/43968763"
+                },
+                "additional1": {
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "title": "–",
                     "url": "–"
                 }
             },
