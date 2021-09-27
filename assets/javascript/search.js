@@ -128,6 +128,8 @@
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
+    import Fuse from 'fuse.js'
+
     const options = {
       keys: [
         "location",
