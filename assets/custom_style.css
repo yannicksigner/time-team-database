@@ -79,7 +79,7 @@
 
 @media (min-width:768px) {
     .search-result-item-body {
-        margin-left: 20px
+        margin-left: 200px
     }
 }
 
@@ -105,4 +105,14 @@
 
 .py-5 {
   background-color: #eee
+}
+
+.body-ei {
+  margin-right: 15px;
+  height: 16px;
+  vertical-align: text-top;
+  filter: invert(69%) sepia(0%) saturate(6125%) hue-rotate(331deg) brightness(110%) contrast(17%);
+  object-fit: cover;
+  object-position: left;
+  width: 16px;
 }
