@@ -997,5 +997,89 @@
             }
         },
         "datecreated": "27.09.2021"
+    },
+    {
+        "id": 13,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep4.png",
+        "summary": "In their first underwater excavation, the Team examine the remains of a ship wrecked 400 years ago off the Devon coast. Does enough of it remain to identify it? Was it part of the Spanish Armada?",
+        "location": "Teignmouth, Devon",
+        "country": "England",
+        "ngr": "SX 94572 73105",
+        "coord": "50.548171,-3.48941",
+        "recorded": "30 June–2 July 1995",
+        "broadcast": {
+            "date": "28 January 1996",
+            "seriesepisode": 13,
+            "series": 3,
+            "episode": 4,
+            "title": "A Wreck of the Spanish Armada",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1411203,
+                    "name": "CHURCH ROCKS, TEIGNMOUTH (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1834882&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Devon & Dartmoor HER",
+                    "id": "MDV9871",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV9871&resourceID=104"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957403/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-004"
+            }
+        },
+        "datecreated": "27.09.2021",
+        "comment": "paper report?"
     }
 ]
