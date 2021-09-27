@@ -129,12 +129,13 @@
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
     const options = {
-      distance: 0,
+      ignoreLocation: true,
+      includeScore: true,
+      threshold: 0.3,
       keys: [
         "location",
         "broadcast.title",
-        "country",
-        "summary"
+        "country"
       ]
     };
 
