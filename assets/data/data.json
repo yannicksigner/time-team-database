@@ -914,5 +914,88 @@
             }
         },
         "datecreated": "27.09.2021"
+    },
+    {
+        "id": 12,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep3.png",
+        "summary": "In Somerset, the Team search for evidence of the Knights Templar, the fighting monks who protected pilgrims on their way to the Holy Land in the 12th and 13th centuries",
+        "location": "Templecombe, Somerset",
+        "country": "England",
+        "ngr": "ST 70958 22112",
+        "coord": "50.997661,-2.415219",
+        "recorded": "26–28 May 1995",
+        "broadcast": {
+            "date": "21 January 1996",
+            "seriesepisode": 12,
+            "series": 3,
+            "episode": 3,
+            "title": "Village of the Templars",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1075200,
+                    "name": "MANOR FARM (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1864437&resourceID=304"
+                },
+                "additional1": {
+                    "id": 1075202,
+                    "name": "MANOR FARM (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1864440&resourceID=304"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": 16901,
+                    "url": "www.somersetheritage.org.uk/record/16901"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": 16902,
+                    "url": "www.somersetheritage.org.uk/record/16902"
+                },
+                "additional2": {
+                    "name": "Somerset HER",
+                    "id": 16903,
+                    "url": "www.somersetheritage.org.uk/record/16903"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Harding et al. (2004) Archaeological investigations at Templecombe, 1995",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Ainsworth and Thomason (1995) Manor House and Manor Farm, Templecombe, Somerset",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957404/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-003"
+            }
+        },
+        "datecreated": "27.09.2021"
     }
 ]
