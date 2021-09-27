@@ -128,7 +128,7 @@
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
-    import Fuse from 'fuse.js'
+    import Fuse from '/sturdy-robots/assets/javascript/fuse.js'
 
     const options = {
       keys: [
