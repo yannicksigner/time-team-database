@@ -56,7 +56,7 @@
                 "comment": "–",
                 "main": {
                     "accessable": false,
-                    "title": "Gaffney, C and Gater, J (1993) Athelney: GSB Prospection report No 93/55",
+                    "title": "Gaffney and Gater (1993) Athelney: GSB Prospection report No 93/55",
                     "url": "–"
                 },
                 "additional1": {
@@ -72,7 +72,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8,
+                "rating": "8.0",
                 "url": "www.imdb.com/title/tt0952368/?ref_=ttep_ep1"
             },
             "channel4": {
@@ -139,7 +139,7 @@
                 "comment": "–",
                 "main": {
                     "accessable": true,
-                    "title": "Stephens, C (1993) Geophysical Report: Ribchester",
+                    "title": "Stephens (1993) Geophysical Report: Ribchester",
                     "url": "doi.org/10.5284/1000870"
                 },
                 "additional1": {
@@ -155,7 +155,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8,
+                "rating": "8.0",
                 "url": "www.imdb.com/title/tt0952382/"
             },
             "channel4": {
@@ -238,7 +238,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.3,
+                "rating": "8.3",
                 "url": "www.imdb.com/title/tt0952380"
             },
             "channel4": {
@@ -321,7 +321,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.2,
+                "rating": "8.2",
                 "url": "www.imdb.com/title/tt0952379/?ref_=tt_mv_close"
             },
             "channel4": {
@@ -404,7 +404,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.3,
+                "rating": "8.3",
                 "url": "www.imdb.com/title/tt0952374/?ref_=tt_ep_nx"
             },
             "channel4": {
@@ -487,7 +487,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 7.8,
+                "rating": "7.8",
                 "url": "www.imdb.com/title/tt0952396/?ref_=tt_ep_nx"
             },
             "channel4": {
@@ -556,7 +556,7 @@
                 "comment": "–",
                 "main": {
                     "accessable": true,
-                    "title": "Harding, P and Lewis, C (1997) An archaeological investigation at Tockenham, 1994",
+                    "title": "Harding and Lewis (1997) An archaeological investigation at Tockenham, 1994",
                     "url": "www.biodiversitylibrary.org/page/43968763"
                 },
                 "additional1": {
@@ -572,7 +572,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.6,
+                "rating": "8.6",
                 "url": "www.imdb.com/title/tt0952395/?ref_=tt_ep_pr"
             },
             "channel4": {
@@ -639,7 +639,7 @@
                 "comment": "–",
                 "main": {
                     "accessable": false,
-                    "title": "Solane, B (1995) Lambeth Palace Gardens Evaluation, Site Code: LEG94",
+                    "title": "Solane (1995) Lambeth Palace Gardens Evaluation, Site Code: LEG94",
                     "url": "–"
                 },
                 "additional1": {
@@ -655,7 +655,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.2,
+                "rating": "8.2",
                 "url": "www.imdb.com/title/tt0952378/?ref_=tt_ep_nx"
             },
             "channel4": {
@@ -723,28 +723,194 @@
                 "comment": "–",
                 "main": {
                     "accessable": true,
-                    "title": "Morley, B and Speak, S (2002) Excavation and Survey at Hylton Castle, Sunderland",
+                    "title": "Morley and Speak (2002) Excavation and Survey at Hylton Castle, Sunderland",
                     "url": "doi.org/10.1080/00665983.2002.11020523"
                 },
                 "additional1": {
                     "accessable": false,
-                    "title": "Speak, S (1994) Hylton Castle, Sunderland. Evaluation, Earthwork & Geophysical Survey: Interim Report",
+                    "title": "Speak (1994) Hylton Castle, Sunderland. Evaluation, Earthwork & Geophysical Survey: Interim Report",
                     "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1044492&recordType=GreyLit"
                 },
                 "additional2": {
                     "accessable": false,
-                    "title": "Gater, J (1994) Geophysical survey report: Hylton Castle, Sunderland – Report No 94/60",
+                    "title": "Gater (1994) Geophysical survey report: Hylton Castle, Sunderland – Report No 94/60",
                     "url": "–"
                 }
             },
             "imdb": {
                 "availability": true,
-                "rating": 8.2,
+                "rating": "8.2",
                 "url": "www.imdb.com/title/tt0952376/?ref_=tt_ep_pr"
             },
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+            }
+        },
+        "datecreated": "27.09.2021"
+    },
+    {
+        "id": 10,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep1.png",
+        "summary": "The Team investigate a 2000-year-old underground chamber - a fogou - in Cornwall. What was it used for, is there another underground passage nearby and was there an Iron Age Settlement on the site?",
+        "location": "Boleigh, Cornwall",
+        "country": "England",
+        "ngr": "SW 43717 25172",
+        "coord": "50.071303,-5.582972",
+        "recorded": "17–19 March 1995",
+        "broadcast": {
+            "date": "7 January 1996",
+            "seriesepisode": 10,
+            "series": 3,
+            "episode": 1,
+            "title": "Prehistoric Fogou",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1113492,
+                    "name": "BOLEIGH FOGOU (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889270&resourceID=304"
+                },
+                "additional1": {
+                    "id": 1113493,
+                    "name": "TREVENEAGUE FOGOU (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889272&resourceID=304"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": 28916.1,
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO6853&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Ovenden-Wilson (1995) Geophysical Survey: Cornish Fogous at Boleigh and Treveneague",
+                    "url": "doi.org/10.5284/1008120"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957381/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-001"
+            }
+        },
+        "datecreated": "27.09.2021"
+    },
+    {
+        "id": 11,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s3ep2.png",
+        "summary": "The river valleys of Oxfordshire were home to mammoths 250,000 years ago. The Team help local archaeologists get woolly pachyderm evidence out of a gravel pit before it's turned into a waste tip.",
+        "location": "Stanton Harcourt, Oxfordshire",
+        "country": "England",
+        "ngr": "SP 41367 04979",
+        "coord": "51.741998,-1.402281",
+        "recorded": "21–23 April 1995",
+        "broadcast": {
+            "date": "14 January 1996",
+            "seriesepisode": 11,
+            "series": 3,
+            "episode": 2,
+            "title": "Hunting for Mammoth",
+            "year": 1996
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1113496,
+                    "name": "DIX PIT, STANTON HARCOURT (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889265&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (1995) Geophysical Survey: Stanton Harcourt, Oxfordshire",
+                    "url": "doi.org/10.5284/1000871"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957402/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/21225-002"
             }
         },
         "datecreated": "27.09.2021"
