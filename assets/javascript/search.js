@@ -128,18 +128,15 @@
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
-    import * as Fuse from '/sturdy-robots/assets/javascript/fuse.js'
+
+    var _fuse = _interopRequireDefault(require("/sturdy-robots/assets/javascript/fuse.js"));
+
+    function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
     const options = {
-      keys: [
-        "location",
-        "broadcast.title",
-        "country",
-        "summary"
-      ]
+      keys: ["location", "broadcast.title", "country", "summary"]
     };
-
-    const fuse = new Fuse(documents, options);
+    const fuse = new _fuse.default(documents, options);
 
     fuse.search(searchTerm)
 
