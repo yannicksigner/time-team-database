@@ -1247,5 +1247,88 @@
             }
         },
         "datecreated": "27.09.2021"
+    },
+    {
+        "id": 16,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep1.png",
+        "summary": "The Team cross the Atlantic, following in the footsteps of English settlers, to St Mary's City, Maryland, where they join American experts to unearth important finds and challenge existing theories",
+        "location": "St Mary's City, Maryland",
+        "country": "United States of America",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "17–19 May 1996",
+        "broadcast": {
+            "date": "5 January 1997",
+            "seriesepisode": 16,
+            "series": "Series 4",
+            "episode": "Episode 1",
+            "title": "St. Mary's City, Maryland",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0957401/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-001"
+            }
+        },
+        "datecreated": "27.09.2021"
     }
 ]
