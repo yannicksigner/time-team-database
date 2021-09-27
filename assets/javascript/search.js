@@ -10,7 +10,7 @@
       var appendString = '';
 
       for (var i = 0; i < results.length; i++) { // Iterate over the results
-        var item = documents.find(({id}) => id === parseInt(results[i].ref))
+        var item = results[i];
         appendString += '<section class="search-result-item">'
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
         appendString += '<div class="search-result-item-body">'
