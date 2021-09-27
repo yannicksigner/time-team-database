@@ -29,7 +29,10 @@
         }
 
         if (item.links.her.availability) {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.name + ' (Id: ' + item.links.her.id + ') <a href="http://' + item.links.her.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.main.name + ' (Id: ' + item.links.her.main.id + ') <a href="http://' + item.links.her.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          if (item.links.her.multiple) {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional1.name + ' (Id: ' + item.links.her.additional1.id + ') <a href="http://' + item.links.her.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          }
         } else {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No HER entry identified</p>'
         }
