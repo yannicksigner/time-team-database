@@ -15,7 +15,7 @@
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
         appendString += '<div class="search-result-item-body">'
         appendString += '<div class="row"><div class="col-sm-8">'
-        appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + '</h4>'
+        appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + '<span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">' + results[i].score + '</span></h4>'
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
