@@ -129,6 +129,7 @@
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
     const options = {
+      distance: 0,
       keys: [
         "location",
         "broadcast.title",
