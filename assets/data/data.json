@@ -595,7 +595,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Greater London HER",
                     "id": "ELO1743",
