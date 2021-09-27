@@ -129,7 +129,7 @@
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
 
-    var _fuse = _interopRequireDefault(require("/sturdy-robots/assets/javascript/fuse.js"));
+    var _fuse = _interopRequireDefault(requirejs("/sturdy-robots/assets/javascript/fuse.js"));
 
     function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
