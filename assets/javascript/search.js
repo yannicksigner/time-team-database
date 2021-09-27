@@ -46,8 +46,8 @@
             }
           }
         } else {
-          if (item.report.comment != "–") {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock2" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.report.comment + '</p></div>'
+          if (item.links.report.comment != "–") {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock2" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p></div>'
           } else {
             appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p></div>'
           }
