@@ -41,16 +41,29 @@
         }
 
         if (item.links.report.availability) {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+          if (item.links.report.main.accessable) {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+          } else {
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+          }
           if (item.links.report.multiple) {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+            if (item.links.report.additional1.accessable) {
+              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+            } else {
+              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+            }
+
             if (item.links.report.additional2.title != "–") {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+              if (item.links.report.additional2.accessable) {
+                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+              } else {
+                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p></div>'
+              }
             }
           }
         } else {
           if (item.links.report.comment != "–") {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock2" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p></div>'
+            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p></div>'
           } else {
             appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p></div>'
           }

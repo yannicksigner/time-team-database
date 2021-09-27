@@ -51,18 +51,21 @@
                 }
             },
             "report": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
-                "comment": "Unpublished reports exist in the HER file; not available online",
+                "comment": "–",
                 "main": {
-                    "title": "Field Survey at Athelney, Somerset in 1993 (forthcoming)",
+                    "accessable": false,
+                    "title": "Field Survey at Athelney, Somerset in 1993",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -135,14 +138,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": true,
                     "title": "Geophysical Report: Ribchester",
                     "url": "doi.org/10.5284/1000870"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -215,14 +221,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -295,14 +304,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -375,14 +387,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -455,14 +470,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -537,14 +555,17 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
+                    "accessable": true,
                     "title": "Archaeological Investigations at Tockenham, 1994",
                     "url": "www.biodiversitylibrary.org/page/43968763"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -615,16 +636,19 @@
             "report": {
                 "availability": false,
                 "multiple": false,
-                "comment": "Unpublished reports exist in the HER file; not available online",
+                "comment": "–",
                 "main": {
+                    "accessable": false,
                     "title": "Lambeth Palace Gardens Evaluation, Site Code: LEG94",
                     "url": "–"
                 },
                 "additional1": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 },
                 "additional2": {
+                    "accessable": false,
                     "title": "–",
                     "url": "–"
                 }
@@ -641,5 +665,88 @@
         },
         "datecreated": "27.09.2021",
         "comment": "paper report?"
+    },
+    {
+        "id": 9,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s2ep5.png",
+        "summary": "This episode takes an in-depth look at archaeology as it happens in a derelict medieval castle stranded in the middle of a Sunderland housing estate",
+        "location": "Hylton Castle, Sunderland",
+        "country": "England",
+        "ngr": "NZ 35786 58790",
+        "coord": "54.92253,-1.44318",
+        "recorded": "10–12 June 1994",
+        "broadcast": {
+            "date": "5 February 1995",
+            "seriesepisode": 9,
+            "series": 2,
+            "episode": 5,
+            "title": "Medieval Dining Hall",
+            "year": 1995
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109653,
+                    "name": "HYLTON CASTLE (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887509&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Tyne and Wear HER",
+                    "id": 12,
+                    "url": "www.twsitelines.info/SMR/12"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Excavation and Survey at Hylton Castle, Sunderland",
+                    "url": "doi.org/10.1080/00665983.2002.11020523"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Speak, S. (1994). Hylton Castle, Sunderland. Evaluation, Earthwork & Geophysical Survey. Interim Report. Tyne and Wear Museums Service Archaeology Department",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1044492&recordType=GreyLit"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "Gater, J. (1994) Geophysical survey report: Hylton Castle, Sunderland – Report No 94/60. Bradford: Geophysical Surveys of Bradford (GSB Prospection).",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": 8.2,
+                "url": "www.imdb.com/title/tt0952376/?ref_=tt_ep_pr"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+            }
+        },
+        "datecreated": "27.09.2021"
     }
 ]
