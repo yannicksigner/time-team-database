@@ -132,8 +132,9 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function() {
       this.ref('id')
-      this.field('title')
+      this.field('country')
       this.field('location')
+      this.field('broadcast.title')
 
       documents.forEach(function(doc) {
         this.add(doc)
