@@ -6,6 +6,7 @@
         "location": "Athelney, Somerset",
         "country": "England",
         "ngr": "ST 34452 29270",
+        "coord": "51.059011, -2.9366813",
         "recorded": "16–18 April 1993",
         "report": {
             "availability": false,
@@ -87,6 +88,7 @@
         "location": "Ribchester, Lancashire",
         "country": "England",
         "ngr": "SD 65049 35116",
+        "coord": "53.811148, -2.5322685",
         "recorded": "3–5 September 1993",
         "report": {
             "availability": true,
@@ -168,6 +170,7 @@
         "location": "Much Wenlock, Shropshire",
         "country": "England",
         "ngr": "SO 62351 99936",
+        "coord": "52.595905, -2.5572447",
         "recorded": "9–11 April 1993",
         "report": {
             "availability": false,
@@ -249,6 +252,7 @@
         "location": "Llangorse Lake, Powys",
         "country": "Wales",
         "ngr": "SO 12884 26890",
+        "coord": "51.933676, -3.2685013",
         "recorded": "16–18 September 1993",
         "report": {
             "availability": false,
@@ -330,6 +334,7 @@
         "location": "Finlaggan, Islay",
         "country": "Scotland",
         "ngr": "NR 38918 68055",
+        "coord": "55.834867, -6.1712177",
         "recorded": "24–26 June 1994",
         "report": {
             "availability": false,
@@ -411,6 +416,7 @@
         "location": "Winterbourne Gunner, Wiltshire",
         "country": "England",
         "ngr": "SU 18252 35209",
+        "coord": "51.115884, -1.740623",
         "recorded": "6–8 May 1994",
         "report": {
             "availability": false,
@@ -494,6 +500,7 @@
         "location": "Tockenham, Wiltshire",
         "country": "England",
         "ngr": "SU 03945 79281",
+        "coord": "51.512442, -1.9445447",
         "recorded": "23–25 April 1994",
         "report": {
             "availability": true,
