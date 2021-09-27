@@ -1330,5 +1330,88 @@
             }
         },
         "datecreated": "27.09.2021"
+    },
+    {
+        "id": 17,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep2.png",
+        "summary": "Was a female skeleton found in Cornwall a leper from a 13th-century colony, a casualty of the Civil War or a plague victim? Or was she put to death after being tried at the Launceston Assizes?",
+        "location": "Launceston, Cornwall",
+        "country": "England",
+        "ngr": "SX 35042 84838",
+        "coord": "50.639822,-4.334246",
+        "recorded": "22–24 March 1996",
+        "broadcast": {
+            "date": "12 January 1997",
+            "seriesepisode": 17,
+            "series": "Series 4",
+            "episode": "Episode 2",
+            "title": "Launceston, Cornwall",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1096222,
+                    "name": "ST LEONARDS (TIME TEAM)",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1883275&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": 37129,
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO28605&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Harding et al. (1997) The evaluation of a medieval leper hospital at St Leonards, Cornwall ",
+                    "url": "cornisharchaeology.org.uk/journals/No.36_1997.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (1996) Geophysical Survey at St Leonards, Launceston",
+                    "url": "doi.org/10.5284/1008121"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0957391/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-002"
+            }
+        },
+        "datecreated": "27.09.2021"
     }
 ]
