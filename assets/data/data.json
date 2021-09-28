@@ -36,7 +36,7 @@
                 "multiple": false,
                 "main": {
                     "name": "Somerset HER",
-                    "id": 11620,
+                    "id": "11620",
                     "url": "www.somersetheritage.org.uk/record/11620"
                 },
                 "additional1": {
@@ -703,7 +703,7 @@
                 "multiple": false,
                 "main": {
                     "name": "Tyne and Wear HER",
-                    "id": 12,
+                    "id": "12",
                     "url": "www.twsitelines.info/SMR/12"
                 },
                 "additional1": {
@@ -786,7 +786,7 @@
                 "multiple": false,
                 "main": {
                     "name": "Cornwall & Scilly HER",
-                    "id": 28916.1,
+                    "id": "28916.1",
                     "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO6853&resourceID=1020"
                 },
                 "additional1": {
@@ -952,7 +952,7 @@
                 "multiple": true,
                 "main": {
                     "name": "Somerset HER",
-                    "id": 16901,
+                    "id": "16901",
                     "url": "www.somersetheritage.org.uk/record/16901"
                 },
                 "additional1": {
@@ -1368,7 +1368,7 @@
                 "multiple": false,
                 "main": {
                     "name": "Cornwall & Scilly HER",
-                    "id": 37129,
+                    "id": "37129",
                     "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO28605&resourceID=1020"
                 },
                 "additional1": {
@@ -1742,6 +1742,670 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-006"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 22,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep1.png",
+        "summary": "Tony Robinson and the Team search for the remains of the inner sanctum of the royal private apartments at Trumpeters House in Richmond, Surrey, where Elizabeth I died",
+        "location": "Richmond, Surrey",
+        "country": "England",
+        "ngr": "TQ 17497 74843",
+        "coord": "51.460373,-0.310116",
+        "recorded": "25–27 July 1997",
+        "broadcast": {
+            "date": "4 January 1998",
+            "seriesepisode": 22,
+            "series": "Series 5",
+            "episode": "Episode 1",
+            "title": "Richmond",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109463,
+                    "name": "RICHMOND PALACE (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887781&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO14213",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "ELO147",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Harvey (1997) Geophysical Survey at Richmond Palace",
+                    "url": "doi.org/10.5284/1008122"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0957398/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-001"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 23,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep2.png",
+        "summary": "In Iron Age Somerset, areas of high ground were connected by wooden walkways across the marshland. Can vague 1920s reports guide the Team to peat-preserved wooden remains?",
+        "location": "Greylake, Somerset",
+        "country": "England",
+        "ngr": "ST 39216 33652",
+        "coord": "51.098932,-2.869454",
+        "recorded": "17–19 March 1997",
+        "broadcast": {
+            "date": "11 January 1998",
+            "seriesepisode": 23,
+            "series": "Series 5",
+            "episode": "Episode 2",
+            "title": "Greylake",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "57102",
+                    "url": "www.somersetheritage.org.uk/record/57102#"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (1997) Geophysical Survey at Greylake, Somerset",
+                    "url": "doi.org/10.5284/1000796"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0957386/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-002"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 24,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep3.png",
+        "summary": "The Team visit Scotland, where schoolchildren on the Orkney island of Sanday asked them to investigate local mounds that are reputedly of Viking origin",
+        "location": "Sanday, Orkney",
+        "country": "Scotland",
+        "ngr": "HY 65475 42113",
+        "coord": "59.264121,-2.60732",
+        "recorded": "7–9 June 1997",
+        "broadcast": {
+            "date": "18 January 1998",
+            "seriesepisode": 24,
+            "series": "Series 5",
+            "episode": "Episode 3",
+            "title": "Orkney",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957399/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-003"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 25,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep4.png",
+        "summary": "A look back at the Team's visit to a field near the Cotswolds village of Turkdean. Finds included a roof tile bearing a Roman dog's paw-print, a rare 'friendship' brooch and a plunge bath.",
+        "location": "Turkdean, Gloucestershire",
+        "country": "England",
+        "ngr": "SP 09837 19017",
+        "coord": "51.86964,-1.85854",
+        "recorded": "23–25 August 1997",
+        "broadcast": {
+            "date": "25 January 1998",
+            "seriesepisode": 25,
+            "series": "Series 5",
+            "episode": "Episode 4",
+            "title": "Turkdean",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109466,
+                    "name": "CHALKHILL BARN (TIME TEAM)/TURKDEAN ROMAN VILLA",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887774&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "19798",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.8",
+                "url": "www.imdb.com/title/tt0957406/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-004"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 26,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep5.png",
+        "summary": "The Team visit Mallorca in pursuit of the Beaker people, an enigmatic culture that may have introduced metalwork to Britain",
+        "location": "Deya, Majorca",
+        "country": "Spain",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "9–11 May 1997",
+        "broadcast": {
+            "date": "1 February 1998",
+            "seriesepisode": 26,
+            "series": "Series 5",
+            "episode": "Episode 5",
+            "title": "Mallorca",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0957384/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-005"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 27,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep6.png",
+        "summary": "The Team travel to Aston Eyre in Shropshire, where a farmhouse converted from a medieval gatehouse is the starting point for three days of hard work",
+        "location": "Aston Eyre, Shropshire",
+        "country": "England",
+        "ngr": "SO 65296 94139",
+        "coord": "52.543986,-2.513156",
+        "recorded": "27–29 June 1997",
+        "broadcast": {
+            "date": "8 February 1998",
+            "seriesepisode": 27,
+            "series": "Series 5",
+            "episode": "Episode 6",
+            "title": "Aston Eyre",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109460,
+                    "name": "OLD HALL FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Shropshire HER",
+                    "id": "00601",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA419&resourceID=1015"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (1997) Geophysical Survey at Aston Eyre Hall Farm",
+                    "url": "doi.org/10.5284/1010574"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0957377/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-006"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 28,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep7.png",
+        "summary": "The Team visit Downpatrick, one of Ireland's most sacred sites, to look for evidence of the early Christian monastery and the later Benedictine buildings that were sited on Cathedral Hill",
+        "location": "Downpatrick, County Down",
+        "country": "Northern Ireland",
+        "ngr": "SB 58107 98795",
+        "coord": "54.327224,-5.721692",
+        "recorded": "19–21 February 1997",
+        "broadcast": {
+            "date": "22 February 1998",
+            "seriesepisode": 28,
+            "series": "Series 5",
+            "episode": "Episode 7",
+            "title": "Downpatrick",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957385/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-007"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 29,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s5ep8.png",
+        "summary": "Just yards from the Teesside village of Worsall is the site of a medieval village, and Time Team have just three days to find out why it was suddenly abandoned completely",
+        "location": "High Worsall, North Yorkshire",
+        "country": "England",
+        "ngr": "NZ 38589 09420",
+        "coord": "54.478678,-1.405971",
+        "recorded": "10–12 October 1997",
+        "broadcast": {
+            "date": "1 March 1998",
+            "seriesepisode": 29,
+            "series": "Series 5",
+            "episode": "Episode 8",
+            "title": "Worsall",
+            "year": 1998
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109470,
+                    "name": "HIGH WORSALL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "North Yorkshire HER",
+                    "id": "MNY12776",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY12776&resourceID=1009"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Daniels (2009) The deserted medieval village of High Worsall, North Yorkshire",
+                    "url": "archaeologydataservice.ac.uk/library/browse/details.xhtml?recordId=3078192&recordType=Journal"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0957388/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/24053-008"
             }
         },
         "datecreated": "28.09.2021"
