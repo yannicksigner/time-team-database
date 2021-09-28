@@ -417,7 +417,7 @@
     {
         "id": 6,
         "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s2ep2.png",
-        "summary": "This episode takes an in-depth look at archaeology as it happens in a derelict medieval castle stranded in the middle of a Sunderland housing estate",
+        "summary": "A building site in the village of Winterboume Gunner, near Salisbury, stands abandoned. Previous developments on the surrounding land unearthed evidence of a Saxon burial ground.",
         "location": "Winterbourne Gunner, Wiltshire",
         "country": "England",
         "ngr": "SU 18252 35209",
@@ -1413,5 +1413,171 @@
             }
         },
         "datecreated": "27.09.2021"
+    },
+    {
+        "id": 18,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep3.png",
+        "summary": "Matthew Boulton's 18th-century mint was the world's biggest coin-presser. Tony and the Team are invited to a Handsworth street party when they dig up Birmingham's back gardens to find it.",
+        "location": "Soho, Birmingham",
+        "country": "England",
+        "ngr": "SP 05262 88973",
+        "coord": "52.498633,-1.923911",
+        "recorded": "5–7 April 1996",
+        "broadcast": {
+            "date": "19 January 1997",
+            "seriesepisode": 18,
+            "series": "Series 4",
+            "episode": "Episode 3",
+            "title": "Steam-Powered Mint",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1113771,
+                    "name": "144 SOUTH ROAD, SOHO, HANDSWORTH",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "id": 1113751,
+                    "name": "241 SOUTH ROAD, SOHO, HANDSWORTH",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Birmingham HER",
+                    "id": "MBM1697",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Jones (1994) An Archaeological Evaluation at South Road, Soho, Handsworth, Birmingham (BUFAU Report No. 326)",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1066631&recordType=GreyLit"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957400/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-003"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 19,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep4.png",
+        "summary": "An assortment of large, intricately carved gravestones have been found in a Glasgow graveyard. Can the Team work out who was buried under these intriguing stone sculptures?",
+        "location": "Govan, Glasgow",
+        "country": "Scotland",
+        "ngr": "NS 55359 65884",
+        "coord": "55.864368,-4.312815",
+        "recorded": "15–16 June 1996",
+        "broadcast": {
+            "date": "26 January 1997",
+            "seriesepisode": 19,
+            "series": "Series 4",
+            "episode": "Episode 4",
+            "title": "8th Century Church",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957387/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-004"
+            }
+        },
+        "datecreated": "28.09.2021"
     }
 ]
