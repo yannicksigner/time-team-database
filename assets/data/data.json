@@ -2741,5 +2741,87 @@
             }
         },
         "datecreated": "28.09.2021"
+    },
+    {
+        "id": 34,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep5.png",
+        "summary": "A ruined Norman castle towers over Plympton in Devon; but what else from this period might be hidden under back gardens? Tony and the Team spend three days finding out.",
+        "location": "Plympton, Devon",
+        "country": "England",
+        "ngr": "SX 54493 55643",
+        "coord": "50.382626,-4.047981",
+        "broadcast": {
+            "date": "31 January 1999",
+            "seriesepisode": 34,
+            "series": "Series 6",
+            "episode": "Episode 6",
+            "title": "Plympton, Devon",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1186501,
+                    "name": "PLYMPTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917584"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Harvey (1998) Geophyiscal Survey: Plympton Castle, Devon",
+                    "url": "doi.org/10.5284/1003746"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Harvey (1998) Geophysical Survey: Plympton Castle, Devon [St. Maurice]",
+                    "url": "doi.org/10.5284/1003747"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0957397/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-005"
+            }
+        },
+        "datecreated": "28.09.2021"
     }
 ]
