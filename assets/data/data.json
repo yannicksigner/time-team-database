@@ -2409,5 +2409,171 @@
             }
         },
         "datecreated": "28.09.2021"
+    },
+    {
+        "id": 30,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep1.png",
+        "summary": "Time Team investigate the site of Josiah Wedgwood's first ever factory",
+        "location": "Burslem, Stoke-on-Trent",
+        "country": "England",
+        "ngr": "SJ 86891 49857",
+        "coord": "53.045818,-2.196994",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 January 1999",
+            "seriesepisode": 30,
+            "series": "Series 6",
+            "episode": "Episode 1",
+            "title": "Wedgwood's First Factory",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1186511,
+                    "name": "MARKET PLACE, BURSLEM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Parkes and Boothroyd (2000) Archaeological Excavation: Market Place, Burslem, Stoke-on-Trent (The Ceramica Development)",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1034833&recordType=GreyLit"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (1998) Geophysical Survey: Burslem, Stoke-on-Trent",
+                    "url": "doi.org/10.5284/1000872"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0952372/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-001"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 31,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep2.png",
+        "summary": "Papcastle, a small village outside Cockermouth in Cumbria, boasts a Roman fort, even though not much of it has been excavated",
+        "location": "Papcastle, Cumbria",
+        "country": "England",
+        "ngr": "NY 11070 31279",
+        "coord": "54.668705,-3.380394",
+        "recorded": "–",
+        "broadcast": {
+            "date": "10 January 1999",
+            "seriesepisode": 31,
+            "series": "Series 6",
+            "episode": "Episode 2",
+            "title": "Papcastle, Cumbria",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1121922,
+                    "name": "PAPCASTLE VICUS (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1822083&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney (1998) Geophysical Survey: Papcastle, Cumbria",
+                    "url": "doi.org/10.5284/1003138"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0957396/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-002"
+            }
+        },
+        "datecreated": "28.09.2021"
     }
 ]
