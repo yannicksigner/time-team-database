@@ -2750,11 +2750,12 @@
         "country": "England",
         "ngr": "SX 54493 55643",
         "coord": "50.382626,-4.047981",
+        "recorded": "–",
         "broadcast": {
             "date": "31 January 1999",
             "seriesepisode": 34,
             "series": "Series 6",
-            "episode": "Episode 6",
+            "episode": "Episode 5",
             "title": "Plympton, Devon",
             "year": 1999
         },
@@ -2820,6 +2821,89 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-005"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 35,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep6.png",
+        "summary": "Tony and the Team travel to the heart of Kent to uncover Henry V's lost dockyard. Amazingly it's believed to be at Smallhythe, now a sleepy village, miles from the sea.",
+        "location": "Smallhythe, Kent",
+        "country": "England",
+        "ngr": "TQ 89418 29993",
+        "coord": "51.038072,0.700398",
+        "recorded": "–",
+        "broadcast": {
+            "date": "7 February 1999",
+            "seriesepisode": 35,
+            "series": "Series 6",
+            "episode": "Episode 6",
+            "title": "Smallhythe, Kent",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1155356,
+                    "name": "SMALLHYTHE, NEAR TENTERDEN (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1831112&resourceID=304"
+                },
+                "additional1": {
+                    "id": 1195959,
+                    "name": "SMALLHYTHE, NEAR TENTERDEN (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1921245&resourceID=304"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TQ 83 SE 52",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE14001"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (1998) Geophysical Survey: Smallhythe, Kent",
+                    "url": "doi.org/10.5284/1002604"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Bellamy and Milne (2003) An Archaeological Evaluation of the Medieval Shipyard Facilities at Small Hythe",
+                    "url": "kentarchaeology.org.uk/arch-cant/vol/123/archaeological-evaluation-medieval-shipyard-facilities-small-hythe"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0952384/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-006"
             }
         },
         "datecreated": "28.09.2021"
