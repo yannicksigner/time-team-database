@@ -1579,5 +1579,171 @@
             }
         },
         "datecreated": "28.09.2021"
+    },
+    {
+        "id": 20,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep5.png",
+        "summary": "A mass of nettles in Yorkshire conceals 2000 years of history, including a Roman fort, and possibly a castle and a manor house. Can the Team uncover the area's secrets before it's turned into a park?",
+        "location": "Malton, North Yorkshire",
+        "country": "England",
+        "ngr": "SE 78996 71636",
+        "coord": "54.134507,-0.792469",
+        "recorded": "5–7 July 1996",
+        "broadcast": {
+            "date": "2 February 1997",
+            "seriesepisode": 20,
+            "series": "Series 4",
+            "episode": "Episode 5",
+            "title": "Norman and Medieval Castles",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1082676,
+                    "name": "MALTON CASTLE (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1885807&resourceID=304"
+                },
+                "additional1": {
+                    "id": 1338666,
+                    "name": "MALTON CASTLE (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1835553&resourceID=304"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "North Yorkshire HER",
+                    "id": "MNY2526",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY2526&resourceID=1009"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (1996) Report on Geophysical Survey, Malton, North Yorkshire",
+                    "url": "doi.org/10.5284/1016287"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0957393/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-005"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 21,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s4ep6.png",
+        "summary": "In 1907, a colonel discovered part of a mosaic in Wiltshire, which he believed was from a Roman villa. Now the site's occupied by an army barracks. The Team check out the colonel's theory.",
+        "location": "Netheravon, Wiltshire",
+        "country": "England",
+        "ngr": "SU 14771 48157",
+        "coord": "51.232406,-1.789822",
+        "recorded": "2–4 August 1996",
+        "broadcast": {
+            "date": "9 February 1997",
+            "seriesepisode": 21,
+            "series": "Series 4",
+            "episode": "Episode 6",
+            "title": "Roman Villa",
+            "year": 1997
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1076760,
+                    "name": "NETHERAVON VILLA (TIME TEAM)",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1862286&resourceID=304"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU14NW301",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI11731"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Heaton et al. (1997) Netheravon Roman Villa, Wiltshire: Archaeological Evaluation (WA Project No. 42255.1)",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1022908&recordType=GreyLit"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957395/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/22314-006"
+            }
+        },
+        "datecreated": "28.09.2021"
     }
 ]
