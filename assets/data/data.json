@@ -1189,12 +1189,12 @@
                 "main": {
                     "id": 1065729,
                     "name": "PRIORY FARM (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1872674"
                 },
                 "additional1": {
                     "id": 1065734,
                     "name": "PRIORY FARM (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1872682"
                 }
             },
             "her": {
@@ -1438,12 +1438,12 @@
                 "main": {
                     "id": 1113771,
                     "name": "144 SOUTH ROAD, SOHO, HANDSWORTH",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889097"
                 },
                 "additional1": {
                     "id": 1113751,
                     "name": "241 SOUTH ROAD, SOHO, HANDSWORTH",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889095"
                 }
             },
             "her": {
@@ -2185,7 +2185,7 @@
                 "main": {
                     "id": 1109460,
                     "name": "OLD HALL FARM (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887785"
                 },
                 "additional1": {
                     "id": "–",
@@ -2351,7 +2351,7 @@
                 "main": {
                     "id": 1109470,
                     "name": "HIGH WORSALL (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887776"
                 },
                 "additional1": {
                     "id": "–",
@@ -2434,12 +2434,12 @@
                 "main": {
                     "id": 1186511,
                     "name": "MARKET PLACE, BURSLEM (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917578"
                 },
                 "additional1": {
-                    "id": "–",
-                    "name": "–",
-                    "url": "–"
+                    "id": 1355538,
+                    "name": "MARKET PLACE, BURSLEM (CERAMICA)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1888694"
                 }
             },
             "her": {
@@ -2572,6 +2572,172 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-002"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 32,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep3.png",
+        "summary": "The site of Thetford Grammar School in Norfolk may now be a place for exams and play, but in the 13th century, a Dominican friary was here and before that, for a mere 24 years, a Norman cathedral",
+        "location": "Thetford, Norfolk",
+        "country": "England",
+        "ngr": "TL 86779 83092",
+        "coord": "52.413928,0.744887",
+        "recorded": "–",
+        "broadcast": {
+            "date": "17 January 1999",
+            "seriesepisode": 32,
+            "series": "Series 6",
+            "episode": "Episode 3",
+            "title": "Thetford, Norfolk",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1186498,
+                    "name": "THETFORD BLACKFRIARS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917582"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "5750",
+                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF5750"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Ovenden (1998) Geophysical Survey: Thetford Grammar School, Norfolk",
+                    "url": "doi.org/10.5284/1010578"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0957405/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-003"
+            }
+        },
+        "datecreated": "28.09.2021"
+    },
+    {
+        "id": 33,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep4.png",
+        "summary": "Tony and the Team are at Cooper's Hole in the Cheddar Gorge looking for evidence of Stone Age man",
+        "location": "Cheddar Gorge, Somerset",
+        "country": "England",
+        "ngr": "ST 46828 54024",
+        "coord": "51.282857,-2.763778",
+        "recorded": "–",
+        "broadcast": {
+            "date": "24 January 1999",
+            "seriesepisode": 33,
+            "series": "Series 6",
+            "episode": "Episode 4",
+            "title": "Cheddar Gorge, Somerset",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1196746,
+                    "name": "TOP OF TOTTY POT",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1922354"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "10395",
+                    "url": "www.somersetheritage.org.uk/record/10395#"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Bellamy and Currant (1998) Cooper's Hole, Cheddar Gorge, Somerset: archaeological investigations by the Time Team, April 1998: Terrain Archaeology report No: 5023.1",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0952373/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-004"
             }
         },
         "datecreated": "28.09.2021"
