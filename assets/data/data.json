@@ -3820,5 +3820,254 @@
             }
         },
         "datecreated": "29.09.2021"
+    },
+    {
+        "id": 47,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep5.png",
+        "summary": "Tony Robinson and the Team travel to the Roman fort of Birdoswald in Cumbria to carry out the first ever excavation of a Roman cemetery near the wall",
+        "location": "Birdoswald, Cumbria",
+        "country": "England",
+        "ngr": "NY 61390 66239",
+        "coord": "54.989232,-2.604935",
+        "recorded": "–",
+        "broadcast": {
+            "date": "30 January 2000",
+            "seriesepisode": 47,
+            "series": "Series 7",
+            "episode": "Episode 5",
+            "title": "Hadrian's Wall",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1303822,
+                    "name": "BIRDOSWALD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1913833"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (1999) Geophysical Survey at Birdoswald",
+                    "url": "doi.org/10.5284/1024501"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0952370/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-005"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 48,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep6.png",
+        "summary": "Time Team are in search of the real-life Flintstones at one of Britain's major early Stone Age sites at a holiday camp at Elveden in Suffolk",
+        "location": "Elveden, Suffolk",
+        "country": "England",
+        "ngr": "TL 80964 80463",
+        "coord": "52.392274,0.658067",
+        "recorded": "–",
+        "broadcast": {
+            "date": "6 February 2000",
+            "seriesepisode": 48,
+            "series": "Series 7",
+            "episode": "Episode 6",
+            "title": "In Search of the Earliest Traces of Mankind",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1303820,
+                    "name": "BARNHAM & ELVEDEN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1913830"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0954841/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-006"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 49,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep7.png",
+        "summary": "After three days excavating a medieval cathedral under Coventry city centre, Time Team discovers a burial chamber and a major historical find: the skeleton of one of Coventry's first Priors",
+        "location": "Coventry, West Midlands",
+        "country": "England",
+        "ngr": "SP 33527 79119",
+        "coord": "52.409056,-1.508557",
+        "recorded": "–",
+        "broadcast": {
+            "date": "13 February 2000",
+            "seriesepisode": 49,
+            "series": "Series 7",
+            "episode": "Episode 7",
+            "title": "The Missing Cathedral and the Diabetic Prior",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1338744,
+                    "name": "ST MARY'S CATHEDRAL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1835502"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Coventry HER",
+                    "id": "MCT16304",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCT16304&resourceID=1029"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (1999) Geophysical Survey at Coventry's Lost Cathedral",
+                    "url": "doi.org/10.5284/1002806"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0954839/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-007"
+            }
+        },
+        "datecreated": "29.09.2021"
     }
 ]
