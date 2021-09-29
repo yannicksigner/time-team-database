@@ -3073,5 +3073,420 @@
             }
         },
         "datecreated": "29.09.2021"
+    },
+    {
+        "id": 38,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep9.png",
+        "summary": "Tony and the Team return to the huge Roman villa at Turkdean in the Cotswolds that they discovered in 1998. This visit turns out to be even more rewarding than the first one.",
+        "location": "Turkdean, Gloucestershire",
+        "country": "England",
+        "ngr": "SP 09856 18985",
+        "coord": "51.869354,-1.858265",
+        "recorded": "–",
+        "broadcast": {
+            "date": "28 February 1999",
+            "seriesepisode": 38,
+            "series": "Series 6",
+            "episode": "Episode 9",
+            "title": "Turkdean, Gloucestershire",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1109466,
+                    "name": "CHALKHILL BARN (TIME TEAM)/TURKDEAN ROMAN VILLA",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887774"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "19798",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Holbrook (2004) Turkdean Roman Villa, Gloucestershire: Archaeological Investigations 1997-1998",
+                    "url": "doi.org/10.2307/4128621"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Cotswold Archaeological Trust (2000) Turkdean Roman Villa, Gloucestershire: Archaeological Investigations 1997-1998 for Time Team",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0957407/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-009"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 39,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep10.png",
+        "summary": "Tony Robinson and the Team unlock the secrets of an entire Iron Age village in the Malvern Hills. And, roping in some local oxen, they learn to plough in the same way as our ancestors.",
+        "location": "Kemerton, Worcestershire",
+        "country": "England",
+        "ngr": "SO 94193 36698",
+        "coord": "52.028665,-2.086049",
+        "recorded": "–",
+        "broadcast": {
+            "date": "7 March 1999",
+            "seriesepisode": 39,
+            "series": "Series 6",
+            "episode": "Episode 10",
+            "title": "Kemerton, Worcestershire",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1181951,
+                    "name": "KEMERTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1915720"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Worcestershire and Worcester City HER",
+                    "id": "WSM06051",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWR634&resourceID=1035"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Bellamy (2001) Kemerton, Worcestershire - Investigations by the Time Team, September/October 1998 (Terrain Archaeology 5032.1)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0957390/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-010"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 40,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep11.png",
+        "summary": "Time Team are joined by guests Sandi Toksvig and Hugh Fearnley Whittingstall. They unearth fine Saxon jewellery, a stash of Norman pottery and a medieval murder victim near Kings Lynn.",
+        "location": "Bawsey, Norfolk",
+        "country": "England",
+        "ngr": "TF 66259 20796",
+        "coord": "52.759183,0.462398",
+        "recorded": "–",
+        "broadcast": {
+            "date": "14 March 1999",
+            "seriesepisode": 40,
+            "series": "Series 6",
+            "episode": "Episode 11",
+            "title": "Bawsey St James, Norfolk",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1159671,
+                    "name": "CHURCH FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1829266"
+                },
+                "additional1": {
+                    "id": 1159672,
+                    "name": "CHURCH FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1829274"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "25962",
+                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF25962-Roman-Middle-Saxon-Late-Saxon-and-medieval-settlement&Index=14&RecordCount=26&SessionID=43264685-2114-4bdb-8970-c5a1c20e4c24"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (1998) Geophysical Survey: Bawsey, Norfolk",
+                    "url": "doi.org/10.5284/1000797"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957379/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-011"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 41,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep12.png",
+        "summary": "In the first part of a two-part special, Tony leads the Team into the jungle on the Caribbean island of Nevis where they recreate the former Pinney grand estate house",
+        "location": "Nevis",
+        "country": "West Indies",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "–",
+        "broadcast": {
+            "date": "21 March 1999",
+            "seriesepisode": 41,
+            "series": "Series 6",
+            "episode": "Episode 12",
+            "title": "Nevis, West Indies - Part 1",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0957910/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-012"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 42,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep13.png",
+        "summary": "The second part of the special from Nevis, where Tony and the Team discover the long-lost colonial capital, Jamestown, proving conclusively that it was not destroyed by a tidal wave",
+        "location": "Nevis",
+        "country": "West Indies",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "–",
+        "broadcast": {
+            "date": "28 March 1999",
+            "seriesepisode": 42,
+            "series": "Series 6",
+            "episode": "Episode 13",
+            "title": "Nevis, West Indies - Part 2",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0957911/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-013"
+            }
+        },
+        "datecreated": "29.09.2021"
     }
 ]
