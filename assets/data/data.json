@@ -3488,5 +3488,254 @@
             }
         },
         "datecreated": "29.09.2021"
+    },
+    {
+        "id": 43,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep1.png",
+        "summary": "Tony Robinson and the experts turn their backs on Benidorm to travel a few miles up the coast to the small port of Denia to show what life was like 1000 years ago, when Denia was an Islamic settlement",
+        "location": "Denia",
+        "country": "Spain",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "–",
+        "broadcast": {
+            "date": "2 January 2000",
+            "seriesepisode": 43,
+            "series": "Series 7",
+            "episode": "Episode 1",
+            "title": "A Muslim Port in Spain",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0954840/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-001"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 44,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep2.png",
+        "summary": "In 300 AD Cirencester was the most important town in Roman Britain after London. The enthusiastic residents of Chester Street find out what it's like to be Time Team.",
+        "location": "Cirencester, Gloucestershire",
+        "country": "England",
+        "ngr": "SP 02751 01495",
+        "coord": "51.712179,-1.961577",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 January 2000",
+            "seriesepisode": 44,
+            "series": "Series 7",
+            "episode": "Episode 2",
+            "title": "The Mosaic at the Bottom of the Garden",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1336276,
+                    "name": "CORINIUM INSULA IX (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1838457"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "28980",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=28980&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Harvey (1999) Geophysical Survey at Cirencester",
+                    "url": "doi.org/10.5284/1000873"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0888994/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-002"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 45,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep3.png",
+        "summary": "Time Team excavate the Spitfire that pilot Paul Klipsch flew across the Channel in for his last day of combat in May 1940. His plane crashed in northern France where his body is buried.",
+        "location": "Wierre-Effroy",
+        "country": "France",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 January 2000",
+            "seriesepisode": 45,
+            "series": "Series 7",
+            "episode": "Episode 3",
+            "title": "One of the First Spitfires Lost in France",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "www.imdb.com/title/tt0963677/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-003"
+            }
+        },
+        "datecreated": "29.09.2021"
     }
 ]
