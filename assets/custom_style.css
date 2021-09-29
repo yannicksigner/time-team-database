@@ -99,6 +99,9 @@
     .search-result-item-heading {
         margin: 0
     }
+}
+
+@media (max-width:768px) {
     .image {
         display: none;
     }
