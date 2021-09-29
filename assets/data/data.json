@@ -4069,5 +4069,88 @@
             }
         },
         "datecreated": "29.09.2021"
+    },
+    {
+        "id": 50,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep8.png",
+        "summary": "The Team rubs shoulders with royalty when they visit Basing House in Hampshire. It was once one of grandest homes in Tudor England and a haunt of Henry VIII and Elizabeth I.",
+        "location": "Basing House, Hampshire",
+        "country": "England",
+        "ngr": "SU 66170 52778",
+        "coord": "51.270322, 1.052882",
+        "recorded": "–",
+        "broadcast": {
+            "date": "20 February 2000",
+            "seriesepisode": 50,
+            "series": "Series 7",
+            "episode": "Episode 8",
+            "title": "The Royalists' Last Stand",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1304620,
+                    "name": "BASING HOUSE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1913048"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Shiel (1999) Geophysical Survey at Basing House, Hampshire",
+                    "url": "doi.org/10.5284/1000799"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0954838/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-008"
+            }
+        },
+        "datecreated": "29.09.2021"
     }
 ]
