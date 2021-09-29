@@ -4077,7 +4077,7 @@
         "location": "Basing House, Hampshire",
         "country": "England",
         "ngr": "SU 66170 52778",
-        "coord": "51.270322, 1.052882",
+        "coord": "51.270322,-1.052882",
         "recorded": "–",
         "broadcast": {
             "date": "20 February 2000",
@@ -4149,6 +4149,89 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-008"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 51,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s7ep9.png",
+        "summary": "The Team travel back to the Bronze Age to Flag Fen in Cambridgeshire. The fenland bog is home to one of the most important archaeological 'wet-sites' in the country.",
+        "location": "Flag Fen, Cambridgeshire",
+        "country": "England",
+        "ngr": "TL 23125 99105",
+        "coord": "52.575829,-0.1845",
+        "recorded": "–",
+        "broadcast": {
+            "date": "27 February 2000",
+            "seriesepisode": 51,
+            "series": "Series 7",
+            "episode": "Episode 9",
+            "title": "A Bronze-Age Barrow and Walkway",
+            "year": 2000
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1306733,
+                    "name": "FLAG FEN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1912563"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Peterborough HER",
+                    "id": "50950",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB5159&resourceID=1045"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Weston (1999) Geophysical survey at Flag Fen, Peterborough (Report No 99/70)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Pryor et al. (2001) Archaeological Investigations in Advance of Works Associated with the Green Wheel Cycleway at Flag Fen and Northey, Peterborough (1998-2001) (SAS01/30)",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1019447&recordType=GreyLit"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.8",
+                "url": "www.imdb.com/title/tt0723696/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/27818-009"
             }
         },
         "datecreated": "29.09.2021"
