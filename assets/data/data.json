@@ -2907,5 +2907,171 @@
             }
         },
         "datecreated": "28.09.2021"
+    },
+    {
+        "id": 36,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep7.png",
+        "summary": "Tony and the Team take to the fairways to discover why there's a well-preserved Roman bathhouse sitting on a Sussex golf course",
+        "location": "Beauport Park, Sussex",
+        "country": "England",
+        "ngr": "TQ 78678 14516",
+        "coord": "50.90247,0.539778",
+        "recorded": "–",
+        "broadcast": {
+            "date": "14 February 1999",
+            "seriesepisode": 36,
+            "series": "Series 6",
+            "episode": "Episode 7",
+            "title": "Beauport Park, Sussex",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1186519,
+                    "name": "BEAUPORT PARK, BATTLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917592"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "East Sussex HER",
+                    "id": "MES3339",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MES3339&resourceID=1026"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (1998) Geophysical Survey: Beauport Park",
+                    "url": "doi.org/10.5284/1001329"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0952369/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-007"
+            }
+        },
+        "datecreated": "29.09.2021"
+    },
+    {
+        "id": 37,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s6ep8.png",
+        "summary": "The Team are in Norfolk to excavate one of the two US B17 bombers that collided and crashed into Reedham marshes in 1944. They're hoping air crash experts can determine why it happened.",
+        "location": "Reedham marshes, Norfolk",
+        "country": "England",
+        "ngr": "TG 43088 03886",
+        "coord": "52.578406,1.586435",
+        "recorded": "–",
+        "broadcast": {
+            "date": "21 February 1999",
+            "seriesepisode": 37,
+            "series": "Series 6",
+            "episode": "Episode 8",
+            "title": "Reedham Marshes, Norfolk",
+            "year": 1999
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1186522,
+                    "name": "DECOY CARR, REEDHAM MARSHES (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917588"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "33485",
+                    "url": "heritage.norfolk.gov.uk/record-details?MNF33485-World-War-Two-aircraft-crash-site&Index=14&RecordCount=26&SessionID=a2254308-0dd2-4ba8-87c1-4501ef1d1ebb"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (1998) Geophysical Survey: Reedham Marshes, Norfolk",
+                    "url": "doi.org/10.5284/1000918"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0952381/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/25721-008"
+            }
+        },
+        "datecreated": "29.09.2021"
     }
 ]
