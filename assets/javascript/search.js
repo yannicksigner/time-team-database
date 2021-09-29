@@ -108,7 +108,7 @@
     // activate the tooltips (after they have been created)
     $('[data-toggle="tooltip"]').tooltip()
 
-    document.getElementById('search-info').innerHTML = '<p>'+results.length+' episodes find</p>';
+    document.getElementById('search-info').innerHTML = '<p>'+results.length+' episodes found</p>';
   }
 
   function getQueryVariable(variable) {
