@@ -5107,5 +5107,181 @@
             }
         },
         "datecreated": "30.09.2021"
+    },
+    {
+        "id": 59,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep4.png",
+        "summary": "Waltham field, in the village of Whittington, five miles from Cheltenham. Alerted by Gloucester County Archaeology, the Team have come in search of a Roman villa.",
+        "location": "Waltham Field, Whittington, Gloucestershire",
+        "country": "England",
+        "ngr": "SP 00706 20902",
+        "coord": "51.886678,-1.991152",
+        "recorded": "–",
+        "broadcast": {
+            "date": "28 January 2001",
+            "seriesepisode": 59,
+            "series": "Series 8",
+            "episode": "Episode 4",
+            "title": "A Waltham Villa",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1336202,
+                    "name": "WALTHAM FIELD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1838407"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "9609",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=9609&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2000) Geophysical Survey: Waltham Villa, Gloucestershire",
+                    "url": "doi.org/10.5284/1000874"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Hirst (2000) An evaluation of archaeological remains at Waltham Roman Villa, Gloucestershire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0723705/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-004"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 60,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep5.png",
+        "summary": "Time Team came to Blaenafon, in south Wales, to look for the world's first railway viaduct. Within 25 years of it being built, it had 'disappeared' from the landscape. Where had it gone?",
+        "location": "Blaenavon, Torfaen",
+        "country": "Wales",
+        "ngr": "SO 24856 09516",
+        "coord": "51.779242,-3.090618",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 February 2001",
+            "seriesepisode": 60,
+            "series": "Series 8",
+            "episode": "Episode 5",
+            "title": "The 'Lost Viaduct'",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "www.imdb.com/title/tt0957380/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-005"
+            }
+        },
+        "datecreated": "30.09.2021"
     }
 ]
