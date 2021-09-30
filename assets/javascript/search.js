@@ -23,6 +23,9 @@
           appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.main.name + ' (Id: ' + item.links.ei.main.id + ') <a href="http://' + item.links.ei.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           if (item.links.ei.multiple) {
             appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional1.name + ' (Id: ' + item.links.ei.additional1.id + ') <a href="http://' + item.links.ei.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            if (item.links.ei.additional2.name != "–") {
+              appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional2.name + ' (Id: ' + item.links.ei.additional2.id + ') <a href="http://' + item.links.ei.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            }
           }
         } else {
           appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
