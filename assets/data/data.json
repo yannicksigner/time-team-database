@@ -4843,5 +4843,269 @@
         },
         "datecreated": "29.09.2021",
         "comment": "more HER entries"
+    },
+    {
+        "id": 56,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep1.png",
+        "summary": "The team investigate reports of a Saxon cemetery lost in the ground in Lincolnshire. All they find on day one is two teeth, but on the next morning they begin to discover much more.",
+        "location": "Normanton, Lincolnshire",
+        "country": "England",
+        "ngr": "SK 93931 46065",
+        "coord": "53.003676,-0.601684",
+        "recorded": "–",
+        "broadcast": {
+            "date": "7 January 2001",
+            "seriesepisode": 56,
+            "series": "Series 8",
+            "episode": "Episode 1",
+            "title": "An Anglo-Saxon Cemetery in Lincolnshire",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1450707,
+                    "name": "NORMANTON-ON-CLIFFE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926904"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gaffney (2000) Geophysical survey at Normanton-on-Cliffe, Lincolnshire (Report No 00/89)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0723691/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-001"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 57,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep2.png",
+        "summary": "Time Team are at amateur archaeologist Derek Batten's castle in Northamptonshire and they discover a link to William the Conqueror",
+        "location": "Alderton, Northamptonshire",
+        "country": "England",
+        "ngr": "SP 74079 46993",
+        "coord": "52.116304,-0.919547",
+        "recorded": "–",
+        "broadcast": {
+            "date": "14 January 2001",
+            "seriesepisode": 57,
+            "series": "Series 8",
+            "episode": "Episode 2",
+            "title": "The Man Who Bought a Castle",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1335920,
+                    "name": "THE MOUNT, ALDERTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1838721"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Northamptonshire HER",
+                    "id": "4745/1",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN10641&resourceID=1044"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gater and Gaffney (2000) Report on geophysical survey: Alderton, Northamptonshire (Report 2000/75)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0957375/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-002"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 58,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep3.png",
+        "summary": "Archaeological heaven or too good to be true? The Team investigate a site in one garden in Wales that comes a Neolithic tomb, a Norman tower, a Medieval or Roman trackway and an ancient sacred spring.",
+        "location": "Llygadwy, Powys",
+        "country": "Wales",
+        "ngr": "SO 15146 21399",
+        "coord": "51.884672,-3.234257",
+        "recorded": "–",
+        "broadcast": {
+            "date": "21 January 2001",
+            "seriesepisode": 58,
+            "series": "Series 8",
+            "episode": "Episode 3",
+            "title": "The Celtic Spring",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "9.0",
+                "url": "www.imdb.com/title/tt0957392/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-003"
+            }
+        },
+        "datecreated": "30.09.2021"
     }
 ]
