@@ -36,25 +36,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Somerset HER",
-                    "id": "11620",
-                    "url": "www.somersetheritage.org.uk/record/11620"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -72,6 +53,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "11620",
+                    "url": "www.somersetheritage.org.uk/record/11620"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -124,25 +124,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -160,6 +141,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -212,25 +212,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -248,6 +229,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -300,25 +300,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -336,6 +317,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -388,25 +388,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -424,6 +405,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -476,25 +476,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "Wiltshire and Swindon HER",
-                    "id": "SU13NE661",
-                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10573"
-                },
-                "additional1": {
-                    "name": "Wiltshire and Swindon HER",
-                    "id": "SU13NE660",
-                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10572"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -512,6 +493,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU13NE661",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10573"
+                },
+                "additional1": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU13NE660",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI10572"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -566,25 +566,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Wiltshire and Swindon HER",
-                    "id": "SU07NW457",
-                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI8991"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -602,6 +583,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU07NW457",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI8991"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -654,25 +654,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "Greater London HER",
-                    "id": "ELO1743",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2851862"
-                },
-                "additional1": {
-                    "name": "Greater London HER",
-                    "id": "MLO66087",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2791894"
-                },
-                "additional2": {
-                    "name": "Greater London HER",
-                    "id": "MLO66088",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2791864"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -691,6 +672,25 @@
                     "accessable": false,
                     "title": "–",
                     "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO1743",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2851862"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "MLO66087",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2791894"
+                },
+                "additional2": {
+                    "name": "Greater London HER",
+                    "id": "MLO66088",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2791864"
                 }
             },
             "imdb": {
@@ -743,25 +743,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Tyne and Wear HER",
-                    "id": "12",
-                    "url": "www.twsitelines.info/SMR/12"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -779,6 +760,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "Gater (1994) Geophysical survey report: Hylton Castle, Sunderland – Report No 94/60",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Tyne and Wear HER",
+                    "id": "12",
+                    "url": "www.twsitelines.info/SMR/12"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -831,25 +831,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Cornwall & Scilly HER",
-                    "id": "28916.1",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO6853&resourceID=1020"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -867,6 +848,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": "28916.1",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO6853&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -919,25 +919,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -955,6 +936,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1007,25 +1007,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "Somerset HER",
-                    "id": "16901",
-                    "url": "www.somersetheritage.org.uk/record/16901"
-                },
-                "additional1": {
-                    "name": "Somerset HER",
-                    "id": 16902,
-                    "url": "www.somersetheritage.org.uk/record/16902"
-                },
-                "additional2": {
-                    "name": "Somerset HER",
-                    "id": 16903,
-                    "url": "www.somersetheritage.org.uk/record/16903"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -1044,6 +1025,25 @@
                     "accessable": false,
                     "title": "–",
                     "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "16901",
+                    "url": "www.somersetheritage.org.uk/record/16901"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": 16902,
+                    "url": "www.somersetheritage.org.uk/record/16902"
+                },
+                "additional2": {
+                    "name": "Somerset HER",
+                    "id": 16903,
+                    "url": "www.somersetheritage.org.uk/record/16903"
                 }
             },
             "imdb": {
@@ -1095,25 +1095,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Devon & Dartmoor HER",
-                    "id": "MDV9871",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV9871&resourceID=104"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -1131,6 +1112,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Devon & Dartmoor HER",
+                    "id": "MDV9871",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV9871&resourceID=104"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1184,25 +1184,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -1220,6 +1201,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1272,25 +1272,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Suffolk HER",
-                    "id": "MSF4040",
-                    "url": "heritage.suffolk.gov.uk/Monument/MSF4040"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -1308,6 +1289,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "MSF4040",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF4040"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1360,25 +1360,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -1396,6 +1377,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1448,25 +1448,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Cornwall & Scilly HER",
-                    "id": "37129",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO28605&resourceID=1020"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -1484,6 +1465,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": "37129",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO28605&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1536,25 +1536,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Birmingham HER",
-                    "id": "MBM1697",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -1572,6 +1553,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Birmingham HER",
+                    "id": "MBM1697",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1624,25 +1624,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -1660,6 +1641,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1712,25 +1712,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "North Yorkshire HER",
-                    "id": "MNY2526",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY2526&resourceID=1009"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -1748,6 +1729,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "North Yorkshire HER",
+                    "id": "MNY2526",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY2526&resourceID=1009"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1800,25 +1800,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Wiltshire and Swindon HER",
-                    "id": "SU14NW301",
-                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI11731"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -1836,6 +1817,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU14NW301",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI11731"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1888,25 +1888,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "Greater London HER",
-                    "id": "ELO14213",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
-                },
-                "additional1": {
-                    "name": "Greater London HER",
-                    "id": "ELO147",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -1924,6 +1905,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO14213",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "ELO147",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record.xhtml"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -1976,25 +1976,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Somerset HER",
-                    "id": "57102",
-                    "url": "www.somersetheritage.org.uk/record/57102#"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2012,6 +1993,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "57102",
+                    "url": "www.somersetheritage.org.uk/record/57102#"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2064,25 +2064,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -2100,6 +2081,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2152,25 +2152,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Gloucestershire HER",
-                    "id": "19798",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -2188,6 +2169,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "19798",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2240,25 +2240,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -2276,6 +2257,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2328,25 +2328,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Shropshire HER",
-                    "id": "00601",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA419&resourceID=1015"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2364,6 +2345,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Shropshire HER",
+                    "id": "00601",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA419&resourceID=1015"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2416,25 +2416,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -2452,6 +2433,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2504,25 +2504,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "North Yorkshire HER",
-                    "id": "MNY12776",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY12776&resourceID=1009"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2540,6 +2521,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "North Yorkshire HER",
+                    "id": "MNY12776",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY12776&resourceID=1009"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2592,25 +2592,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2628,6 +2609,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2680,25 +2680,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2716,6 +2697,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2768,25 +2768,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Norfolk HER",
-                    "id": "5750",
-                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF5750"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2804,6 +2785,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "5750",
+                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF5750"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2856,25 +2856,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Somerset HER",
-                    "id": "10395",
-                    "url": "www.somersetheritage.org.uk/record/10395#"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -2892,6 +2873,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "10395",
+                    "url": "www.somersetheritage.org.uk/record/10395#"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -2944,25 +2944,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -2980,6 +2961,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3032,25 +3032,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Kent HER",
-                    "id": "TQ 83 SE 52",
-                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE14001"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3068,6 +3049,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TQ 83 SE 52",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE14001"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3120,25 +3120,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "East Sussex HER",
-                    "id": "MES3339",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MES3339&resourceID=1026"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3156,6 +3137,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "East Sussex HER",
+                    "id": "MES3339",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MES3339&resourceID=1026"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3208,25 +3208,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Norfolk HER",
-                    "id": "33485",
-                    "url": "heritage.norfolk.gov.uk/record-details?MNF33485-World-War-Two-aircraft-crash-site&Index=14&RecordCount=26&SessionID=a2254308-0dd2-4ba8-87c1-4501ef1d1ebb"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3244,6 +3225,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "33485",
+                    "url": "heritage.norfolk.gov.uk/record-details?MNF33485-World-War-Two-aircraft-crash-site&Index=14&RecordCount=26&SessionID=a2254308-0dd2-4ba8-87c1-4501ef1d1ebb"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3296,25 +3296,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Gloucestershire HER",
-                    "id": "19798",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -3332,6 +3313,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "19798",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=19798&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3384,25 +3384,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Worcestershire and Worcester City HER",
-                    "id": "WSM06051",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWR634&resourceID=1035"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3420,6 +3401,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Worcestershire and Worcester City HER",
+                    "id": "WSM06051",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWR634&resourceID=1035"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3472,25 +3472,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Norfolk HER",
-                    "id": "25962",
-                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF25962-Roman-Middle-Saxon-Late-Saxon-and-medieval-settlement&Index=14&RecordCount=26&SessionID=43264685-2114-4bdb-8970-c5a1c20e4c24"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3508,6 +3489,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "25962",
+                    "url": "www.heritage.norfolk.gov.uk/record-details?MNF25962-Roman-Middle-Saxon-Late-Saxon-and-medieval-settlement&Index=14&RecordCount=26&SessionID=43264685-2114-4bdb-8970-c5a1c20e4c24"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3560,25 +3560,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -3596,6 +3577,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3648,25 +3648,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -3684,6 +3665,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3736,25 +3736,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -3772,6 +3753,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3824,25 +3824,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Gloucestershire HER",
-                    "id": "28980",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=28980&resourceID=108"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -3860,6 +3841,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "28980",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=28980&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -3912,25 +3912,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -3948,6 +3929,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4000,25 +4000,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4036,6 +4017,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4088,25 +4088,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4124,6 +4105,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4176,25 +4176,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -4212,6 +4193,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4264,25 +4264,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Coventry HER",
-                    "id": "MCT16304",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCT16304&resourceID=1029"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4300,6 +4281,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Coventry HER",
+                    "id": "MCT16304",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCT16304&resourceID=1029"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4352,25 +4352,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4388,6 +4369,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4440,25 +4440,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Peterborough HER",
-                    "id": "50950",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB5159&resourceID=1045"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -4476,6 +4457,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Peterborough HER",
+                    "id": "50950",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB5159&resourceID=1045"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4528,25 +4528,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Herefordshire SMR",
-                    "id": "30514",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10203&resourceID=101"
-                },
-                "additional1": {
-                    "name": "Herefordshire SMR",
-                    "id": 314,
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE117&resourceID=101"
-                },
-                "additional2": {
-                    "name": "Herefordshire SMR",
-                    "id": 30512,
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10204&resourceID=101"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -4565,6 +4546,25 @@
                     "accessable": false,
                     "title": "–",
                     "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Herefordshire SMR",
+                    "id": "30514",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10203&resourceID=101"
+                },
+                "additional1": {
+                    "name": "Herefordshire SMR",
+                    "id": 314,
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE117&resourceID=101"
+                },
+                "additional2": {
+                    "name": "Herefordshire SMR",
+                    "id": 30512,
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10204&resourceID=101"
                 }
             },
             "imdb": {
@@ -4616,25 +4616,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "Greater London HER",
-                    "id": "MLO100910",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2801315"
-                },
-                "additional1": {
-                    "name": "Greater London HER",
-                    "id": "ELO8021",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2847495"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4652,6 +4633,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "MLO100910",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2801315"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "ELO8021",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2847495"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4704,25 +4704,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4740,6 +4721,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4792,25 +4792,6 @@
                     "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1912164"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": true,
-                "main": {
-                    "name": "York HER",
-                    "id": "EYO6698",
-                    "url": "her.york.gov.uk/Event/EYO6698"
-                },
-                "additional1": {
-                    "name": "York HER",
-                    "id": "EYO6816",
-                    "url": "her.york.gov.uk/Event/EYO6816"
-                },
-                "additional2": {
-                    "name": "York HER",
-                    "id": "EYO401",
-                    "url": "her.york.gov.uk/Event/EYO401"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4829,6 +4810,25 @@
                     "accessable": false,
                     "title": "–",
                     "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "York HER",
+                    "id": "EYO6698",
+                    "url": "her.york.gov.uk/Event/EYO6698"
+                },
+                "additional1": {
+                    "name": "York HER",
+                    "id": "EYO6816",
+                    "url": "her.york.gov.uk/Event/EYO6816"
+                },
+                "additional2": {
+                    "name": "York HER",
+                    "id": "EYO401",
+                    "url": "her.york.gov.uk/Event/EYO401"
                 }
             },
             "imdb": {
@@ -4881,25 +4881,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -4917,6 +4898,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -4969,25 +4969,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Northamptonshire HER",
-                    "id": "4745/1",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN10641&resourceID=1044"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": false,
@@ -5005,6 +4986,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Northamptonshire HER",
+                    "id": "4745/1",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN10641&resourceID=1044"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -5057,25 +5057,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -5093,6 +5074,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -5145,25 +5145,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": true,
-                "multiple": false,
-                "main": {
-                    "name": "Gloucestershire HER",
-                    "id": "9609",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=9609&resourceID=108"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": true,
                 "multiple": true,
@@ -5181,6 +5162,25 @@
                 "additional2": {
                     "accessable": false,
                     "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "9609",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=9609&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
                     "url": "–"
                 }
             },
@@ -5233,25 +5233,6 @@
                     "url": "–"
                 }
             },
-            "her": {
-                "availability": false,
-                "multiple": false,
-                "main": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                },
-                "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "url": "–"
-                }
-            },
             "report": {
                 "availability": false,
                 "multiple": false,
@@ -5272,6 +5253,25 @@
                     "url": "–"
                 }
             },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
             "imdb": {
                 "availability": true,
                 "rating": "8.5",
@@ -5280,6 +5280,270 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-005"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 61,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep6.png",
+        "summary": "The Team came to Rycote Park to try to find the remains of a country house that once played host to five reigning monarchs. What was left of the original Tudor mansion?",
+        "location": "Rycote, Thame, Oxfordshire",
+        "country": "England",
+        "ngr": "SP 66716 04741",
+        "coord": "51.737413,-1.035237",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 February 2001",
+            "seriesepisode": 61,
+            "series": "Series 8",
+            "episode": "Episode 6",
+            "title": "A Palace Sold for Scrap",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1337055,
+                    "name": "RYCOTE HOUSE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1837819"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Martinez (2000) Geophysical Survey: Rycote Park",
+                    "url": "doi.org/10.5284/1000897"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Time Team (2000) An Archaeological Investigation at Rycote Park",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Oxfordshire HER",
+                    "id": "5899",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5902&resourceID=1033"
+                },
+                "additional1": {
+                    "name": "Oxfordshire HER",
+                    "id": 5880,
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5901&resourceID=1033"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0867117/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-006"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 62,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep7.png",
+        "summary": "The Team are on Salisbury Plain and there's Roman pottery lying on the surface and an Iron Age fort nearby. Was there a thriving community here 2000 years ago?",
+        "location": "Salisbury Plain, Wiltshire",
+        "country": "England",
+        "ngr": "SU 18428 50911",
+        "coord": "51.257064,-1.737308",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 February 2001",
+            "seriesepisode": 62,
+            "series": "Series 8",
+            "episode": "Episode 7",
+            "title": "An Iron-Age Roundhouse",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1337469,
+                    "name": "BEACH'S BARN, SPTA EAST (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1837289"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2000) Geophysical Survey: Beach's Barn SPTA East",
+                    "url": "doi.org/10.5284/1000895"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU15SE210",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI13709"
+                },
+                "additional1": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "SU15SE311",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI13722"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0723692/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-007"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 63,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep8.png",
+        "summary": "Archaeological evidence of cannibalism in the UK is uncovered when the experts examine Iron Age human remains - suggesting these humans suffered a brutal demise",
+        "location": "Alveston, Gloucestershire",
+        "country": "England",
+        "ngr": "ST 63324 87205",
+        "coord": "51.582499,-2.530707",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 February 2001",
+            "seriesepisode": 63,
+            "series": "Series 8",
+            "episode": "Episode 8",
+            "title": "The Bone Caves",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1338346,
+                    "name": "ALVESTON SWALLET (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1836221"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gaffney and Gater (2000) Geophysical survey at Alveston, Gloucestershire (Report No 00/94)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957378/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-008"
             }
         },
         "datecreated": "30.09.2021"
