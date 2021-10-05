@@ -5538,8 +5538,8 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
-                "url": "www.imdb.com/title/tt0957378/?ref_=tt_ep_nx"
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0723693/?ref_=tt_ep_nx"
             },
             "channel4": {
                 "availability": true,
@@ -5547,5 +5547,446 @@
             }
         },
         "datecreated": "30.09.2021"
+    },
+    {
+        "id": 64,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep9.png",
+        "summary": "In 1838, navvies laying Brunel's Great Western Railway found two Roman floor mosaics, probably from a villa, at Lower Basildon, in Berkshire. Time Team investigate the area further.",
+        "location": "Basildon, Berkshire",
+        "country": "England",
+        "ngr": "SU 60691 79310",
+        "coord": "51.509468,-1.126886",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 March 2001",
+            "seriesepisode": 64,
+            "series": "Series 8",
+            "episode": "Episode 9",
+            "title": "The Inter-City Villa",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1338109,
+                    "name": "GATEHAMPTON FARM, LOWER BASILDON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1836635"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2000) Geophysical Survey: Lower Basildon, Reading",
+                    "url": "doi.org/10.5284/1001462"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "West Berkshire HER",
+                    "id": "MWB17560",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWB17560&resourceID=1030"
+                },
+                "additional1": {
+                    "name": "West Berkshire HER",
+                    "id": "MWB2786",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWB2786&resourceID=1030"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0957378/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-009"
+            }
+        },
+        "datecreated": "30.09.2021"
+    },
+    {
+        "id": 65,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep10.png",
+        "summary": "Lindisfarne, a.k.a. Holy Island, is one of England's most remote, historic and mystical places. But for years locals have been puzzled: why is an apparently empty field known as The Palace?",
+        "location": "Lindisfarne, Northumberland",
+        "country": "England",
+        "ngr": "NU 12746 41910",
+        "coord": "55.670528,-1.798928",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 March 2001",
+            "seriesepisode": 65,
+            "series": "Series 8",
+            "episode": "Episode 10",
+            "title": "Holy Island",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1338345,
+                    "name": "PALACE FIELD, HOLY ISLAND (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1836219"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Fraser and Young (2001) The Palace, Holy Island, Northumberland: Post-Excavation Assessment Report",
+                    "url": "archaeologydataservice.ac.uk/library/browse/issue.xhtml?recordId=1034576&recordType=GreyLit"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2000) Geophysical Survey: Holy Island, Northumberland",
+                    "url": "doi.org/10.5284/1002820"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Northumberland HER",
+                    "id": "N5363",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=N5363&resourceID=110"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0957389/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-010"
+            }
+        },
+        "datecreated": "05.10.2021",
+        "comment": "more NI items of additional work by NAA"
+    },
+    {
+        "id": 66,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep11.png",
+        "summary": "Tony Robinson and the Team spend three days in Shropshire searching for the remains of the medieval castle that once dominated the historic market town of Bridgnorth",
+        "location": "Bridgnorth, Shropshire",
+        "country": "England",
+        "ngr": "SO 71629 92765",
+        "coord": "52.532008,-2.41966",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 March 2001",
+            "seriesepisode": 66,
+            "series": "Series 8",
+            "episode": "Episode 11",
+            "title": "The Leaning Tower of Bridgnorth",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1338785,
+                    "name": "BRIDGNORTH CASTLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1835615"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2000) Geophysical Survey: Bridgnorth, Shropshire",
+                    "url": "doi.org/10.5284/1000898"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Shropshire HER",
+                    "id": "00371",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA275&resourceID=1015"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0957382/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-011"
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 67,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep12.png",
+        "summary": "Sandi Toksvig and Liza Tarbuck join Tony Robinson and the Team as they investigate three separate sites in Canterbury",
+        "location": "Canterbury, Kent",
+        "country": "England",
+        "ngr": "TR 14751 57750",
+        "coord": "51.278405,1.077766",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 March 2001",
+            "seriesepisode": 67,
+            "series": "Series 8",
+            "episode": "Episode 12",
+            "title": "Three Tales of Canterbury",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1324620,
+                    "name": "BLUE BOY YARD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1868809"
+                },
+                "additional1": {
+                    "id": 1324619,
+                    "name": "CANTERBURY GREYFRIARS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1868822"
+                },
+                "additional2": {
+                    "id": 1324621,
+                    "name": "TYLER HILL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1868811"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Ovenden-Wilson (2000) Geophysical Survey: Tyler Hill, Canterbury",
+                    "url": "doi.org/10.5284/1008126"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Ovenden-Wilson (2000) Geophysical Survey: Blue Boy Yard, Canterbury",
+                    "url": "doi.org/10.5284/1008125"
+                },
+                "additional2": {
+                    "accessable": true,
+                    "title": "Gater (2000) Geophysical Survey: Greyfrairs, Canterbury",
+                    "url": "doi.org/10.5284/1008127"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TR 15 NW 2071",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE92828"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0957383/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-012"
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 68,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s8ep13.png",
+        "summary": "Just outside Winchester is a field which, 900 years ago, was home to the city's outcasts. The people who lived there were united by leprosy and their home was the St Mary Magdalene leper hospital.",
+        "location": "Winchester, Hampshire",
+        "country": "England",
+        "ngr": "SU 50536 29587",
+        "coord": "51.063401,-1.280206",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 April 2001",
+            "seriesepisode": 68,
+            "series": "Series 8",
+            "episode": "Episode 13",
+            "title": "\"The Leper Hospital\"",
+            "year": 2001
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1385288,
+                    "name": "ST MARY MAGDALEN'S HOSPITAL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1825740"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and (2000) Geophysical Survey: St Mary Magdalen, Winchester",
+                    "url": "doi.org/10.5284/1076370"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Winchester HER",
+                    "id": "MWC1161",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWC1161&resourceID=1013"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0957408/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true,
+                "url": "www.channel4.com/programmes/time-team/on-demand/29766-013"
+            }
+        },
+        "datecreated": "05.10.2021"
     }
 ]
