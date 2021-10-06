@@ -185,6 +185,12 @@
     var newUrl = url.href;
     console.log(newUrl);
     document.location = newUrl;
+
+    if (pageNum = 1){
+      $('#prev-button').addClass("disabled");
+    } else {
+      $('#prev-button').removeClass("disabled");
+    }
   }
 
   // search
