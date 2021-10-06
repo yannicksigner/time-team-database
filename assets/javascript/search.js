@@ -184,6 +184,7 @@
     url.searchParams.set("page", pageNum); // setting your param
     var newUrl = url.href;
     console.log(newUrl);
+    document.location = newUrl;
   }
 
   // search
