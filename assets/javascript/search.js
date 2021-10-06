@@ -139,8 +139,10 @@
   function togglePageination(state) {
     if (state) {
       $("#search-pageination").show();
-      var url = document.location.href+"&page=1";
-      document.location = url;
+      if (!getQueryVariable('page')) {
+        var url = document.location.href + "&page=1";
+        document.location = url;
+      }
     } else {
       $("#search-pageination").hide();
     }
