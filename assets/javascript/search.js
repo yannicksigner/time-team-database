@@ -1,12 +1,16 @@
 (function() {
 
   $('#prev-button').click(function() {
-    updatePageination(-1);
+    if (!$('#prev-button').hasClass("disabled")) {
+      updatePageination(-1);
+    }
   });
 
 
   $('#next-button').click(function() {
-    updatePageination(1);
+    if (!$('#prev-button').hasClass("disabled")) {
+      updatePageination(1);
+    }
   });
 
   var pagesize = 10;
