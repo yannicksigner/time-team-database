@@ -1,5 +1,14 @@
 (function() {
 
+  $('#prev-button').click(function() {
+    updatePageination(-1);
+  });
+
+
+  $('#next-button').click(function() {
+    updatePageination(1);
+  });
+
   var pagesize = 10;
 
   var json = $.getJSON({
@@ -21,18 +30,17 @@
 
       var iterator;
       var start;
-      if(results.length <= pagesize){
+      if (results.length <= pagesize) {
         start = 0;
         iterator = results.length;
       } else {
-        if((pageNum * pagesize) > results.length){
+        if ((pageNum * pagesize) > results.length) {
           start = (pageNum * pagesize) - pagesize;
           iterator = results.length;
         } else {
           start = (pageNum * pagesize) - pagesize;
           iterator = (pageNum * pagesize);
         }
-        iterator = pagesize * pageNum;
       }
 
       for (var i = start; i < iterator; i++) { // Iterate over the results
@@ -163,6 +171,10 @@
     } else {
       $("#search-pageination").hide();
     }
+  }
+
+  function updatePageination(value) {
+
   }
 
   // search
