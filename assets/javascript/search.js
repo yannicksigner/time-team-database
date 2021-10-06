@@ -176,7 +176,7 @@
   }
 
   function updatePageination(value) {
-    var pageNum = getQueryVariable('page');
+    var pageNum = parseInt(getQueryVariable('page'));
     pageNum = pageNum + value;
 
     var currentUrl = 'http://www.example.com/hello.png?w=100&h=100&bg=white';
