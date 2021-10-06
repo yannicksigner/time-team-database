@@ -170,6 +170,12 @@
         var url = document.location.href + "&page=1";
         document.location = url;
       }
+      var pageNum = parseInt(getQueryVariable('page'));
+      if (pageNum = 1){
+        $('#prev-button').addClass("disabled");
+      } else {
+        $('#prev-button').removeClass("disabled");
+      }
     } else {
       $("#search-pageination").hide();
     }
@@ -185,12 +191,6 @@
     var newUrl = url.href;
     console.log(newUrl);
     document.location = newUrl;
-
-    if (pageNum = 1){
-      $('#prev-button').addClass("disabled");
-    } else {
-      $('#prev-button').removeClass("disabled");
-    }
   }
 
   // search
