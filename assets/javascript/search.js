@@ -174,7 +174,14 @@
   }
 
   function updatePageination(value) {
+    var pageNum = getQueryVariable('page');
+    pageNum = pageNum + value;
 
+    var currentUrl = 'http://www.example.com/hello.png?w=100&h=100&bg=white';
+    var url = new URL(document.location.href);
+    url.searchParams.set("page", pageNum); // setting your param
+    var newUrl = url.href;
+    console.log(newUrl);
   }
 
   // search
