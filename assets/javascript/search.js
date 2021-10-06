@@ -6,6 +6,7 @@
     'url': "assets/data/data.json",
     'async': false
   });
+
   var documents = JSON.parse(json.responseText);
 
   function displaySearchResults(results, store) {
@@ -24,7 +25,7 @@
         start = 0;
         iterator = results.length;
       } else {
-        if((pageNum * pagesize) < results.length){
+        if((pageNum * pagesize) > results.length){
           start = (pageNum * pagesize) - pagesize;
           iterator = results.length;
         } else {
