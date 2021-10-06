@@ -32,8 +32,6 @@
     if (results.length) { // Are there any results?
       var appendString = '';
 
-
-
       var iterator;
       var start;
       if (results.length <= pagesize) {
