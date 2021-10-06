@@ -1037,7 +1037,7 @@
                 },
                 "additional1": {
                     "name": "Somerset HER",
-                    "id": 16902,
+                    "id": "16902",
                     "url": "www.somersetheritage.org.uk/record/16902"
                 },
                 "additional2": {
@@ -4558,7 +4558,7 @@
                 },
                 "additional1": {
                     "name": "Herefordshire SMR",
-                    "id": 314,
+                    "id": "314",
                     "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE117&resourceID=101"
                 },
                 "additional2": {
@@ -5351,7 +5351,7 @@
                 },
                 "additional1": {
                     "name": "Oxfordshire HER",
-                    "id": 5880,
+                    "id": "5880",
                     "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5901&resourceID=1033"
                 },
                 "additional2": {
@@ -5992,6 +5992,7 @@
     {
         "id": 69,
         "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep1.png",
+        "summary": "The team are in central London near Vauxhall Bridge where, at low tide, a group of mysterious prehistoric timbers are revealed. The team have just three days to excavate just one of these strange timbers.",
         "location": "Vauxhall, London",
         "country": "England",
         "ngr": "TQ 30091 77945",
@@ -6068,6 +6069,1050 @@
                 "availability": true,
                 "rating": "8.2",
                 "url": "www.imdb.com/title/tt0723704/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 70,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep2.png",
+        "summary": "The small Lincolnshire town of Ancaster lies on Ermine Street, which is a major Roman road heading north from London. The only Roman remains visible today are some massive earth banks and ditches, which have been dated to the 4th century. So what was here before these defences and why were they built?",
+        "location": "Ancaster, Lincolnshire",
+        "country": "England",
+        "ngr": "SK 98578 43556",
+        "coord": "52.980295,-0.533225",
+        "recorded": "–",
+        "broadcast": {
+            "date": "13 January 2002",
+            "seriesepisode": 70,
+            "series": "Series 9",
+            "episode": "Episode 2",
+            "title": "The Roman's Panic",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1354012,
+                    "name": "ANCASTER (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1888452"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at Ancaster, Lincolnshire",
+                    "url": "doi.org/10.5284/1027633"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Lincolnshire HER",
+                    "id": "MLI30332",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI30332&resourceID=1006"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.9",
+                "url": "www.imdb.com/title/tt0958786/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 71,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep3.png",
+        "summary": "The team investigate a beautiful jar found amongst the seaweed at Kinlochbervie to determine whether it could have belonged to the Spanish Armada.",
+        "location": "Kinlochbervie, Sutherland",
+        "country": "Scotland",
+        "ngr": "NC 18402 53645",
+        "coord": "58.433263,-5.112194",
+        "recorded": "–",
+        "broadcast": {
+            "date": "20 January 2002",
+            "seriesepisode": 71,
+            "series": "Series 9",
+            "episode": "Episode 3",
+            "title": "Diving for the Armada",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0958795/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 72,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep4.png",
+        "summary": "The team are invited to the Military Intelligence base at Chicksands to explore the site of a thirteenth-century unisex monastery.",
+        "location": "Chicksands, Bedfordshire",
+        "country": "England",
+        "ngr": "TL 12170 39256",
+        "coord": "52.040364,-0.366011",
+        "recorded": "–",
+        "broadcast": {
+            "date": "27 January 2002",
+            "seriesepisode": 72,
+            "series": "Series 9",
+            "episode": "Episode 4",
+            "title": "The Naughty Monastery",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1348902,
+                    "name": "CHICKSANDS PRIORY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891973"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney et al. (2001) Geophysical Survey at Chicksands Priory, Bedfordshire",
+                    "url": "doi.org/10.5284/1000818"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Bedfordshire HER",
+                    "id": "375",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBD375&resourceID=1014"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0953877/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 73,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep5.png",
+        "summary": "The team digs up a pub car park near Ironbridge Gorge in Shropshire to find the remains of a seventeenth-century blast furnace for smelting iron.",
+        "location": "Ironbridge Gorge, Shropshire",
+        "country": "England",
+        "ngr": "SJ 61034 05533",
+        "coord": "52.646124,-2.577345",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 February 2002",
+            "seriesepisode": 73,
+            "series": "Series 9",
+            "episode": "Episode 5",
+            "title": "The Furnace in the Cellar",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1348903,
+                    "name": "LEIGHTON FURNACE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891974"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2001) Geophysical Survey at Leighton, Shropshire",
+                    "url": "doi.org/10.5284/1000820"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Shropshire HER",
+                    "id": "01787",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA1362&resourceID=1015"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0953878/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 74,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep6.png",
+        "summary": "The team search for the remains of a Roman settlement in Cheshunt where Roman brick, tiles and pottery were excavated in the 1960's.",
+        "location": "Cheshunt, Hertfordshire",
+        "country": "England",
+        "ngr": "TL 34509 04225",
+        "coord": "51.720624,-0.054145",
+        "recorded": "–",
+        "broadcast": {
+            "date": "10 February 2002",
+            "seriesepisode": 74,
+            "series": "Series 9",
+            "episode": "Episode 6",
+            "title": "An Ermine Street Pub",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1348155,
+                    "name": "CHESHUNT PARK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891951"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gater (2001) Geophysical survey: Cheshunt, Hertfordshire (Report No 2001/6)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Hertfordshire HER",
+                    "id": "2038",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHT2038&resourceID=1008"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "9.1",
+                "url": "www.imdb.com/title/tt0953876/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 75,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep7.png",
+        "summary": "The team investigate Cornwall's most important Iron Age site overlooking the Helston River. The area is so big that its purpose is a mystery. Can they solve the riddle?",
+        "location": "Helford, Cornwall",
+        "country": "England",
+        "ngr": "SW 72583 24552",
+        "coord": "50.077478,-5.179886",
+        "recorded": "–",
+        "broadcast": {
+            "date": "17 February 2002",
+            "seriesepisode": 75,
+            "series": "Series 9",
+            "episode": "Episode 7",
+            "title": "Iron-Age Market",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1390473,
+                    "name": "CAER VALLACK AND GEAR FARM",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1824774"
+                },
+                "additional1": {
+                    "id": 1356004,
+                    "name": "GEAR FIELD/CAER VALLACK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889435"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney et al. (2001) Geophysical Survey at Caer Vallack and Gear Farm, Cornwall.",
+                    "url": "doi.org/10.5284/1008114"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": "24698",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO7686&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": "24698.70",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO45901&resourceID=1020"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0964452/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 76,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep8.png",
+        "summary": "The team are in Shropshire at the location of one of the bloodiest Civil War sieges - the manor house in High Ercall.",
+        "location": "High Ercall, Shropshire",
+        "country": "England",
+        "ngr": "SJ 59421 17375",
+        "coord": "52.752459,-2.602659",
+        "recorded": "–",
+        "broadcast": {
+            "date": "24 February 2002",
+            "seriesepisode": 76,
+            "series": "Series 9",
+            "episode": "Episode 8",
+            "title": "Siege House in Shropshire",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1348904,
+                    "name": "HIGH ERCALL HALL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891977"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at High Ercall",
+                    "url": "doi.org/10.5284/1000817"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Shropshire HER",
+                    "id": "11870",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSA6639&resourceID=1015"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "www.imdb.com/title/tt0867118/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 77,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep9.png",
+        "summary": "The team explores a disused RAF bomber base, which is revealed by a government geophysics survey to be a dense Iron Age or Bronze Age settlement.",
+        "location": "Throckmorton, Worcestershire",
+        "country": "England",
+        "ngr": "SO 97211 49112",
+        "coord": "52.140294,-2.042171",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 March 2002",
+            "seriesepisode": 77,
+            "series": "Series 9",
+            "episode": "Episode 9",
+            "title": "A Prehistoric Airfield",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1356003,
+                    "name": "FORMER THROCKMORTON AIRFIELD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889428"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at Throckmorton Airfield III, Worcestershire",
+                    "url": "doi.org/10.5284/1010575"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0958798/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 78,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep10.png",
+        "summary": "The team are in Yorkshire to help the locals put Castleford on the Roman map by digging up a car park, a football pitch and the yard of the local British Legion.",
+        "location": "Castleford, Yorkshire",
+        "country": "England",
+        "ngr": "SE 42626 25530",
+        "coord": "53.724441,-1.355467",
+        "recorded": "–",
+        "broadcast": {
+            "date": "10 March 2002",
+            "seriesepisode": 78,
+            "series": "Series 9",
+            "episode": "Episode 10",
+            "title": "A Lost Roman City",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1348579,
+                    "name": "CASTLEFORD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891908"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at Castleford",
+                    "url": "doi.org/10.5284/1006320"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "West Yorkshire Archaeology Advisory Service (WYAAS)        ",
+                    "id": "7830",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=7830&resourceID=105"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0958792/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 79,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep11.png",
+        "summary": "A single stone stands on a hill at Henley-in-Arden, Warwickshire. It's the only remnant of what was once a huge medieval castle. So where is the rest of this once-proud stronghold?",
+        "location": "Beaudesert, Warwickshire",
+        "country": "England",
+        "ngr": "SP 15641 66166",
+        "coord": "52.293401,-1.772098",
+        "recorded": "–",
+        "broadcast": {
+            "date": "17 March 2002",
+            "seriesepisode": 79,
+            "series": "Series 9",
+            "episode": "Episode 11",
+            "title": "Every Castle Needs a Lord",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1356722,
+                    "name": "BEAUDESERT CASTLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1888958"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at Beaudesert Castle, Henley-in-Arden, Warwickshire",
+                    "url": "doi.org/10.5284/1028114"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Edwards and Ely (2001) Beaudesert, Henley-in-Arden: An Archaeological Evaluation by The Time Team",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Warwickshire HER",
+                    "id": "MWA1220",
+                    "url": "timetrail.warwickshire.gov.uk/detail.aspx?monuid=WA1220#trench"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "www.imdb.com/title/tt0958789/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 80,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep12.png",
+        "summary": "The archaeological acumen of the Time Team is tested against the clock, shedding fascinating light on important aspects of Britain's past. On the east coast of the Isle of Wight where early Roman pottery and metalwork have been found, but as yet, there have been no buildings.",
+        "location": "Yaverland, Isle of Wight",
+        "country": "England",
+        "ngr": "SZ 61415 86144",
+        "coord": "50.671732,-1.132267",
+        "recorded": "–",
+        "broadcast": {
+            "date": "24 March 2002",
+            "seriesepisode": 80,
+            "series": "Series 9",
+            "episode": "Episode 12",
+            "title": "Steptoe Et Filius",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1357877,
+                    "name": "YAVERLAND MANOR FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1890328"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey: Yaverland Manor Farm, Isle of Wight (Report No 2001/103)",
+                    "url": "doi.org/10.5284/1027351"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.8",
+                "url": "www.imdb.com/title/tt0958799/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "05.10.2021"
+    },
+    {
+        "id": 81,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s9ep13.png",
+        "summary": "Byzantine 'buckets'; Anglo-Saxon spear heads, shields and shield bosses; a disproportionate number of double burials – the cemetery that Time Team excavated for the 2001 'Live' opened an important new window onto the 'Dark Ages'.",
+        "location": "Breamore, Hampshire",
+        "country": "England",
+        "ngr": "SU 16110 17310",
+        "coord": "50.954994,-1.772017",
+        "recorded": "–",
+        "broadcast": {
+            "date": "31 March 2002",
+            "seriesepisode": 81,
+            "series": "Series 9",
+            "episode": "Episode 13",
+            "title": "Seven Buckets and a Buckle",
+            "year": 2002
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1347847,
+                    "name": "SHALLOWS FARM, BREAMORE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1891713"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2001) Geophysical Survey at Breamore, Hampshire",
+                    "url": "doi.org/10.5284/1000819"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.9",
+                "url": "www.imdb.com/title/tt0958790/?ref_=tt_ep_nx"
             },
             "channel4": {
                 "availability": false
