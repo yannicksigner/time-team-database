@@ -18,7 +18,15 @@
 
       togglePageination(results.length > pagesize);
 
-      for (var i = 0; i < results.length; i++) { // Iterate over the results
+      var iterator;
+      if(results.length <= pagesize){
+        iterator = results.length;
+      } else {
+        if (pagesize + pageNum)
+        iterator = pagesize
+      }
+
+      for (var i = 0; i < iterator; i++) { // Iterate over the results
         var item = results[i].item;
         appendString += '<section class="search-result-item">'
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
