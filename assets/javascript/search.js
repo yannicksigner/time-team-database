@@ -28,20 +28,23 @@
     if (results.length) { // Are there any results?
       var appendString = '';
 
-      togglePageination(results.length > pagesize);
+
 
       var iterator;
       var start;
       if (results.length <= pagesize) {
         start = 0;
         iterator = results.length;
+        togglePageination("normal");
       } else {
         if ((pageNum * pagesize) > results.length) {
           start = (pageNum * pagesize) - pagesize;
           iterator = results.length;
+          togglePageination("full");
         } else {
           start = (pageNum * pagesize) - pagesize;
           iterator = (pageNum * pagesize);
+          togglePageination("end");
         }
       }
 
@@ -164,20 +167,29 @@
   }
 
   function togglePageination(state) {
-    if (state) {
+    var pageNum = parseInt(getQueryVariable('page'));
+    if (!getQueryVariable('page')) {
+      var url = document.location.href + "&page=1";
+      document.location = url;
+    }
+
+    if (state == "normal") {
+      $("#search-pageination").hide();
+    }
+
+    if (state == "full") {
       $("#search-pageination").show();
-      if (!getQueryVariable('page')) {
-        var url = document.location.href + "&page=1";
-        document.location = url;
-      }
-      var pageNum = parseInt(getQueryVariable('page'));
-      if (pageNum = 1){
+      if (pageNum == 1) {
         $('#prev-button').addClass("disabled");
       } else {
         $('#prev-button').removeClass("disabled");
       }
-    } else {
-      $("#search-pageination").hide();
+    }
+
+    if (state == "end") {
+      $("#search-pageination").show();
+      $('#next-button').addClass("disabled");
+      $('#prev-button').removeClass("disabled");
     }
   }
 
