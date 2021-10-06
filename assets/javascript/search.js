@@ -178,11 +178,11 @@
     }
 
     if (state == "normal") {
-      $("#search-pageination").hide();
+      $("#search-addon").hide();
     }
 
     if (state == "full") {
-      $("#search-pageination").show();
+      $("#search-addon").show();
       if (pageNum == 1) {
         $('#prev-button').addClass("disabled");
       } else {
@@ -191,7 +191,7 @@
     }
 
     if (state == "end") {
-      $("#search-pageination").show();
+      $("#search-addon").show();
       $('#next-button').addClass("disabled");
       $('#prev-button').removeClass("disabled");
     }
