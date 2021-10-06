@@ -40,11 +40,11 @@
         if ((pageNum * pagesize) > results.length) {
           start = (pageNum * pagesize) - pagesize;
           iterator = results.length;
-          togglePageination("full");
+          togglePageination("end");
         } else {
           start = (pageNum * pagesize) - pagesize;
           iterator = (pageNum * pagesize);
-          togglePageination("end");
+          togglePageination("full");
         }
       }
 
