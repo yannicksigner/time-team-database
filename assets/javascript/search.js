@@ -23,6 +23,8 @@
     var pageNum = 1;
     pageNum = getQueryVariable('page');
 
+    $("#current-button").text("Page " + pageNum);
+
     if (results.length) { // Are there any results?
       var appendString = '';
 
