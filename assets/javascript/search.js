@@ -217,6 +217,7 @@
       ignoreLocation: true,
       includeScore: true,
       threshold: 0.3,
+      useExtendedSearch: true,
       keys: [
         "location",
         "summary",
