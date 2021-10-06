@@ -19,14 +19,22 @@
       togglePageination(results.length > pagesize);
 
       var iterator;
+      var start;
       if(results.length <= pagesize){
+        start = 0;
         iterator = results.length;
       } else {
-        if (pagesize + pageNum)
-        iterator = pagesize
+        if((pageNum * pagesize) < results.length){
+          start = (pageNum * pagesize) - pagesize;
+          iterator = results.length;
+        } else {
+          start = (pageNum * pagesize) - pagesize;
+          iterator = (pageNum * pagesize);
+        }
+        iterator = pagesize * pageNum;
       }
 
-      for (var i = 0; i < iterator; i++) { // Iterate over the results
+      for (var i = start; i < iterator; i++) { // Iterate over the results
         var item = results[i].item;
         appendString += '<section class="search-result-item">'
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
