@@ -1,6 +1,11 @@
 (function() {
 
-  var json = $.getJSON({'url': "assets/data/data.json", 'async': false});
+  var pagesize = 10;
+
+  var json = $.getJSON({
+    'url': "assets/data/data.json",
+    'async': false
+  });
   var documents = JSON.parse(json.responseText);
 
   function displaySearchResults(results, store) {
@@ -8,6 +13,8 @@
 
     if (results.length) { // Are there any results?
       var appendString = '';
+
+      togglePageination(results.length > pagesize);
 
       for (var i = 0; i < results.length; i++) { // Iterate over the results
         var item = results[i].item;
@@ -111,7 +118,7 @@
     // activate the tooltips (after they have been created)
     $('[data-toggle="tooltip"]').tooltip()
 
-    document.getElementById('search-info').innerHTML = '<p>'+results.length+' episodes found</p>';
+    document.getElementById('search-info').innerHTML = '<p>' + results.length + ' episodes found</p>';
   }
 
   function getQueryVariable(variable) {
@@ -127,8 +134,16 @@
     }
   }
 
-  var searchTerm = getQueryVariable('query');
+  function togglePageination(state) {
+    if (state) {
+      $("#search-pageination").show();
+    } else {
+      $("#search-pageination").hide();
+    }
+  }
 
+  // search
+  var searchTerm = getQueryVariable('query');
 
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
