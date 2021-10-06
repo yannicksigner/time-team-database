@@ -10,6 +10,8 @@
 
   function displaySearchResults(results, store) {
     var searchResults = document.getElementById('search-results');
+    var pageNum = 1;
+    pageNum = getQueryVariable('page');
 
     if (results.length) { // Are there any results?
       var appendString = '';
@@ -137,6 +139,8 @@
   function togglePageination(state) {
     if (state) {
       $("#search-pageination").show();
+      var url = document.location.href+"&page=1";
+      document.location = url;
     } else {
       $("#search-pageination").hide();
     }
