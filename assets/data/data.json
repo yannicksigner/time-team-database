@@ -7620,7 +7620,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": true,
+                "multiple": false,
                 "main": {
                     "name": "Greater London HER",
                     "id": "ELO14375",
