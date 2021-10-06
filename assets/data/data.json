@@ -6776,7 +6776,7 @@
         "id": 78,
         "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/default.png",
         "summary": "The team are in Yorkshire to help the locals put Castleford on the Roman map by digging up a car park, a football pitch and the yard of the local British Legion.",
-        "location": "Castleford, Yorkshire",
+        "location": "Castleford, West Yorkshire",
         "country": "England",
         "ngr": "SE 42626 25530",
         "coord": "53.724441,-1.355467",
@@ -7119,5 +7119,1020 @@
             }
         },
         "datecreated": "05.10.2021"
+    },
+    {
+        "id": 82,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep1.png",
+        "summary": "The team meet Morris and Pat Jones who, when digging a pond in their Northamptonshire garden, unearthed a skeleton - laid out with a knife, ceremonial pottery and a valuable buckle",
+        "location": "Raunds, Northamptonshire",
+        "country": "England",
+        "ngr": "SP 99593 72842",
+        "coord": "52.34462,-0.539447",
+        "recorded": "–",
+        "broadcast": {
+            "date": "5 January 2003",
+            "seriesepisode": 82,
+            "series": "Series 10",
+            "episode": "Episode 1",
+            "title": "Garden Secrets",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1370847,
+                    "name": "LAND AT RAUNDS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1882865"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Ovenden-Wilson (2002) Geophysical Survey: Raunds, Northamptonshire",
+                    "url": "doi.org/10.5284/1012074"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 83,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep2.png",
+        "summary": "Tony Robinson and the Team meet a Somerset farmer who unexpectedly uncovered a Roman mosaic floor under his pigsties",
+        "location": "Dinnington, Somerset",
+        "country": "England",
+        "ngr": "ST 40360 13507",
+        "coord": "50.917925,-2.849794",
+        "recorded": "8–10 May 2002",
+        "broadcast": {
+            "date": "12 January 2003",
+            "seriesepisode": 83,
+            "series": "Series 10",
+            "episode": "Episode 2",
+            "title": "Mosaics, Mosaics, Mosaics",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1363339,
+                    "name": "NORTHFIELD, DINNINGTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1885502"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2002) Geophysical Survey: Dinnington, Somerset",
+                    "url": "doi.org/10.5284/1000823"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "15453",
+                    "url": "www.somersetheritage.org.uk/record/15453"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": "18313",
+                    "url": "www.somersetheritage.org.uk/record/18313"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 84,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep3.png",
+        "summary": "Time Team travels to the Peak District to uncover the story behind a grisly discovery: a mysterious collection of human bones in a deep cave in Derbyshire",
+        "location": "Carsington, Derbyshire",
+        "country": "England",
+        "ngr": "SK 24195 53738",
+        "coord": "53.080321,-1.64026",
+        "recorded": "–",
+        "broadcast": {
+            "date": "19 January 2003",
+            "seriesepisode": 84,
+            "series": "Series 10",
+            "episode": "Episode 3",
+            "title": "Peak District Practices",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1371479,
+                    "name": "CARSINGTON PASTURE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1882804"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2002) Geophysical Survey: Carsington Pasture, Derbyshire",
+                    "url": "doi.org/10.5284/1008943"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Derbyshire HER",
+                    "id": "3204",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDR3250&resourceID=1023"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 85,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep4.png",
+        "summary": "The team visits a remote Scottish island to investigate an ancient local myth. What's the truth behind a cliff-top mound known as the Giant's Grave?",
+        "location": "Fetlar, Shetland       ",
+        "country": "Scotland",
+        "ngr": "HU 62146 90618",
+        "coord": "60.594185,-0.867257",
+        "recorded": "–",
+        "broadcast": {
+            "date": "26 January 2003",
+            "seriesepisode": 85,
+            "series": "Series 10",
+            "episode": "Episode 4",
+            "title": "The Giant's Grave",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 86,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep5.png",
+        "summary": "The Team visit Greenwich in search of Henry VIII's lost armoury and jousting yard, which was located beside his favourite palace - now the site for the Naval College and Maritime Museum",
+        "location": "Greenwich, London",
+        "country": "England",
+        "ngr": "TQ 38682 77808",
+        "coord": "51.48223,-0.004201",
+        "recorded": "–",
+        "broadcast": {
+            "date": "2 February 2003",
+            "seriesepisode": 86,
+            "series": "Series 10",
+            "episode": "Episode 5",
+            "title": "Joust Dig It",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1365649,
+                    "name": "GREENWICH MARITIME MUSEUM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1886255"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater and Ovenden-Wilson (2003) Greenwich",
+                    "url": "doi.org/10.5284/1008115"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO8677",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2857115"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "MLO30590",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2803515"
+                },
+                "additional2": {
+                    "name": "Greater London HER",
+                    "id": "MLO99380",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2821268"
+                }
+            }
+        },
+        "comment": "1 more her entry"
+    },
+    {
+        "id": 87,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep6.png",
+        "summary": "Tony Robinson and the team hunt for Liberty's first fabrics factory in South London",
+        "location": "Merton, London",
+        "country": "England",
+        "ngr": "TQ 26405 69842",
+        "coord": "51.413519,-0.183752",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 February 2003",
+            "seriesepisode": 87,
+            "series": "Series 10",
+            "episode": "Episode 6",
+            "title": "Digging Liberty",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1372944,
+                    "name": "FORMER LIBERTY PRINTWORKS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883504"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2002) Geophysical Survey: Merton Abbey Mills, London",
+                    "url": "doi.org/10.5284/1008128"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO14375",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2848906"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 88,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep7.png",
+        "summary": "Tony Robinson and the team visit one of Britain's finest structures - The Royal Crescent in Bath - and their excavations unearth some Roman skeletons and a road.",
+        "location": "Bath, Somerset       ",
+        "country": "England",
+        "ngr": "ST 74603 65473",
+        "coord": "51.387727,-2.366371",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 February 2003",
+            "seriesepisode": 88,
+            "series": "Series 10",
+            "episode": "Episode 7",
+            "title": "Death in a Crescent",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1373352,
+                    "name": "ROYAL CRESCENT (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883436"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Ovenden-Wilson et al. (2003) Julian Road and Royal Victoria Park, Bath",
+                    "url": "doi.org/10.5284/1000821"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "65060",
+                    "url": "www.somersetheritage.org.uk/record/65060"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": 65059,
+                    "url": "www.somersetheritage.org.uk/record/65059"
+                },
+                "additional2": {
+                    "name": "Somerset HER",
+                    "id": "60720",
+                    "url": "www.somersetheritage.org.uk/record/60720#"
+                }
+            }
+        }
+    },
+    {
+        "id": 89,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep8.png",
+        "summary": "Tony Robinson and the team return to a site they originally investigated in the very first series: Athelney, one of England's most important historic sites",
+        "location": "Athelney, Somerset",
+        "country": "England",
+        "ngr": "ST 34593 29252",
+        "coord": "51.058863,-2.934671",
+        "recorded": "–",
+        "broadcast": {
+            "date": "23 February 2003",
+            "seriesepisode": 89,
+            "series": "Series 10",
+            "episode": "Episode 8",
+            "title": "Back to Our Roots",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1373988,
+                    "name": "ATHELNEY ISLAND (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883170"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gaffney and Gater (2003) Athelney (II) Somerset",
+                    "url": "doi.org/10.5284/1000822"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "16154",
+                    "url": "www.somersetheritage.org.uk/record/16154#"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": "28564",
+                    "url": "www.somersetheritage.org.uk/record/28564#"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 90,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep9.png",
+        "summary": "Time Team travels to the world famous Kew Gardens - but how many of its visitors know they're walking on top of a lost royal palace? The team has just three days to piece it all together.",
+        "location": "Kew Gardens, London",
+        "country": "England",
+        "ngr": "TQ 18534 77387",
+        "coord": "51.483024,-0.294354",
+        "recorded": "–",
+        "broadcast": {
+            "date": "2 March 2003",
+            "seriesepisode": 90,
+            "series": "Series 10",
+            "episode": "Episode 9",
+            "title": "Looking for the White House",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1361458,
+                    "name": "ROYAL BOTANIC GARDENS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1884593"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2002) Kew Gardens, Richmond-Upon-Thames",
+                    "url": "doi.org/10.5284/1008116"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "MLO6745",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2807066"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "MLO101302",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2813090"
+                },
+                "additional2": {
+                    "name": "Greater London HER",
+                    "id": "ELO11569",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2846164"
+                }
+            }
+        }
+    },
+    {
+        "id": 91,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep10.png",
+        "summary": "A rare Bronze Age cemetery provides the cue for Tony and the Team to take on a rescue mission in Fife before developers move onto the land",
+        "location": "Leven, Fife",
+        "country": "Scotland",
+        "ngr": "NO 37870 02098",
+        "coord": "56.207395,-3.003143",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 March 2003",
+            "seriesepisode": 91,
+            "series": "Series 10",
+            "episode": "Episode 10",
+            "title": "Rescuing the Dead",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 92,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep11.png",
+        "summary": "Tony Robinson and the team are invited to dig up the lawns of one of Britain's grandest stately homes, Castle Howard in Yorkshire",
+        "location": "Castle Howard, North Yorkshire",
+        "country": "England",
+        "ngr": "SE 71450 70000",
+        "coord": "54.120905,-0.908317",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 March 2003",
+            "seriesepisode": 92,
+            "series": "Series 10",
+            "episode": "Episode 11",
+            "title": "Not a Blot on the Landscape",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1375727,
+                    "name": "CASTLE HOWARD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883950"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gater and Ovenden-Wilson (2002) Geophysical survey at Castle Howard, North Yorkshire (Report No 02/42)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 93,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep12.png",
+        "summary": "Tony Robinson and the team investigate aerial photos of fields outside Sedgefield that look like a lost Roman town - a town that could be Britain's most northerly Roman civilian settlement.",
+        "location": "Sedgefield, County Durham",
+        "country": "England",
+        "ngr": "NZ 34995 29015",
+        "coord": "54.655019,-1.459104",
+        "recorded": "–",
+        "broadcast": {
+            "date": "23 March 2003",
+            "seriesepisode": 93,
+            "series": "Series 10",
+            "episode": "Episode 12",
+            "title": "A View to a Kiln",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1376131,
+                    "name": "EAST PARK, SEDGEFIELD (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883766"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2002) Geophysical Survey: Sedgefield, Co Durham",
+                    "url": "doi.org/10.5284/1019133"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
+    },
+    {
+        "id": 94,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s10ep13.png",
+        "summary": "Tony Robinson and the team investigate the old market town of Appleby in Cumbria where a police station is on the site of no fewer than three historic gaols, now buried under the car park.",
+        "location": "Appleby-in-Westmorland, Cumbria",
+        "country": "England",
+        "ngr": "NY 68537 20454",
+        "coord": "54.578305,-2.488259",
+        "recorded": "–",
+        "broadcast": {
+            "date": "30 March 2003",
+            "seriesepisode": 94,
+            "series": "Series 10",
+            "episode": "Episode 13",
+            "title": "Jailhouse Rocks",
+            "year": 2003
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1376579,
+                    "name": "APPLEBY POLICE STATION, THE SANDS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1827743"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Gater (2002) Geophysical Survey: Appleby, Cumbria",
+                    "url": "doi.org/10.5284/1024502"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            }
+        }
     }
 ]
