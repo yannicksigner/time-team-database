@@ -8,7 +8,7 @@
 
 
   $('#next-button').click(function() {
-    if (!$('#prev-button').hasClass("disabled")) {
+    if (!$('#next-button').hasClass("disabled")) {
       updatePageination(1);
     }
   });
