@@ -4550,7 +4550,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Herefordshire SMR",
                     "id": "30514",
@@ -7267,7 +7267,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Somerset HER",
                     "id": "15453",
@@ -7708,7 +7708,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Somerset HER",
                     "id": "65060",
@@ -7884,7 +7884,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Greater London HER",
                     "id": "MLO6745",
@@ -8261,6 +8261,1138 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-013"
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 95,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep1.png",
+        "summary": "The Team descend on Syon House, west London to search for the site of Syon Abbey, one of England's richest abbeys, founded by Henry V and dissolved by Henry VIII in 1539",
+        "location": "Syon House, London",
+        "country": "England",
+        "ngr": "TQ 17333 76615",
+        "coord": "51.47634,-0.311899",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 January 2004",
+            "seriesepisode": 95,
+            "season": "Season 11",
+            "episode": "Episode 1",
+            "title": "In Search of the Brigittine Abbey",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1390357,
+                    "name": "SYON HOUSE, SYON PARK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1824744"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2003) Syon House, Syon Park, Hounslow. An Archaeological Evaluation of a Bridgettine Abbey and an Assessment of the Results",
+                    "url": "www.scribd.com/document/25203930/Syon-Park"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock and Gater (2003) Geophysical Survey: Syon House 2003",
+                    "url": "doi.org/10.5284/1008119"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO1480",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2857585"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0959238/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 96,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep2.png",
+        "summary": "Tony Robinson and the Team descend on the grounds of a medieval manor house in Somerset to investigate a possible Roman villa lying at the bottom of the garden",
+        "location": "Whitestaunton Manor, Somerset",
+        "country": "England",
+        "ngr": "ST 28014 10525",
+        "coord": "50.889703,-3.024814",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 January 2004",
+            "seriesepisode": 96,
+            "season": "Season 11",
+            "episode": "Episode 2",
+            "title": "A Roman Bath House and Edwardian Folly",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1390767,
+                    "name": "WHITESTAUNTON MANOR HOUSE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823676"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Barber (2004) Whitestaunton Manor House, Whitestaunton, Somerset: An archaeological evaluation and assessment of the results",
+                    "url": "www.scribd.com/doc/25204813/Whitestaunton-Manor"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Saunders (2004) Whitestaunton, Somerset",
+                    "url": "doi.org/10.5284/1000899"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "17068",
+                    "url": "www.somersetheritage.org.uk/record/17068"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": "16959",
+                    "url": "www.somersetheritage.org.uk/record/16959"
+                },
+                "additional2": {
+                    "name": "Somerset HER",
+                    "id": 53262,
+                    "url": "www.somersetheritage.org.uk/record/53262"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "www.imdb.com/title/tt0959239/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 97,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep3.png",
+        "summary": "The Team are at Loch Migdale in the Highlands diving, hill walking and digging around a mysterious island to piece together the story of Highland life 2000 to 3000 years ago",
+        "location": "Loch Migdale, Scottish Highlands",
+        "country": "Scotland",
+        "ngr": "NH 62597 91589",
+        "coord": "57.892503,-4.319505",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 January 2004",
+            "seriesepisode": 97,
+            "season": "Season 11",
+            "episode": "Episode 3",
+            "title": "The Crannog in the Loch",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0723700/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 98,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep4.png",
+        "summary": "In a field near Lincoln, Anglo-Saxon brooches, pins and clasps uncovered by metal detectorists point to an undiscovered cemetery. Tony Robinson and the Team investigate.",
+        "location": "South Carlton, Lincolnshire",
+        "country": "England",
+        "ngr": "SK 95695 77051",
+        "coord": "53.28181,-0.566168",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 January 2004",
+            "seriesepisode": 98,
+            "season": "Season 11",
+            "episode": "Episode 4",
+            "title": "Saxon Burials on the Ridge",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1391794,
+                    "name": "SOUTH CLIFF FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823896"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) South Cliff Farm , South Carlton, Lincolnshire: evaluation (Time Team)",
+                    "url": "doi.org/10.5284/1000867"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Urmston (2004) South Cliff Farm, Lincolnshire",
+                    "url": "doi.org/10.5284/1017289"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Lincolnshire HER",
+                    "id": "MLI86368",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86368&resourceID=1006"
+                },
+                "additional1": {
+                    "name": "Lincolnshire HER",
+                    "id": "MLI86360",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86360&resourceID=1006"
+                },
+                "additional2": {
+                    "name": "Lincolnshire HER",
+                    "id": "MLI86361",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86361&resourceID=1006"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0959236/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 99,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep5.png",
+        "summary": "The grounds of a Kent hotel have yielded a wide range of intriguing finds: ditches, ramparts, coins and pottery. Could this be the invading Roman army's first fort?",
+        "location": "Syndale, Kent",
+        "country": "England",
+        "ngr": "TQ 99451 61065",
+        "coord": "51.313727,0.860548",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 February 2004",
+            "seriesepisode": 99,
+            "season": "Season 11",
+            "episode": "Episode 5",
+            "title": "The Roman Fort That Wasn't There",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1392117,
+                    "name": "SYNDALE PARK, OSPRINGE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823973"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2003) Syndale Park, Ospringe, Kent: an archaeological evaluation and assessment of the results",
+                    "url": "doi.org/10.5284/1027936"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2003) Geophysical Survey: Syndale, Kent",
+                    "url": "doi.org/10.5284/1002607"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TQ 96 SE 108",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE20524"
+                },
+                "additional1": {
+                    "name": "Kent HER",
+                    "id": "TQ 96 SE 200",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE42942"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0959237/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 100,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep6.png",
+        "summary": "Poole Harbour was a thriving port in the Iron Age, but could Green Island in the centre of the harbour have been a site of earlier industrial mass production?",
+        "location": "Green Island, Dorset",
+        "country": "England",
+        "ngr": "SZ 00746 86586",
+        "coord": "50.67893,-1.990799",
+        "recorded": "–",
+        "broadcast": {
+            "date": "8 February 2004",
+            "seriesepisode": 100,
+            "season": "Season 11",
+            "episode": "Episode 6",
+            "title": "An Iron-Age Trading Centre",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1392604,
+                    "name": "GREEN ISLAND, POOLE HARBOUR (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1824142"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2003) Green Island, Poole Harbour, Dorset, December 2003: An Archaeological Evaluation and an Assessment of the Results",
+                    "url": "doi.org/10.5284/1028788"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2003) Green Island, Poole Harbour, Dorset",
+                    "url": "doi.org/10.5284/1039135"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0959233/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021",
+        "comment": "maybe her reference?"
+    },
+    {
+        "id": 101,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep7.png",
+        "summary": "Was a quiet rural valley in Staffordshire once home to a mass of blacksmiths' furnaces and do they date back even further than the Elizabethan age?",
+        "location": "The Old Furnace, Oakamoor, Staffordshire",
+        "country": "England",
+        "ngr": "SK 04144 43535",
+        "coord": "52.98913,-1.939713",
+        "recorded": "–",
+        "broadcast": {
+            "date": "15 February 2004",
+            "seriesepisode": 101,
+            "season": "Season 11",
+            "episode": "Episode 7",
+            "title": "A Medieval Blast Furnace",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1393510,
+                    "name": "LAND AT OAKAMOOR (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823466"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) Oldfurnace Cottage and Eastwall Farm, Oakamoor, Stafforshire: An Archaeological Evaluation and an Assessment of the Results",
+                    "url": "doi.org/10.5284/1007639"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Wood (2003) Geophysical Survey: Oakamoor, Staffordshire",
+                    "url": "doi.org/10.5284/1008118"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0946724/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 102,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep8.png",
+        "summary": "As the beach of the Severn river erodes, it reveals astonishing evidence of some of this country's earliest inhabitants",
+        "location": "Goldcliff, Newport",
+        "country": "Wales",
+        "ngr": "ST 37394 81902",
+        "coord": "51.532536,-2.90395",
+        "recorded": "–",
+        "broadcast": {
+            "date": "22 February 2004",
+            "seriesepisode": 102,
+            "season": "Season 11",
+            "episode": "Episode 8",
+            "title": "Rescuing a Mesolithic Foreshore",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0959232/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 103,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep9.png",
+        "summary": "The Iron Age hill fort in Wittenham is an impressive monument. But it's dwarfed by a neighbouring hill less than 150 metres away. What did the Iron Age tribe use this second, much larger, hill for?",
+        "location": "Wittenham Clumps, Oxfordshire",
+        "country": "England",
+        "ngr": "SU 56821 92440",
+        "coord": "51.627914,-1.180515",
+        "recorded": "–",
+        "broadcast": {
+            "date": "29 February 2004",
+            "seriesepisode": 103,
+            "season": "Season 11",
+            "episode": "Episode 9",
+            "title": "Fertile Soils, Rich Archaeology",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1393697,
+                    "name": "CASTLE HILL, WITTENHAM CLUMPS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823404"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) Round Hill, Wittenham Clumps, Oxfordshire: Archaeological Evaluation and an Assessment of the Results",
+                    "url": "doi.org/10.5284/1030410"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2003) Wittenham Clumps, Oxfordshire",
+                    "url": "doi.org/10.5284/1000843"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0959240/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 104,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep10.png",
+        "summary": "The Team delve under the floorboards at Ogling, a 15th-century manor, in their attempt to locate a fine Saxon hall that once belonged to King Canute",
+        "location": "Nassington, Northamptonshire",
+        "country": "England",
+        "ngr": "TL 06292 96131",
+        "coord": "52.552655,-0.433747",
+        "recorded": "–",
+        "broadcast": {
+            "date": "7 March 2004",
+            "seriesepisode": 104,
+            "season": "Season 11",
+            "episode": "Episode 10",
+            "title": "King Cnut's Manor",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1394097,
+                    "name": "CANUTE'S HOUSE, NASSINGTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823232"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2003) The Prebendal Manor House,Nassington, Northamptonshire, September 2003: Archaeological Field Evaluationand Post Excavation Assessment",
+                    "url": "www.wessexarch.co.uk/sites/default/files/52568_Nassington.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock and Saunders (2003) Geophysical Survey: Nassington, Northamptonshire",
+                    "url": "doi.org/10.5284/1012076"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0959234/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 105,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep11.png",
+        "summary": "Back in the 1940s, Basil Brown uncovered enough Roman remains near Ipswich to believe he had found the largest villa in East Anglia. Time Team return to the site to see if he was right.",
+        "location": "Ipswich, Suffolk",
+        "country": "England",
+        "ngr": "TM 14733 46647",
+        "coord": "52.076522,1.132127",
+        "recorded": "–",
+        "broadcast": {
+            "date": "14 March 2004",
+            "seriesepisode": 105,
+            "season": "Season 11",
+            "episode": "Episode 11",
+            "title": "Back-Garden Archaeology Revisiting a Roman villa",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1394530,
+                    "name": "CASTLE HILL, WHITTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1823172"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2003) Castle Hill, Ipswich, Suffolk: Archaeological Evaluation and an Assessment of the Results",
+                    "url": "doi.org/10.5284/1023605"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Saunders (2003) Geophysical Survey: Castle Hill, ipswich",
+                    "url": "doi.org/10.5284/1036338"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "IPS 421",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF25265&resourceID=1017"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0723694/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 106,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep12.png",
+        "summary": "Five hundred years ago Roxburgh was one of Scotland's major cities. Tony Robinson and the Team have just three days to uncover the remains of one of the country's most important sites.",
+        "location": "Roxburgh, Scottish Borders",
+        "country": "Scotland",
+        "ngr": "NT 71840 33855",
+        "coord": "55.597499,-2.448431",
+        "recorded": "–",
+        "broadcast": {
+            "date": "21 March 2004",
+            "seriesepisode": 106,
+            "season": "Season 11",
+            "episode": "Episode 12",
+            "title": "The Lost City of Roxburgh",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0959235/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
+            }
+        },
+        "datecreated": "06.10.2021"
+    },
+    {
+        "id": 107,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s11ep13.png",
+        "summary": "The Team visit Dorset farmer Simon Meadon's land, which is packed with archaeology, including a large Roman building which might be a villa",
+        "location": "Cranborne Chase, Dorset",
+        "country": "England",
+        "ngr": "ST 97351 14350",
+        "coord": "50.928594,-2.039061",
+        "recorded": "–",
+        "broadcast": {
+            "date": "28 March 2004",
+            "seriesepisode": 107,
+            "season": "Season 11",
+            "episode": "Episode 13",
+            "title": "Brimming with Remains",
+            "year": 2004
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1395253,
+                    "name": "MYNCEN & GOLDFIELDS FARMS, MINCHINGTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1822920"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) Myncen and Goldfields Farms, Minchington, Dorset: Assessment of the Results from the Archaeological Evaluation",
+                    "url": "doi.org/10.5284/1028789"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gaffney et al. (2003) Cranbourne Chase, Dorset",
+                    "url": "doi.org/10.5284/1076185"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0959231/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": true
             }
         },
         "datecreated": "06.10.2021"
