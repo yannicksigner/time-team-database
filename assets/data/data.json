@@ -9396,5 +9396,164 @@
             }
         },
         "datecreated": "06.10.2021"
+    },
+    {
+        "id": 108,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep1.png",
+        "summary": "Tony Robinson and the team visit Chenies Manor which is believed to have been upgraded in time for Henry VIII's visit around 1530. However, while a late-16th century inventory suggests that an additional range of rooms fit for a king once existed, traces of them have vanished since the house fell into disrepair. Can the experts uncover the layout of the building as it appeared in Tudor times?",
+        "location": "Chenies Manor House, Buckinghamshire",
+        "country": "England",
+        "ngr": "TQ 01528 98352",
+        "coord": "51.674772,-0.53311092",
+        "recorded": "–",
+        "broadcast": {
+            "date": "2 January 2005",
+            "seriesepisode": 108,
+            "season": "Season 12",
+            "episode": "Episode 1",
+            "title": "The Manor That's Back to Front",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1406222,
+                    "name": "CHENIES MANOR (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1818108"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Chenies Manor, Chenies, Buckinghamshire, An Archaeological Evaluation of a Tudor Manor House and an Assessment of the Results",
+                    "url": "doi.org/10.5284/1023468"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock (2004) Geophysical Survey: Chenies Manor, Buckinghamshire",
+                    "url": "doi.org/10.5284/1008117"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Buckinghamshire HER",
+                    "id": "0167100000",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC4932&resourceID=1024"
+                },
+                "additional1": {
+                    "name": "Buckinghamshire HER",
+                    "id": "0167104000",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC21764&resourceID=1024"
+                },
+                "additional2": {
+                    "name": "Buckinghamshire HER",
+                    "id": "167105000",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC24969&resourceID=1024"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0959230/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "07.10.2021"
+    },
+    {
+        "id": 109,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep2.png",
+        "summary": "The villagers of Nether Poppleton, near York, join Tony Robinson and the team for some extensive digging as they try to determine the exact age of their village. The current layout follows a typical medieval pattern but a reference to the village in the Domesday Book has the experts thinking that it could date back to Saxon times at least.",
+        "location": "Nether Poppleton, Yorkshire",
+        "country": "England",
+        "ngr": "SE 55904 55027",
+        "coord": "53.988279,-1.148894",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 January 2005",
+            "seriesepisode": 109,
+            "season": "Season 12",
+            "episode": "Episode 2",
+            "title": "The Monastery and the Mansion",
+            "year": 2005
+        }
+    },
+    {
+        "id": 110,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep3.png",
+        "summary": "On 29 November 1944, two Douglas A-26 Invader US bomber planes crashed into Warton Marsh, eight miles from Preston, in Lancashire. Both planes, along with a number of others, had left Warton Airbase in formation, en route to join forces in the preparations for the Battle of the Bulge, which took place from 16 December 1944 to 25 January 1945. Only one minute off the runway and 1,000 feet into the air, the aircraft collided and came to rest in the marsh. All the crew died. Their bodies were recovered from the planes, but an investigation into the causes of the crash was inconclusive.",
+        "location": "Warton near Preston, Lancashire",
+        "country": "England",
+        "ngr": "SD 38403 26950",
+        "coord": "53.735285,-2.935246",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 January 2005",
+            "seriesepisode": 110,
+            "season": "Season 12",
+            "episode": "Episode 3",
+            "title": "The Bombers in the Marsh",
+            "year": 2005
+        }
+    },
+    {
+        "id": 111,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep4.png",
+        "summary": "Twenty years ago, during a particularly dry summer, parch marks revealed what seemed to be a huge Roman fort a few hundred metres from the Duke of Buccleuch's extraordinarily grand house, Drumlanrig Castle, in Dumfries. The discovery lay untouched until Time Team took on the challenge to investigate it further.",
+        "location": "Drumlanrig, Dumfries and Galloway",
+        "country": "Scotland",
+        "ngr": "NX 85252 98953",
+        "coord": "55.271321,-3.80762",
+        "recorded": "–",
+        "broadcast": {
+            "date": "23 January 2005",
+            "seriesepisode": 111,
+            "season": "Season 12",
+            "episode": "Episode 4",
+            "title": "Fighting on the Frontier",
+            "year": 2005
+        }
+    },
+    {
+        "id": 112,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep5.png",
+        "summary": "The Time Team is invited to a huge circular crop mark near Peterborough, referred to as a Causewayed Enclosure by archaeologists. Huge ditches mark the area, which date the site at around 6,000 years old. Some believe the ditches to be evidence of farming, others that they are of religious origin.",
+        "location": "Northborough, Peterborough",
+        "country": "England",
+        "ngr": "TF 15625 08512",
+        "coord": "52.662008,-0.29183",
+        "recorded": "–",
+        "broadcast": {
+            "date": "30 January 2005",
+            "seriesepisode": 112,
+            "season": "Season 12",
+            "episode": "Episode 5",
+            "title": "A Neolithic Cathedral?",
+            "year": 2005
+        }
     }
 ]
