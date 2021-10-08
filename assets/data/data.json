@@ -11049,5 +11049,440 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 127,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep7.png",
+        "summary": "Tony Robinson's archaeological team travel to the Yorkshire Dales to meet Chris and Barbara Bradley on their farm to uncover the remains of a monastic grange - a medieval forerunner to the grand country house.",
+        "location": "Brimham, Harrogate, Yorkshire",
+        "country": "England",
+        "ngr": "SE 22172 63031",
+        "coord": "54.062747,-1.662743",
+        "recorded": "–",
+        "broadcast": {
+            "date": "5 March 2006",
+            "seriesepisode": 127,
+            "season": "Season 13",
+            "episode": "Episode 7",
+            "title": "The Monks' Manor",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1439358,
+                    "name": "BRIMHAM HALL FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1828592"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Brimham Hall, Hartwith, Harrogate, North Yorkshire: Archaeological Evaluation and assessment of results.",
+                    "url": "doi.org/10.5284/1036622"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wilkins (2005) Geophysical Survey: Brimham Hall Farm, Harrogate, North Yorkshire",
+                    "url": "doi.org/10.5284/1008940"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "North Yorkshire HER",
+                    "id": "MNY7226",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNY7226&resourceID=1009"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0960644/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 128,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep8.png",
+        "summary": "At the mouth of the Thames, on the Isle of Sheppey in Kent, lie the remains of Queenborough Castle, built by Edward III during the Hundred Years War. The Time Team excavate the castle mound, but its circular design makes analysis difficult, and opinion is divided whether the castle was built for defence or as a royal bolthole from the plague. The surrounding town is also explored, leading to the recreation of a bizarre journey using a paper boat paddled by oars made of cod.",
+        "location": "Queenborough, Kent",
+        "country": "England",
+        "ngr": "TQ 91233 72153",
+        "coord": "51.416134,0.748727",
+        "recorded": "–",
+        "broadcast": {
+            "date": "12 March 2006",
+            "seriesepisode": 128,
+            "season": "Season 13",
+            "episode": "Episode 8",
+            "title": "Castle in the Round",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1439567,
+                    "name": "QUEENBOROUGH CASTLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1828408"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Wessex Archaeology (2005) Queenborough Castle, Isle of Sheppey, Kent: archaeological evaluation",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wilkins (2005) Geophysical Survey: Queenborough Castle, Isle of Sheppey",
+                    "url": "doi.org/10.5284/1002605"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TQ 97 SW 1",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE3689"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.7",
+                "url": "www.imdb.com/title/tt0960656/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 129,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep9.png",
+        "summary": "They travel to what could be a Neolithic settlement in the Sussex Downs in Essex. Initially discovered in 1923, the site is littered with remains of 6000-year-old flint mines.",
+        "location": "Blackpatch, near Worthing, Sussex",
+        "country": "England",
+        "ngr": "TQ 09622 09541",
+        "coord": "50.874978,-0.443323",
+        "recorded": "–",
+        "broadcast": {
+            "date": "19 March 2006",
+            "seriesepisode": 129,
+            "season": "Season 13",
+            "episode": "Episode 9",
+            "title": "Sussex Ups and Downs",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1440006,
+                    "name": "BLACKPATCH HILL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1829779"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Blackpatch, Worthing, West Sussex: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/59465_Blackpatch%20Arundel.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Shiel (2005) Geophysical Survey: Blackpatch Hill, West Sussex",
+                    "url": "doi.org/10.5284/1008942"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "West Sussex HER",
+                    "id": "MWS8026",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWS8026&resourceID=1032"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0960643/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 130,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep10.png",
+        "summary": "The team descend upon the sleepy Oxfordshire village of Islip, the birthplace of Edward the Confessor, for one of the most challenging and intriguing excavations of the series. The villagers of Islip are celebrating the millennium of Edward's birth and want the team to discover the location of a medieval chapel dedicated to their famous former resident.",
+        "location": "Islip, Oxfordshire",
+        "country": "England",
+        "ngr": "SP 52976 14326",
+        "coord": "51.82505,-1.232742",
+        "recorded": "–",
+        "broadcast": {
+            "date": "26 March 2006",
+            "seriesepisode": 130,
+            "season": "Season 13",
+            "episode": "Episode 10",
+            "title": "Birthplace of the Confessor",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1440351,
+                    "name": "LAND AT ISLIP (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1830051"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Islip, Oxfordshire, Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1030276"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2005) Geophysical Survey: Islip, Oxfordshire",
+                    "url": "doi.org/10.5284/1000846"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Oxfordshire HER",
+                    "id": "5277",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5231&resourceID=1033"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0960652/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 131,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep11.png",
+        "summary": "The team descend on the village of Ffrith in North Wales to discover if it is built on the remains of a Roman mining town.",
+        "location": "Ffrith, Flintshire",
+        "country": "Wales",
+        "ngr": "SJ 28465 55321",
+        "coord": "53.090283,-3.069603",
+        "recorded": "–",
+        "broadcast": {
+            "date": "2 April 2006",
+            "seriesepisode": 131,
+            "season": "Season 13",
+            "episode": "Episode 11",
+            "title": "Early Bath",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.5",
+                "url": "www.imdb.com/title/tt0960648/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
