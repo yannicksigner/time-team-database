@@ -9610,7 +9610,7 @@
             },
             "report": {
                 "availability": true,
-                "multiple": true,
+                "multiple": false,
                 "comment": "–",
                 "main": {
                     "accessable": true,
@@ -9825,6 +9825,354 @@
                 "availability": true,
                 "rating": "8.8",
                 "url": "www.imdb.com/title/tt0960655/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 113,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep6.png",
+        "summary": "The team have three days to explore the skeleton of a medieval warship found on the bed of the River Hamble near Southampton. They must prove whether it is the Grace Dieu, Henry V's naval flagship, and also find out how big it was and just why it came to grief.",
+        "location": "Bursledon, Hampshire",
+        "country": "England",
+        "ngr": "SU 50117 10503",
+        "coord": "50.891844,-1.288816",
+        "recorded": "–",
+        "broadcast": {
+            "date": "6 February 2005",
+            "seriesepisode": 113,
+            "season": "Season 12",
+            "episode": "Episode 6",
+            "title": "In Search of Henry V's Flagship, Grace Dieu",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1407802,
+                    "name": "GRACE DIEU', RIVER HAMBLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1817946"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0960650/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 114,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep7.png",
+        "summary": "For years, a field near Standish in Gloucestershire has yielded Roman broaches, mosaic tiles and coins. The finds point to a sizeable villa somewhere nearby - but so far none has been found. Tony Robinson and the team have just three days to solve the mystery.",
+        "location": "Standish, Gloucestershire",
+        "country": "England",
+        "ngr": "SO 80025 08874",
+        "coord": "51.778168,-2.29093",
+        "recorded": "–",
+        "broadcast": {
+            "date": "13 February 2005",
+            "seriesepisode": 114,
+            "season": "Season 12",
+            "episode": "Episode 7",
+            "title": "Going Upmarket with the Romans",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1408029,
+                    "name": "LAND AT STANDISH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1817462"
+                },
+                "additional1": {
+                    "id": 1485485,
+                    "name": "LAND AT NEW MORETON FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1939478"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) New Moreton Farm, Standish, Gloucestershire: Interim Report on an Archaeological Evaluation",
+                    "url": "doi.org/10.5284/1030405"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2004) Geophysical Survey: Standish, Gloucestershire",
+                    "url": "doi.org/10.5284/1000844"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "20999",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=20999&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0960661/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 115,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep8.png",
+        "summary": "Wemyss Caves, on the shore of the Firth of Forth, have been a famous landmark for centuries. Legend has it that they were occupied by the mysterious Pictish people who scared the Romans into building Hadrian's Wall; that subsequently they were home to medieval Christian hermits and later to Jacobean nobles.",
+        "location": "Wemyss, Fife",
+        "country": "Scotland",
+        "ngr": "NT 34400 97135",
+        "coord": "56.162351,-3.057839",
+        "recorded": "–",
+        "broadcast": {
+            "date": "20 February 2005",
+            "seriesepisode": 115,
+            "season": "Season 12",
+            "episode": "Episode 8",
+            "title": "Picts and Hermits: Cave Dwellers of Fife",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0960664/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 116,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep9.png",
+        "summary": "In the 7th Century Viking pirates sailed up a muddy Essex creek. Legend has it they captured a lonely nun who when offered her 'modesty or her mortality', chose to die. The nun then carried her severed head up the hill to her church where she collapsed. Where she lay a spring bubbled up.",
+        "location": "St Osyth, Essex",
+        "country": "England",
+        "ngr": "TM 11301 15569",
+        "coord": "51.798826,1.06306",
+        "recorded": "–",
+        "broadcast": {
+            "date": "27 February 2005",
+            "seriesepisode": 116,
+            "season": "Season 12",
+            "episode": "Episode 9",
+            "title": "Lost Centuries of St Osyth",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1408580,
+                    "name": "ST OSYTH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1817602"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) St. Osyth, Essex: An Archaeological Evaluation of the Town of St. Osyth and an Assessment of the Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/55753_St%20Osyth.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2004) Geophysical Survey: St Osyth, Essex",
+                    "url": "doi.org/10.5284/1058368"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Essex HER",
+                    "id": "46644",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MEX1039315&resourceID=1001"
+                },
+                "additional1": {
+                    "name": "Essex HER",
+                    "id": "46648",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MEX1039319&resourceID=1001"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0960660/?ref_=tt_ep_nx"
             },
             "channel4": {
                 "availability": false
