@@ -10527,5 +10527,440 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 121,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep1.png",
+        "summary": "Tony and the team return for a new series, visiting Glendon Hall in Northamptonshire to unravel the mystery of the human skeletons found under an outbuilding. In November 2004 Martin Hipwell was working in the garden converting a Victorian brick shed.",
+        "location": "Glendon, Northamptonshire",
+        "country": "England",
+        "ngr": "SP 84569 81369",
+        "coord": "52.423777,-0.757779",
+        "recorded": "–",
+        "broadcast": {
+            "date": "22 January 2006",
+            "seriesepisode": 121,
+            "season": "Season 13",
+            "episode": "Episode 1",
+            "title": "The Bodies in the Shed - Glendon's Lost Graveyard",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1437969,
+                    "name": "GLENDON HALL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1828758"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Glendon Hall, Kettering, Northamptonshire: Assessment of the Results from the Archaeological Evaluation",
+                    "url": "www.wessexarch.co.uk/sites/default/files/59460_Glendon%20Hall%20Kettering_sm.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Wood (2005) Geophysical survey at Glendon, Northamptonshire (Report No 05/17)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Northamptonshire HER",
+                    "id": "3965",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN166138&resourceID=1044"
+                },
+                "additional1": {
+                    "name": "Northamptonshire HER",
+                    "id": "8586/0/1",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171398&resourceID=1044"
+                },
+                "additional2": {
+                    "name": "Northamptonshire HER",
+                    "id": "3965/2",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171397&resourceID=1044"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0960649/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 122,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep2.png",
+        "summary": "When a colony of moles brings up pieces of mosaic floor in a Cotswold field, Tony Robinson and the team investigate whether the findings could be linked to a nearby Roman villa discovered nearby almost 200 years ago.",
+        "location": "Withington, Gloucestershire",
+        "country": "England",
+        "ngr": "SP 03365 14924",
+        "coord": "51.832918,-1.952569",
+        "recorded": "2–5 August 2005",
+        "broadcast": {
+            "date": "29 January 2006",
+            "seriesepisode": 122,
+            "season": "Season 13",
+            "episode": "Episode 2",
+            "title": "Villas out of Molehills",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1437324,
+                    "name": "WITHINGTON VILLA (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1831261"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Withington, Gloucestershire Archaeological Evaluation and Assessment of the Results",
+                    "url": "doi.org/10.5284/1056028"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Wood (2005) Geophysical Survey: Wothington, Gloucestershire",
+                    "url": "doi.org/10.5284/1008941"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Gloucestershire HER",
+                    "id": "31",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=31&resourceID=108"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0960665/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 123,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep3.png",
+        "summary": "The team set to work uncovering Manchester's first cotton mill, built by one of the fathers of the Industrial Revolution, Richard Arkwright. Over three days the team uncover the remains of a complex factory as they search for the heart of the first mill: a revolutionary steam engine that was decades ahead of its time.",
+        "location": "Manchester",
+        "country": "England",
+        "ngr": "SJ 84403 98981",
+        "coord": "53.487311,-2.236522",
+        "recorded": "–",
+        "broadcast": {
+            "date": "5 February 2006",
+            "seriesepisode": 123,
+            "season": "Season 13",
+            "episode": "Episode 3",
+            "title": "Rubble at the Mill",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1438271,
+                    "name": "KENWRIGHT STREET CAR-PARK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1829086"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Arkwright’s Mill, NCP Car Park, Miller Street, Manchester: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/59471_Arkwrights%20Mill%20Manchester.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock and Gater (2005) Geophysical Survey: Arkwright's Mill, Manchester",
+                    "url": "doi.org/10.5284/1000845"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0960653/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 124,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep4.png",
+        "summary": "The team visit Penny Rainbow's Surrey home that is all that remains of a palace that was grand it inspired the design of Hampton Court. Over three days they piece together the story of a site that evolved into one of the most stunning buildings of early Tudor times.",
+        "location": "Esher, Surrey",
+        "country": "England",
+        "ngr": "TQ 13077 65104",
+        "coord": "51.37374,-0.376815",
+        "recorded": "–",
+        "broadcast": {
+            "date": "12 February 2006",
+            "seriesepisode": 124,
+            "season": "Season 13",
+            "episode": "Episode 4",
+            "title": "The First Tudor Palace?",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1438563,
+                    "name": "WAYNEFLETE TOWER, ESHER (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1828982"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Wayneflete Tower, Esher, Surrey: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/59472_Wayneflete%20Surrey.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Gater (2005) Geophysical survey at Wayneflete Tower, Esher (Report No 05/65)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt0960647/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 125,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep5.png",
+        "summary": "On the biggest building site in Europe, Tony Robinson and the team unearth a perfectly preserved Roman boat. Invited by Dutch archaeologists to help rescue crucial evidence from a 35-metre-long barge that once sailed the Rhine, the team have one chance to investigate the boat before the bulldozers move in.",
+        "location": "Utrecht",
+        "country": "Netherlands",
+        "ngr": "–",
+        "coord": "–",
+        "recorded": "–",
+        "broadcast": {
+            "date": "19 February 2006",
+            "seriesepisode": 125,
+            "season": "Season 13",
+            "episode": "Episode 5",
+            "title": "The Boat on the Rhine - A Roman Boat in Utrecht",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0960662/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
