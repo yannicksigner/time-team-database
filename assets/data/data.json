@@ -11484,5 +11484,179 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 132,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep12.png",
+        "summary": "Time Team travel to Alfoldean in Sussex to uncover a Roman coaching inn, and the story of the whole settlement. Atrocious weather and the sheer scale of the site push the team's resources to the limits.",
+        "location": "Alfoldean, Horsham, Sussex",
+        "country": "England",
+        "ngr": "TQ 11840 32975",
+        "coord": "51.0852,-0.4046",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 April 2006",
+            "seriesepisode": 132,
+            "season": "Season 13",
+            "episode": "Episode 12",
+            "title": "The Taxman's Tavern - A Roman Mansio",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1440948,
+                    "name": "STANE STREET, ALFOLDEAN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1829463"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Alfoldean, Slinfold, West Sussex: archaeological evaluation and assessment of results",
+                    "url": "doi.org/10.5284/1027482"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2005) Geophysical Survey: Alfoldean, West Sussex",
+                    "url": "doi.org/10.5284/1008939"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "West Sussex HER",
+                    "id": "MWS3358",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWS3358&resourceID=1032"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0960641/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 133,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep13.png",
+        "summary": "Tony and the team journey to Applecross in the north west of Scotland to excavate a broch, a monumental stone tower that was amongst one of the largest Iron Age structures in Britain.",
+        "location": "Applecross near Skye, Scottish Highlands",
+        "country": "Scotland",
+        "ngr": "NG 71169 44361",
+        "coord": "57.43176,-5.81387",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 April 2006",
+            "seriesepisode": 133,
+            "season": "Season 13",
+            "episode": "Episode 13",
+            "title": "Scotch Broch",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt0960642/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
