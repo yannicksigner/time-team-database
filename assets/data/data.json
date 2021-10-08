@@ -10962,5 +10962,92 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 126,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s13ep6.png",
+        "summary": "Tony and the team descend on the orchards of Kent to search for the lost Anglo-Saxon palace of Eastry, and discover two likely contenders. Over three days, they dig the longest trench in Time Team history on their way to unearthing a fascinating story of power, politics and murder.",
+        "location": "Eastry, Kent",
+        "country": "England",
+        "ngr": "TR 31251 55975",
+        "coord": "51.256012,1.312794",
+        "recorded": "–",
+        "broadcast": {
+            "date": "26 February 2006",
+            "seriesepisode": 126,
+            "season": "Season 13",
+            "episode": "Episode 6",
+            "title": "Court of the Kentish King",
+            "year": 2006
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1439116,
+                    "name": "HIGHBOROUGH HILL/EASTRY COURT (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1828188"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Highborough Hill, Eastry Court and Environs, Eastry, Kent: Assessment of the Results from the Archaeological Evaluation",
+                    "url": "www.wessexarch.co.uk/sites/default/files/59462_Eastry%20Court%20Kent.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater and Robertson (2005) Geophysical Survey: Eastry, Kent",
+                    "url": "doi.org/10.5284/1002606"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Kent HER",
+                    "id": "TR 35 NW 836",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE80250"
+                },
+                "additional1": {
+                    "name": "Kent HER",
+                    "id": "TR 35 NW 837",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE80251"
+                },
+                "additional2": {
+                    "name": "Kent HER",
+                    "id": "TR 35 NW 838",
+                    "url": "webapps.kent.gov.uk/KCC.ExploringKentsPast.Web.Sites.Public/SingleResult.aspx?uid=MKE80252"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.3",
+                "url": "www.imdb.com/title/tt0960646/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
