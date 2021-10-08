@@ -1042,7 +1042,7 @@
                 },
                 "additional2": {
                     "name": "Somerset HER",
-                    "id": 16903,
+                    "id": "16903",
                     "url": "www.somersetheritage.org.uk/record/16903"
                 }
             },
@@ -4563,7 +4563,7 @@
                 },
                 "additional2": {
                     "name": "Herefordshire SMR",
-                    "id": 30512,
+                    "id": "30512",
                     "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10204&resourceID=101"
                 }
             },
@@ -8424,7 +8424,7 @@
                 },
                 "additional2": {
                     "name": "Somerset HER",
-                    "id": 53262,
+                    "id": "53262",
                     "url": "www.somersetheritage.org.uk/record/53262"
                 }
             },
@@ -9405,7 +9405,7 @@
         "country": "England",
         "ngr": "TQ 01528 98352",
         "coord": "51.674772,-0.53311092",
-        "recorded": "–",
+        "recorded": "16–18 March 2004",
         "broadcast": {
             "date": "2 January 2005",
             "seriesepisode": 108,
@@ -9500,7 +9500,76 @@
             "episode": "Episode 2",
             "title": "The Monastery and the Mansion",
             "year": 2005
-        }
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1406413,
+                    "name": "NETHER POPPLETON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1818067"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Wessex Archaeology (2005) Nether Poppleton,City of York, Yorkshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/55756_Nether%20Poppleton.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2004) Geophysical Survey: Nether Poppleton, North Yorkshire",
+                    "url": "doi.org/10.5284/1000841"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0960654/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "07.10.2021"
     },
     {
         "id": 110,
@@ -9518,7 +9587,76 @@
             "episode": "Episode 3",
             "title": "The Bombers in the Marsh",
             "year": 2005
-        }
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1406796,
+                    "name": "WARTON MARSH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1818258"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Urmston (2004) Geophysical Survey: Warton Marsh, Lancashire",
+                    "url": "doi.org/10.5284/1000842"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.7",
+                "url": "www.imdb.com/title/tt0960663/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     },
     {
         "id": 111,
@@ -9536,7 +9674,76 @@
             "episode": "Episode 4",
             "title": "Fighting on the Frontier",
             "year": 2005
-        }
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0960645/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     },
     {
         "id": 112,
@@ -9554,6 +9761,75 @@
             "episode": "Episode 5",
             "title": "A Neolithic Cathedral?",
             "year": 2005
-        }
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1403250,
+                    "name": "NORTHBOROUGH FEN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1819522"
+                },
+                "additional1": {
+                    "id": 1489267,
+                    "name": "NORTHBOROUGH CAUSEWAYED ENCLOSURE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1941334"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Northborough Neolithic Causewayed Enclosure, Peterborough, Cambridgeshire: Archaeological Evaluation and Assessment of the Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/55761_Northborough.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2004) Geophysical Survey: Northborough Causewayed Enclosure, Peterborough",
+                    "url": "doi.org/10.5284/1006101"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Peterborough HER",
+                    "id": "51320",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB3371&resourceID=1045"
+                },
+                "additional1": {
+                    "name": "Peterborough HER",
+                    "id": "51330",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB3368&resourceID=1045"
+                },
+                "additional2": {
+                    "name": "Peterborough HER",
+                    "id": "51319",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB4918&resourceID=1045"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.8",
+                "url": "www.imdb.com/title/tt0960655/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
