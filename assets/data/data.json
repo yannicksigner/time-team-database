@@ -10179,5 +10179,353 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 117,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep10.png",
+        "summary": "Time Team heads to South Perrott in Dorset, inspired by the intriguing discovery of Roman brooches and coins in a hilltop field. The Team are pretty sure they're going to uncover a Roman Temple, but the search gets off to a bad start when all the pottery turns out to be medieval and there's no sign of any buildings.",
+        "location": "South Perrott, Dorset",
+        "country": "England",
+        "ngr": "ST 47103 05308",
+        "coord": "50.844866,-2.752691",
+        "recorded": "–",
+        "broadcast": {
+            "date": "6 March 2005",
+            "seriesepisode": 117,
+            "season": "Season 12",
+            "episode": "Episode 10",
+            "title": "The Puzzle of Picket's Farm",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1408921,
+                    "name": "PICKET FARM, SOUTH PERROTT (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1817680"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Picket Farm, Picket Lane, South Perrot, Dorset: Report on an archaeological fieldwalking exercise and evaluation, and an assessment of the results",
+                    "url": "doi.org/10.5284/1028790"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2004) Geophysical Survey: Picket Farm, South Perrott, Dorset",
+                    "url": "doi.org/10.5284/1056284"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Dorset HER",
+                    "id": "MDO37749",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDO37749&resourceID=1012"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.9",
+                "url": "www.imdb.com/title/tt0960658/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 118,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep11.png",
+        "summary": "For years Time Team fan Frances Davies has been collecting finds from the field outside her back door in Skipsea in East Yorkshire. She has uncovered Neolithic, Roman and Saxon items, but her best finds are medieval pots dating from the Norman Conquest. It's clear that there was some habitation in the area 1,000 years ago, but a geophysics plot of the site reveals incredible results, far beyond the team's expectations.",
+        "location": "Skipsea, East Riding of Yorkshire",
+        "country": "England",
+        "ngr": "TA 17287 53870",
+        "coord": "53.967614,-0.213551",
+        "recorded": "–",
+        "broadcast": {
+            "date": "13 March 2005",
+            "seriesepisode": 118,
+            "season": "Season 12",
+            "episode": "Episode 11",
+            "title": "Norman Neighbours",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1409059,
+                    "name": "CLEETON DMV, SKIPSEA (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1834381"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2004) Skipsea Grange, Skipsea, Holderness, East Riding of Yorkshire: report on an archaeological evaluation and an assessment of the results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/55762_Skipsea%20Holderness.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Gater (2004) Geophysical survey at Skipsea Grange, East Riding of Yorkshire (Report No 04/68)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.6",
+                "url": "www.imdb.com/title/tt0960657/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 119,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep12.png",
+        "summary": "In South Shields, the Roman Fort at the end of Hadrian's Wall is a local landmark and the team embark on a quest to locate the site of a huge Roman military cemetery thought to be in the area. They search all nearby open spaces but come to the conclusion that the likeliest site of the cemetery is beneath a 1960s housing estate.",
+        "location": "South Shields, Tyne and Wear",
+        "country": "England",
+        "ngr": "NZ 36374 67468",
+        "coord": "55.000462,-1.432911",
+        "recorded": "–",
+        "broadcast": {
+            "date": "20 March 2005",
+            "seriesepisode": 119,
+            "season": "Season 12",
+            "episode": "Episode 12",
+            "title": "Hunting the Romans in South Shields - Tower Blocks and Togas",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1409351,
+                    "name": "SOUTH SHIELDS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1834455"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Gater (2004) Geophysical survey at Arbeia, South Shields (Report No 04/30)",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Tyne and Wear HER",
+                    "id": "914",
+                    "url": "sitelines.newcastle.gov.uk/smr/914"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt0960659/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
+    },
+    {
+        "id": 120,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s12ep13.png",
+        "summary": "An unusual horse bit, some posh finds and carved stonework lead Time Team on a search for a Norman hunting lodge in Northamptonshire. But it isn't long before the lodge's massive stone walls begin to look a little less impressive, and, under the forensic trowels of the diggers, the lodge shrinks in every direction.",
+        "location": "Hanslope, Milton Keynes",
+        "country": "England",
+        "ngr": "SP 77199 48128",
+        "coord": "52.126082,-0.873735",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 April 2005",
+            "seriesepisode": 120,
+            "season": "Season 12",
+            "episode": "Episode 13",
+            "title": "Animal Farm",
+            "year": 2005
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1409597,
+                    "name": "GORDONS LODGE FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1834069"
+                },
+                "additional1": {
+                    "id": 1494915,
+                    "name": "OLIVER'S MEADOW, GORDON'S LODGE FARM, HANSLOPE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929966"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2005) Oliver's Meadow, Gordon's Lodge Farm, Hanslope, near Grafton Regis, Northamptonshire: Report on an Archaeological Evaluation and an Assessment of the Results",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929966"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock et al. (2004) Geophysical Survey: Oliver's Meadow, Northamptonshire",
+                    "url": "doi.org/10.5284/1002940"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0960651/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "08.10.2021"
     }
 ]
