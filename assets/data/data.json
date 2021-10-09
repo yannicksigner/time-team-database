@@ -11658,5 +11658,527 @@
             }
         },
         "datecreated": "08.10.2021"
+    },
+    {
+        "id": 134,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep1.png",
+        "summary": "The team head to a golf course on the Isle of Man to investigate the remains of a small stone chapel possibly built by Vikings.",
+        "location": "Isle of Man",
+        "country": "England",
+        "ngr": "SC 33370 74653",
+        "coord": "54.140615,-4.552331",
+        "recorded": "–",
+        "broadcast": {
+            "date": "14 January 2007",
+            "seriesepisode": 134,
+            "season": "Season 14",
+            "episode": "Episode 1",
+            "title": "Finds on the Fairway",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Speke Keeill, Mount Murray Hotel, Isle of Man: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62511_Isle%20of%20Man%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Isle of Man HER",
+                    "id": "0189.00",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2646947"
+                },
+                "additional1": {
+                    "name": "Isle of Man HER",
+                    "id": "0205.00",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2646966"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0952377/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 135,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep2.png",
+        "summary": "The team are in Somerset to investigate the remains of a small Roman villa, which is believed to date back to just after the time of the Roman invasion.",
+        "location": "Blacklands, near Frome, Somerset",
+        "country": "England",
+        "ngr": "ST 76646 54084",
+        "coord": "51.28541,-2.336253",
+        "recorded": "–",
+        "broadcast": {
+            "date": "21 January 2007",
+            "seriesepisode": 135,
+            "season": "Season 14",
+            "episode": "Episode 2",
+            "title": "There's No Place Like Rome",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1450813,
+                    "name": "UPPER ROW FARM, BLACKLANDS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926665"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Blacklands, Upper Row Farm, Laverton, Somerset: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1030416"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2006) Geophysical Survey: Blacklands, Somerset",
+                    "url": "doi.org/10.5284/1000869"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "24634",
+                    "url": "www.somersetheritage.org.uk/record/24634#"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": "23654",
+                    "url": "www.somersetheritage.org.uk/record/23654#"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt0952371/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 136,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep3.png",
+        "summary": "The team are in Hooke Court, Dorset to investigate a moated manor house with a mysterious past. Now used as a school, the grounds contain remains of buildings from the past 500 years and as the trenchers begin their work, the finds start to pile up.",
+        "location": "Hooke Court, Dorset",
+        "country": "England",
+        "ngr": "ST 53129 00350",
+        "coord": "50.800806,-2.666475",
+        "recorded": "–",
+        "broadcast": {
+            "date": "28 January 2007",
+            "seriesepisode": 136,
+            "season": "Season 14",
+            "episode": "Episode 3",
+            "title": "School Diggers Medieval",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1451121,
+                    "name": "HOOKE COURT SCHOOL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926567"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Hooke Court, Hooke, Dorset: Archaeological Evaluation and Assessment of the Result",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62502_Hooke%20Court%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2006) Geophysical Survey: Hooke Court, Dorset",
+                    "url": "doi.org/10.5284/1075951"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Dorset HER",
+                    "id": "MDO28480",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDO28480&resourceID=1012"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.7",
+                "url": "www.imdb.com/title/tt0952375/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 137,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep4.png",
+        "summary": "The team head for the Island of Anglesey to investigate a previously unknown site, which locals believe could hold historical secrets from the time of the Druids.",
+        "location": "Amlwch, Anglesey",
+        "country": "Wales",
+        "ngr": "SH 40872 92523",
+        "coord": "53.405465,-4.395224",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 February 2007",
+            "seriesepisode": 137,
+            "season": "Season 14",
+            "episode": "Episode 4",
+            "title": "The Druids' Last Stand",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.7",
+                "url": "www.imdb.com/title/tt0957376/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 138,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep5.png",
+        "summary": "The team investigate the remains of the first fort built to defend the English south coast from invasion by revolutionary French forces in the 1790s.",
+        "location": "Sandgate, Kent",
+        "country": "England",
+        "ngr": "TR 19352 35417",
+        "coord": "51.076135,1.130013",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 February 2007",
+            "seriesepisode": 138,
+            "season": "Season 14",
+            "episode": "Episode 5",
+            "title": "Sharpe's Redoubt",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1520643,
+                    "name": "SHORNCLIFFE REDOUBT",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1903480"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2006) Shorncliffe Redoubt, Sir John Moore Barracks,Shorncliffe, Folkestone, Kent: Archaeological Evaluation and Assessment of the Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62501_Shorncliffe%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Gater (2006) Geophysical Survey: Shorncliffe Redoubt, Kent",
+                    "url": "doi.org/10.5284/1002822"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.2",
+                "url": "www.imdb.com/title/tt0963676/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 139,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep6.png",
+        "summary": "The team visit a site near the Cambridgeshire town of Stilton, where a clutch of Roman objects have been discovered. However, their investigations take another twist when Anglo-Saxon artefacts also begin to turn up and it becomes apparent that the site had more historical uses than first anticipated.",
+        "location": "Stilton, Cambridgeshire",
+        "country": "England",
+        "ngr": "TL 16896 89830",
+        "coord": "52.493863,-0.27964",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 February 2007",
+            "seriesepisode": 139,
+            "season": "Season 14",
+            "episode": "Episode 6",
+            "title": "A Port and Stilton",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1456569,
+                    "name": "STILTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1927539"
+                },
+                "additional1": {
+                    "id": 1452107,
+                    "name": "STILTON FEN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926316"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Stilton, Cambridgeshire: Archaeological Evaluation and Assessment of the results",
+                    "url": "doi.org/10.5284/1021806"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Stephens (2006) Geophysical Survey: Stilton, Cambridgeshire",
+                    "url": "doi.org/10.5284/1001463"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Cambridgeshire HER",
+                    "id": "MCB17147",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCB17147&resourceID=1000"
+                },
+                "additional1": {
+                    "name": "Cambridgeshire HER",
+                    "id": "MCB17466",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCB17466&resourceID=1000"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt0967389/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
     }
 ]
