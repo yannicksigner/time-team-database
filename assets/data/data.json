@@ -12441,5 +12441,353 @@
             }
         },
         "datecreated": "09.10.2021"
+    },
+    {
+        "id": 143,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep10.png",
+        "summary": "Archaeologists in Chesham in Buckinghamshire believe they've found the remains of a medieval building under the manicured lawns of a Georgian house.",
+        "location": "Chesham Bois, Buckinghamshire",
+        "country": "England",
+        "ngr": "SU 96845 99735",
+        "coord": "51.688032,-0.600434",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 March 2007",
+            "seriesepisode": 143,
+            "season": "Season 14",
+            "episode": "Episode 10",
+            "title": "The Cheyne Gang",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1452165,
+                    "name": "CHESHAM BOIS HOUSE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926268"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Chesham Bois House, 85 Bois Lane, Chesham Bois, Buckinghamshire: Archaeological evaluation and assessment of results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62503_Chesham%20Bois%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2006) Geophysical Survey: Chesham Bois House, Buckinghamshire",
+                    "url": "doi.org/10.5284/1005366"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.9",
+                "url": "www.imdb.com/title/tt0987794/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 144,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep11.png",
+        "summary": "The site is positioned close to a Roman road connecting London to the south coast and has never been excavated. Local archaeologists have wondered what lies beneath the surface for many years, and called in Time Team to help them find out.",
+        "location": "Godstone, Surrey",
+        "country": "England",
+        "ngr": "TQ 35059 50767",
+        "coord": "51.2401,-0.0666",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 March 2007",
+            "seriesepisode": 144,
+            "season": "Season 14",
+            "episode": "Episode 11",
+            "title": "Road to the Relics",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1450545,
+                    "name": "LAND AT GODSTONE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926781"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Wessex Archaeology (2006) Stratton Farm, Godstone, Surrey: Archaeological Evaluation and Assessment of Results",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Wood (2006) Geophysical survey, Godstone, Surrey (Report No 06/75)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.6",
+                "url": "www.imdb.com/title/tt0992762/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 145,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep12.png",
+        "summary": "Tony Robinson and the team travel to Poulton, Cheshire in search of an abandoned abbey that was once used by Cistercian monks. Local archaeologists had not been able to find any trace of the famous abbey and a number of theories and locations have been suggested as to its whereabouts. As the hunt drags on without any major progress, some of the team come up with a controversial theory.",
+        "location": "Poulton, Cheshire",
+        "country": "England",
+        "ngr": "SJ 40659 59118",
+        "coord": "53.125909,-2.888253",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 April 2007",
+            "seriesepisode": 145,
+            "season": "Season 14",
+            "episode": "Episode 12",
+            "title": "The Abbey Habit",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1452154,
+                    "name": "POULTON ABBEY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926313"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Poulton Hall,Pulford, Cheshire: Archaeological Evaluation and Assessment of the Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62506_Poulton%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wilkins (2006) Geophysical Survey: Poulton Abbey, Cheshire",
+                    "url": "doi.org/10.5284/1016855"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cheshire HER",
+                    "id": "1799/1",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCH996&resourceID=1004"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt0999511/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
+    },
+    {
+        "id": 146,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s14ep13.png",
+        "summary": "The Team descend on the bleak, beautiful landscape of Bodmin Moor to face one their biggest challenges yet. The dig aims to date a possible Bronze Age village of stone houses. But alongside the village is a vast and mysterious 300-metre-long stone structure.",
+        "location": "Bodmin Moor, Cornwall",
+        "country": "England",
+        "ngr": "SX 14170 81528",
+        "coord": "50.603806,-4.627464",
+        "recorded": "–",
+        "broadcast": {
+            "date": "8 April 2007",
+            "seriesepisode": 146,
+            "season": "Season 14",
+            "episode": "Episode 13",
+            "title": "In the Shadow of the Tor",
+            "year": 2007
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1450544,
+                    "name": "ROUGH TOR, BODMIN MOOR (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1926779"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2007) Roughtor, Bodmin Moor, Cornwall: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/62500_Roughtor%20Report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2006) Geophysical Survey: Rough Tor, Bodmin Moor, Cornwall",
+                    "url": "doi.org/10.5284/1008113"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cornwall & Scilly HER",
+                    "id": "MCO58116",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO58116&resourceID=1020"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt1235030/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "09.10.2021"
     }
 ]
