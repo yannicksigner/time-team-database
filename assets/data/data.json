@@ -13493,7 +13493,7 @@
         "location": "Dungannon",
         "country": "Northern Ireland",
         "ngr": "NV 91504 22740",
-        "coord": "54.5058, -6.7674",
+        "coord": "54.5058,-6.7674",
         "recorded": "–",
         "broadcast": {
             "date": "2 March 2008",
@@ -13566,6 +13566,354 @@
                 "availability": true,
                 "rating": "8.1",
                 "url": "www.imdb.com/title/tt1235033/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "10.10.2021"
+    },
+    {
+        "id": 156,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s15ep10.png",
+        "summary": "Cornwall is probably not the first place that springs to mind when thinking about the Roman and Byzantine Empires but in a field overlooking a cove, just a mile down river from the famous Cornish village of Padstow, locals have picked up a wealth of 1,500-year-old pottery and metalwork from as far away as North Africa and Turkey. Geophysics results suggest an Iron Age village may have once been located on the site, but archaeologists think the cove may have also been a port for Mediterranean traders. The team dig for evidence which will support the theory, and after three days of work and initial difficulties, they believe they know how the site looked in its prime.",
+        "location": "Padstow, North Cornwall",
+        "country": "England",
+        "ngr": "SW 91037 77167",
+        "coord": "50.556811,-4.951477",
+        "recorded": "–",
+        "broadcast": {
+            "date": "9 March 2008",
+            "seriesepisode": 156,
+            "season": "Season 15",
+            "episode": "Episode 10",
+            "title": "From Constantinople to Cornwall",
+            "year": 2008
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1466944,
+                    "name": "LELLIZZICK, NEAR PADSTOW (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1919267"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) Lellizzick, near Padstow, Cornwall: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1028748"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2007) Geophysical survey report: Padstow, Cornwall",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.2",
+                "url": "www.imdb.com/title/tt1235036/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "10.10.2021"
+    },
+    {
+        "id": 157,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s15ep11.png",
+        "summary": "The Time Team travel to County Durham to investigate the origins of a mysterious large stone structure which has had locals baffled for centuries. The stone structure is known locally as The Castles, its five-metre thick walls enclose a space the size of a football pitch.With guesses ranging from an Iron Age farm to a Roman prison, Tony Robinson and the team attempt to come up with a definitive answer.",
+        "location": "Hamsterley, County Durham",
+        "country": "England",
+        "ngr": "NZ 10388 33058",
+        "coord": "54.692457,-1.840365",
+        "recorded": "–",
+        "broadcast": {
+            "date": "16 March 2008",
+            "seriesepisode": 157,
+            "season": "Season 15",
+            "episode": "Episode 11",
+            "title": "Five Thousand Tons of Stone",
+            "year": 2008
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1463179,
+                    "name": "THE CASTLES, HAMSTERLEY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917289"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) ‘The Castles’, West Shipley FarmHamsterley, Co. Durham: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/65303_Castles%20report.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2007) Geophysical survey report: The Castles, Hamsterley, Durham (Report ref. 07/24)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Durham HER",
+                    "id": "D15758",
+                    "url": "www.keystothepast.info/article/10339/Site-Details?PRN=D15758"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.8",
+                "url": "www.imdb.com/title/tt1235034/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "10.10.2021"
+    },
+    {
+        "id": 158,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s15ep12.png",
+        "summary": "Tony Robinson and his intrepid team of archaeologists head off the beaten track in Lincolnshire to discover why a metal detector enthusiast has discovered hundreds of Roman and Iron Age artefacts in a muddy field. Add to that the mysterious Roman columns strewn around the surrounding village and the team have a challenging three days to come up with some answers. As the dig progresses, the evidence mounts to suggest that the local Roman population were conscious of the need to recycle.       ",
+        "location": "Wickenby, Lincolnshire",
+        "country": "England",
+        "ngr": "TF 09400 83403",
+        "coord": "53.336229,-0.358506",
+        "recorded": "–",
+        "broadcast": {
+            "date": "23 March 2008",
+            "seriesepisode": 158,
+            "season": "Season 15",
+            "episode": "Episode 12",
+            "title": "The Romans Recycle",
+            "year": 2008
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1467785,
+                    "name": "WICKENBY/LISSINGTON (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1919811"
+                },
+                "additional1": {
+                    "id": 1521454,
+                    "name": "BLACKHILLS FARM AND THE HOLLYS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1903669"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) Blackhills Farm and The Hollys, Wickenby, Lincolnshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1014506"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2007) Geophysical survey report: Wickenby, Lincolnshire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt1235043/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "10.10.2021"
+    },
+    {
+        "id": 159,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s15ep13.png",
+        "summary": "For the final episode of the 2008 series the team head to the village of Portskewett in South Wales to investigate a field which is intriguingly named Harold's Field. Local legend has it that King Harold built a hunting lodge there the year before he lost the Battle of Hastings. The field is a mass of big earthworks and historical documents do record Harold building a lodge somewhere round the village of Portskewett. Within minutes of digging, the team discover that the site was not confined to just Harold and the Saxon period, having been used since late Roman times until well into the Middle Ages.",
+        "location": "Portskewett, Monmouthshire",
+        "country": "Wales",
+        "ngr": "ST 49842 88048",
+        "coord": "51.58904,-2.725399",
+        "recorded": "–",
+        "broadcast": {
+            "date": "30 March 2008",
+            "seriesepisode": 159,
+            "season": "Season 15",
+            "episode": "Episode 13",
+            "title": "Hunting King Harold",
+            "year": 2008
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "www.imdb.com/title/tt1235037/?ref_=tt_ep_nx"
             },
             "channel4": {
                 "availability": false
