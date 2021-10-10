@@ -54,7 +54,7 @@
         var item = results[i].item;
         appendString += '<section class="search-result-item">'
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
-        appendString += '<p class="scoretext">' + (1-parseFloat(results[i].score)).toFixed(2) + '% match</p>'
+        appendString += '<p class="scoretext">' + ((1-parseFloat(results[i].score)).toFixed(3) * 100) + '% match</p>'
         appendString += '<div class="search-result-item-body">'
         appendString += '<div class="row"><div class="col-sm-8">'
         appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + '</h4>'
