@@ -53,7 +53,7 @@
       for (var i = start; i < iterator; i++) { // Iterate over the results
         var item = results[i].item;
         appendString += '<section class="search-result-item">'
-        appendString += '<p class="scoretext">' + results[i].score + '</p>'
+        appendString += '<p class="scoretext">' + (1-parseInt(results[i].score)).toFixed(2) + '% match</p>'
         appendString += '<img class="image" src="http://' + item.thumbnailurl + '">'
         appendString += '<div class="search-result-item-body">'
         appendString += '<div class="row"><div class="col-sm-8">'
