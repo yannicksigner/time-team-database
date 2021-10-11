@@ -219,12 +219,12 @@
       threshold: 0.3,
       useExtendedSearch: true,
       keys: [
-        "location",
-        "summary",
-        "broadcast.title",
-        "broadcast.season",
-        "broadcast.episode",
-        "country"
+        {name:"location",weight:0.3},
+        {name:"summary",weight:0.3},
+        {name:"broadcast.title",weight:0.3},
+        {name:"broadcast.season",weight:0.2},
+        {name:"broadcast.episode",weight:0.2},
+        {name:"country",weight:0.2}
       ]
     };
 
