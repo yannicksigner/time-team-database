@@ -17052,5 +17052,962 @@
             }
         },
         "datecreated": "11.10.2021"
+    },
+    {
+        "id": 196,
+        "thumbnailurl": "s19ep1.png",
+        "summary": "Tony Robinson and the Team visit a tiny windswept island off the coast of Wales. It seems that Gateholm Island was once inhabited, but whether by Romans, Vikings, Celts or druids nobody knows.",
+        "location": "Gateholm Island, Pembrokeshire",
+        "country": "Wales",
+        "ngr": "SM 76954 07243",
+        "coord": "51.719444,-5.230556",
+        "recorded": "–",
+        "broadcast": {
+            "date": "22 January 2012",
+            "seriesepisode": 196,
+            "season": "Season 19",
+            "episode": "Episode 1",
+            "title": "Dig By Wire",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.9",
+                "url": "www.imdb.com/title/tt2202251/?ref_=ttep_ep1"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 197,
+        "thumbnailurl": "s19ep2.png",
+        "summary": "There's a problem in Bitterley. The village's school and cottages cluster prettily around the green. But the church and the manor house lie half a mile away, on the other side of a bumpy empty field.",
+        "location": "Bitterley, Shropshire",
+        "country": "England",
+        "ngr": "SO 57073 77229",
+        "coord": "52.391389,-2.632222",
+        "recorded": "–",
+        "broadcast": {
+            "date": "29 January 2012",
+            "seriesepisode": 197,
+            "season": "Season 19",
+            "episode": "Episode 2",
+            "title": "A Village Affair",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1549955,
+                    "name": "LAND AT BITTERLEY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3490655"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2012) Bitterley, Shropshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1027866"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Bitterley, Shropshire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.5",
+                "url": "www.imdb.com/title/tt2255507/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 198,
+        "thumbnailurl": "s19ep3.png",
+        "summary": "Tony Robinson and the Team head to Dunwich, a village that's falling off the edge of the UK due to coastal erosion",
+        "location": "Dunwich, Suffolk",
+        "country": "England",
+        "ngr": "TM 47728 70425",
+        "coord": "52.276111,1.63",
+        "recorded": "–",
+        "broadcast": {
+            "date": "5 February 2012",
+            "seriesepisode": 198,
+            "season": "Season 19",
+            "episode": "Episode 3",
+            "title": "The Drowned Town",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1550581,
+                    "name": "DUNWICH GREYFRIARS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3490746"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2012) Dunwich, Suffolk: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1039279"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Dunwich, Suffolk",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "DUN 103",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF26499"
+                },
+                "additional1": {
+                    "name": "Suffolk HER",
+                    "id": "DUN 104",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF26490"
+                },
+                "additional2": {
+                    "name": "Suffolk HER",
+                    "id": "DUN 105",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF26491"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.1",
+                "url": "www.imdb.com/title/tt2255509/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 199,
+        "thumbnailurl": "s19ep4.png",
+        "summary": "Tony and the Team visit Newmarket, the birthplace of horseracing, in search of the earliest archaeological traces of the sport of kings",
+        "location": "Newmarket, Suffolk",
+        "country": "England",
+        "ngr": "TL 64447 63364",
+        "coord": "52.243889,0.407222",
+        "recorded": "–",
+        "broadcast": {
+            "date": "12 February 2012",
+            "seriesepisode": 199,
+            "season": "Season 19",
+            "episode": "Episode 4",
+            "title": "The First King of Racing",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1550601,
+                    "name": "NEWMARKET RACING STABLES (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3490747"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2013) National Horse Racing Museum, Newmarket, Suffolk: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1030088"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Newmarket, Suffolk",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "NKT 051",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF30091"
+                },
+                "additional1": {
+                    "name": "Suffolk HER",
+                    "id": "NKT 052",
+                    "url": "heritage.suffolk.gov.uk/Monument/MSF30092"
+                },
+                "additional2": {
+                    "name": "Suffolk HER",
+                    "id": "NKT 053",
+                    "url": "https://heritage.suffolk.gov.uk/Monument/MSF30094"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.4",
+                "url": "www.imdb.com/title/tt2255511/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 200,
+        "thumbnailurl": "s19ep5.png",
+        "summary": "Tony leads the Team to the village of Beadnell on a beautiful stretch of the Northumbrian coast, to explore an unusual promontory, from which fragments of human bone have emerged over recent years",
+        "location": "Beadnell, Northumberland",
+        "country": "England",
+        "ngr": "NU 23967 28666",
+        "coord": "55.551111,-1.621667",
+        "recorded": "–",
+        "broadcast": {
+            "date": "19 February 2012",
+            "seriesepisode": 200,
+            "season": "Season 19",
+            "episode": "Episode 5",
+            "title": "Chapel of Secrets",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1551101,
+                    "name": "ST. EBBA'S CHAPEL, BEADNELL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3490839"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2013) St Ebba's Chapel, Beadnell, Northumberland: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1023575"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Beadnell, Northumberland",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Northumberland HER",
+                    "id": "N5786",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=N5786&resourceID=110"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.2",
+                "url": "www.imdb.com/title/tt2255505/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 201,
+        "thumbnailurl": "s19ep6.png",
+        "summary": "Swansea led the world in copper smelting 200 years ago, but today there's almost nothing to be seen of this unique heritage. So Tony and the Team investigate one of the first copper works.",
+        "location": "Pentrechwyth, Swansea",
+        "country": "Wales",
+        "ngr": "SS 66313 94557",
+        "coord": "51.633889,-3.933056",
+        "recorded": "–",
+        "broadcast": {
+            "date": "26 February 2012",
+            "seriesepisode": 201,
+            "season": "Season 19",
+            "episode": "Episode 6",
+            "title": "A Copper Bottomed Dig",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.3",
+                "url": "www.imdb.com/title/tt2271017/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 202,
+        "thumbnailurl": "s19ep7.png",
+        "summary": "Property magnate Paul Whight is so keen to know everything he can about the history of his home that he's rashly invited Tony Robinson and Time Team in to do their worst",
+        "location": "Colne Priory, Essex",
+        "country": "England",
+        "ngr": "TL 86433 28819",
+        "coord": "51.926667,0.71",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 March 2012",
+            "seriesepisode": 202,
+            "season": "Season 19",
+            "episode": "Episode 7",
+            "title": "The Only Earl Is Essex",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1551803,
+                    "name": "COLNE PRIORY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3491022"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2012) Colne Priory, Earls Colne Near Colchester, Essex: Archaeological Evaluation and assessment of Results",
+                    "url": "doi.org/10.5284/1076704"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Colne Priory, Earls Colne, Essex",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Essex HER",
+                    "id": "8620",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MEX27661&resourceID=1001"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.4",
+                "url": "www.imdb.com/title/tt2362859/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 203,
+        "thumbnailurl": "s19ep8.png",
+        "summary": "Kenfig appears to have been a thriving commercial success but then it disappeared, leaving just castle walls to mark its existence. The Team have three days to find out the size of this lost town.",
+        "location": "Kenfig, Bridgend",
+        "country": "Wales",
+        "ngr": "SS 80166 82526",
+        "coord": "51.528889,-3.728889",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 March 2012",
+            "seriesepisode": 203,
+            "season": "Season 19",
+            "episode": "Episode 8",
+            "title": "Secrets of the Dunes",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.9",
+                "url": "www.imdb.com/title/tt2362861/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 204,
+        "thumbnailurl": "s19ep9.png",
+        "summary": "Tony and the Team help archaeologists from Cardiff University to examine a new discovery at Caerleon Roman legionary fort in Wales. Did this military outpost also serve another purpose?",
+        "location": "Caerleon, Newport",
+        "country": "Wales",
+        "ngr": "ST 33192 90201",
+        "coord": "51.606667,-2.966111",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 March 2012",
+            "seriesepisode": 204,
+            "season": "Season 19",
+            "episode": "Episode 9",
+            "title": "Rome's Wild West",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.4",
+                "url": "www.imdb.com/title/tt2362853/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 205,
+        "thumbnailurl": "s19ep10.png",
+        "summary": "For generations a family of Somerset farmers have been wondering if there was ever actually a castle on top of the hill they call Castle Hill",
+        "location": "Crewkerne, Somerset",
+        "country": "England",
+        "ngr": "ST 42091 10628",
+        "coord": "50.892222,-2.824722",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 April 2012",
+            "seriesepisode": 205,
+            "season": "Season 19",
+            "episode": "Episode 10",
+            "title": "How to Lose a Castle",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": 1552906,
+                    "name": "CASTLE HILL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3491187"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2011) Castle Hill, Crewkerne, Somerset: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1026661"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Castle Hill, Crewkerne, Somerset",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Somerset HER",
+                    "id": "29997",
+                    "url": "www.somersetheritage.org.uk/record/29997#"
+                },
+                "additional1": {
+                    "name": "Somerset HER",
+                    "id": "31593",
+                    "url": "www.somersetheritage.org.uk/record/31593#"
+                },
+                "additional2": {
+                    "name": "Somerset HER",
+                    "id": "54678",
+                    "url": "www.somersetheritage.org.uk/record/54678#"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.2",
+                "url": "www.imdb.com/title/tt2362855/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 206,
+        "thumbnailurl": "s19ep11.png",
+        "summary": "The residents of Clipstone village in Nottinghamshire believe some impressive ruins in a farmer's field may have played a part in the ancient tales of Robin Hood and Bad King John",
+        "location": "Clipstone, Nottinghamshire",
+        "country": "England",
+        "ngr": "SK 60325 64775",
+        "coord": "53.176667,-1.098889",
+        "recorded": "–",
+        "broadcast": {
+            "date": "8 April 2012",
+            "seriesepisode": 206,
+            "season": "Season 19",
+            "episode": "Episode 11",
+            "title": "King John's Lost Palace",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": 1546032,
+                    "name": "KINGS CLIPSTONE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3489454"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2011) King John's Palace, Clipstone, Nottinghamshire",
+                    "url": "doi.org/10.5284/1023497"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2011) Geophysical survey report: Kings Clipstone, Nottinghamshire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Nottinghamshire HER",
+                    "id": "M4100",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNT15068&resourceID=1041"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.8",
+                "url": "www.imdb.com/title/tt2362857/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
     }
 ]
