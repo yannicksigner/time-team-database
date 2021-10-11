@@ -13920,5 +13920,1136 @@
             }
         },
         "datecreated": "10.10.2021"
+    },
+    {
+        "id": 160,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep1.png",
+        "summary": "The Time Team crew travel to a field in Hertfordshire in search of a Roman temple site, an archaeological find which has eluded the team throughout the years. The dig begins promisingly as they start to find walls, Roman bricks and tiles, and what appears to be a temple-like shape. As more of these shapes begin to appear, the team is stretched to capacity, and they soon realise they have uncovered not just one, but a complex of four Roman temples - a site of national importance.       ",
+        "location": "Friar's Wash, Hertfordshire",
+        "country": "England",
+        "ngr": "TL 10069 14612",
+        "coord": "51.8193,-0.4045",
+        "recorded": "–",
+        "broadcast": {
+            "date": "4 January 2009",
+            "seriesepisode": 160,
+            "season": "Season 16",
+            "episode": "Episode 1",
+            "title": "The Trouble with Temples",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1522050,
+                    "name": "FRIARS WASH, REDBOURN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1903305"
+                },
+                "additional1": {
+                    "id": 1487924,
+                    "name": "FRIARS WASH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1940116"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Friars Wash, Redbourn, Hertfordshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1021923"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Friar's Wash",
+                    "url": "doi.org/10.5284/1011640"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "9.0",
+                "url": "www.imdb.com/title/tt1358367/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 161,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep2.png",
+        "summary": "Tony Robinson and the team investigate a very unusual wedding present, Scargill Castle in Durham. When two archaeologists married, groom Neil Hammond gave his bride Caroline a ruined castle as a wedding present. However, the castle was reputed to have been a medieval stronghold in a violent era of battles between English and Scottish kings. The team spend three days exploring the history and layout of the site in order to paint a true picture of what the castle looked like in its prime.       ",
+        "location": "Scargill, County Durham",
+        "country": "England",
+        "ngr": "NZ 05365 10714",
+        "coord": "54.49173,-1.91868",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 January 2009",
+            "seriesepisode": 161,
+            "season": "Season 16",
+            "episode": "Episode 2",
+            "title": "The Wedding Present",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1488755,
+                    "name": "SCARGILL CASTLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1939929"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Castle Farm, Scargill, Co Durham: evaluation and assessment report",
+                    "url": "doi.org/10.5284/1027882"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Scargill, County Durham",
+                    "url": "doi.org/10.5284/1019136"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Durham HER",
+                    "id": "D36521",
+                    "url": "www.keystothepast.info/article/10339/Site-Details?PRN=D36521"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt1358368/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 162,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep3.png",
+        "summary": "Time Team brave the harsh conditions of fierce winds, strong rain and getting lost in thick fog to reveal the secrets of one of the biggest man-made monuments at Knockdhu in the County Antrim, Northern Ireland. The headland at Knockdhu on the County Antrim coast offers breathtaking views - on a clear day you can see Scotland - and also one of the most testing digs Time Team have ever undertaken. Working together with archaeologists from Queens University in Belfast, Tony Robinson and the team excavate the ditches and banks used by prehistoric tribes to defend the remote hillside site. After three days of work, the pieces begin to fall into place and reveal the work of a sophisticated society.",
+        "location": "Knockdhu, County Antrim",
+        "country": "Northern Ireland",
+        "ngr": "NW 49665 62140",
+        "coord": "54.89111,-5.905278",
+        "recorded": "–",
+        "broadcast": {
+            "date": "18 January 2009",
+            "seriesepisode": 162,
+            "season": "Season 16",
+            "episode": "Episode 3",
+            "title": "Heroes' Hill",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.2",
+                "url": "www.imdb.com/title/tt1363441/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 163,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep4.png",
+        "summary": "Tony Robinson and the team head to the small village of Caerwent in Wales, one of the country's best preserved Roman sites. The archaeologists excavate a prime location that has previously been untouched, revealing a whole host of finds including a maze of walls and a villa.",
+        "location": "Caerwent, Monmouthshire",
+        "country": "Wales",
+        "ngr": "ST 46780 90778",
+        "coord": "51.6133,-2.77",
+        "recorded": "–",
+        "broadcast": {
+            "date": "25 January 2009",
+            "seriesepisode": 163,
+            "season": "Season 16",
+            "episode": "Episode 4",
+            "title": "Toga Town",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "www.imdb.com/title/tt1363440/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 164,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep5.png",
+        "summary": "Tony Robinson and the team head to the Yorkshire Dales for an archaeological first as they investigate a settlement built by railway navvies, arguably the toughest and most lawless breed of the Victorian era. The team uncover the houses and workshops of the Risehill camp, built during the construction of the Settle to Carlisle railway, and discover the story of a resilient community who survived the harsh environment and poor working conditions to produce a monument that is still in use today.",
+        "location": "Rise Hill, Cumbria",
+        "country": "England",
+        "ngr": "SD 76679 89201",
+        "coord": "54.29789,-2.35983",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 February 2009",
+            "seriesepisode": 164,
+            "season": "Season 16",
+            "episode": "Episode 5",
+            "title": "Blood, Sweat and Beers",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1489666,
+                    "name": "RISEHILL TUNNEL, COWGILL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1941120"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) Risehill Tunnel Navvy Camp, Cumbria: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/68737_Risehill%20Cumbria.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Wood (2008) Geophysical survey report: Risehill, Raygill Farm, Cumbria (Report No 08/36)",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "www.imdb.com/title/tt1373369/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 165,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep6.png",
+        "summary": "Tony Robinson and the team have a prized opportunity to dig in the grounds of Salisbury Cathedral, and in three days reveal the long lost bell tower, plus evidence of those who built the church. The discovery of bones in an area that once housed the Cathedral's most powerful bishop pushes the team's investigative powers to the limit, with further finds resulting in the team having to re-write the building's history at the conclusion of their dig.",
+        "location": "Salisbury Cathedral, Wiltshire",
+        "country": "England",
+        "ngr": "SU 14286 29507",
+        "coord": "51.064722,-1.7975",
+        "recorded": "–",
+        "broadcast": {
+            "date": "8 February 2009",
+            "seriesepisode": 165,
+            "season": "Season 16",
+            "episode": "Episode 6",
+            "title": "Buried Bishops and Belfries",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1490534,
+                    "name": "SALISBURY CATHEDRAL (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1940838"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Salisbury Cathedral, Wiltshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/68741_Salisbury%20Cathedral.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey Report 2008/60, Salisbury Cathedral",
+                    "url": "doi.org/10.5284/1010597"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "MWI74710",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI74710"
+                },
+                "additional1": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "MWI74713",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI74713"
+                },
+                "additional2": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "MWI74712",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI74712"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt1373370/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 166,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep7.png",
+        "summary": "Tony and the team attempt to uncover the remains of a large medieval castle buried under a waterside field in Oxfordshire. It soon becomes apparent the site is more complex than first thought, with artefacts from the 12th and 17th centuries being unearthed.",
+        "location": "Radcot, Oxfordshire",
+        "country": "England",
+        "ngr": "SU 28530 99450",
+        "coord": "51.693081,-1.588644",
+        "recorded": "–",
+        "broadcast": {
+            "date": "15 February 2009",
+            "seriesepisode": 166,
+            "season": "Season 16",
+            "episode": "Episode 7",
+            "title": "Anarchy in the UK",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1490519,
+                    "name": "THE GARRISON', RADCOT (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1940849"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Radcot, Oxfordshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1043744"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Radcot, Oxfordshire",
+                    "url": "doi.org/10.5284/1004564"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Oxfordshire HER",
+                    "id": "2643",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX10800&resourceID=1033"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "www.imdb.com/title/tt1379148/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 167,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep8.png",
+        "summary": "Tony Robinson and the Team are invited to investigate a Bedfordshire field by a keen group of amateur archaeologists who also just happen to be some of the country's leading experts in the science of ice cream! Over the years, in the spare minutes between testing wafers, cornets and vanilla flavours, they've found countless pieces of Roman pottery, coins and building material.  The field is thought to have once been home to a grand Roman villa. However the dig proves to be a tough one, with the trench failing to deliver the evidence that everyone was expecting.",
+        "location": "Colworth, Bedfordshire",
+        "country": "England",
+        "ngr": "SP 97273 60278",
+        "coord": "52.23212,-0.57711",
+        "recorded": "–",
+        "broadcast": {
+            "date": "22 February 2009",
+            "seriesepisode": 167,
+            "season": "Season 16",
+            "episode": "Episode 8",
+            "title": "Mystery of the Ice Cream Villa",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1490935,
+                    "name": "LAND AT COLWORTH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1940640"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Yelnow Villa Colworth Science Park, Bedfordshire: Archaeological Evaluation and Assessment of results",
+                    "url": "doi.org/10.5284/1021715"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Yelnow Villa, Colworth",
+                    "url": "doi.org/10.5284/1008129"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Bedfordshire HER",
+                    "id": "2669",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBD2669&resourceID=1014"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.4",
+                "url": "www.imdb.com/title/tt1383410/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 168,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep9.png",
+        "summary": "The team descend on a tiny Cornish island that legend says was once visited by Jesus Christ. With such a claim to fame, the tiny chapel on Looe Island became a magnet for medieval pilgrims and many perished on the short but treacherous crossing from the mainland. In a dig frustrated by rising rides and the discovery of mystery burials, archaeologists piece together evidence of one of Britain's earliest Christian sites.",
+        "location": "Looe, Cornwall",
+        "country": "England",
+        "ngr": "SX 25468 51874",
+        "coord": "50.34086,-4.45412",
+        "recorded": "–",
+        "broadcast": {
+            "date": "1 March 2009",
+            "seriesepisode": 168,
+            "season": "Season 16",
+            "episode": "Episode 9",
+            "title": "Hermit Harbour",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1491645,
+                    "name": "ST GEORGE'S CHAPEL, LOOE ISLAND (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1928762"
+                },
+                "additional1": {
+                    "id": 1491641,
+                    "name": "LAMMANA CHAPEL, HANNAFORE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1928764"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Looe, Cornwall: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/68734_Looe%20Cornwall.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey Report Looe and Looe Island",
+                    "url": "doi.org/10.5284/1008130"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt1388277/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 169,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep10.png",
+        "summary": "Forsaking the usual attractions of a muddy field, Tony Robinson and the Team don their wigs and best suits in the hope of blending in with the posh surroundings of Lincoln's Inn in London. Amidst the grand buildings that make up one of the world's oldest and most distinguished law societies, they have been asked to discover the remains of a 13th-century palace that belonged to Henry III's Lord Chancellor.",
+        "location": "Lincoln's Inn, London",
+        "country": "England",
+        "ngr": "TQ 30977 81411",
+        "coord": "51.516448,-0.11376",
+        "recorded": "–",
+        "broadcast": {
+            "date": "8 March 2009",
+            "seriesepisode": 169,
+            "season": "Season 16",
+            "episode": "Episode 10",
+            "title": "Called to the Bar",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1492476,
+                    "name": "LINCOLN'S INN (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929119"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Lincoln’s Inn, London: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/68739_Lincoln%27s%20Inn.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey Report 2008/55, Lincoln's Inn, London",
+                    "url": "doi.org/10.5284/1007743"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Greater London HER",
+                    "id": "ELO10284",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2847617"
+                },
+                "additional1": {
+                    "name": "Greater London HER",
+                    "id": "ELO10283",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2847615"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "6.8",
+                "url": "www.imdb.com/title/tt1392966/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 170,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep11.png",
+        "summary": "Tony Robinson and the team brave the elements in East Anglia to investigate a mysterious site that may have been a spiritual centre for thousands of years. Chapel Hill, set in the windswept expanse of the Fens, is one of the smallest hills in the country and continues to baffle archaeologists. As the dig begins and finds are uncovered, the site's history is slowly revealed.",
+        "location": "Chapel Head Farm, Warboys, Cambridgeshire",
+        "country": "England",
+        "ngr": "TL 34213 81574",
+        "coord": "52.415706,-0.028039",
+        "recorded": "–",
+        "broadcast": {
+            "date": "15 March 2009",
+            "seriesepisode": 170,
+            "season": "Season 16",
+            "episode": "Episode 11",
+            "title": "Beacon on the Fens",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1492477,
+                    "name": "CHAPEL HEAD FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929118"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2009) Chapel Head, Warboys, Cambridgeshire",
+                    "url": "doi.org/10.5284/1010257"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey Report at Warboys, Cambridgeshire",
+                    "url": "doi.org/10.5284/1003139"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Cambridgeshire HER",
+                    "id": "09672",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCB11498&resourceID=1000"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.5",
+                "url": "www.imdb.com/title/tt1401052/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 171,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep12.png",
+        "summary": "The distinctive grass-covered remains of the deserted medieval village of Ulnaby are a landmark in the Durham countryside. And although they've been photographed, surveyed and written about, they've never been dug. But now Tony Robinson and the Team have been invited to physically unearth the secrets of one of the best-preserved archaeological sites in Britain.",
+        "location": "Ulnaby, County Durham",
+        "country": "England",
+        "ngr": "NZ 22776 17141",
+        "coord": "54.549014,-1.649417",
+        "recorded": "–",
+        "broadcast": {
+            "date": "22 March 2009",
+            "seriesepisode": 171,
+            "season": "Season 16",
+            "episode": "Episode 12",
+            "title": "The Hollow Way",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1493008,
+                    "name": "ULNABY HALL FARM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929418"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) Ulnaby Hall, High Coniscliffe, County Durham: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/68731_Ulnaby%20Hall.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Ulnaby, High Coniscliffe",
+                    "url": "doi.org/10.5284/1019135"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Durham HER",
+                    "id": "D1561",
+                    "url": "www.keystothepast.info/article/10339/Site-Details?PRN=D1561"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.0",
+                "url": "www.imdb.com/title/tt1402341/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
+    },
+    {
+        "id": 172,
+        "thumbnailurl": "raw.githubusercontent.com/yannicksigner/sturdy-robots/master/assets/thumbnails/s16ep13.png",
+        "summary": "When the new owners of a house in Blythburgh in Suffolk explored their potting shed they were shocked to discover a cupboard full of human skulls. Could these remains have something to do with what's lurking amongst the shrubs and trees: the superb ruins of a medieval priory that has lain hidden for years?",
+        "location": "Blythburgh, Suffolk",
+        "country": "England",
+        "ngr": "TM 45184 75394",
+        "coord": "52.32183,1.5964",
+        "recorded": "–",
+        "broadcast": {
+            "date": "29 March 2009",
+            "seriesepisode": 172,
+            "season": "Season 16",
+            "episode": "Episode 13",
+            "title": "Skeletons in the Shed",
+            "year": 2009
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1493347,
+                    "name": "THE PRIORY, BLYTHBURGH (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1929444"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2008) Blythburgh Priory, Blythburgh, Suffolk: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1030094"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Wood (2008) Geophysical Survey at Blythburgh Priory",
+                    "url": "doi.org/10.5284/1004565"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "BLB 001",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF1876&resourceID=1017"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.8",
+                "url": "www.imdb.com/title/tt1406999/?ref_=tt_ep_nx"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "11.10.2021"
     }
 ]
