@@ -74,7 +74,7 @@
         }
 
         if (item.links.her.availability) {
-          appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.main.title + ' (' + item.links.her.main.name + ' Id: ' + item.links.her.main.id + ') <a href="http://' + item.links.her.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.main.url + '" target="_blank">' + item.links.her.main.title + ' (' + item.links.her.main.name + ' Id: ' + item.links.her.main.id + ') <i class="bi bi-link-45deg"></i></a></p>'
           if (item.links.her.multiple) {
             appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional1.title + ' (' + item.links.her.additional1.name + ' Id: ' + item.links.her.additional1.id + ') <a href="http://' + item.links.her.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             if (item.links.her.additional2.name != "–") {
