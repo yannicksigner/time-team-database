@@ -85,7 +85,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/16521-001"
+                "url": "16521-001"
             },
             "youtube": {
                 "availability": false
@@ -179,7 +179,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/16521-002"
+                "url": "16521-002"
             },
             "youtube": {
                 "availability": false
@@ -273,7 +273,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
+                "url": "16521-003"
             },
             "youtube": {
                 "availability": false
@@ -367,7 +367,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/16521-004"
+                "url": "16521-004"
             },
             "youtube": {
                 "availability": false
@@ -461,7 +461,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/19860-001"
+                "url": "19860-001"
             },
             "youtube": {
                 "availability": false
@@ -555,7 +555,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+                "url": "19860-002"
             },
             "youtube": {
                 "availability": false
@@ -651,7 +651,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/19860-003"
+                "url": "19860-003"
             },
             "youtube": {
                 "availability": false
@@ -745,7 +745,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/19860-004"
+                "url": "19860-004"
             },
             "youtube": {
                 "availability": false
@@ -840,7 +840,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+                "url": "19860-002"
             },
             "youtube": {
                 "availability": false
@@ -934,7 +934,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-001"
+                "url": "21225-001"
             },
             "youtube": {
                 "availability": false
@@ -1028,7 +1028,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-002"
+                "url": "21225-002"
             },
             "youtube": {
                 "availability": false
@@ -1106,13 +1106,13 @@
                     "name": "Somerset HER",
                     "id": "16902",
                     "title": "Geophysical survey (1995), Manor Farm, Templecombe",
-                    "url": "www.somersetheritage.org.uk/record/16902"
+                    "url": "somersetheritage.org.uk/record/16902"
                 },
                 "additional2": {
                     "name": "Somerset HER",
                     "id": "16903",
                     "title": "Excavation (1995), Manor Farm, Templecombe",
-                    "url": "www.somersetheritage.org.uk/record/16903"
+                    "url": "somersetheritage.org.uk/record/16903"
                 }
             },
             "imdb": {
@@ -1122,7 +1122,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-003"
+                "url": "21225-003"
             },
             "youtube": {
                 "availability": false
@@ -1216,7 +1216,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-004"
+                "url": "21225-004"
             },
             "youtube": {
                 "availability": false
@@ -1311,7 +1311,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-005"
+                "url": "21225-005"
             },
             "youtube": {
                 "availability": false
@@ -1405,7 +1405,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/21225-006"
+                "url": "21225-006"
             },
             "youtube": {
                 "availability": false
@@ -1499,7 +1499,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-001"
+                "url": "22314-001"
             },
             "youtube": {
                 "availability": false
@@ -1593,7 +1593,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-002"
+                "url": "22314-002"
             },
             "youtube": {
                 "availability": false
@@ -1687,7 +1687,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-003"
+                "url": "22314-003"
             },
             "youtube": {
                 "availability": false
@@ -1781,7 +1781,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-004"
+                "url": "22314-004"
             },
             "youtube": {
                 "availability": false
@@ -1875,7 +1875,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-005"
+                "url": "22314-005"
             },
             "youtube": {
                 "availability": false
@@ -1969,7 +1969,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/22314-006"
+                "url": "22314-006"
             },
             "youtube": {
                 "availability": false
@@ -2063,7 +2063,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-001"
+                "url": "24053-001"
             },
             "youtube": {
                 "availability": false
@@ -2157,7 +2157,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-002"
+                "url": "24053-002"
             },
             "youtube": {
                 "availability": false
@@ -2251,7 +2251,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-003"
+                "url": "24053-003"
             },
             "youtube": {
                 "availability": false
@@ -2345,7 +2345,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-004"
+                "url": "24053-004"
             },
             "youtube": {
                 "availability": false
@@ -2439,7 +2439,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-005"
+                "url": "24053-005"
             },
             "youtube": {
                 "availability": false
@@ -2533,7 +2533,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-006"
+                "url": "24053-006"
             },
             "youtube": {
                 "availability": false
@@ -2627,7 +2627,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-007"
+                "url": "24053-007"
             },
             "youtube": {
                 "availability": false
@@ -2721,7 +2721,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/24053-008"
+                "url": "24053-008"
             },
             "youtube": {
                 "availability": false
@@ -2815,7 +2815,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-001"
+                "url": "25721-001"
             },
             "youtube": {
                 "availability": false
@@ -2909,7 +2909,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-002"
+                "url": "25721-002"
             },
             "youtube": {
                 "availability": false
@@ -3003,7 +3003,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-003"
+                "url": "25721-003"
             },
             "youtube": {
                 "availability": false
@@ -3097,7 +3097,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-004"
+                "url": "25721-004"
             },
             "youtube": {
                 "availability": false
@@ -3191,7 +3191,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-005"
+                "url": "25721-005"
             },
             "youtube": {
                 "availability": false
@@ -3285,7 +3285,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-006"
+                "url": "25721-006"
             },
             "youtube": {
                 "availability": false
@@ -3379,7 +3379,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-007"
+                "url": "25721-007"
             },
             "youtube": {
                 "availability": false
@@ -3473,7 +3473,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-008"
+                "url": "25721-008"
             },
             "youtube": {
                 "availability": false
@@ -3567,7 +3567,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-009"
+                "url": "25721-009"
             },
             "youtube": {
                 "availability": false
@@ -3661,7 +3661,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-010"
+                "url": "25721-010"
             },
             "youtube": {
                 "availability": false
@@ -3755,7 +3755,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-011"
+                "url": "25721-011"
             },
             "youtube": {
                 "availability": false
@@ -3849,7 +3849,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-012"
+                "url": "25721-012"
             },
             "youtube": {
                 "availability": false
@@ -3943,7 +3943,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/25721-013"
+                "url": "25721-013"
             },
             "youtube": {
                 "availability": false
@@ -4037,7 +4037,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-001"
+                "url": "27818-001"
             },
             "youtube": {
                 "availability": false
@@ -4131,7 +4131,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-002"
+                "url": "27818-002"
             },
             "youtube": {
                 "availability": false
@@ -4225,7 +4225,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-003"
+                "url": "27818-003"
             },
             "youtube": {
                 "availability": false
@@ -4319,7 +4319,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-004"
+                "url": "27818-004"
             },
             "youtube": {
                 "availability": false
@@ -4413,7 +4413,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-005"
+                "url": "27818-005"
             },
             "youtube": {
                 "availability": false
@@ -4507,7 +4507,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-006"
+                "url": "27818-006"
             },
             "youtube": {
                 "availability": false
@@ -4601,7 +4601,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-007"
+                "url": "27818-007"
             },
             "youtube": {
                 "availability": false
@@ -4695,7 +4695,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-008"
+                "url": "27818-008"
             },
             "youtube": {
                 "availability": false
@@ -4789,7 +4789,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-009"
+                "url": "27818-009"
             },
             "youtube": {
                 "availability": false
@@ -4867,13 +4867,13 @@
                     "name": "Herefordshire SMR",
                     "id": "314",
                     "title": "Freens Court Medieval Manor & Moat (Site of), Sutton St Michael",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE117&resourceID=101"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE117&resourceID=101"
                 },
                 "additional2": {
                     "name": "Herefordshire SMR",
                     "id": "30512",
                     "title": "Great enclosure, Downs Field East, Sutton St Michael",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10204&resourceID=101"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHE10204&resourceID=101"
                 }
             },
             "imdb": {
@@ -4883,7 +4883,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-010"
+                "url": "27818-010"
             },
             "youtube": {
                 "availability": false
@@ -4977,7 +4977,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-011"
+                "url": "27818-011"
             },
             "youtube": {
                 "availability": false
@@ -5071,7 +5071,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-012"
+                "url": "27818-012"
             },
             "youtube": {
                 "availability": false
@@ -5165,7 +5165,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/27818-013"
+                "url": "27818-013"
             },
             "youtube": {
                 "availability": false
@@ -5260,7 +5260,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-001"
+                "url": "29766-001"
             },
             "youtube": {
                 "availability": false
@@ -5354,7 +5354,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-002"
+                "url": "29766-002"
             },
             "youtube": {
                 "availability": false
@@ -5448,7 +5448,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-003"
+                "url": "29766-003"
             },
             "youtube": {
                 "availability": false
@@ -5542,7 +5542,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-004"
+                "url": "29766-004"
             },
             "youtube": {
                 "availability": false
@@ -5636,7 +5636,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-005"
+                "url": "29766-005"
             },
             "youtube": {
                 "availability": false
@@ -5714,7 +5714,7 @@
                     "name": "Oxfordshire HER",
                     "id": "5880",
                     "title": "Medieval Tower & Wall, Rycote House",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5901&resourceID=1033"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX5901&resourceID=1033"
                 },
                 "additional2": {
                     "name": "–",
@@ -5730,7 +5730,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-006"
+                "url": "29766-006"
             },
             "youtube": {
                 "availability": false
@@ -5824,7 +5824,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-007"
+                "url": "29766-007"
             },
             "youtube": {
                 "availability": false
@@ -5918,7 +5918,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-008"
+                "url": "29766-008"
             },
             "youtube": {
                 "availability": false
@@ -5996,7 +5996,7 @@
                     "name": "West Berkshire HER",
                     "id": "MWB2786",
                     "title": "Lower Basildon Roman villa - general settlement",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWB2786&resourceID=1030"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MWB2786&resourceID=1030"
                 },
                 "additional2": {
                     "name": "–",
@@ -6012,7 +6012,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-009"
+                "url": "29766-009"
             },
             "youtube": {
                 "availability": false
@@ -6106,7 +6106,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-010"
+                "url": "29766-010"
             },
             "youtube": {
                 "availability": false
@@ -6201,7 +6201,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-011"
+                "url": "29766-011"
             },
             "youtube": {
                 "availability": false
@@ -6295,7 +6295,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-012"
+                "url": "29766-012"
             },
             "youtube": {
                 "availability": false
@@ -6389,7 +6389,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/29766-013"
+                "url": "29766-013"
             },
             "youtube": {
                 "availability": false
@@ -7025,7 +7025,7 @@
                     "name": "Cornwall & Scilly HER",
                     "id": "24698.70",
                     "title": "CAER VALLACK - Iron Age enclosure",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO45901&resourceID=1020"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCO45901&resourceID=1020"
                 },
                 "additional2": {
                     "name": "–",
@@ -7692,7 +7692,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-001"
+                "url": "33104-001"
             },
             "youtube": {
                 "availability": false
@@ -7770,7 +7770,7 @@
                     "name": "Somerset HER",
                     "id": "18313",
                     "title": "Geophysical surveys (2002), Northfield Lane, Dinnington",
-                    "url": "www.somersetheritage.org.uk/record/18313"
+                    "url": "somersetheritage.org.uk/record/18313"
                 },
                 "additional2": {
                     "name": "–",
@@ -7786,7 +7786,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-002"
+                "url": "33104-002"
             },
             "youtube": {
                 "availability": false
@@ -7880,7 +7880,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-003"
+                "url": "33104-003"
             },
             "youtube": {
                 "availability": false
@@ -7974,7 +7974,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-004"
+                "url": "33104-004"
             },
             "youtube": {
                 "availability": false
@@ -8068,7 +8068,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-005"
+                "url": "33104-005"
             },
             "youtube": {
                 "availability": false
@@ -8163,7 +8163,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-006"
+                "url": "33104-006"
             },
             "youtube": {
                 "availability": false
@@ -8241,13 +8241,13 @@
                     "name": "Somerset HER",
                     "id": 65059,
                     "title": "Excavation (2002), St Andrews Church site, Julian Road, Bath",
-                    "url": "www.somersetheritage.org.uk/record/65059"
+                    "url": "somersetheritage.org.uk/record/65059"
                 },
                 "additional2": {
                     "name": "Somerset HER",
                     "id": "60720",
                     "title": "St Andrew's church, Julian Road, Bath",
-                    "url": "www.somersetheritage.org.uk/record/60720#"
+                    "url": "somersetheritage.org.uk/record/60720#"
                 }
             },
             "imdb": {
@@ -8257,7 +8257,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-007"
+                "url": "33104-007"
             },
             "youtube": {
                 "availability": false
@@ -8335,7 +8335,7 @@
                     "name": "Somerset HER",
                     "id": "28564",
                     "title": "Evaluation (2002), site of Athelney Abbey, Lyng",
-                    "url": "www.somersetheritage.org.uk/record/28564#"
+                    "url": "somersetheritage.org.uk/record/28564#"
                 },
                 "additional2": {
                     "name": "–",
@@ -8351,7 +8351,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-008"
+                "url": "33104-008"
             },
             "youtube": {
                 "availability": false
@@ -8445,7 +8445,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-009"
+                "url": "33104-009"
             },
             "youtube": {
                 "availability": false
@@ -8539,7 +8539,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-010"
+                "url": "33104-010"
             },
             "youtube": {
                 "availability": false
@@ -8633,7 +8633,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-011"
+                "url": "33104-011"
             },
             "youtube": {
                 "availability": false
@@ -8727,7 +8727,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-012"
+                "url": "33104-012"
             },
             "youtube": {
                 "availability": false
@@ -8821,7 +8821,7 @@
             },
             "channel4": {
                 "availability": true,
-                "url": "www.channel4.com/programmes/time-team/on-demand/33104-013"
+                "url": "33104-013"
             },
             "youtube": {
                 "availability": false
@@ -8992,13 +8992,13 @@
                     "name": "Somerset HER",
                     "id": "16959",
                     "title": "Geophysical Survey (2003) Whitestaunton",
-                    "url": "www.somersetheritage.org.uk/record/16959"
+                    "url": "somersetheritage.org.uk/record/16959"
                 },
                 "additional2": {
                     "name": "Somerset HER",
                     "id": "53262",
                     "title": "Roman villa, Whitestaunton",
-                    "url": "www.somersetheritage.org.uk/record/53262"
+                    "url": "somersetheritage.org.uk/record/53262"
                 }
             },
             "imdb": {
@@ -9178,13 +9178,13 @@
                     "name": "Lincolnshire HER",
                     "id": "MLI86360",
                     "title": "Rng ditch (possible barrow) on land west of South Cliff Farm, South Carlton",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86360&resourceID=1006"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86360&resourceID=1006"
                 },
                 "additional2": {
                     "name": "Lincolnshire HER",
                     "id": "MLI86361",
                     "title": "Romano-British rectilinear enclosures on land west of South Cliff Farm, South Carlton",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86361&resourceID=1006"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI86361&resourceID=1006"
                 }
             },
             "imdb": {
@@ -10109,13 +10109,13 @@
                     "name": "Buckinghamshire HER",
                     "id": "0167104000",
                     "title": "THE MANOR HOUSE, CHENIES (Building)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC21764&resourceID=1024"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC21764&resourceID=1024"
                 },
                 "additional2": {
                     "name": "Buckinghamshire HER",
                     "id": "167105000",
                     "title": "THE MANOR HOUSE, CHENIES (Building)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC24969&resourceID=1024"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MBC24969&resourceID=1024"
                 }
             },
             "imdb": {
@@ -10484,13 +10484,13 @@
                     "name": "Peterborough HER",
                     "id": "51330",
                     "title": "Northborough Causewayed Enclosure",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB3368&resourceID=1045"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB3368&resourceID=1045"
                 },
                 "additional2": {
                     "name": "Peterborough HER",
                     "id": "51319",
                     "title": "Northborough Causewayed Enclosure",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB4918&resourceID=1045"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB4918&resourceID=1045"
                 }
             },
             "imdb": {
@@ -10860,7 +10860,7 @@
                     "name": "Essex HER",
                     "id": "46648",
                     "title": "Time Team Area 2",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MEX1039319&resourceID=1001"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MEX1039319&resourceID=1001"
                 },
                 "additional2": {
                     "name": "–",
@@ -11330,13 +11330,13 @@
                     "name": "Northamptonshire HER",
                     "id": "8586/0/1",
                     "title": "Roman cremation burial, Glendon",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171398&resourceID=1044"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171398&resourceID=1044"
                 },
                 "additional2": {
                     "name": "Northamptonshire HER",
                     "id": "3965/2",
                     "title": "Medieval church/chapel of St Helen and cemetery, Glendon",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171397&resourceID=1044"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MNN171397&resourceID=1044"
                 }
             },
             "imdb": {
@@ -12646,7 +12646,7 @@
                     "name": "Somerset HER",
                     "id": "23654",
                     "title": "Prehistoric and Roman settlement, Blacklands, north of Upper Row Farm, Hemington",
-                    "url": "www.somersetheritage.org.uk/record/23654#"
+                    "url": "somersetheritage.org.uk/record/23654#"
                 },
                 "additional2": {
                     "name": "–",
@@ -13021,7 +13021,7 @@
                     "name": "Cambridgeshire HER",
                     "id": "MCB17466",
                     "title": "Post-Roman enclosure ditch, Stilton",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCB17466&resourceID=1000"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MCB17466&resourceID=1000"
                 },
                 "additional2": {
                     "name": "–",
@@ -13303,7 +13303,7 @@
                     "name": "Devon & Dartmoor HER",
                     "id": "MDV73864",
                     "title": "Leat to Dotton Mill, Colaton Raleigh",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV73864&resourceID=104"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV73864&resourceID=104"
                 },
                 "additional2": {
                     "name": "–",
@@ -14425,7 +14425,7 @@
                     "name": "Leicestershire and Rutland HER",
                     "id": "MLE17032",
                     "title": "Anglo-Saxon site at Knave's Hill",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE17032&resourceID=1021"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE17032&resourceID=1021"
                 },
                 "additional2": {
                     "name": "–",
@@ -17040,7 +17040,7 @@
                     "name": "Oxfordshire HER",
                     "id": "26353",
                     "title": "Medieval and undated features at Burford Priory",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX23781&resourceID=1033"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX23781&resourceID=1033"
                 },
                 "additional2": {
                     "name": "–",
@@ -17413,13 +17413,13 @@
                     "name": "Devon & Dartmoor HER",
                     "id": "MDV102540",
                     "title": "Double stone row, Tottiford Reservoir",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV102540&resourceID=104"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV102540&resourceID=104"
                 },
                 "additional2": {
                     "name": "Devon & Dartmoor HER",
                     "id": "MDV102542",
                     "title": "Linear stone feature, Tottiford Reservoir",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV102542&resourceID=104"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MDV102542&resourceID=104"
                 }
             },
             "imdb": {
@@ -17506,13 +17506,13 @@
                     "name": "Leicestershire and Rutland HER",
                     "id": "MLE20788",
                     "title": "Possible prehistoric enclosure south-east of The Nook",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE20788&resourceID=1021"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE20788&resourceID=1021"
                 },
                 "additional2": {
                     "name": "Leicestershire and Rutland HER",
                     "id": "MLE20790",
                     "title": "Possible Roman ditches, south of Langton Brook",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE20790&resourceID=1021"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE20790&resourceID=1021"
                 }
             },
             "imdb": {
@@ -18250,7 +18250,7 @@
                     "name": "Somerset HER",
                     "id": "29990",
                     "title": "Geophysical survey (2010), Grove Mill, Buck Mill Farm, Stoke Trister",
-                    "url": "www.somersetheritage.org.uk/record/29990#"
+                    "url": "somersetheritage.org.uk/record/29990#"
                 },
                 "additional2": {
                     "name": "–",
@@ -19180,13 +19180,13 @@
                     "name": "Somerset HER",
                     "id": "31593",
                     "title": "Geophysical survey (2011), Croft Castle, Castle Hill, West Crewkerne",
-                    "url": "www.somersetheritage.org.uk/record/31593#"
+                    "url": "somersetheritage.org.uk/record/31593#"
                 },
                 "additional2": {
                     "name": "Somerset HER",
                     "id": "54678",
                     "title": "Croft Castle, Castle Hill, West Crewkerne",
-                    "url": "www.somersetheritage.org.uk/record/54678#"
+                    "url": "somersetheritage.org.uk/record/54678#"
                 }
             },
             "imdb": {
@@ -19645,7 +19645,7 @@
                     "name": "Suffolk HER",
                     "id": "HAM 015",
                     "title": "Henham (Tudor) Hall (site of), Large courtyard-plan house built circa 1520s-1530s by Charles Brandon.",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF13436&resourceID=1017"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF13436&resourceID=1017"
                 },
                 "additional2": {
                     "name": "–",
@@ -19924,13 +19924,13 @@
                     "name": "Leicestershire and Rutland HER",
                     "id": "MLE5573",
                     "title": "Medieval gardens at Oakham Castle, Oakham",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5573&resourceID=1021"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5573&resourceID=1021"
                 },
                 "additional2": {
                     "name": "Leicestershire and Rutland HER",
                     "id": "MLE5570",
                     "title": "OAKHAM \"CASTLE\", MARKET PLACE, OAKHAM",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5570&resourceID=1021"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5570&resourceID=1021"
                 }
             },
             "imdb": {
@@ -20203,7 +20203,7 @@
                     "name": "Hertfordshire HER & St Albans UAD",
                     "id": "10919",
                     "title": "SITE OF THE MANOR OF THE MORE, MOOR PARK, RICKMANSWORTH",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHT10919&resourceID=1008"
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHT10919&resourceID=1008"
                 },
                 "additional2": {
                     "name": "–",
