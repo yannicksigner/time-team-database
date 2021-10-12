@@ -17855,7 +17855,7 @@
         },
         "links": {
             "ei": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
                     "id": 1552906,
@@ -17942,7 +17942,7 @@
         },
         "links": {
             "ei": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
                     "id": 1546032,
@@ -18009,5 +18009,962 @@
             }
         },
         "datecreated": "11.10.2021"
+    },
+    {
+        "id": 207,
+        "thumbnailurl": "s20ep1.png",
+        "summary": "Golfers at a popular East Midlands golf club now know that a huge wooded bank beside their fairway is a rather special area of 'rough', an old machine gun firing range",
+        "location": "Grantham, Lincolnshire",
+        "country": "England",
+        "ngr": "SK 93267 38008",
+        "coord": "52.931389,-0.613889",
+        "recorded": "–",
+        "broadcast": {
+            "date": "11 November 2012",
+            "seriesepisode": 207,
+            "season": "Season 20",
+            "episode": "Episode 1",
+            "title": "The Forgotten Gunners of WWI",
+            "year": 2012
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1569562,
+                    "name": "BELTON PARK CAMP (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493116"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2013) Belton House, Belton, Lincolnshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/85203_Time%20Team%20-%20Belton%20House.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Belton Park Camp, Lincolnshire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Lincolnshire HER",
+                    "id": "MLI97861",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLI97861&resourceID=1006"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.4",
+                "url": "tt2551762"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 208,
+        "thumbnailurl": "s20ep2.png",
+        "summary": "Time Team returns, starting with an episode featuring the Team's largest ever range and number of items from Roman Britain and their most ambitious geophysics project to date",
+        "location": "Brancaster, Norfolk",
+        "country": "England",
+        "ngr": "TF 78206 44016",
+        "coord": "52.963889,0.651944",
+        "recorded": "–",
+        "broadcast": {
+            "date": "6 January 2013",
+            "seriesepisode": 208,
+            "season": "Season 20",
+            "episode": "Episode 2",
+            "title": "Brancaster",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1571313,
+                    "name": "BRANCASTER/BRANODUNUM (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493702"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2014) Brancaster Roman Fort, (Branodunum), Norfolk: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/85209_Brancaster%20Roman%20Fort_report.pdf"
+                },
+                "additional1": {
+                    "accessable": true,
+                    "title": "Adcock and Brunning (2014) Brancaster Roman Town, Norfolk",
+                    "url": "doi.org/10.5284/1031751"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Norfolk HER",
+                    "id": "1003",
+                    "url": "heritage.norfolk.gov.uk/record-details?MNF1003-Brancaster-Roman-vicus&Index=4&RecordCount=199&SessionID=8c956774-d684-4cfa-ac8b-e4de270de80b"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.5",
+                "url": "tt2750536"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 209,
+        "thumbnailurl": "s20ep3.png",
+        "summary": "Time Team investigate a huge hill near Cardiff that may be immensely significant; was it the Iron Age capital of South Wales? Tony and the Team have just three days to answer some very big questions.",
+        "location": "Ely, Cardiff",
+        "country": "Wales",
+        "ngr": "ST 13364 74990",
+        "coord": "51.467222,-3.248611",
+        "recorded": "–",
+        "broadcast": {
+            "date": "13 January 2013",
+            "seriesepisode": 209,
+            "season": "Season 20",
+            "episode": "Episode 3",
+            "title": "A Capital Hill",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.7",
+                "url": "tt2750580"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 210,
+        "thumbnailurl": "s20ep4.png",
+        "summary": "Tony and the Team help charismatic Hektor Rous, the son of 'Aussie Earl' Keith Rous, piece together the mysterious history of the family's Tudor country home in Suffolk",
+        "location": "Henham Park, Suffolk",
+        "country": "England",
+        "ngr": "TM 45395 77615",
+        "coord": "52.341667,1.601111",
+        "recorded": "–",
+        "broadcast": {
+            "date": "20 January 2013",
+            "seriesepisode": 210,
+            "season": "Season 20",
+            "episode": "Episode 4",
+            "title": "Henham's Lost Mansions",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1572088,
+                    "name": "HENHAM HALL, HENHAM PARK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493905"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2014) Henham Park, Wangford With Hemham, Suffolk: Archaeological Evaluation and Assessment of Results",
+                    "url": "doi.org/10.5284/1031022"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Henham Hall, Suffolk",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Suffolk HER",
+                    "id": "HAM 006",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF6864&resourceID=1017"
+                },
+                "additional1": {
+                    "name": "Suffolk HER",
+                    "id": "HAM 015",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MSF13436&resourceID=1017"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.1",
+                "url": "tt2786512"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 211,
+        "thumbnailurl": "s20ep5.png",
+        "summary": "In a sensational three days, an ancient site on Salisbury Plain yields burials dating back to 2000BC, along with rare Saxon brooches, beads, spears and jewellery",
+        "location": "Figheldean, Wiltshire",
+        "country": "England",
+        "ngr": "SU 16567 46906",
+        "coord": "51.221111,-1.764167",
+        "recorded": "–",
+        "broadcast": {
+            "date": "27 January 2013",
+            "seriesepisode": 211,
+            "season": "Season 20",
+            "episode": "Episode 5",
+            "title": "Warriors",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1572089,
+                    "name": "BARROW CLUMP (OPERATION NIGHTINGALE)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493906"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Barrow Clump, Salisbury Plain",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Wiltshire and Swindon HER",
+                    "id": "MWI75221",
+                    "url": "services.wiltshire.gov.uk/HistoryEnvRecord/Home/ViewHERItem?HER=MWI75221"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "tt2786544"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 212,
+        "thumbnailurl": "s20ep6.png",
+        "summary": "Tony and the Team head both higher and deeper than they've ever dug before, as they explore a forgotten piece of our industrial heritage: Elizabethan copper mining in the Lake District",
+        "location": "Coniston, Cumbria",
+        "country": "England",
+        "ngr": "SD 28454 98963",
+        "coord": "54.381111,-3.103056",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 February 2013",
+            "seriesepisode": 212,
+            "season": "Season 20",
+            "episode": "Episode 6",
+            "title": "Lost Mines of Lakeland",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1572090,
+                    "name": "CONISTON COPPER WORKS (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493907"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2016) Coniston Copper Mines, Coniston, Cumbria: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/Coniston%20Copper%20Mines.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Coniston Copper Works, Cumbria",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.6",
+                "url": "tt2786594"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 213,
+        "thumbnailurl": "s20ep7.png",
+        "summary": "Time Team investigate Oakham Castle in Rutland. It's Britain's best preserved 12th-century building but its grounds are full of mysterious lumps and bumps crying out to be investigated.",
+        "location": "Oakham Castle, Rutland",
+        "country": "England",
+        "ngr": "SK 86144 08884",
+        "coord": "52.670833,-0.7275",
+        "recorded": "–",
+        "broadcast": {
+            "date": "10 February 2013",
+            "seriesepisode": 213,
+            "season": "Season 20",
+            "episode": "Episode 7",
+            "title": "Horseshoe Hall",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "id": 1617347,
+                    "name": "LAND AT OAKHAM CASTLE",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3516106"
+                },
+                "additional1": {
+                    "id": 1572388,
+                    "name": "OAKHAM CASTLE PARK (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493973"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2015) Oakham Castle, Oakham, Leicestershire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/85206_Time%20Team%20-%20Oakham%20Castle.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Oakham Castle, Rutland",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Leicestershire and Rutland HER",
+                    "id": "MLE5569",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5569&resourceID=1021"
+                },
+                "additional1": {
+                    "name": "Leicestershire and Rutland HER",
+                    "id": "MLE5573",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5573&resourceID=1021"
+                },
+                "additional2": {
+                    "name": "Leicestershire and Rutland HER",
+                    "id": "MLE5570",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MLE5570&resourceID=1021"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.5",
+                "url": "tt2841876"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 214,
+        "thumbnailurl": "s20ep8.png",
+        "summary": "In the 1960s, a young PhD student decided to excavate a South Oxfordshire field where a farmer was regularly ploughing up Roman remains. Time Team aim to finish the job started 50 years ago.",
+        "location": "Dropshort, Oxfordshire",
+        "country": "England",
+        "ngr": "SU 49420 93892",
+        "coord": "51.641667,-1.287222",
+        "recorded": "–",
+        "broadcast": {
+            "date": "17 February 2013",
+            "seriesepisode": 214,
+            "season": "Season 20",
+            "episode": "Episode 8",
+            "title": "Mystery of the Thames-side Villa",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1572386,
+                    "name": "DROPSHORT ROMAN VILLA (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3493972"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2014) Dropshort Roman Villa, Drayton, Oxfordshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/85200_Time%20Team%20-%20Dropshort%20Roman%20Villa.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Dropshort Roman Villa, Oxfordshire",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "name": "Oxfordshire HER",
+                    "id": "1857",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MOX468&resourceID=1033"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "7.4",
+                "url": "tt2841884"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 215,
+        "thumbnailurl": "s20ep9.png",
+        "summary": "Tony and the Team search for the remains of a renegade knight's Norman castle in one of Northern Ireland's most picturesque spots",
+        "location": "Dundrum Castle, County Down",
+        "country": "Northern Ireland",
+        "ngr": "SB4 9715 91966",
+        "coord": "54.261944,-5.844722",
+        "recorded": "–",
+        "broadcast": {
+            "date": "24 February 2013",
+            "seriesepisode": 215,
+            "season": "Season 20",
+            "episode": "Episode 9",
+            "title": "The Lost Castle of Dundrum",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.3",
+                "url": "tt2841906"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 216,
+        "thumbnailurl": "s20ep10.png",
+        "summary": "In the 1950s a group of schoolboys found the remains of Britain's most opulent palace under their playing field. Now Tony and the Team try to piece together this massive Tudor puzzle.",
+        "location": "The More, Moor Park, Hertfordshire",
+        "country": "England",
+        "ngr": "TQ 08255 93943",
+        "coord": "51.633889,-0.437222",
+        "recorded": "–",
+        "broadcast": {
+            "date": "3 March 2013",
+            "seriesepisode": 216,
+            "season": "Season 20",
+            "episode": "Episode 10",
+            "title": "Wolsey's Lost Palace",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": true,
+                "multiple": false,
+                "main": {
+                    "id": 1572723,
+                    "name": "MANOR OF THE MORE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=3494023"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": true,
+                "multiple": true,
+                "comment": "–",
+                "main": {
+                    "accessable": true,
+                    "title": "Wessex Archaeology (2013) The Manor of the More, Northwood, Hertfordshire: Archaeological Evaluation and Assessment of Results",
+                    "url": "www.wessexarch.co.uk/sites/default/files/field_file/85202_Time%20Team%20-%20The%20Manor%20of%20the%20More%2C%20Northwood.pdf"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "Geophysical Surveys of Bradford (2012) Geophysical survey report: Manor of the More, Rickmansworth",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": true,
+                "multiple": true,
+                "main": {
+                    "name": "Hertfordshire HER & St Albans UAD",
+                    "id": "829",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHT829&resourceID=1008"
+                },
+                "additional1": {
+                    "name": "Hertfordshire HER & St Albans UAD",
+                    "id": "10919",
+                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MHT10919&resourceID=1008"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.2",
+                "url": "tt2841916"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
+    },
+    {
+        "id": 217,
+        "thumbnailurl": "s20ep11.png",
+        "summary": "When Steve and Pru bought pretty Upton Castle in Pembrokeshire they weren't sure if it was a Victorian folly or an Anglo-Norman castle, built to defend 'Little England beyond Wales' from the locals",
+        "location": "Upton Castle, Cosheston, Pembrokeshire",
+        "country": "Wales",
+        "ngr": "SN 01895 04808",
+        "coord": "51.706944,-4.868611",
+        "recorded": "–",
+        "broadcast": {
+            "date": "10 March 2013",
+            "seriesepisode": 217,
+            "season": "Season 20",
+            "episode": "Episode 11",
+            "title": "An Englishman's Castle",
+            "year": 2013
+        },
+        "links": {
+            "ei": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "id": "–",
+                    "name": "–",
+                    "url": "–"
+                }
+            },
+            "report": {
+                "availability": false,
+                "multiple": false,
+                "comment": "–",
+                "main": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "accessable": false,
+                    "title": "–",
+                    "url": "–"
+                }
+            },
+            "her": {
+                "availability": false,
+                "multiple": false,
+                "main": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional1": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                },
+                "additional2": {
+                    "name": "–",
+                    "id": "–",
+                    "url": "–"
+                }
+            },
+            "imdb": {
+                "availability": true,
+                "rating": "8.4",
+                "url": "tt2842058"
+            },
+            "channel4": {
+                "availability": false
+            }
+        },
+        "datecreated": "12.10.2021"
     }
 ]
