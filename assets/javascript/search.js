@@ -143,6 +143,12 @@
           appendString += '<p class="value3 mt-sm"><img src="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/large/s3/2019-08/C4_RGB_Grey.jpg" style="margin-right: 15px;height: 16px;vertical-align: text-top;">Not available on Channel4</p>'
         }
 
+        if (item.links.youtube.availability) {
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 15px;"></i>Available on Youtube <a href="http://' + item.links.youtube.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+        } else {
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 15px;"></i>Not available on Youtube</p>'
+        }
+
         appendString += '</div></div></div></section>'
       }
 
