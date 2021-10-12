@@ -91,6 +91,10 @@
     }
 }
 
+.search-result-item-body .entry {
+    font-size: 14px
+}
+
 .search-result-item-heading {
     font-weight: 400
 }
