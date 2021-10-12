@@ -129,7 +129,7 @@
         appendString += '</div><div class="col-sm-4 text-align-center">'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Season"></i>' + item.broadcast.season + ' – ' + item.broadcast.episode + '</p>'
         appendString += '<p class="value3 mt-sm"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
-        appendString += '<p class="value3 mt-sm"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i>' + item.recorded + '</p>'
+        appendString += '<p class="value3 mt-sm"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i>' + item.recorded + '</p><hr/>'
 
         if (item.links.imdb.availability) {
           appendString += '<p class="value3 mt-sm"><i class="fa fa-imdb" style="margin-right: 15px;"></i>IMDb rating ' + item.links.imdb.rating + '/10 <a href="www.imdb.com/title/' + item.links.imdb.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
@@ -206,7 +206,6 @@
     var pageNum = parseInt(getQueryVariable('page'));
     pageNum = pageNum + value;
 
-    var currentUrl = 'http://www.example.com/hello.png?w=100&h=100&bg=white';
     var url = new URL(document.location.href);
     url.searchParams.set("page", pageNum); // setting your param
     var newUrl = url.href;
