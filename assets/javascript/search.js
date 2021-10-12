@@ -144,9 +144,9 @@
         }
 
         if (item.links.youtube.availability) {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 15px;"></i>Available on Youtube <a href="https://www.youtube.com/watch?v=' + item.links.youtube.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Available on Youtube <a href="https://www.youtube.com/watch?v=' + item.links.youtube.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
         } else {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 15px;"></i>Not available on Youtube</p>'
+          appendString += '<p class="value3 mt-sm"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Not available on Youtube</p>'
         }
 
         appendString += '</div></div></div></section>'
