@@ -11,7 +11,7 @@
         "broadcast": {
             "date": "16 January 1994",
             "seriesepisode": 1,
-            "season": "Season 1",
+            "season": "Season 01",
             "episode": "Episode 1",
             "title": "The Guerrilla Base of the King",
             "year": 1994
@@ -102,7 +102,7 @@
         "broadcast": {
             "date": "23 January 1994",
             "seriesepisode": 2,
-            "season": "Season 1",
+            "season": "Season 01",
             "episode": "Episode 2",
             "title": "On the Edge of an Empire",
             "year": 1994
@@ -193,7 +193,7 @@
         "broadcast": {
             "date": "30 January 1994",
             "seriesepisode": 3,
-            "season": "Season 1",
+            "season": "Season 01",
             "episode": "Episode 3",
             "title": "The New Town of a Norman Prince",
             "year": 1994
@@ -284,7 +284,7 @@
         "broadcast": {
             "date": "6 February 1994",
             "seriesepisode": 4,
-            "season": "Season 1",
+            "season": "Season 01",
             "episode": "Episode 4",
             "title": "The Fortress in the Lake",
             "year": 1994
@@ -375,7 +375,7 @@
         "broadcast": {
             "date": "8 January 1995",
             "seriesepisode": 5,
-            "season": "Season 2",
+            "season": "Season 02",
             "episode": "Episode 1",
             "title": "Lord of the Isles",
             "year": 1995
@@ -466,7 +466,7 @@
         "broadcast": {
             "date": "15 January 1995",
             "seriesepisode": 6,
-            "season": "Season 2",
+            "season": "Season 02",
             "episode": "Episode 2",
             "title": "The Saxon Graves",
             "year": 1995
@@ -559,7 +559,7 @@
         "broadcast": {
             "date": "22 January 1995",
             "seriesepisode": 7,
-            "season": "Season 2",
+            "season": "Season 02",
             "episode": "Episode 3",
             "title": "The Lost Villa",
             "year": 1995
@@ -650,7 +650,7 @@
         "broadcast": {
             "date": "29 January 1995",
             "seriesepisode": 8,
-            "season": "Season 2",
+            "season": "Season 02",
             "episode": "Episode 4",
             "title": "The Archbishop's Back Garden",
             "year": 1995
@@ -742,7 +742,7 @@
         "broadcast": {
             "date": "5 February 1995",
             "seriesepisode": 9,
-            "season": "Season 2",
+            "season": "Season 02",
             "episode": "Episode 5",
             "title": "Medieval Dining Hall",
             "year": 1995
@@ -833,7 +833,7 @@
         "broadcast": {
             "date": "7 January 1996",
             "seriesepisode": 10,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 1",
             "title": "Prehistoric Fogou",
             "year": 1996
@@ -924,7 +924,7 @@
         "broadcast": {
             "date": "14 January 1996",
             "seriesepisode": 11,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 2",
             "title": "Hunting for Mammoth",
             "year": 1996
@@ -1015,7 +1015,7 @@
         "broadcast": {
             "date": "21 January 1996",
             "seriesepisode": 12,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 3",
             "title": "Village of the Templars",
             "year": 1996
@@ -1106,7 +1106,7 @@
         "broadcast": {
             "date": "28 January 1996",
             "seriesepisode": 13,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 4",
             "title": "A Wreck of the Spanish Armada",
             "year": 1996
@@ -1198,7 +1198,7 @@
         "broadcast": {
             "date": "4 February 1996",
             "seriesepisode": 14,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 5",
             "title": "Palace of the Irish Kings",
             "year": 1996
@@ -1289,7 +1289,7 @@
         "broadcast": {
             "date": "11 February 1996",
             "seriesepisode": 15,
-            "season": "Season 3",
+            "season": "Season 03",
             "episode": "Episode 6",
             "title": "Treasures of the Roman Field",
             "year": 1996
@@ -1380,7 +1380,7 @@
         "broadcast": {
             "date": "5 January 1997",
             "seriesepisode": 16,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 1",
             "title": "St. Mary's City, Maryland",
             "year": 1997
@@ -1471,7 +1471,7 @@
         "broadcast": {
             "date": "12 January 1997",
             "seriesepisode": 17,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 2",
             "title": "Launceston, Cornwall",
             "year": 1997
@@ -1562,7 +1562,7 @@
         "broadcast": {
             "date": "19 January 1997",
             "seriesepisode": 18,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 3",
             "title": "Steam-Powered Mint",
             "year": 1997
@@ -1653,7 +1653,7 @@
         "broadcast": {
             "date": "26 January 1997",
             "seriesepisode": 19,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 4",
             "title": "8th Century Church",
             "year": 1997
@@ -1744,7 +1744,7 @@
         "broadcast": {
             "date": "2 February 1997",
             "seriesepisode": 20,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 5",
             "title": "Norman and Medieval Castles",
             "year": 1997
@@ -1835,7 +1835,7 @@
         "broadcast": {
             "date": "9 February 1997",
             "seriesepisode": 21,
-            "season": "Season 4",
+            "season": "Season 04",
             "episode": "Episode 6",
             "title": "Roman Villa",
             "year": 1997
@@ -1926,7 +1926,7 @@
         "broadcast": {
             "date": "4 January 1998",
             "seriesepisode": 22,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 1",
             "title": "Richmond",
             "year": 1998
@@ -2017,7 +2017,7 @@
         "broadcast": {
             "date": "11 January 1998",
             "seriesepisode": 23,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 2",
             "title": "Greylake",
             "year": 1998
@@ -2108,7 +2108,7 @@
         "broadcast": {
             "date": "18 January 1998",
             "seriesepisode": 24,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 3",
             "title": "Orkney",
             "year": 1998
@@ -2199,7 +2199,7 @@
         "broadcast": {
             "date": "25 January 1998",
             "seriesepisode": 25,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 4",
             "title": "Turkdean",
             "year": 1998
@@ -2290,7 +2290,7 @@
         "broadcast": {
             "date": "1 February 1998",
             "seriesepisode": 26,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 5",
             "title": "Mallorca",
             "year": 1998
@@ -2381,7 +2381,7 @@
         "broadcast": {
             "date": "8 February 1998",
             "seriesepisode": 27,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 6",
             "title": "Aston Eyre",
             "year": 1998
@@ -2472,7 +2472,7 @@
         "broadcast": {
             "date": "22 February 1998",
             "seriesepisode": 28,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 7",
             "title": "Downpatrick",
             "year": 1998
@@ -2563,7 +2563,7 @@
         "broadcast": {
             "date": "1 March 1998",
             "seriesepisode": 29,
-            "season": "Season 5",
+            "season": "Season 05",
             "episode": "Episode 8",
             "title": "Worsall",
             "year": 1998
@@ -2654,7 +2654,7 @@
         "broadcast": {
             "date": "3 January 1999",
             "seriesepisode": 30,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 1",
             "title": "Wedgwood's First Factory",
             "year": 1999
@@ -2745,7 +2745,7 @@
         "broadcast": {
             "date": "10 January 1999",
             "seriesepisode": 31,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 2",
             "title": "Papcastle, Cumbria",
             "year": 1999
@@ -2836,7 +2836,7 @@
         "broadcast": {
             "date": "17 January 1999",
             "seriesepisode": 32,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 3",
             "title": "Thetford, Norfolk",
             "year": 1999
@@ -2927,7 +2927,7 @@
         "broadcast": {
             "date": "24 January 1999",
             "seriesepisode": 33,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 4",
             "title": "Cheddar Gorge, Somerset",
             "year": 1999
@@ -3018,7 +3018,7 @@
         "broadcast": {
             "date": "31 January 1999",
             "seriesepisode": 34,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 5",
             "title": "Plympton, Devon",
             "year": 1999
@@ -3109,7 +3109,7 @@
         "broadcast": {
             "date": "7 February 1999",
             "seriesepisode": 35,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 6",
             "title": "Smallhythe, Kent",
             "year": 1999
@@ -3200,7 +3200,7 @@
         "broadcast": {
             "date": "14 February 1999",
             "seriesepisode": 36,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 7",
             "title": "Beauport Park, Sussex",
             "year": 1999
@@ -3291,7 +3291,7 @@
         "broadcast": {
             "date": "21 February 1999",
             "seriesepisode": 37,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 8",
             "title": "Reedham Marshes, Norfolk",
             "year": 1999
@@ -3382,7 +3382,7 @@
         "broadcast": {
             "date": "28 February 1999",
             "seriesepisode": 38,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 9",
             "title": "Turkdean, Gloucestershire",
             "year": 1999
@@ -3473,7 +3473,7 @@
         "broadcast": {
             "date": "7 March 1999",
             "seriesepisode": 39,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 10",
             "title": "Kemerton, Worcestershire",
             "year": 1999
@@ -3564,7 +3564,7 @@
         "broadcast": {
             "date": "14 March 1999",
             "seriesepisode": 40,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 11",
             "title": "Bawsey St James, Norfolk",
             "year": 1999
@@ -3655,7 +3655,7 @@
         "broadcast": {
             "date": "21 March 1999",
             "seriesepisode": 41,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 12",
             "title": "Nevis, West Indies - Part 1",
             "year": 1999
@@ -3746,7 +3746,7 @@
         "broadcast": {
             "date": "28 March 1999",
             "seriesepisode": 42,
-            "season": "Season 6",
+            "season": "Season 06",
             "episode": "Episode 13",
             "title": "Nevis, West Indies - Part 2",
             "year": 1999
@@ -3837,7 +3837,7 @@
         "broadcast": {
             "date": "2 January 2000",
             "seriesepisode": 43,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 1",
             "title": "A Muslim Port in Spain",
             "year": 2000
@@ -3928,7 +3928,7 @@
         "broadcast": {
             "date": "9 January 2000",
             "seriesepisode": 44,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 2",
             "title": "The Mosaic at the Bottom of the Garden",
             "year": 2000
@@ -4019,7 +4019,7 @@
         "broadcast": {
             "date": "16 January 2000",
             "seriesepisode": 45,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 3",
             "title": "One of the First Spitfires Lost in France",
             "year": 2000
@@ -4110,7 +4110,7 @@
         "broadcast": {
             "date": "23 January 2000",
             "seriesepisode": 46,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 4",
             "title": "An Iron-Age Roundhouse and a Henge",
             "year": 2000
@@ -4201,7 +4201,7 @@
         "broadcast": {
             "date": "30 January 2000",
             "seriesepisode": 47,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 5",
             "title": "Hadrian's Wall",
             "year": 2000
@@ -4292,7 +4292,7 @@
         "broadcast": {
             "date": "6 February 2000",
             "seriesepisode": 48,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 6",
             "title": "In Search of the Earliest Traces of Mankind",
             "year": 2000
@@ -4383,7 +4383,7 @@
         "broadcast": {
             "date": "13 February 2000",
             "seriesepisode": 49,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 7",
             "title": "The Missing Cathedral and the Diabetic Prior",
             "year": 2000
@@ -4474,7 +4474,7 @@
         "broadcast": {
             "date": "20 February 2000",
             "seriesepisode": 50,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 8",
             "title": "The Royalists' Last Stand",
             "year": 2000
@@ -4565,7 +4565,7 @@
         "broadcast": {
             "date": "27 February 2000",
             "seriesepisode": 51,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 9",
             "title": "A Bronze-Age Barrow and Walkway",
             "year": 2000
@@ -4656,7 +4656,7 @@
         "broadcast": {
             "date": "5 March 2000",
             "seriesepisode": 52,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 10",
             "title": "In Search of the Palace of King Offa",
             "year": 2000
@@ -4747,7 +4747,7 @@
         "broadcast": {
             "date": "12 March 2000",
             "seriesepisode": 53,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 11",
             "title": "A Roman Temple in Sight of the Millennium Dome",
             "year": 2000
@@ -4838,7 +4838,7 @@
         "broadcast": {
             "date": "19 March 2000",
             "seriesepisode": 54,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 12",
             "title": "Nuns in Northumbria",
             "year": 2000
@@ -4929,7 +4929,7 @@
         "broadcast": {
             "date": "26 March 2000",
             "seriesepisode": 55,
-            "season": "Season 7",
+            "season": "Season 07",
             "episode": "Episode 13",
             "title": "York",
             "year": 2000
@@ -5021,7 +5021,7 @@
         "broadcast": {
             "date": "7 January 2001",
             "seriesepisode": 56,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 1",
             "title": "An Anglo-Saxon Cemetery in Lincolnshire",
             "year": 2001
@@ -5112,7 +5112,7 @@
         "broadcast": {
             "date": "14 January 2001",
             "seriesepisode": 57,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 2",
             "title": "The Man Who Bought a Castle",
             "year": 2001
@@ -5203,7 +5203,7 @@
         "broadcast": {
             "date": "21 January 2001",
             "seriesepisode": 58,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 3",
             "title": "The Celtic Spring",
             "year": 2001
@@ -5294,7 +5294,7 @@
         "broadcast": {
             "date": "28 January 2001",
             "seriesepisode": 59,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 4",
             "title": "A Waltham Villa",
             "year": 2001
@@ -5385,7 +5385,7 @@
         "broadcast": {
             "date": "4 February 2001",
             "seriesepisode": 60,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 5",
             "title": "The 'Lost Viaduct'",
             "year": 2001
@@ -5476,7 +5476,7 @@
         "broadcast": {
             "date": "11 February 2001",
             "seriesepisode": 61,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 6",
             "title": "A Palace Sold for Scrap",
             "year": 2001
@@ -5567,7 +5567,7 @@
         "broadcast": {
             "date": "18 February 2001",
             "seriesepisode": 62,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 7",
             "title": "An Iron-Age Roundhouse",
             "year": 2001
@@ -5658,7 +5658,7 @@
         "broadcast": {
             "date": "25 February 2001",
             "seriesepisode": 63,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 8",
             "title": "The Bone Caves",
             "year": 2001
@@ -5749,7 +5749,7 @@
         "broadcast": {
             "date": "4 March 2001",
             "seriesepisode": 64,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 9",
             "title": "The Inter-City Villa",
             "year": 2001
@@ -5840,7 +5840,7 @@
         "broadcast": {
             "date": "11 March 2001",
             "seriesepisode": 65,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 10",
             "title": "Holy Island",
             "year": 2001
@@ -5932,7 +5932,7 @@
         "broadcast": {
             "date": "18 March 2001",
             "seriesepisode": 66,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 11",
             "title": "The Leaning Tower of Bridgnorth",
             "year": 2001
@@ -6023,7 +6023,7 @@
         "broadcast": {
             "date": "25 March 2001",
             "seriesepisode": 67,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 12",
             "title": "Three Tales of Canterbury",
             "year": 2001
@@ -6114,7 +6114,7 @@
         "broadcast": {
             "date": "1 April 2001",
             "seriesepisode": 68,
-            "season": "Season 8",
+            "season": "Season 08",
             "episode": "Episode 13",
             "title": "\"The Leper Hospital\"",
             "year": 2001
@@ -6205,7 +6205,7 @@
         "broadcast": {
             "date": "6 January 2002",
             "seriesepisode": 69,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 1",
             "title": "London's First Bridge",
             "year": 2002
@@ -6295,7 +6295,7 @@
         "broadcast": {
             "date": "13 January 2002",
             "seriesepisode": 70,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 2",
             "title": "The Roman's Panic",
             "year": 2002
@@ -6385,7 +6385,7 @@
         "broadcast": {
             "date": "20 January 2002",
             "seriesepisode": 71,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 3",
             "title": "Diving for the Armada",
             "year": 2002
@@ -6475,7 +6475,7 @@
         "broadcast": {
             "date": "27 January 2002",
             "seriesepisode": 72,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 4",
             "title": "The Naughty Monastery",
             "year": 2002
@@ -6565,7 +6565,7 @@
         "broadcast": {
             "date": "3 February 2002",
             "seriesepisode": 73,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 5",
             "title": "The Furnace in the Cellar",
             "year": 2002
@@ -6655,7 +6655,7 @@
         "broadcast": {
             "date": "10 February 2002",
             "seriesepisode": 74,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 6",
             "title": "An Ermine Street Pub",
             "year": 2002
@@ -6745,7 +6745,7 @@
         "broadcast": {
             "date": "17 February 2002",
             "seriesepisode": 75,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 7",
             "title": "Iron-Age Market",
             "year": 2002
@@ -6835,7 +6835,7 @@
         "broadcast": {
             "date": "24 February 2002",
             "seriesepisode": 76,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 8",
             "title": "Siege House in Shropshire",
             "year": 2002
@@ -6925,7 +6925,7 @@
         "broadcast": {
             "date": "3 March 2002",
             "seriesepisode": 77,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 9",
             "title": "A Prehistoric Airfield",
             "year": 2002
@@ -7015,7 +7015,7 @@
         "broadcast": {
             "date": "10 March 2002",
             "seriesepisode": 78,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 10",
             "title": "A Lost Roman City",
             "year": 2002
@@ -7105,7 +7105,7 @@
         "broadcast": {
             "date": "17 March 2002",
             "seriesepisode": 79,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 11",
             "title": "Every Castle Needs a Lord",
             "year": 2002
@@ -7195,7 +7195,7 @@
         "broadcast": {
             "date": "24 March 2002",
             "seriesepisode": 80,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 12",
             "title": "Steptoe Et Filius",
             "year": 2002
@@ -7285,7 +7285,7 @@
         "broadcast": {
             "date": "31 March 2002",
             "seriesepisode": 81,
-            "season": "Season 9",
+            "season": "Season 09",
             "episode": "Episode 13",
             "title": "Seven Buckets and a Buckle",
             "year": 2002
