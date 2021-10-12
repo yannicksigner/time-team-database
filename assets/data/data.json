@@ -676,7 +676,7 @@
                 }
             },
             "report": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "comment": "–",
                 "main": {
@@ -2662,7 +2662,7 @@
         "links": {
             "ei": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "id": 1186511,
                     "name": "MARKET PLACE, BURSLEM (TIME TEAM)",
@@ -2681,7 +2681,7 @@
             },
             "report": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "comment": "–",
                 "main": {
                     "accessable": false,
@@ -3136,7 +3136,7 @@
             },
             "report": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "comment": "–",
                 "main": {
                     "accessable": true,
@@ -4140,7 +4140,7 @@
                 "multiple": false,
                 "comment": "–",
                 "main": {
-                    "accessable": true,
+                    "accessable": false,
                     "title": "Nicholls and Weston (1999) Geophysical survey at Waddon, Dorset (Report No 99/63)",
                     "url": "–"
                 },
@@ -7132,7 +7132,7 @@
             },
             "report": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "comment": "–",
                 "main": {
                     "accessable": true,
@@ -9777,7 +9777,7 @@
             },
             "her": {
                 "availability": true,
-                "multiple": false,
+                "multiple": true,
                 "main": {
                     "name": "Buckinghamshire HER",
                     "id": "0167100000",
@@ -9851,7 +9851,7 @@
                 "multiple": true,
                 "comment": "–",
                 "main": {
-                    "accessable": false,
+                    "accessable": true,
                     "title": "Wessex Archaeology (2005) Nether Poppleton,City of York, Yorkshire: Archaeological Evaluation and Assessment of Results",
                     "url": "www.wessexarch.co.uk/sites/default/files/55756_Nether%20Poppleton.pdf"
                 },
@@ -10867,7 +10867,7 @@
                 }
             },
             "her": {
-                "availability": true,
+                "availability": false,
                 "multiple": false,
                 "main": {
                     "name": "–",
@@ -12959,7 +12959,7 @@
                 }
             },
             "her": {
-                "availability": true,
+                "availability": false,
                 "multiple": false,
                 "main": {
                     "name": "–",
@@ -16035,7 +16035,7 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
                     "name": "Shropshire HER",
@@ -18050,7 +18050,7 @@
     },
     {
         "id": 200,
-        "thumbnailurl": "s19ep5.png",
+        "thumbnailurl": "default.png",
         "summary": "Tony leads the Team to the village of Beadnell on a beautiful stretch of the Northumbrian coast, to explore an unusual promontory, from which fragments of human bone have emerged over recent years",
         "location": "Beadnell, Northumberland",
         "country": "England",
@@ -18140,7 +18140,7 @@
     },
     {
         "id": 201,
-        "thumbnailurl": "s19ep6.png",
+        "thumbnailurl": "default.png",
         "summary": "Swansea led the world in copper smelting 200 years ago, but today there's almost nothing to be seen of this unique heritage. So Tony and the Team investigate one of the first copper works.",
         "location": "Pentrechwyth, Swansea",
         "country": "Wales",
