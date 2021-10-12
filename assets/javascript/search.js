@@ -62,11 +62,11 @@
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
         if (item.links.ei.availability) {
-          appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.main.name + ' (Id: ' + item.links.ei.main.id + ') <a href="http://' + item.links.ei.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.main.name + ' (Id: ' + item.links.ei.main.id + ') <a href="http://' + item.links.ei.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           if (item.links.ei.multiple) {
-            appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional1.name + ' (Id: ' + item.links.ei.additional1.id + ') <a href="http://' + item.links.ei.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional1.name + ' (Id: ' + item.links.ei.additional1.id + ') <a href="http://' + item.links.ei.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             if (item.links.ei.additional2.name != "–") {
-              appendString += '<p class="value3 mt-sm"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional2.name + ' (Id: ' + item.links.ei.additional2.id + ') <a href="http://' + item.links.ei.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional2.name + ' (Id: ' + item.links.ei.additional2.id + ') <a href="http://' + item.links.ei.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             }
           }
         } else {
@@ -74,55 +74,55 @@
         }
 
         if (item.links.her.availability) {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.main.name + ' (Id: ' + item.links.her.main.id + ') <a href="http://' + item.links.her.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.main.name + ' (Id: ' + item.links.her.main.id + ') <a href="http://' + item.links.her.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           if (item.links.her.multiple) {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional1.name + ' (Id: ' + item.links.her.additional1.id + ') <a href="http://' + item.links.her.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional1.name + ' (Id: ' + item.links.her.additional1.id + ') <a href="http://' + item.links.her.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             if (item.links.her.additional2.name != "–") {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional2.name + ' (Id: ' + item.links.her.additional2.id + ') <a href="http://' + item.links.her.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.her.additional2.name + ' (Id: ' + item.links.her.additional2.id + ') <a href="http://' + item.links.her.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             }
           }
         } else {
-          appendString += '<p class="value3 mt-sm"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No HER entry identified</p>'
+          appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No HER entry identified</p>'
         }
 
         if (item.links.report.availability) {
           if (item.links.report.main.accessable) {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           } else {
             if (item.links.report.main.url != "–") {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + ' <a href="http://' + item.links.report.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             } else {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + '</p>'
+              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + '</p>'
             }
           }
           if (item.links.report.multiple) {
             if (item.links.report.additional1.accessable) {
-              appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             } else {
               if (item.links.report.additional1.url != "–") {
-                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + ' <a href="http://' + item.links.report.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
               } else {
-                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + '</p>'
+                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + '</p>'
               }
             }
 
             if (item.links.report.additional2.title != "–") {
               if (item.links.report.additional2.accessable) {
-                appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+                appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
               } else {
                 if (item.links.report.additional2.url != "–") {
-                  appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + ' <a href="http://' + item.links.report.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
                 } else {
-                  appendString += '<p class="value3 mt-sm"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + '</p>'
+                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + '</p>'
                 }
               }
             }
           }
         } else {
           if (item.links.report.comment != "–") {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p>'
+            appendString += '<p class="links"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>' + item.links.report.comment + '</p>'
           } else {
-            appendString += '<p class="value3 mt-sm"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p>'
+            appendString += '<p class="links"><i class="bi bi-file-text" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No excavation report identified</p>'
           }
         }
 
