@@ -83,6 +83,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021"
@@ -171,6 +174,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021"
@@ -259,6 +265,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021"
@@ -347,6 +356,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/16521-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021"
@@ -435,6 +447,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021"
@@ -523,6 +538,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "26.09.2021",
@@ -613,6 +631,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -701,6 +722,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021",
@@ -790,6 +814,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/19860-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -878,6 +905,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -966,6 +996,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1054,6 +1087,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1142,6 +1178,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021",
@@ -1231,6 +1270,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1319,6 +1361,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/21225-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1407,6 +1452,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1495,6 +1543,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "27.09.2021"
@@ -1583,6 +1634,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -1671,6 +1725,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -1759,6 +1816,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -1847,6 +1907,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/22314-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -1935,6 +1998,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2023,6 +2089,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2111,6 +2180,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2199,6 +2271,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2287,6 +2362,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2375,6 +2453,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2463,6 +2544,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-007"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2551,6 +2635,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/24053-008"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2639,6 +2726,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2727,6 +2817,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2815,6 +2908,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2903,6 +2999,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -2991,6 +3090,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -3079,6 +3181,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "28.09.2021"
@@ -3167,6 +3272,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-007"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3255,6 +3363,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-008"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3343,6 +3454,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-009"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3431,6 +3545,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-010"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3519,6 +3636,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-011"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3607,6 +3727,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-012"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3695,6 +3818,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/25721-013"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3783,6 +3909,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3871,6 +4000,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -3959,6 +4091,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4047,6 +4182,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4135,6 +4273,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4223,6 +4364,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4311,6 +4455,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-007"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4399,6 +4546,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-008"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4487,6 +4637,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-009"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4575,6 +4728,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-010"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4663,6 +4819,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-011"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4751,6 +4910,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-012"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021"
@@ -4839,6 +5001,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/27818-013"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "29.09.2021",
@@ -4928,6 +5093,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5016,6 +5184,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5104,6 +5275,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5192,6 +5366,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5280,6 +5457,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5368,6 +5548,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5456,6 +5639,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-007"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5544,6 +5730,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-008"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5632,6 +5821,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-009"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "30.09.2021"
@@ -5720,6 +5912,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-010"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021",
@@ -5809,6 +6004,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-011"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -5897,6 +6095,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-012"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -5985,6 +6186,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/29766-013"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6071,6 +6275,9 @@
                 "url": "tt0723704"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -6159,6 +6366,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6245,6 +6455,9 @@
                 "url": "tt0958795"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -6333,6 +6546,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6419,6 +6635,9 @@
                 "url": "tt0953878"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -6507,6 +6726,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6593,6 +6815,9 @@
                 "url": "tt0964452"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -6681,6 +6906,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6767,6 +6995,9 @@
                 "url": "tt0958798"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -6855,6 +7086,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -6941,6 +7175,9 @@
                 "url": "tt0958789"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -7029,6 +7266,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "05.10.2021"
@@ -7115,6 +7355,9 @@
                 "url": "tt0958790"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -7204,6 +7447,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-001"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7292,6 +7538,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-002"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7380,6 +7629,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-003"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7468,6 +7720,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-004"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7556,6 +7811,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-005"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021",
@@ -7645,6 +7903,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-006"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7733,6 +7994,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-007"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7821,6 +8085,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-008"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7909,6 +8176,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-009"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -7997,6 +8267,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-010"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8085,6 +8358,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-011"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8173,6 +8449,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-012"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8261,6 +8540,9 @@
             "channel4": {
                 "availability": true,
                 "url": "www.channel4.com/programmes/time-team/on-demand/33104-013"
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8348,6 +8630,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8435,6 +8720,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8522,6 +8810,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8609,6 +8900,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8696,6 +8990,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8783,6 +9080,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021",
@@ -8871,6 +9171,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -8958,6 +9261,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9045,6 +9351,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9132,6 +9441,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9219,6 +9531,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9306,6 +9621,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9393,6 +9711,9 @@
             },
             "channel4": {
                 "availability": true
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "06.10.2021"
@@ -9479,6 +9800,9 @@
                 "url": "tt0959230"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -9567,6 +9891,10 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": true,
+                "url": "I8GMCIHl5W0"
             }
         },
         "datecreated": "07.10.2021"
@@ -9653,6 +9981,9 @@
                 "url": "tt0960663"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -9741,6 +10072,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -9827,6 +10161,9 @@
                 "url": "tt0960655"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -9915,6 +10252,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10001,6 +10341,9 @@
                 "url": "tt0960661"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10089,6 +10432,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10175,6 +10521,9 @@
                 "url": "tt0960660"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10263,6 +10612,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10349,6 +10701,9 @@
                 "url": "tt0960657"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10437,6 +10792,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10523,6 +10881,9 @@
                 "url": "tt0960651"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10611,6 +10972,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10697,6 +11061,9 @@
                 "url": "tt0960665"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10785,6 +11152,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -10871,6 +11241,9 @@
                 "url": "tt0960647"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -10959,6 +11332,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -11045,6 +11421,9 @@
                 "url": "tt0960646"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -11133,6 +11512,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -11219,6 +11601,9 @@
                 "url": "tt0960656"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -11307,6 +11692,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -11393,6 +11781,9 @@
                 "url": "tt0960652"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -11481,6 +11872,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -11567,6 +11961,9 @@
                 "url": "tt0960641"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -11655,6 +12052,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "08.10.2021"
@@ -11741,6 +12141,9 @@
                 "url": "tt0952377"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -11829,6 +12232,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -11915,6 +12321,9 @@
                 "url": "tt0952375"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12003,6 +12412,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -12089,6 +12501,9 @@
                 "url": "tt0963676"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12177,6 +12592,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -12263,6 +12681,9 @@
                 "url": "tt0972244"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12351,6 +12772,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -12437,6 +12861,9 @@
                 "url": "tt1036885"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12525,6 +12952,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -12611,6 +13041,9 @@
                 "url": "tt0992762"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12699,6 +13132,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "09.10.2021"
@@ -12785,6 +13221,9 @@
                 "url": "tt1235030"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -12873,6 +13312,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -12959,6 +13401,9 @@
                 "url": "tt1235029"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13047,6 +13492,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -13133,6 +13581,9 @@
                 "url": "tt1235042"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13221,6 +13672,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -13307,6 +13761,9 @@
                 "url": "tt1235038"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13395,6 +13852,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -13481,6 +13941,9 @@
                 "url": "tt1235039"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13569,6 +14032,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -13655,6 +14121,9 @@
                 "url": "tt1235036"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13743,6 +14212,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -13829,6 +14301,9 @@
                 "url": "tt1235043"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -13917,6 +14392,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "10.10.2021"
@@ -14003,6 +14481,9 @@
                 "url": "tt1358367"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14091,6 +14572,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -14177,6 +14661,9 @@
                 "url": "tt1363441"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14265,6 +14752,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -14351,6 +14841,9 @@
                 "url": "tt1373369"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14439,6 +14932,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -14525,6 +15021,9 @@
                 "url": "tt1379148"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14613,6 +15112,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -14699,6 +15201,9 @@
                 "url": "tt1388277"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14787,6 +15292,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -14873,6 +15381,9 @@
                 "url": "tt1401052"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -14961,6 +15472,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15047,6 +15561,9 @@
                 "url": "tt1406999"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -15135,6 +15652,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15221,6 +15741,9 @@
                 "url": "tt1648857"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -15309,6 +15832,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15395,6 +15921,9 @@
                 "url": "tt1661187"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -15483,6 +16012,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15569,6 +16101,9 @@
                 "url": "tt1709008"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -15657,6 +16192,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15743,6 +16281,9 @@
                 "url": "tt1752900"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -15831,6 +16372,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -15917,6 +16461,9 @@
                 "url": "tt1752898"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16005,6 +16552,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16091,6 +16641,9 @@
                 "url": "tt1802725"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16179,6 +16732,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16265,6 +16821,9 @@
                 "url": "tt1835804"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16353,6 +16912,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16439,6 +17001,9 @@
                 "url": "tt1857552"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16527,6 +17092,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16613,6 +17181,9 @@
                 "url": "tt1857554"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16701,6 +17272,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16787,6 +17361,9 @@
                 "url": "tt1889298"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -16875,6 +17452,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -16961,6 +17541,9 @@
                 "url": "tt1889299"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17049,6 +17632,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -17135,6 +17721,9 @@
                 "url": "tt2202251"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17223,6 +17812,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -17309,6 +17901,9 @@
                 "url": "tt2255509"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17397,6 +17992,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -17483,6 +18081,9 @@
                 "url": "tt2255505"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17571,6 +18172,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -17657,6 +18261,9 @@
                 "url": "tt2362859"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17745,6 +18352,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -17831,6 +18441,9 @@
                 "url": "tt2362853"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -17919,6 +18532,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "11.10.2021"
@@ -18005,6 +18621,9 @@
                 "url": "tt2362857"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -18093,6 +18712,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18179,6 +18801,9 @@
                 "url": "tt2750536"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -18267,6 +18892,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18353,6 +18981,9 @@
                 "url": "tt2786512"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -18441,6 +19072,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18527,6 +19161,9 @@
                 "url": "tt2786594"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -18615,6 +19252,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18701,6 +19341,9 @@
                 "url": "tt2841884"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
@@ -18789,6 +19432,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18876,6 +19522,9 @@
             },
             "channel4": {
                 "availability": false
+            },
+            "youtube": {
+                "availability": false
             }
         },
         "datecreated": "12.10.2021"
@@ -18962,6 +19611,9 @@
                 "url": "tt2842058"
             },
             "channel4": {
+                "availability": false
+            },
+            "youtube": {
                 "availability": false
             }
         },
