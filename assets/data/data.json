@@ -8,6 +8,19 @@
         "ngr": "ST 34452 29270",
         "coord": "51.059011,-2.9366813",
         "recorded": "16–18 April 1993",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "16 January 1994",
             "seriesepisode": 1,
@@ -23,7 +36,7 @@
                 "main": {
                     "id": 1339841,
                     "name": "ATHELNEY ISLAND (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845344&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1845344"
                 },
                 "additional1": {
                     "id": "–",
@@ -102,6 +115,19 @@
         "ngr": "SD 65049 35116",
         "coord": "53.811148,-2.5322685",
         "recorded": "3–5 September 1993",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 January 1994",
             "seriesepisode": 2,
@@ -117,7 +143,7 @@
                 "main": {
                     "id": 1339858,
                     "name": "RIBCHESTER (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845365&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1845365"
                 },
                 "additional1": {
                     "id": "–",
@@ -196,6 +222,19 @@
         "ngr": "SO 62351 99936",
         "coord": "52.595905,-2.5572447",
         "recorded": "9–11 April 1993",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "30 January 1994",
             "seriesepisode": 3,
@@ -211,7 +250,7 @@
                 "main": {
                     "id": 1339854,
                     "name": "55 SHEINTON STREET (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1845323&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1845323"
                 },
                 "additional1": {
                     "id": "–",
@@ -290,6 +329,19 @@
         "ngr": "SO 12884 26890",
         "coord": "51.933676,-3.2685013",
         "recorded": "16–18 September 1993",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "6 February 1994",
             "seriesepisode": 4,
@@ -384,6 +436,19 @@
         "ngr": "NR 38918 68055",
         "coord": "55.834867,-6.1712177",
         "recorded": "24–26 June 1994",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "8 January 1995",
             "seriesepisode": 5,
@@ -478,6 +543,19 @@
         "ngr": "SU 18252 35209",
         "coord": "51.115884,-1.740623",
         "recorded": "6–8 May 1994",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "15 January 1995",
             "seriesepisode": 6,
@@ -493,7 +571,7 @@
                 "main": {
                     "id": 1050577,
                     "name": "SALT LANE, WINTERBOURNE (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1848440&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1848440"
                 },
                 "additional1": {
                     "id": "–",
@@ -574,6 +652,19 @@
         "ngr": "SU 03945 79281",
         "coord": "51.512442,-1.9445447",
         "recorded": "23–25 April 1994",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "22 January 1995",
             "seriesepisode": 7,
@@ -589,7 +680,7 @@
                 "main": {
                     "id": 1073776,
                     "name": "TOCKENHAM (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1860883&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1860883"
                 },
                 "additional1": {
                     "id": "–",
@@ -668,6 +759,19 @@
         "ngr": "TQ 30693 79240",
         "coord": "51.496999,-0.11865",
         "recorded": "8–10 July 1994",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": "TRUE",
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "29 January 1995",
             "seriesepisode": 8,
@@ -683,7 +787,7 @@
                 "main": {
                     "id": 1038962,
                     "name": "LAMBETH PALACE GARDENS (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1921149&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1921149"
                 },
                 "additional1": {
                     "id": "–",
@@ -763,6 +867,19 @@
         "ngr": "NZ 35786 58790",
         "coord": "54.92253,-1.44318",
         "recorded": "10–12 June 1994",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 February 1995",
             "seriesepisode": 9,
@@ -778,7 +895,7 @@
                 "main": {
                     "id": 1109653,
                     "name": "HYLTON CASTLE (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887509&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887509"
                 },
                 "additional1": {
                     "id": "–",
@@ -857,6 +974,19 @@
         "ngr": "SW 43717 25172",
         "coord": "50.071303,-5.582972",
         "recorded": "17–19 March 1995",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 January 1996",
             "seriesepisode": 10,
@@ -872,12 +1002,12 @@
                 "main": {
                     "id": 1113492,
                     "name": "BOLEIGH FOGOU (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889270&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889270"
                 },
                 "additional1": {
                     "id": 1113493,
                     "name": "TREVENEAGUE FOGOU (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889272&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889272"
                 },
                 "additional2": {
                     "id": "–",
@@ -951,6 +1081,19 @@
         "ngr": "SP 41367 04979",
         "coord": "51.741998,-1.402281",
         "recorded": "21–23 April 1995",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": true,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "14 January 1996",
             "seriesepisode": 11,
@@ -966,7 +1109,7 @@
                 "main": {
                     "id": 1113496,
                     "name": "DIX PIT, STANTON HARCOURT (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1889265&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1889265"
                 },
                 "additional1": {
                     "id": "–",
@@ -1045,6 +1188,19 @@
         "ngr": "ST 70958 22112",
         "coord": "50.997661,-2.415219",
         "recorded": "26–28 May 1995",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "21 January 1996",
             "seriesepisode": 12,
@@ -1060,12 +1216,12 @@
                 "main": {
                     "id": 1075200,
                     "name": "MANOR FARM (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1864437&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1864437"
                 },
                 "additional1": {
                     "id": 1075202,
                     "name": "MANOR FARM (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1864440&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1864440"
                 },
                 "additional2": {
                     "id": "–",
@@ -1139,6 +1295,19 @@
         "ngr": "SX 94572 73105",
         "coord": "50.548171,-3.48941",
         "recorded": "30 June–2 July 1995",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "28 January 1996",
             "seriesepisode": 13,
@@ -1154,7 +1323,7 @@
                 "main": {
                     "id": 1411203,
                     "name": "CHURCH ROCKS, TEIGNMOUTH (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1834882&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1834882"
                 },
                 "additional1": {
                     "id": "–",
@@ -1234,6 +1403,19 @@
         "ngr": "NV 93463 04687",
         "coord": "54.3453,-6.7186",
         "recorded": "7–9 April 1995",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "4 February 1996",
             "seriesepisode": 14,
@@ -1328,6 +1510,19 @@
         "ngr": "TL 93852 51087",
         "coord": "52.12409,0.83037",
         "recorded": "28–30 August 1995",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": true,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 February 1996",
             "seriesepisode": 15,
@@ -1422,6 +1617,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "17–19 May 1996",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "5 January 1997",
             "seriesepisode": 16,
@@ -1516,6 +1724,19 @@
         "ngr": "SX 35042 84838",
         "coord": "50.639822,-4.334246",
         "recorded": "22–24 March 1996",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 January 1997",
             "seriesepisode": 17,
@@ -1531,7 +1752,7 @@
                 "main": {
                     "id": 1096222,
                     "name": "ST LEONARDS (TIME TEAM)",
-                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1883275&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1883275"
                 },
                 "additional1": {
                     "id": "–",
@@ -1610,6 +1831,19 @@
         "ngr": "SP 05262 88973",
         "coord": "52.498633,-1.923911",
         "recorded": "5–7 April 1996",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "19 January 1997",
             "seriesepisode": 18,
@@ -1704,6 +1938,19 @@
         "ngr": "NS 55359 65884",
         "coord": "55.864368,-4.312815",
         "recorded": "15–16 June 1996",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "26 January 1997",
             "seriesepisode": 19,
@@ -1798,6 +2045,19 @@
         "ngr": "SE 78996 71636",
         "coord": "54.134507,-0.792469",
         "recorded": "5–7 July 1996",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "2 February 1997",
             "seriesepisode": 20,
@@ -1813,12 +2073,12 @@
                 "main": {
                     "id": 1082676,
                     "name": "MALTON CASTLE (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1885807&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1885807"
                 },
                 "additional1": {
                     "id": 1338666,
                     "name": "MALTON CASTLE (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1835553&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1835553"
                 },
                 "additional2": {
                     "id": "–",
@@ -1892,6 +2152,19 @@
         "ngr": "SU 14771 48157",
         "coord": "51.232406,-1.789822",
         "recorded": "2–4 August 1996",
+        "periods": {
+            "prehistoric": true,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 February 1997",
             "seriesepisode": 21,
@@ -1907,7 +2180,7 @@
                 "main": {
                     "id": 1076760,
                     "name": "NETHERAVON VILLA (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1862286&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1862286"
                 },
                 "additional1": {
                     "id": "–",
@@ -1986,6 +2259,19 @@
         "ngr": "TQ 17497 74843",
         "coord": "51.460373,-0.310116",
         "recorded": "25–27 July 1997",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 January 1998",
             "seriesepisode": 22,
@@ -2001,7 +2287,7 @@
                 "main": {
                     "id": 1109463,
                     "name": "RICHMOND PALACE (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887781&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887781"
                 },
                 "additional1": {
                     "id": "–",
@@ -2080,6 +2366,19 @@
         "ngr": "ST 39216 33652",
         "coord": "51.098932,-2.869454",
         "recorded": "17–19 March 1997",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "11 January 1998",
             "seriesepisode": 23,
@@ -2174,6 +2473,19 @@
         "ngr": "HY 65475 42113",
         "coord": "59.264121,-2.60732",
         "recorded": "7–9 June 1997",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "18 January 1998",
             "seriesepisode": 24,
@@ -2268,6 +2580,19 @@
         "ngr": "SP 09837 19017",
         "coord": "51.86964,-1.85854",
         "recorded": "23–25 August 1997",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 January 1998",
             "seriesepisode": 25,
@@ -2283,7 +2608,7 @@
                 "main": {
                     "id": 1109466,
                     "name": "CHALKHILL BARN (TIME TEAM)/TURKDEAN ROMAN VILLA",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1887774&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887774"
                 },
                 "additional1": {
                     "id": "–",
@@ -2362,6 +2687,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "9–11 May 1997",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "1 February 1998",
             "seriesepisode": 26,
@@ -2456,6 +2794,19 @@
         "ngr": "SO 65296 94139",
         "coord": "52.543986,-2.513156",
         "recorded": "27–29 June 1997",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 February 1998",
             "seriesepisode": 27,
@@ -2550,6 +2901,19 @@
         "ngr": "SB 58107 98795",
         "coord": "54.327224,-5.721692",
         "recorded": "19–21 February 1997",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "22 February 1998",
             "seriesepisode": 28,
@@ -2644,6 +3008,19 @@
         "ngr": "NZ 38589 09420",
         "coord": "54.478678,-1.405971",
         "recorded": "10–12 October 1997",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 March 1998",
             "seriesepisode": 29,
@@ -2738,6 +3115,19 @@
         "ngr": "SJ 86891 49857",
         "coord": "53.045818,-2.196994",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "3 January 1999",
             "seriesepisode": 30,
@@ -2832,6 +3222,19 @@
         "ngr": "NY 11070 31279",
         "coord": "54.668705,-3.380394",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "10 January 1999",
             "seriesepisode": 31,
@@ -2847,7 +3250,7 @@
                 "main": {
                     "id": 1121922,
                     "name": "PAPCASTLE VICUS (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1822083&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1822083"
                 },
                 "additional1": {
                     "id": "–",
@@ -2926,6 +3329,19 @@
         "ngr": "TL 86779 83092",
         "coord": "52.413928,0.744887",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 January 1999",
             "seriesepisode": 32,
@@ -3020,6 +3436,19 @@
         "ngr": "ST 46828 54024",
         "coord": "51.282857,-2.763778",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": true,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "24 January 1999",
             "seriesepisode": 33,
@@ -3114,6 +3543,19 @@
         "ngr": "SX 54493 55643",
         "coord": "50.382626,-4.047981",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "31 January 1999",
             "seriesepisode": 34,
@@ -3208,6 +3650,19 @@
         "ngr": "TQ 89418 29993",
         "coord": "51.038072,0.700398",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 February 1999",
             "seriesepisode": 35,
@@ -3223,12 +3678,12 @@
                 "main": {
                     "id": 1155356,
                     "name": "SMALLHYTHE, NEAR TENTERDEN (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1831112&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1831112"
                 },
                 "additional1": {
                     "id": 1195959,
                     "name": "SMALLHYTHE, NEAR TENTERDEN (TIME TEAM)",
-                    "url": "www.heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=1921245&resourceID=304"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1921245"
                 },
                 "additional2": {
                     "id": "–",
@@ -3302,6 +3757,19 @@
         "ngr": "TQ 78678 14516",
         "coord": "50.90247,0.539778",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "14 February 1999",
             "seriesepisode": 36,
@@ -3396,6 +3864,19 @@
         "ngr": "TG 43088 03886",
         "coord": "52.578406,1.586435",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "21 February 1999",
             "seriesepisode": 37,
@@ -3490,6 +3971,19 @@
         "ngr": "SP 09856 18985",
         "coord": "51.869354,-1.858265",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "28 February 1999",
             "seriesepisode": 38,
@@ -3584,6 +4078,19 @@
         "ngr": "SO 94193 36698",
         "coord": "52.028665,-2.086049",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 March 1999",
             "seriesepisode": 39,
@@ -3678,6 +4185,19 @@
         "ngr": "TF 66259 20796",
         "coord": "52.759183,0.462398",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "14 March 1999",
             "seriesepisode": 40,
@@ -3772,6 +4292,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "21 March 1999",
             "seriesepisode": 41,
@@ -3866,6 +4399,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "28 March 1999",
             "seriesepisode": 42,
@@ -3960,6 +4506,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "2 January 2000",
             "seriesepisode": 43,
@@ -4054,6 +4613,19 @@
         "ngr": "SP 02751 01495",
         "coord": "51.712179,-1.961577",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 January 2000",
             "seriesepisode": 44,
@@ -4148,6 +4720,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "16 January 2000",
             "seriesepisode": 45,
@@ -4242,6 +4827,19 @@
         "ngr": "SY 61576 85760",
         "coord": "50.670234,-2.545086",
         "recorded": "–",
+        "periods": {
+            "prehistoric": true,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 January 2000",
             "seriesepisode": 46,
@@ -4336,6 +4934,19 @@
         "ngr": "NY 61390 66239",
         "coord": "54.989232,-2.604935",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "30 January 2000",
             "seriesepisode": 47,
@@ -4430,6 +5041,19 @@
         "ngr": "TL 80964 80463",
         "coord": "52.392274,0.658067",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": true,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 February 2000",
             "seriesepisode": 48,
@@ -4524,6 +5148,19 @@
         "ngr": "SP 33527 79119",
         "coord": "52.409056,-1.508557",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 February 2000",
             "seriesepisode": 49,
@@ -4618,6 +5255,19 @@
         "ngr": "SU 66170 52778",
         "coord": "51.270322,-1.052882",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "20 February 2000",
             "seriesepisode": 50,
@@ -4712,6 +5362,19 @@
         "ngr": "TL 23125 99105",
         "coord": "52.575829,-0.1845",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "27 February 2000",
             "seriesepisode": 51,
@@ -4806,6 +5469,19 @@
         "ngr": "SO 51992 45874",
         "coord": "52.109097,-2.702415",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 March 2000",
             "seriesepisode": 52,
@@ -4900,6 +5576,19 @@
         "ngr": "TQ 39295 77416",
         "coord": "51.47856,0.004462",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 March 2000",
             "seriesepisode": 53,
@@ -4994,6 +5683,19 @@
         "ngr": "NZ 52937 33664",
         "coord": "54.695233,-1.180206",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "19 March 2000",
             "seriesepisode": 54,
@@ -5009,7 +5711,7 @@
                 "main": {
                     "id": 1309084,
                     "name": "LAND AROUND ST HILDA'S CHURCH (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=19117644"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1911764"
                 },
                 "additional1": {
                     "id": "–",
@@ -5088,6 +5790,19 @@
         "ngr": "SE 59683 51870",
         "coord": "53.959484,-1.091878",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "26 March 2000",
             "seriesepisode": 55,
@@ -5183,6 +5898,19 @@
         "ngr": "SK 93931 46065",
         "coord": "53.003676,-0.601684",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 January 2001",
             "seriesepisode": 56,
@@ -5277,6 +6005,19 @@
         "ngr": "SP 74079 46993",
         "coord": "52.116304,-0.919547",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "14 January 2001",
             "seriesepisode": 57,
@@ -5371,6 +6112,19 @@
         "ngr": "SO 15146 21399",
         "coord": "51.884672,-3.234257",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "21 January 2001",
             "seriesepisode": 58,
@@ -5465,6 +6219,19 @@
         "ngr": "SP 00706 20902",
         "coord": "51.886678,-1.991152",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "28 January 2001",
             "seriesepisode": 59,
@@ -5559,6 +6326,19 @@
         "ngr": "SO 24856 09516",
         "coord": "51.779242,-3.090618",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "4 February 2001",
             "seriesepisode": 60,
@@ -5653,6 +6433,19 @@
         "ngr": "SP 66716 04741",
         "coord": "51.737413,-1.035237",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 February 2001",
             "seriesepisode": 61,
@@ -5747,6 +6540,19 @@
         "ngr": "SU 18428 50911",
         "coord": "51.257064,-1.737308",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "18 February 2001",
             "seriesepisode": 62,
@@ -5841,6 +6647,19 @@
         "ngr": "ST 63324 87205",
         "coord": "51.582499,-2.530707",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 February 2001",
             "seriesepisode": 63,
@@ -5935,6 +6754,19 @@
         "ngr": "SU 60691 79310",
         "coord": "51.509468,-1.126886",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 March 2001",
             "seriesepisode": 64,
@@ -6029,6 +6861,19 @@
         "ngr": "NU 12746 41910",
         "coord": "55.670528,-1.798928",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 March 2001",
             "seriesepisode": 65,
@@ -6124,6 +6969,19 @@
         "ngr": "SO 71629 92765",
         "coord": "52.532008,-2.41966",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "18 March 2001",
             "seriesepisode": 66,
@@ -6218,6 +7076,19 @@
         "ngr": "TR 14751 57750",
         "coord": "51.278405,1.077766",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 March 2001",
             "seriesepisode": 67,
@@ -6312,6 +7183,19 @@
         "ngr": "SU 50536 29587",
         "coord": "51.063401,-1.280206",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 April 2001",
             "seriesepisode": 68,
@@ -6406,6 +7290,19 @@
         "ngr": "TQ 30091 77945",
         "coord": "51.485502,-0.127807",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 January 2002",
             "seriesepisode": 69,
@@ -6499,6 +7396,19 @@
         "ngr": "SK 98578 43556",
         "coord": "52.980295,-0.533225",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 January 2002",
             "seriesepisode": 70,
@@ -6592,6 +7502,19 @@
         "ngr": "NC 18402 53645",
         "coord": "58.433263,-5.112194",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "20 January 2002",
             "seriesepisode": 71,
@@ -6685,6 +7608,19 @@
         "ngr": "TL 12170 39256",
         "coord": "52.040364,-0.366011",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "27 January 2002",
             "seriesepisode": 72,
@@ -6778,6 +7714,19 @@
         "ngr": "SJ 61034 05533",
         "coord": "52.646124,-2.577345",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 February 2002",
             "seriesepisode": 73,
@@ -6871,6 +7820,19 @@
         "ngr": "TL 34509 04225",
         "coord": "51.720624,-0.054145",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "10 February 2002",
             "seriesepisode": 74,
@@ -6964,6 +7926,19 @@
         "ngr": "SW 72583 24552",
         "coord": "50.077478,-5.179886",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 February 2002",
             "seriesepisode": 75,
@@ -7057,6 +8032,19 @@
         "ngr": "SJ 59421 17375",
         "coord": "52.752459,-2.602659",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "24 February 2002",
             "seriesepisode": 76,
@@ -7150,6 +8138,19 @@
         "ngr": "SO 97211 49112",
         "coord": "52.140294,-2.042171",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 March 2002",
             "seriesepisode": 77,
@@ -7243,6 +8244,19 @@
         "ngr": "SE 42626 25530",
         "coord": "53.724441,-1.355467",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "10 March 2002",
             "seriesepisode": 78,
@@ -7336,6 +8350,19 @@
         "ngr": "SP 15641 66166",
         "coord": "52.293401,-1.772098",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 March 2002",
             "seriesepisode": 79,
@@ -7429,6 +8456,19 @@
         "ngr": "SZ 61415 86144",
         "coord": "50.671732,-1.132267",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "24 March 2002",
             "seriesepisode": 80,
@@ -7522,6 +8562,19 @@
         "ngr": "SU 16110 17310",
         "coord": "50.954994,-1.772017",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "31 March 2002",
             "seriesepisode": 81,
@@ -7615,6 +8668,19 @@
         "ngr": "SP 99593 72842",
         "coord": "52.34462,-0.539447",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 January 2003",
             "seriesepisode": 82,
@@ -7709,6 +8775,19 @@
         "ngr": "ST 40360 13507",
         "coord": "50.917925,-2.849794",
         "recorded": "8–10 May 2002",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 January 2003",
             "seriesepisode": 83,
@@ -7803,6 +8882,19 @@
         "ngr": "SK 24195 53738",
         "coord": "53.080321,-1.64026",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "19 January 2003",
             "seriesepisode": 84,
@@ -7897,6 +8989,19 @@
         "ngr": "HU 62146 90618",
         "coord": "60.594185,-0.867257",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "26 January 2003",
             "seriesepisode": 85,
@@ -7991,6 +9096,19 @@
         "ngr": "TQ 38682 77808",
         "coord": "51.48223,-0.004201",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "2 February 2003",
             "seriesepisode": 86,
@@ -8086,6 +9204,19 @@
         "ngr": "TQ 26405 69842",
         "coord": "51.413519,-0.183752",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 February 2003",
             "seriesepisode": 87,
@@ -8180,6 +9311,19 @@
         "ngr": "ST 74603 65473",
         "coord": "51.387727,-2.366371",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "16 February 2003",
             "seriesepisode": 88,
@@ -8274,6 +9418,19 @@
         "ngr": "ST 34593 29252",
         "coord": "51.058863,-2.934671",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 February 2003",
             "seriesepisode": 89,
@@ -8368,6 +9525,19 @@
         "ngr": "TQ 18534 77387",
         "coord": "51.483024,-0.294354",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "2 March 2003",
             "seriesepisode": 90,
@@ -8462,6 +9632,19 @@
         "ngr": "NO 37870 02098",
         "coord": "56.207395,-3.003143",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "9 March 2003",
             "seriesepisode": 91,
@@ -8556,6 +9739,19 @@
         "ngr": "SE 71450 70000",
         "coord": "54.120905,-0.908317",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "16 March 2003",
             "seriesepisode": 92,
@@ -8650,6 +9846,19 @@
         "ngr": "NZ 34995 29015",
         "coord": "54.655019,-1.459104",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 March 2003",
             "seriesepisode": 93,
@@ -8744,6 +9953,19 @@
         "ngr": "NY 68537 20454",
         "coord": "54.578305,-2.488259",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "30 March 2003",
             "seriesepisode": 94,
@@ -8838,6 +10060,19 @@
         "ngr": "TQ 17333 76615",
         "coord": "51.47634,-0.311899",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 January 2004",
             "seriesepisode": 95,
@@ -8931,6 +10166,19 @@
         "ngr": "ST 28014 10525",
         "coord": "50.889703,-3.024814",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "11 January 2004",
             "seriesepisode": 96,
@@ -9024,6 +10272,19 @@
         "ngr": "NH 62597 91589",
         "coord": "57.892503,-4.319505",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "18 January 2004",
             "seriesepisode": 97,
@@ -9117,6 +10378,19 @@
         "ngr": "SK 95695 77051",
         "coord": "53.28181,-0.566168",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 January 2004",
             "seriesepisode": 98,
@@ -9210,6 +10484,19 @@
         "ngr": "TQ 99451 61065",
         "coord": "51.313727,0.860548",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 February 2004",
             "seriesepisode": 99,
@@ -9303,6 +10590,19 @@
         "ngr": "SZ 00746 86586",
         "coord": "50.67893,-1.990799",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 February 2004",
             "seriesepisode": 100,
@@ -9397,6 +10697,19 @@
         "ngr": "SK 04144 43535",
         "coord": "52.98913,-1.939713",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "15 February 2004",
             "seriesepisode": 101,
@@ -9490,6 +10803,19 @@
         "ngr": "ST 37394 81902",
         "coord": "51.532536,-2.90395",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "22 February 2004",
             "seriesepisode": 102,
@@ -9583,6 +10909,19 @@
         "ngr": "SU 56821 92440",
         "coord": "51.627914,-1.180515",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "29 February 2004",
             "seriesepisode": 103,
@@ -9676,6 +11015,19 @@
         "ngr": "TL 06292 96131",
         "coord": "52.552655,-0.433747",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 March 2004",
             "seriesepisode": 104,
@@ -9769,6 +11121,19 @@
         "ngr": "TM 14733 46647",
         "coord": "52.076522,1.132127",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "14 March 2004",
             "seriesepisode": 105,
@@ -9862,6 +11227,19 @@
         "ngr": "NT 71840 33855",
         "coord": "55.597499,-2.448431",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "21 March 2004",
             "seriesepisode": 106,
@@ -9955,6 +11333,19 @@
         "ngr": "ST 97351 14350",
         "coord": "50.928594,-2.039061",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "28 March 2004",
             "seriesepisode": 107,
@@ -10048,6 +11439,19 @@
         "ngr": "TQ 01528 98352",
         "coord": "51.674772,-0.53311092",
         "recorded": "16–18 March 2004",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "2 January 2005",
             "seriesepisode": 108,
@@ -10142,6 +11546,19 @@
         "ngr": "SE 55904 55027",
         "coord": "53.988279,-1.148894",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 January 2005",
             "seriesepisode": 109,
@@ -10236,6 +11653,19 @@
         "ngr": "SD 38403 26950",
         "coord": "53.735285,-2.935246",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "16 January 2005",
             "seriesepisode": 110,
@@ -10329,6 +11759,19 @@
         "ngr": "NX 85252 98953",
         "coord": "55.271321,-3.80762",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "23 January 2005",
             "seriesepisode": 111,
@@ -10423,6 +11866,19 @@
         "ngr": "TF 15625 08512",
         "coord": "52.662008,-0.29183",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "30 January 2005",
             "seriesepisode": 112,
@@ -10517,6 +11973,19 @@
         "ngr": "SU 50117 10503",
         "coord": "50.891844,-1.288816",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 February 2005",
             "seriesepisode": 113,
@@ -10611,6 +12080,19 @@
         "ngr": "SO 80025 08874",
         "coord": "51.778168,-2.29093",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 February 2005",
             "seriesepisode": 114,
@@ -10705,6 +12187,19 @@
         "ngr": "NT 34400 97135",
         "coord": "56.162351,-3.057839",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "20 February 2005",
             "seriesepisode": 115,
@@ -10799,6 +12294,19 @@
         "ngr": "TM 11301 15569",
         "coord": "51.798826,1.06306",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "27 February 2005",
             "seriesepisode": 116,
@@ -10893,6 +12401,19 @@
         "ngr": "ST 47103 05308",
         "coord": "50.844866,-2.752691",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 March 2005",
             "seriesepisode": 117,
@@ -10987,6 +12508,19 @@
         "ngr": "TA 17287 53870",
         "coord": "53.967614,-0.213551",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 March 2005",
             "seriesepisode": 118,
@@ -11081,6 +12615,19 @@
         "ngr": "NZ 36374 67468",
         "coord": "55.000462,-1.432911",
         "recorded": "–",
+        "periods": {
+            "prehistoric": true,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "20 March 2005",
             "seriesepisode": 119,
@@ -11175,6 +12722,19 @@
         "ngr": "SP 77199 48128",
         "coord": "52.126082,-0.873735",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 April 2005",
             "seriesepisode": 120,
@@ -11269,6 +12829,19 @@
         "ngr": "SP 84569 81369",
         "coord": "52.423777,-0.757779",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "22 January 2006",
             "seriesepisode": 121,
@@ -11363,6 +12936,19 @@
         "ngr": "SP 03365 14924",
         "coord": "51.832918,-1.952569",
         "recorded": "2–5 August 2005",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "29 January 2006",
             "seriesepisode": 122,
@@ -11457,6 +13043,19 @@
         "ngr": "SJ 84403 98981",
         "coord": "53.487311,-2.236522",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 February 2006",
             "seriesepisode": 123,
@@ -11551,6 +13150,19 @@
         "ngr": "TQ 13077 65104",
         "coord": "51.37374,-0.376815",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 February 2006",
             "seriesepisode": 124,
@@ -11645,6 +13257,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "19 February 2006",
             "seriesepisode": 125,
@@ -11739,6 +13364,19 @@
         "ngr": "TR 31251 55975",
         "coord": "51.256012,1.312794",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "26 February 2006",
             "seriesepisode": 126,
@@ -11833,6 +13471,19 @@
         "ngr": "SE 22172 63031",
         "coord": "54.062747,-1.662743",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 March 2006",
             "seriesepisode": 127,
@@ -11927,6 +13578,19 @@
         "ngr": "TQ 91233 72153",
         "coord": "51.416134,0.748727",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 March 2006",
             "seriesepisode": 128,
@@ -12021,6 +13685,19 @@
         "ngr": "TQ 09622 09541",
         "coord": "50.874978,-0.443323",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "19 March 2006",
             "seriesepisode": 129,
@@ -12115,6 +13792,19 @@
         "ngr": "SP 52976 14326",
         "coord": "51.82505,-1.232742",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "26 March 2006",
             "seriesepisode": 130,
@@ -12209,6 +13899,19 @@
         "ngr": "SJ 28465 55321",
         "coord": "53.090283,-3.069603",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "2 April 2006",
             "seriesepisode": 131,
@@ -12303,6 +14006,19 @@
         "ngr": "TQ 11840 32975",
         "coord": "51.0852,-0.4046",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 April 2006",
             "seriesepisode": 132,
@@ -12397,6 +14113,19 @@
         "ngr": "NG 71169 44361",
         "coord": "57.43176,-5.81387",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "16 April 2006",
             "seriesepisode": 133,
@@ -12491,6 +14220,19 @@
         "ngr": "SC 33370 74653",
         "coord": "54.140615,-4.552331",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "14 January 2007",
             "seriesepisode": 134,
@@ -12585,6 +14327,19 @@
         "ngr": "ST 76646 54084",
         "coord": "51.28541,-2.336253",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "21 January 2007",
             "seriesepisode": 135,
@@ -12679,6 +14434,19 @@
         "ngr": "ST 53129 00350",
         "coord": "50.800806,-2.666475",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "28 January 2007",
             "seriesepisode": 136,
@@ -12773,6 +14541,19 @@
         "ngr": "SH 40872 92523",
         "coord": "53.405465,-4.395224",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "4 February 2007",
             "seriesepisode": 137,
@@ -12867,6 +14648,19 @@
         "ngr": "TR 19352 35417",
         "coord": "51.076135,1.130013",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 February 2007",
             "seriesepisode": 138,
@@ -12960,6 +14754,19 @@
         "ngr": "TL 16896 89830",
         "coord": "52.493863,-0.27964",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": true,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "18 February 2007",
             "seriesepisode": 139,
@@ -13054,6 +14861,19 @@
         "ngr": "SP 74507 39420",
         "coord": "52.04817,-0.914954",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 February 2007",
             "seriesepisode": 140,
@@ -13148,6 +14968,19 @@
         "ngr": "SJ 70937 88948",
         "coord": "53.396554,-2.438536",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 March 2007",
             "seriesepisode": 141,
@@ -13242,6 +15075,19 @@
         "ngr": "SY 08611 88551",
         "coord": "50.689403,-3.295137",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 March 2007",
             "seriesepisode": 142,
@@ -13336,6 +15182,19 @@
         "ngr": "SU 96845 99735",
         "coord": "51.688032,-0.600434",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "18 March 2007",
             "seriesepisode": 143,
@@ -13429,6 +15288,19 @@
         "ngr": "TQ 35059 50767",
         "coord": "51.2401,-0.0666",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "25 March 2007",
             "seriesepisode": 144,
@@ -13522,6 +15394,19 @@
         "ngr": "SJ 40659 59118",
         "coord": "53.125909,-2.888253",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 April 2007",
             "seriesepisode": 145,
@@ -13616,6 +15501,19 @@
         "ngr": "SX 14170 81528",
         "coord": "50.603806,-4.627464",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 April 2007",
             "seriesepisode": 146,
@@ -13710,6 +15608,19 @@
         "ngr": "SK 43343 49956",
         "coord": "53.045125,-1.354947",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 January 2008",
             "seriesepisode": 147,
@@ -13804,6 +15715,19 @@
         "ngr": "NZ 21104 31268",
         "coord": "54.676036,-1.674253",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 January 2008",
             "seriesepisode": 148,
@@ -13898,6 +15822,19 @@
         "ngr": "NF 65588 02837",
         "coord": "56.995162,-7.509125",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "20 January 2008",
             "seriesepisode": 149,
@@ -13991,6 +15928,19 @@
         "ngr": "SP 71747 50781",
         "coord": "52.150658,-0.95281",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "27 January 2008",
             "seriesepisode": 150,
@@ -14084,6 +16034,19 @@
         "ngr": "SO 96674 15200",
         "coord": "51.835399,-2.049679",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 February 2008",
             "seriesepisode": 151,
@@ -14177,6 +16140,19 @@
         "ngr": "TQ 43944 76651",
         "coord": "51.470522,0.071049",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "10 February 2008",
             "seriesepisode": 152,
@@ -14270,6 +16246,19 @@
         "ngr": "ST 64600 62068",
         "coord": "51.356569,-2.509777",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 February 2008",
             "seriesepisode": 153,
@@ -14364,6 +16353,19 @@
         "ngr": "SP 74118 93393",
         "coord": "52.533367,-0.908772",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "24 February 2008",
             "seriesepisode": 154,
@@ -14458,6 +16460,19 @@
         "ngr": "NV 91504 22740",
         "coord": "54.5058,-6.7674",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "2 March 2008",
             "seriesepisode": 155,
@@ -14551,6 +16566,19 @@
         "ngr": "SW 91037 77167",
         "coord": "50.556811,-4.951477",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 March 2008",
             "seriesepisode": 156,
@@ -14645,6 +16673,19 @@
         "ngr": "NZ 10388 33058",
         "coord": "54.692457,-1.840365",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "16 March 2008",
             "seriesepisode": 157,
@@ -14739,6 +16780,19 @@
         "ngr": "TF 09400 83403",
         "coord": "53.336229,-0.358506",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 March 2008",
             "seriesepisode": 158,
@@ -14833,6 +16887,19 @@
         "ngr": "ST 49842 88048",
         "coord": "51.58904,-2.725399",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "30 March 2008",
             "seriesepisode": 159,
@@ -14927,6 +16994,19 @@
         "ngr": "TL 10069 14612",
         "coord": "51.8193,-0.4045",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 January 2009",
             "seriesepisode": 160,
@@ -15021,6 +17101,19 @@
         "ngr": "NZ 05365 10714",
         "coord": "54.49173,-1.91868",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "11 January 2009",
             "seriesepisode": 161,
@@ -15114,6 +17207,19 @@
         "ngr": "NW 49665 62140",
         "coord": "54.89111,-5.905278",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "18 January 2009",
             "seriesepisode": 162,
@@ -15208,6 +17314,19 @@
         "ngr": "ST 46780 90778",
         "coord": "51.6133,-2.77",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "25 January 2009",
             "seriesepisode": 163,
@@ -15301,6 +17420,19 @@
         "ngr": "SD 76679 89201",
         "coord": "54.29789,-2.35983",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 February 2009",
             "seriesepisode": 164,
@@ -15394,6 +17526,19 @@
         "ngr": "SU 14286 29507",
         "coord": "51.064722,-1.7975",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 February 2009",
             "seriesepisode": 165,
@@ -15487,6 +17632,19 @@
         "ngr": "SU 28530 99450",
         "coord": "51.693081,-1.588644",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "15 February 2009",
             "seriesepisode": 166,
@@ -15580,6 +17738,19 @@
         "ngr": "SP 97273 60278",
         "coord": "52.23212,-0.57711",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "22 February 2009",
             "seriesepisode": 167,
@@ -15674,6 +17845,19 @@
         "ngr": "SX 25468 51874",
         "coord": "50.34086,-4.45412",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "1 March 2009",
             "seriesepisode": 168,
@@ -15768,6 +17952,19 @@
         "ngr": "TQ 30977 81411",
         "coord": "51.516448,-0.11376",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 March 2009",
             "seriesepisode": 169,
@@ -15861,6 +18058,19 @@
         "ngr": "TL 34213 81574",
         "coord": "52.415706,-0.028039",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "15 March 2009",
             "seriesepisode": 170,
@@ -15954,6 +18164,19 @@
         "ngr": "NZ 22776 17141",
         "coord": "54.549014,-1.649417",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "22 March 2009",
             "seriesepisode": 171,
@@ -16047,6 +18270,19 @@
         "ngr": "TM 45184 75394",
         "coord": "52.32183,1.5964",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "29 March 2009",
             "seriesepisode": 172,
@@ -16141,6 +18377,19 @@
         "ngr": "TQ 30072 79496",
         "coord": "51.499444,-0.1275",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "18 April 2010",
             "seriesepisode": 173,
@@ -16234,6 +18483,19 @@
         "ngr": "NM 49680 54096",
         "coord": "56.611667,-6.081111",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "25 April 2010",
             "seriesepisode": 174,
@@ -16327,6 +18589,19 @@
         "ngr": "NZ 21164 15605",
         "coord": "54.535278,-1.674444",
         "recorded": "–",
+        "periods": {
+            "prehistoric": true,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "2 May 2010",
             "seriesepisode": 175,
@@ -16421,6 +18696,19 @@
         "ngr": "SU 48865 93670",
         "coord": "51.639722,-1.295278",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "9 May 2010",
             "seriesepisode": 176,
@@ -16514,6 +18802,19 @@
         "ngr": "SO 36702 77944",
         "coord": "52.395833,-2.931667",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "16 May 2010",
             "seriesepisode": 177,
@@ -16607,6 +18908,19 @@
         "ngr": "SU 21593 69384",
         "coord": "51.423056,-1.690833",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "23 May 2010",
             "seriesepisode": 178,
@@ -16700,6 +19014,19 @@
         "ngr": "TL 16143 91113",
         "coord": "52.505556,-0.290278",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 October 2010",
             "seriesepisode": 179,
@@ -16793,6 +19120,19 @@
         "ngr": "ST 36418 97359",
         "coord": "51.671389,-2.920833",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "10 October 2010",
             "seriesepisode": 180,
@@ -16886,6 +19226,19 @@
         "ngr": "SZ 63321 99166",
         "coord": "50.788611,-1.103056",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "24 October 2010",
             "seriesepisode": 181,
@@ -16979,6 +19332,19 @@
         "ngr": "SP 25128 12189",
         "coord": "51.807778,-1.636944",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "31 October 2010",
             "seriesepisode": 182,
@@ -17073,6 +19439,19 @@
         "ngr": "TL 31215 42555",
         "coord": "52.065833,-0.087222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "7 November 2010",
             "seriesepisode": 183,
@@ -17166,6 +19545,19 @@
         "ngr": "SO 52137 51627",
         "coord": "52.160833,-2.701111",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "14 November 2010",
             "seriesepisode": 184,
@@ -17259,6 +19651,19 @@
         "ngr": "TL 04449 99907",
         "coord": "52.586944,-0.459722",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 April 2011",
             "seriesepisode": 185,
@@ -17352,6 +19757,19 @@
         "ngr": "SX 81079 83164",
         "coord": "50.636, -3.683",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 February 2011",
             "seriesepisode": 186,
@@ -17367,7 +19785,7 @@
                 "main": {
                     "id": 1532593,
                     "name": "TOTTIFORD RESERVOIR (TIME TEAM)",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=18979177"
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1897917"
                 },
                 "additional1": {
                     "id": "–",
@@ -17445,6 +19863,19 @@
         "ngr": "SP 72012 92523",
         "coord": "52.525833, -0.94",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": true,
+            "neolithic": true,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 February 2011",
             "seriesepisode": 187,
@@ -17538,6 +19969,19 @@
         "ngr": "ST 42185 29473",
         "coord": "51.061667,-2.826389",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "20 February 2011",
             "seriesepisode": 188,
@@ -17631,6 +20075,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "27 February 2011",
             "seriesepisode": 189,
@@ -17724,6 +20181,19 @@
         "ngr": "NZ 13101 56593",
         "coord": "54.903889,-1.797222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 March 2011",
             "seriesepisode": 190,
@@ -17817,6 +20287,19 @@
         "ngr": "TL 12408 98507",
         "coord": "52.572778,-0.342778",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "13 March 2011",
             "seriesepisode": 191,
@@ -17910,6 +20393,19 @@
         "ngr": "SK 52380 07633",
         "coord": "52.663889,-1.226944",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "20 March 2011",
             "seriesepisode": 192,
@@ -18003,6 +20499,19 @@
         "ngr": "–",
         "coord": "–",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "27 March 2011",
             "seriesepisode": 193,
@@ -18096,6 +20605,19 @@
         "ngr": "ST 11466 96623",
         "coord": "51.661389,-3.281389",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "3 April 2011",
             "seriesepisode": 194,
@@ -18189,6 +20711,19 @@
         "ngr": "ST 74609 28006",
         "coord": "51.050833,-2.363611",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "10 April 2011",
             "seriesepisode": 195,
@@ -18282,6 +20817,19 @@
         "ngr": "SM 76954 07243",
         "coord": "51.719444,-5.230556",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "22 January 2012",
             "seriesepisode": 196,
@@ -18375,6 +20923,19 @@
         "ngr": "SO 57073 77229",
         "coord": "52.391389,-2.632222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "29 January 2012",
             "seriesepisode": 197,
@@ -18468,6 +21029,19 @@
         "ngr": "TM 47728 70425",
         "coord": "52.276111,1.63",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "5 February 2012",
             "seriesepisode": 198,
@@ -18561,6 +21135,19 @@
         "ngr": "TL 64447 63364",
         "coord": "52.243889,0.407222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "12 February 2012",
             "seriesepisode": 199,
@@ -18654,6 +21241,19 @@
         "ngr": "NU 23967 28666",
         "coord": "55.551111,-1.621667",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "19 February 2012",
             "seriesepisode": 200,
@@ -18747,6 +21347,19 @@
         "ngr": "SS 66313 94557",
         "coord": "51.633889,-3.933056",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "26 February 2012",
             "seriesepisode": 201,
@@ -18840,6 +21453,19 @@
         "ngr": "TL 86433 28819",
         "coord": "51.926667,0.71",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "4 March 2012",
             "seriesepisode": 202,
@@ -18933,6 +21559,19 @@
         "ngr": "SS 80166 82526",
         "coord": "51.528889,-3.728889",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "18 March 2012",
             "seriesepisode": 203,
@@ -19026,6 +21665,19 @@
         "ngr": "ST 33192 90201",
         "coord": "51.606667,-2.966111",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "25 March 2012",
             "seriesepisode": 204,
@@ -19119,6 +21771,19 @@
         "ngr": "ST 42091 10628",
         "coord": "50.892222,-2.824722",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "1 April 2012",
             "seriesepisode": 205,
@@ -19212,6 +21877,19 @@
         "ngr": "SK 60325 64775",
         "coord": "53.176667,-1.098889",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "8 April 2012",
             "seriesepisode": 206,
@@ -19305,6 +21983,19 @@
         "ngr": "SK 93267 38008",
         "coord": "52.931389,-0.613889",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": true
+        },
         "broadcast": {
             "date": "11 November 2012",
             "seriesepisode": 207,
@@ -19398,6 +22089,19 @@
         "ngr": "TF 78206 44016",
         "coord": "52.963889,0.651944",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": true,
+            "roman": true,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "6 January 2013",
             "seriesepisode": 208,
@@ -19491,6 +22195,19 @@
         "ngr": "ST 13364 74990",
         "coord": "51.467222,-3.248611",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "13 January 2013",
             "seriesepisode": 209,
@@ -19584,6 +22301,19 @@
         "ngr": "TM 45395 77615",
         "coord": "52.341667,1.601111",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "20 January 2013",
             "seriesepisode": 210,
@@ -19677,6 +22407,19 @@
         "ngr": "SU 16567 46906",
         "coord": "51.221111,-1.764167",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": true,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "27 January 2013",
             "seriesepisode": 211,
@@ -19770,6 +22513,19 @@
         "ngr": "SD 28454 98963",
         "coord": "54.381111,-3.103056",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 February 2013",
             "seriesepisode": 212,
@@ -19863,6 +22619,19 @@
         "ngr": "SK 86144 08884",
         "coord": "52.670833,-0.7275",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": true,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "10 February 2013",
             "seriesepisode": 213,
@@ -19956,6 +22725,19 @@
         "ngr": "SU 49420 93892",
         "coord": "51.641667,-1.287222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": true,
+            "earlymedieval": false,
+            "medieval": false,
+            "postmedieval": false,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "17 February 2013",
             "seriesepisode": 214,
@@ -20049,6 +22831,19 @@
         "ngr": "SB4 9715 91966",
         "coord": "54.261944,-5.844722",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "24 February 2013",
             "seriesepisode": 215,
@@ -20142,6 +22937,19 @@
         "ngr": "TQ 08255 93943",
         "coord": "51.633889,-0.437222",
         "recorded": "–",
+        "periods": {
+            "prehistoric": false,
+            "palaeolithic": false,
+            "mesolithic": false,
+            "neolithic": false,
+            "bronzeage": false,
+            "ironage": false,
+            "roman": false,
+            "earlymedieval": false,
+            "medieval": true,
+            "postmedieval": true,
+            "20thcentury": false
+        },
         "broadcast": {
             "date": "3 March 2013",
             "seriesepisode": 216,
@@ -20235,6 +23043,19 @@
         "ngr": "SN 01895 04808",
         "coord": "51.706944,-4.868611",
         "recorded": "–",
+        "periods": {
+            "prehistoric": "–",
+            "palaeolithic": "–",
+            "mesolithic": "–",
+            "neolithic": "–",
+            "bronzeage": "–",
+            "ironage": "–",
+            "roman": "–",
+            "earlymedieval": "–",
+            "medieval": "–",
+            "postmedieval": "–",
+            "20thcentury": "–"
+        },
         "broadcast": {
             "date": "10 March 2013",
             "seriesepisode": 217,
