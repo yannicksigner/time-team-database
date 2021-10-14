@@ -71,9 +71,9 @@
         if (item.links.ei.availability) {
           appendString += createNRHELink(item.links.ei.main.name, item.links.ei.main.id, item.links.ei.main.url)
           if (item.links.ei.multiple) {
-            appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional1.name + ' (Id: ' + item.links.ei.additional1.id + ') <a href="http://' + item.links.ei.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+            appendString += createNRHELink(item.links.ei.additional1.name, item.links.ei.additional1.id, item.links.ei.additional1.url)
             if (item.links.ei.additional2.name != "–") {
-              appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional2.name + ' (Id: ' + item.links.ei.additional2.id + ') <a href="http://' + item.links.ei.additional2.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+              appendString += createNRHELink(item.links.ei.additional2.name, item.links.ei.additional2.id, item.links.ei.additional2.url)
             }
           }
         } else {
