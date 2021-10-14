@@ -3,54 +3,54 @@
   function addPeriodBadges(item) {
     var html;
     if (item.periods.prehistoric) {
-      html += addBadge("Prehistoric")
+      html += addBadge("Prehistoric", "prehistoric")
     }
 
     if (item.periods.palaeolithic) {
-      html += addBadge("Palaeolithic")
+      html += addBadge("Palaeolithic", "palaeolithic")
     }
 
     if (item.periods.mesolithic) {
-      html += addBadge("Mesolithic")
+      html += addBadge("Mesolithic", "mesolithic")
     }
 
     if (item.periods.neolithic) {
-      html += addBadge("Neolithic")
+      html += addBadge("Neolithic", "neolithic")
     }
 
     if (item.periods.bronzeage) {
-      html += addBadge("Bronze Age")
+      html += addBadge("Bronze Age", "bronzeage")
     }
 
     if (item.periods.ironage) {
-      html += addBadge("Iron Age")
+      html += addBadge("Iron Age", "ironage")
     }
 
     if (item.periods.roman) {
-      html += addBadge("Roman")
+      html += addBadge("Roman", "roman")
     }
 
     if (item.periods.earlymedieval) {
-      html += addBadge("Early Medieval")
+      html += addBadge("Early Medieval", "earlymedieval")
     }
 
     if (item.periods.medieval) {
-      html += addBadge("Medieval")
+      html += addBadge("Medieval", "medieval")
     }
 
     if (item.periods.postmedieval) {
-      html += addBadge("Post-Medieval")
+      html += addBadge("Post-Medieval", "postmedieval")
     }
 
     if (item.periods.twentiethcentury) {
-      html += addBadge("20th century")
+      html += addBadge("20th century", "twentiethcentury")
     }
 
     return html
   }
 
-  function addBadge(name) {
-    return '<span class="badge bg-primary">'+name+'</span>'
+  function addBadge(name, code) {
+    return '<span class="badge custom-badge-'+code+'">'+name+'</span>'
   }
 
   function createNRHELink(name, id, url) {
@@ -123,7 +123,9 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p>'
 
-        appendString += addPeriodBadges(item);
+        if (item.periods.prehistoric != "–"){
+          appendString += addPeriodBadges(item);
+        }
 
         appendString += '<hr/>'
         // SUB-HEADER
