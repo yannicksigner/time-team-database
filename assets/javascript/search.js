@@ -1,7 +1,7 @@
 (function() {
 
   function addPeriodBadges(item) {
-    var html;
+    var html = "";
     if (item.periods.prehistoric) {
       html += addBadge("Prehistoric", "prehistoric")
     }
