@@ -85,7 +85,8 @@
 }
 
 .search-result-item .links>a:hover {
-    color: #A3D2C4
+    color: #A3D2C4;
+    text-decoration: none;
 }
 
 .search-result-item+.search-result-item {
