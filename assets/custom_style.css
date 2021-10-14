@@ -50,6 +50,9 @@
         float: left;
         width: 200px;
     }
+    #perioddivider {
+      display: hidden;
+    }
 }
 
 @media (max-width:767px) {
@@ -125,6 +128,9 @@
 @media (max-width:768px) {
     .image {
         display: none;
+    }
+    #perioddivider {
+      display: block;
     }
 }
 
