@@ -78,7 +78,7 @@
 
 .search-result-item .links {
     font-size: 13px;
-    isplay: inline-flex;
+    display: inline-flex;
 }
 
 .search-result-item .links>a {
