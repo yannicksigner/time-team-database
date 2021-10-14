@@ -101,7 +101,7 @@
         }
 
         // SUB-HEADER
-        appendString += '<h6 class="subheader">Excavation reports<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Excavation reports and publications related to the work done by Time Team"></i></h6>'
+        appendString += '<h6 class="subheader">Archaeological reports<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Excavation reports and publications related to the work done by Time Team"></i></h6>'
 
         if (item.links.report.availability) {
           if (item.links.report.main.accessable) {
