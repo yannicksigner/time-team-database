@@ -1,5 +1,9 @@
 (function() {
 
+  function createNRHELink(name, id, url) {
+    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + name + ' (Id: ' + id + ') <a href="http://' + url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+  }
+
   $('#prev-button').click(function() {
     if (!$('#prev-button').hasClass("disabled")) {
       updatePageination(-1);
@@ -64,7 +68,7 @@
         appendString += '<h6>Historic England NRHE Excavation Index</h6>'
 
         if (item.links.ei.availability) {
-          appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.main.name + ' (Id: ' + item.links.ei.main.id + ') <a href="http://' + item.links.ei.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+          appendString += createNRHELink(item.links.ei.main.name, item.links.ei.main.id, item.links.ei.main.url)
           if (item.links.ei.multiple) {
             appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.additional1.name + ' (Id: ' + item.links.ei.additional1.id + ') <a href="http://' + item.links.ei.additional1.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
             if (item.links.ei.additional2.name != "–") {
@@ -133,7 +137,7 @@
         }
 
         appendString += '</div><div class="col-sm-4 text-align-center">'
-        appendString += '<p class="entry"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Season"></i>' + item.broadcast.season.replace("Season 0","Season ") + ' – ' + item.broadcast.episode + '</p>'
+        appendString += '<p class="entry"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Season"></i>' + item.broadcast.season.replace("Season 0", "Season ") + ' – ' + item.broadcast.episode + '</p>'
         appendString += '<p class="entry"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
         appendString += '<p class="entry"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i>' + item.recorded + '</p><hr/>'
 
@@ -230,13 +234,30 @@
       includeScore: true,
       threshold: 0.3,
       useExtendedSearch: true,
-      keys: [
-        {name:"location",weight:0.3},
-        {name:"summary",weight:0.3},
-        {name:"broadcast.title",weight:0.3},
-        {name:"broadcast.season",weight:0.2},
-        {name:"broadcast.episode",weight:0.2},
-        {name:"country",weight:0.2}
+      keys: [{
+          name: "location",
+          weight: 0.3
+        },
+        {
+          name: "summary",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.title",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.season",
+          weight: 0.2
+        },
+        {
+          name: "broadcast.episode",
+          weight: 0.2
+        },
+        {
+          name: "country",
+          weight: 0.2
+        }
       ]
     };
 
