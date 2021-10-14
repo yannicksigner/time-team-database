@@ -4,6 +4,11 @@
     return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + name + ' (Id: ' + id + ') <a href="http://' + url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
   }
 
+  function createHERLink(url, title, name, id) {
+    return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+  }
+
+
   $('#prev-button').click(function() {
     if (!$('#prev-button').hasClass("disabled")) {
       updatePageination(-1);
@@ -84,7 +89,7 @@
         appendString += '<h6 class="subheader">Historic Environment Record<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic Environment Record"></i></h6>'
 
         if (item.links.her.availability) {
-          appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.main.url + '" target="_blank">' + item.links.her.main.title + ' (' + item.links.her.main.name + ' Id: ' + item.links.her.main.id + ') <i class="bi bi-link-45deg"></i></a></p>'
+          appendString += createHERLink(item.links.her.main.url, item.links.her.main.title, item.links.her.main.name, item.links.her.main.id)
           if (item.links.her.multiple) {
             appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.additional1.url + '" target="_blank">' + item.links.her.additional1.title + ' (' + item.links.her.additional1.name + ' Id: ' + item.links.her.additional1.id + ') <i class="bi bi-link-45deg"></i></a></p>'
             if (item.links.her.additional2.name != "–") {
