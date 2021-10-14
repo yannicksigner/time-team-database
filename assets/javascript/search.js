@@ -50,7 +50,7 @@
   }
 
   function addBadge(name, code) {
-    return '<span class="badge custom-badge custom-badge-'+code+'">'+name+'</span>'
+    return '<span class="badge custom-badge custom-badge-' + code + '">' + name + '</span>'
   }
 
   function createNRHELink(name, id, url) {
@@ -121,15 +121,7 @@
         appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + ' </h4>'
         //<span class="badge bg-success">'+ ((1-parseFloat(results[i].score)).toFixed(3) * 100).toFixed(1) + '% match</span>
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
-
-        if (item.periods.prehistoric != "–"){
-          appendString += addPeriodBadges(item);
-        }
-
         appendString += '<p class="description">' + item.summary + '</p>'
-
-
-
         appendString += '<hr/>'
         // SUB-HEADER
         appendString += '<h6 class="subheader">Historic England NRHE Excavation Index<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
@@ -206,6 +198,11 @@
         }
 
         appendString += '</div><div class="col-sm-4 text-align-center">'
+
+        if (item.periods.prehistoric != "–") {
+          appendString += addPeriodBadges(item);
+        }
+
         appendString += '<p class="entry"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Season"></i>' + item.broadcast.season.replace("Season 0", "Season ") + ' – ' + item.broadcast.episode + '</p>'
         appendString += '<p class="entry"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
         appendString += '<p class="entry"><i class="bi bi-camera-reels-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Dates when recorded"></i>' + item.recorded + '</p><hr/>'
