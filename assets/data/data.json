@@ -394,25 +394,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "38275",
+                    "title": "Llangors Church (St Paulinus), assessment 1993",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT38275"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "58527",
+                    "title": "Llangors Church (St Paulinus), desktop study 1993",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT58527"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "58528",
+                    "title": "Llangors Church (St Paulinus), evaluation 1993",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT58528"
                 }
             },
             "imdb": {
@@ -2406,12 +2406,12 @@
         },
         "links": {
             "ei": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "id": "–",
-                    "name": "–",
-                    "url": "–"
+                    "id": 1109459,
+                    "name": "STRANGWAY'S CAUSEWAY (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1887779"
                 },
                 "additional1": {
                     "id": "–",
@@ -3486,9 +3486,9 @@
                 "availability": true,
                 "multiple": false,
                 "main": {
-                    "id": 1196746,
-                    "name": "TOP OF TOTTY POT",
-                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1922354"
+                    "id": 1186506,
+                    "name": "COOPER'S HOLE (TIME TEAM)",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=1917574"
                 },
                 "additional1": {
                     "id": "–",
@@ -6218,19 +6218,19 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "33095",
+                    "title": "Llygadwy finds",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT33095"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "43173",
+                    "title": "Llygadwy finds, excavation 2000",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT43173"
                 },
                 "additional2": {
                     "name": "–",
@@ -14067,25 +14067,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "57633",
+                    "title": "Ffrith Roman site, Time Team archaeological project 2005",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT57633"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "57627",
+                    "title": "Ffrith Roman site, Village Hall, geophysical survey 2005",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT57627"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "57644",
+                    "title": "Ffrith Roman site, 'The Glen', geophysical survey 2005",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=CPAT57644"
                 }
             },
             "imdb": {
@@ -14101,7 +14101,8 @@
                 "url": "olva4aMXLpg"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "comment": "more HER entries"
     },
     {
         "id": 132,
@@ -14322,8 +14323,8 @@
         "id": 134,
         "thumbnailurl": "s14ep1.png",
         "summary": "Tony Robinson and the team head to a golf course on the Isle of Man to investigate the remains of a keeill: a small stone chapel, possibly built by the Vikings",
-        "location": "Isle of Man",
-        "country": "England",
+        "location": "Braddan",
+        "country": "Isle of Man",
         "ngr": "SC 33370 74653",
         "coord": "54.140615,-4.552331",
         "recorded": "–",
@@ -14712,25 +14713,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "41500",
+                    "title": "Rhyd y Groes Wind Farm, Werthyr, Near Amlwch, Anglesey, North Wales",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GAT41500"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "3546",
+                    "title": "Defended Enclosure, Y Werthyr, Amlwch",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GAT3546"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "45290",
+                    "title": "Geophysical Survey Y Werthyr, Amlwch, Anglesey",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GAT45290"
                 }
             },
             "imdb": {
@@ -17077,25 +17078,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E000061",
+                    "title": "Harold's House, Portskewett",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE000061"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E000059",
+                    "title": "Harold's House, Portskewett",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE000059"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E000062",
+                    "title": "Harold's House, Portskewett",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE000062"
                 }
             },
             "imdb": {
@@ -17111,7 +17112,8 @@
                 "url": "syiVXUf911A"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "comment": "more HER entries"
     },
     {
         "id": 160,
@@ -17506,25 +17508,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E001363",
+                    "title": "Caerwent Roman Town",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE001363"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E001364",
+                    "title": "GPR Survey Caerwent Roman Town",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE001364"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E001360",
+                    "title": "Archaeological Investigations of Caerwent Roman Town",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE001360"
                 }
             },
             "imdb": {
@@ -17539,7 +17541,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "comment": "more HER entries"
     },
     {
         "id": 164,
@@ -19327,13 +19330,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E001640",
+                    "title": "Tregruk Castle, Llangibby, Monmouthshire Geophysical Survey",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE001640"
                 },
                 "additional1": {
                     "name": "–",
@@ -20822,13 +20825,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E003611",
+                    "title": "Llancaiach Fawr Manor, Gwent",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE003611"
                 },
                 "additional1": {
                     "name": "–",
@@ -21035,19 +21038,19 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "102751",
+                    "title": "WATERY BAY AND GATEHOLM, PEMBROKESHIRE",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=DAT102751"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "102752",
+                    "title": "WATERY BAY AND GATEHOLM ISLAND",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=DAT102752"
                 },
                 "additional2": {
                     "name": "–",
@@ -21569,19 +21572,19 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E005913",
+                    "title": "White Rock and Hafod Works, Swansea",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE005913"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E005914",
+                    "title": "White Rock and Hafod Works, Swansea",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE005914"
                 },
                 "additional2": {
                     "name": "–",
@@ -21782,13 +21785,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E003605",
+                    "title": "Kenfig, Bridgend",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE003605"
                 },
                 "additional1": {
                     "name": "–",
@@ -22422,13 +22425,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E004061",
+                    "title": "Archaeological Evaluation at Caerau",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE004061"
                 },
                 "additional1": {
                     "name": "–",
@@ -23276,13 +23279,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Welsh HER",
+                    "id": "E004289",
+                    "title": "Caerau Hillfort, Cardiff: Geophysical Report",
+                    "url": "archwilio.org.uk/arch/query/page.php?watprn=GGATE004289"
                 },
                 "additional1": {
                     "name": "–",
