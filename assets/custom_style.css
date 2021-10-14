@@ -151,3 +151,7 @@
 .qs-line-2 {
   margin-bottom: 30px;
 }
+
+.search-result-item>h6 {
+  padding-bottom: 5px;
+}
