@@ -65,7 +65,7 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
-        appendString += '<h6 class="subheader">Historic England NRHE Excavation Index</h6>'
+        appendString += '<h6 class="subheader">Historic England NRHE Excavation Index <i class="bi bi-info-circle" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
 
         if (item.links.ei.availability) {
           appendString += createNRHELink(item.links.ei.main.name, item.links.ei.main.id, item.links.ei.main.url)
