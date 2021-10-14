@@ -1,11 +1,11 @@
 (function() {
 
   function createNRHELink(name, id, url) {
-    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
   }
 
   function createHERLink(url, title, name, id) {
-    return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+    return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER entry available"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
   }
 
 
@@ -82,7 +82,7 @@
             }
           }
         } else {
-          appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
+          appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="NRHE entry not available"></i>No NRHE entry identified</p>'
         }
 
         // SUB-HEADER
@@ -105,33 +105,33 @@
 
         if (item.links.report.availability) {
           if (item.links.report.main.accessable) {
-            appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.main.url + '" target="_blank">' + item.links.report.main.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+            appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report available"></i><a href="http://' + item.links.report.main.url + '" target="_blank">' + item.links.report.main.title + ' <i class="bi bi-link-45deg"></i></a></p>'
           } else {
             if (item.links.report.main.url != "–") {
-              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.main.url + '" target="_blank">' + item.links.report.main.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i><a href="http://' + item.links.report.main.url + '" target="_blank">' + item.links.report.main.title + ' <i class="bi bi-link-45deg"></i></a></p>'
             } else {
-              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.main.title + '</p>'
+              appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i>' + item.links.report.main.title + '</p>'
             }
           }
           if (item.links.report.multiple) {
             if (item.links.report.additional1.accessable) {
-              appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.additional1.url + '" target="_blank">' + item.links.report.additional1.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+              appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report available"></i><a href="http://' + item.links.report.additional1.url + '" target="_blank">' + item.links.report.additional1.title + ' <i class="bi bi-link-45deg"></i></a></p>'
             } else {
               if (item.links.report.additional1.url != "–") {
-                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.additional1.url + '" target="_blank">' + item.links.report.additional1.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i><a href="http://' + item.links.report.additional1.url + '" target="_blank">' + item.links.report.additional1.title + ' <i class="bi bi-link-45deg"></i></a></p>'
               } else {
-                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional1.title + '</p>'
+                appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i>' + item.links.report.additional1.title + '</p>'
               }
             }
 
             if (item.links.report.additional2.title != "–") {
               if (item.links.report.additional2.accessable) {
-                appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.additional2.url + '" target="_blank">' + item.links.report.additional2.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+                appendString += '<p class="links"><i class="bi bi-file-text-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report available"></i><a href="http://' + item.links.report.additional2.url + '" target="_blank">' + item.links.report.additional2.title + ' <i class="bi bi-link-45deg"></i></a></p>'
               } else {
                 if (item.links.report.additional2.url != "–") {
-                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i><a href="http://' + item.links.report.additional2.url + '" target="_blank">' + item.links.report.additional2.title + ' <i class="bi bi-link-45deg"></i></a></p>'
+                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i><a href="http://' + item.links.report.additional2.url + '" target="_blank">' + item.links.report.additional2.title + ' <i class="bi bi-link-45deg"></i></a></p>'
                 } else {
-                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report"></i>' + item.links.report.additional2.title + '</p>'
+                  appendString += '<p class="links"><i class="bi bi-file-lock" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Report not available"></i>' + item.links.report.additional2.title + '</p>'
                 }
               }
             }
