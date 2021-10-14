@@ -87,6 +87,7 @@
 .search-result-item .links>a:hover {
     color: #A3D2C4;
     text-decoration: none;
+    cursor: pointer;
 }
 
 .search-result-item+.search-result-item {
