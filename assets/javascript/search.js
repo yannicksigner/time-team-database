@@ -65,7 +65,8 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
-        appendString += '<h6 class="subheader">Historic England NRHE Excavation Index <i class="bi bi-info-circle" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
+        // SUB-HEADER
+        appendString += '<h6 class="subheader">Historic England NRHE Excavation Index<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
 
         if (item.links.ei.availability) {
           appendString += createNRHELink(item.links.ei.main.name, item.links.ei.main.id, item.links.ei.main.url)
@@ -79,7 +80,8 @@
           appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
         }
 
-        appendString += '<h6 class="subheader">Historic Environment Record</h6>'
+        // SUB-HEADER
+        appendString += '<h6 class="subheader">Historic Environment Record<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic Environment Record"></i></h6>'
 
         if (item.links.her.availability) {
           appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.main.url + '" target="_blank">' + item.links.her.main.title + ' (' + item.links.her.main.name + ' Id: ' + item.links.her.main.id + ') <i class="bi bi-link-45deg"></i></a></p>'
@@ -93,7 +95,8 @@
           appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No HER entry identified</p>'
         }
 
-        appendString += '<h6 class="subheader">Excavation reports</h6>'
+        // SUB-HEADER
+        appendString += '<h6 class="subheader">Excavation reports<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Excavation reports and publications related to the work done by Time Team"></i></h6>'
 
         if (item.links.report.availability) {
           if (item.links.report.main.accessable) {
