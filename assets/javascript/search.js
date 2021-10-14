@@ -123,6 +123,7 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p>'
         appendString += '<hr/>'
+
         // SUB-HEADER
         appendString += '<h6 class="subheader">Historic England NRHE Excavation Index<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
 
@@ -198,10 +199,12 @@
         }
 
         appendString += '</div><div class="col-sm-4 text-align-center">'
+        appendString += '<h6>Periods represented</h6>'
 
         if (item.periods.prehistoric != "–") {
           appendString += addPeriodBadges(item);
         }
+        appendString += '<hr/>'
 
         appendString += '<p class="entry"><i class="bi bi-tv-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Season"></i>' + item.broadcast.season.replace("Season 0", "Season ") + ' – ' + item.broadcast.episode + '</p>'
         appendString += '<p class="entry"><i class="bi bi-calendar-event" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Date of first broadcast"></i>' + item.broadcast.date + '</p>'
