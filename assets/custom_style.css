@@ -197,23 +197,22 @@
 
 
 .custom-badge-roman {
-  background-color: #F2E085;
-  color: #202124;
+  background-color: #F78812;
 }
 
 .custom-badge-earlymedieval {
-  background-color: #295E52;
-}
-
-.custom-badge-medieval {
-  background-color: #EE7F38;
-}
-
-.custom-badge-postmedieval {
-  background-color: #60f0f0;
+  background-color: #FFEE93;
   color: #202124;
 }
 
+.custom-badge-medieval {
+  background-color: #A05344;
+}
+
+.custom-badge-postmedieval {
+  background-color: #FFADAD;
+}
+
 .custom-badge-twentiethcentury {
-  background-color: #EE7F38;
+  background-color: #911F27;
 }
