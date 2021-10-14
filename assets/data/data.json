@@ -9,7 +9,7 @@
         "coord": "51.059011,-2.9366813",
         "recorded": "16–18 April 1993",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -117,7 +117,7 @@
         "coord": "53.811148,-2.5322685",
         "recorded": "3–5 September 1993",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -225,7 +225,7 @@
         "coord": "52.595905,-2.5572447",
         "recorded": "9–11 April 1993",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -547,7 +547,7 @@
         "coord": "51.115884,-1.740623",
         "recorded": "6–8 May 1994",
         "periods": {
-            "search": "bronzeage, earlymedieval",
+            "search": "Bronze Age, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -657,7 +657,7 @@
         "coord": "51.512442,-1.9445447",
         "recorded": "23–25 April 1994",
         "periods": {
-            "search": "roman, medieval",
+            "search": "Roman, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -765,7 +765,7 @@
         "coord": "51.496999,-0.11865",
         "recorded": "8–10 July 1994",
         "periods": {
-            "search": "roman, medieval, postmedieval",
+            "search": "Roman, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -874,7 +874,7 @@
         "coord": "54.92253,-1.44318",
         "recorded": "10–12 June 1994",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -982,7 +982,7 @@
         "coord": "50.071303,-5.582972",
         "recorded": "17–19 March 1995",
         "periods": {
-            "search": "ironage",
+            "search": "Iron Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -1090,7 +1090,7 @@
         "coord": "51.741998,-1.402281",
         "recorded": "21–23 April 1995",
         "periods": {
-            "search": "palaeolithic ",
+            "search": "Palaeolithic ",
             "prehistoric": false,
             "palaeolithic": true,
             "mesolithic": false,
@@ -1198,7 +1198,7 @@
         "coord": "50.997661,-2.415219",
         "recorded": "26–28 May 1995",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -1306,7 +1306,7 @@
         "coord": "50.548171,-3.48941",
         "recorded": "30 June–2 July 1995",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -1522,7 +1522,7 @@
         "coord": "52.12409,0.83037",
         "recorded": "28–30 August 1995",
         "periods": {
-            "search": "palaeolithic, bronzeage, ironage, roman, earlymedieval, medieval, postmedieval",
+            "search": "Palaeolithic, Bronze Age, Iron Age, Roman, Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": true,
             "mesolithic": false,
@@ -1737,7 +1737,7 @@
         "coord": "50.639822,-4.334246",
         "recorded": "22–24 March 1996",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -1845,7 +1845,7 @@
         "coord": "52.498633,-1.923911",
         "recorded": "5–7 April 1996",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -2060,7 +2060,7 @@
         "coord": "54.134507,-0.792469",
         "recorded": "5–7 July 1996",
         "periods": {
-            "search": "roman, medieval, postmedieval",
+            "search": "Roman, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -2168,7 +2168,7 @@
         "coord": "51.232406,-1.789822",
         "recorded": "2–4 August 1996",
         "periods": {
-            "search": "prehistoric, roman, postmedieval",
+            "search": "Prehistoric, Roman, Post-Medieval",
             "prehistoric": true,
             "palaeolithic": false,
             "mesolithic": false,
@@ -2276,7 +2276,7 @@
         "coord": "51.460373,-0.310116",
         "recorded": "25–27 July 1997",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -2598,7 +2598,7 @@
         "coord": "51.86964,-1.85854",
         "recorded": "23–25 August 1997",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -2813,7 +2813,7 @@
         "coord": "52.543986,-2.513156",
         "recorded": "27–29 June 1997",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3028,7 +3028,7 @@
         "coord": "54.478678,-1.405971",
         "recorded": "10–12 October 1997",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3136,7 +3136,7 @@
         "coord": "53.045818,-2.196994",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval, postmedieval",
+            "search": "Post-Medieval, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3244,7 +3244,7 @@
         "coord": "54.668705,-3.380394",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3352,7 +3352,7 @@
         "coord": "52.413928,0.744887",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3460,7 +3460,7 @@
         "coord": "51.282857,-2.763778",
         "recorded": "–",
         "periods": {
-            "search": "mesolithic, bronzeage, roman",
+            "search": "Mesolithic, Bronze Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": true,
@@ -3568,7 +3568,7 @@
         "coord": "50.382626,-4.047981",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3676,7 +3676,7 @@
         "coord": "51.038072,0.700398",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3784,7 +3784,7 @@
         "coord": "50.90247,0.539778",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -3892,7 +3892,7 @@
         "coord": "52.578406,1.586435",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4000,7 +4000,7 @@
         "coord": "51.869354,-1.858265",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4108,7 +4108,7 @@
         "coord": "52.028665,-2.086049",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, earlymedieval",
+            "search": "Bronze Age, Iron Age, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4216,7 +4216,7 @@
         "coord": "52.759183,0.462398",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, earlymedieval, medieval",
+            "search": "Bronze Age, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4645,7 +4645,7 @@
         "coord": "51.712179,-1.961577",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4860,7 +4860,7 @@
         "coord": "50.670234,-2.545086",
         "recorded": "–",
         "periods": {
-            "search": "prehistoric, neolithic, bronzeage, ironage, medieval, postmedieval",
+            "search": "Prehistoric, Neolithic, Bronze Age, Iron Age, Medieval, Post-Medieval",
             "prehistoric": true,
             "palaeolithic": false,
             "mesolithic": false,
@@ -4968,7 +4968,7 @@
         "coord": "54.989232,-2.604935",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5076,7 +5076,7 @@
         "coord": "52.392274,0.658067",
         "recorded": "–",
         "periods": {
-            "search": "palaeolithic ",
+            "search": "Palaeolithic ",
             "prehistoric": false,
             "palaeolithic": true,
             "mesolithic": false,
@@ -5184,7 +5184,7 @@
         "coord": "52.409056,-1.508557",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5292,7 +5292,7 @@
         "coord": "51.270322,-1.052882",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval ",
+            "search": "Post-Medieval ",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5400,7 +5400,7 @@
         "coord": "52.575829,-0.1845",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage",
+            "search": "Bronze Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5508,7 +5508,7 @@
         "coord": "52.109097,-2.702415",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5616,7 +5616,7 @@
         "coord": "51.47856,0.004462",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5724,7 +5724,7 @@
         "coord": "54.695233,-1.180206",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5832,7 +5832,7 @@
         "coord": "53.959484,-1.091878",
         "recorded": "–",
         "periods": {
-            "search": "roman, earlymedieval, medieval, postmedieval, postmedieval",
+            "search": "Roman, Early Medieval, Medieval, Post-Medieval, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -5941,7 +5941,7 @@
         "coord": "53.003676,-0.601684",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6049,7 +6049,7 @@
         "coord": "52.116304,-0.919547",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6264,7 +6264,7 @@
         "coord": "51.886678,-1.991152",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6479,7 +6479,7 @@
         "coord": "51.737413,-1.035237",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6587,7 +6587,7 @@
         "coord": "51.257064,-1.737308",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6695,7 +6695,7 @@
         "coord": "51.582499,-2.530707",
         "recorded": "–",
         "periods": {
-            "search": "ironage",
+            "search": "Iron Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6803,7 +6803,7 @@
         "coord": "51.509468,-1.126886",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, roman",
+            "search": "Neolithic, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -6911,7 +6911,7 @@
         "coord": "55.670528,-1.798928",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, medieval, postmedieval",
+            "search": "Neolithic, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7020,7 +7020,7 @@
         "coord": "52.532008,-2.41966",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7128,7 +7128,7 @@
         "coord": "51.278405,1.077766",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman, earlymedieval, medieval, postmedieval",
+            "search": "Iron Age, Roman, Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7236,7 +7236,7 @@
         "coord": "51.063401,-1.280206",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7344,7 +7344,7 @@
         "coord": "51.485502,-0.127807",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage",
+            "search": "Bronze Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7451,7 +7451,7 @@
         "coord": "52.980295,-0.533225",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7664,7 +7664,7 @@
         "coord": "52.040364,-0.366011",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7771,7 +7771,7 @@
         "coord": "52.646124,-2.577345",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7878,7 +7878,7 @@
         "coord": "51.720624,-0.054145",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -7985,7 +7985,7 @@
         "coord": "50.077478,-5.179886",
         "recorded": "–",
         "periods": {
-            "search": "ironage",
+            "search": "Iron Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8092,7 +8092,7 @@
         "coord": "52.752459,-2.602659",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8199,7 +8199,7 @@
         "coord": "52.140294,-2.042171",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, medieval",
+            "search": "Bronze Age, Iron Age, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8306,7 +8306,7 @@
         "coord": "53.724441,-1.355467",
         "recorded": "–",
         "periods": {
-            "search": "roman, postmedieval",
+            "search": "Roman, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8413,7 +8413,7 @@
         "coord": "52.293401,-1.772098",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8520,7 +8520,7 @@
         "coord": "50.671732,-1.132267",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, roman, earlymedieval",
+            "search": "Bronze Age, Iron Age, Roman, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8627,7 +8627,7 @@
         "coord": "50.954994,-1.772017",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval",
+            "search": "Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8734,7 +8734,7 @@
         "coord": "52.34462,-0.539447",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval",
+            "search": "Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8842,7 +8842,7 @@
         "coord": "50.917925,-2.849794",
         "recorded": "8–10 May 2002",
         "periods": {
-            "search": "roman ",
+            "search": "Roman ",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -8950,7 +8950,7 @@
         "coord": "53.080321,-1.64026",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, bronzeage, ironage, roman",
+            "search": "Neolithic, Bronze Age, Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9165,7 +9165,7 @@
         "coord": "51.48223,-0.004201",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9274,7 +9274,7 @@
         "coord": "51.413519,-0.183752",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9382,7 +9382,7 @@
         "coord": "51.387727,-2.366371",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, roman, postmedieval",
+            "search": "Bronze Age, Roman, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9490,7 +9490,7 @@
         "coord": "51.058863,-2.934671",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, earlymedieval, medieval, postmedieval",
+            "search": "Bronze Age, Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9598,7 +9598,7 @@
         "coord": "51.483024,-0.294354",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval ",
+            "search": "Post-Medieval ",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9813,7 +9813,7 @@
         "coord": "54.120905,-0.908317",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -9921,7 +9921,7 @@
         "coord": "54.655019,-1.459104",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10029,7 +10029,7 @@
         "coord": "54.578305,-2.488259",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval ",
+            "search": "Post-Medieval ",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10137,7 +10137,7 @@
         "coord": "51.47634,-0.311899",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10244,7 +10244,7 @@
         "coord": "50.889703,-3.024814",
         "recorded": "–",
         "periods": {
-            "search": "roman, postmedieval",
+            "search": "Roman, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10457,7 +10457,7 @@
         "coord": "53.28181,-0.566168",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, medieval",
+            "search": "Bronze Age, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10564,7 +10564,7 @@
         "coord": "51.313727,0.860548",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10671,7 +10671,7 @@
         "coord": "50.67893,-1.990799",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10779,7 +10779,7 @@
         "coord": "52.98913,-1.939713",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -10992,7 +10992,7 @@
         "coord": "51.627914,-1.180515",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11099,7 +11099,7 @@
         "coord": "52.552655,-0.433747",
         "recorded": "–",
         "periods": {
-            "search": "ironage, earlymedieval, medieval",
+            "search": "Iron Age, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11206,7 +11206,7 @@
         "coord": "52.076522,1.132127",
         "recorded": "–",
         "periods": {
-            "search": "roman, postmedieval",
+            "search": "Roman, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11419,7 +11419,7 @@
         "coord": "50.928594,-2.039061",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, roman",
+            "search": "Bronze Age, Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11526,7 +11526,7 @@
         "coord": "51.674772,-0.53311092",
         "recorded": "16–18 March 2004",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11634,7 +11634,7 @@
         "coord": "53.988279,-1.148894",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11742,7 +11742,7 @@
         "coord": "53.735285,-2.935246",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -11956,7 +11956,7 @@
         "coord": "52.662008,-0.29183",
         "recorded": "–",
         "periods": {
-            "search": "neolithic",
+            "search": "Neolithic",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12064,7 +12064,7 @@
         "coord": "50.891844,-1.288816",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12172,7 +12172,7 @@
         "coord": "51.778168,-2.29093",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman, medieval",
+            "search": "Iron Age, Roman, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12387,7 +12387,7 @@
         "coord": "51.798826,1.06306",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12495,7 +12495,7 @@
         "coord": "50.844866,-2.752691",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, bronzeage, roman",
+            "search": "Neolithic, Bronze Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12603,7 +12603,7 @@
         "coord": "53.967614,-0.213551",
         "recorded": "–",
         "periods": {
-            "search": "ironage, earlymedieval, medieval",
+            "search": "Iron Age, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12711,7 +12711,7 @@
         "coord": "55.000462,-1.432911",
         "recorded": "–",
         "periods": {
-            "search": "prehistoric, roman",
+            "search": "Prehistoric, Roman",
             "prehistoric": true,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12819,7 +12819,7 @@
         "coord": "52.126082,-0.873735",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -12927,7 +12927,7 @@
         "coord": "52.423777,-0.757779",
         "recorded": "–",
         "periods": {
-            "search": "roman, earlymedieval, medieval",
+            "search": "Roman, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13035,7 +13035,7 @@
         "coord": "51.832918,-1.952569",
         "recorded": "2–5 August 2005",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13143,7 +13143,7 @@
         "coord": "53.487311,-2.236522",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13251,7 +13251,7 @@
         "coord": "51.37374,-0.376815",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13466,7 +13466,7 @@
         "coord": "51.256012,1.312794",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13574,7 +13574,7 @@
         "coord": "54.062747,-1.662743",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13682,7 +13682,7 @@
         "coord": "51.416134,0.748727",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13790,7 +13790,7 @@
         "coord": "50.874978,-0.443323",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, bronzeage",
+            "search": "Neolithic, Bronze Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -13898,7 +13898,7 @@
         "coord": "51.82505,-1.232742",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14113,7 +14113,7 @@
         "coord": "51.0852,-0.4046",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14435,7 +14435,7 @@
         "coord": "51.28541,-2.336253",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14543,7 +14543,7 @@
         "coord": "50.800806,-2.666475",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14758,7 +14758,7 @@
         "coord": "51.076135,1.130013",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval ",
+            "search": "Post-Medieval ",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14865,7 +14865,7 @@
         "coord": "52.493863,-0.27964",
         "recorded": "–",
         "periods": {
-            "search": "neolithic, roman, earlymedieval, medieval",
+            "search": "Neolithic, Roman, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -14973,7 +14973,7 @@
         "coord": "52.04817,-0.914954",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15081,7 +15081,7 @@
         "coord": "53.396554,-2.438536",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15189,7 +15189,7 @@
         "coord": "50.689403,-3.295137",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15297,7 +15297,7 @@
         "coord": "51.688032,-0.600434",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15404,7 +15404,7 @@
         "coord": "51.2401,-0.0666",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15511,7 +15511,7 @@
         "coord": "53.125909,-2.888253",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15619,7 +15619,7 @@
         "coord": "50.603806,-4.627464",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage",
+            "search": "Bronze Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15727,7 +15727,7 @@
         "coord": "53.045125,-1.354947",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -15835,7 +15835,7 @@
         "coord": "54.676036,-1.674253",
         "recorded": "–",
         "periods": {
-            "search": "ironage",
+            "search": "Iron Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16049,7 +16049,7 @@
         "coord": "52.150658,-0.95281",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16156,7 +16156,7 @@
         "coord": "51.835399,-2.049679",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16263,7 +16263,7 @@
         "coord": "51.470522,0.071049",
         "recorded": "–",
         "periods": {
-            "search": "ironage, postmedieval",
+            "search": "Iron Age, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16370,7 +16370,7 @@
         "coord": "51.356569,-2.509777",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16478,7 +16478,7 @@
         "coord": "52.533367,-0.908772",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman, earlymedieval",
+            "search": "Iron Age, Roman, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16692,7 +16692,7 @@
         "coord": "50.556811,-4.951477",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, roman, earlymedieval",
+            "search": "Bronze Age, Iron Age, Roman, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16800,7 +16800,7 @@
         "coord": "54.692457,-1.840365",
         "recorded": "–",
         "periods": {
-            "search": "ironage, earlymedieval",
+            "search": "Iron Age, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -16908,7 +16908,7 @@
         "coord": "53.336229,-0.358506",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman, medieval",
+            "search": "Iron Age, Roman, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17123,7 +17123,7 @@
         "coord": "51.8193,-0.4045",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17231,7 +17231,7 @@
         "coord": "54.49173,-1.91868",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17551,7 +17551,7 @@
         "coord": "54.29789,-2.35983",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17658,7 +17658,7 @@
         "coord": "51.064722,-1.7975",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17765,7 +17765,7 @@
         "coord": "51.693081,-1.588644",
         "recorded": "–",
         "periods": {
-            "search": "roman, medieval, postmedieval",
+            "search": "Roman, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17872,7 +17872,7 @@
         "coord": "52.23212,-0.57711",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman",
+            "search": "Iron Age, Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -17980,7 +17980,7 @@
         "coord": "50.34086,-4.45412",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, 20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18088,7 +18088,7 @@
         "coord": "51.516448,-0.11376",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18195,7 +18195,7 @@
         "coord": "52.415706,-0.028039",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage, earlymedieval, medieval",
+            "search": "Bronze Age, Iron Age, Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18302,7 +18302,7 @@
         "coord": "54.549014,-1.649417",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18409,7 +18409,7 @@
         "coord": "52.32183,1.5964",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18517,7 +18517,7 @@
         "coord": "51.499444,-0.1275",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18730,7 +18730,7 @@
         "coord": "54.535278,-1.674444",
         "recorded": "–",
         "periods": {
-            "search": "prehistoric, roman",
+            "search": "Prehistoric, Roman",
             "prehistoric": true,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18838,7 +18838,7 @@
         "coord": "51.639722,-1.295278",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, roman, earlymedieval",
+            "search": "Bronze Age, Roman, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -18945,7 +18945,7 @@
         "coord": "52.395833,-2.931667",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19052,7 +19052,7 @@
         "coord": "51.423056,-1.690833",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19159,7 +19159,7 @@
         "coord": "52.505556,-0.290278",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19372,7 +19372,7 @@
         "coord": "50.788611,-1.103056",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19479,7 +19479,7 @@
         "coord": "51.807778,-1.636944",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19587,7 +19587,7 @@
         "coord": "52.065833,-0.087222",
         "recorded": "–",
         "periods": {
-            "search": "roman, medieval",
+            "search": "Roman, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19694,7 +19694,7 @@
         "coord": "52.160833,-2.701111",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, ironage",
+            "search": "Bronze Age, Iron Age",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -19801,7 +19801,7 @@
         "coord": "52.586944,-0.459722",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -20014,7 +20014,7 @@
         "coord": "52.525833, -0.94",
         "recorded": "–",
         "periods": {
-            "search": "mesolithic, neolithic, bronzeage, postmedieval",
+            "search": "Mesolithic, Neolithic, Bronze Age, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": true,
@@ -20121,7 +20121,7 @@
         "coord": "51.061667,-2.826389",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -20334,7 +20334,7 @@
         "coord": "54.903889,-1.797222",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -20441,7 +20441,7 @@
         "coord": "52.572778,-0.342778",
         "recorded": "–",
         "periods": {
-            "search": "roman, medieval, postmedieval",
+            "search": "Roman, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -20548,7 +20548,7 @@
         "coord": "52.663889,-1.226944",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -20867,7 +20867,7 @@
         "coord": "51.050833,-2.363611",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21080,7 +21080,7 @@
         "coord": "52.391389,-2.632222",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21187,7 +21187,7 @@
         "coord": "52.276111,1.63",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval",
+            "search": "Early Medieval, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21294,7 +21294,7 @@
         "coord": "52.243889,0.407222",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21401,7 +21401,7 @@
         "coord": "55.551111,-1.621667",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21614,7 +21614,7 @@
         "coord": "51.926667,0.71",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -21933,7 +21933,7 @@
         "coord": "50.892222,-2.824722",
         "recorded": "–",
         "periods": {
-            "search": "ironage, medieval",
+            "search": "Iron Age, Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22040,7 +22040,7 @@
         "coord": "53.176667,-1.098889",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22147,7 +22147,7 @@
         "coord": "52.931389,-0.613889",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "20th century",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22254,7 +22254,7 @@
         "coord": "52.963889,0.651944",
         "recorded": "–",
         "periods": {
-            "search": "ironage, roman, earlymedieval",
+            "search": "Iron Age, Roman, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22467,7 +22467,7 @@
         "coord": "52.341667,1.601111",
         "recorded": "–",
         "periods": {
-            "search": "medieval",
+            "search": "Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22574,7 +22574,7 @@
         "coord": "51.221111,-1.764167",
         "recorded": "–",
         "periods": {
-            "search": "bronzeage, earlymedieval",
+            "search": "Bronze Age, Early Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22681,7 +22681,7 @@
         "coord": "54.381111,-3.103056",
         "recorded": "–",
         "periods": {
-            "search": "postmedieval",
+            "search": "Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22788,7 +22788,7 @@
         "coord": "52.670833,-0.7275",
         "recorded": "–",
         "periods": {
-            "search": "earlymedieval, medieval, postmedieval",
+            "search": "Early Medieval, Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -22895,7 +22895,7 @@
         "coord": "51.641667,-1.287222",
         "recorded": "–",
         "periods": {
-            "search": "roman",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
@@ -23108,7 +23108,7 @@
         "coord": "51.633889,-0.437222",
         "recorded": "–",
         "periods": {
-            "search": "medieval, postmedieval",
+            "search": "Medieval, Post-Medieval",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
