@@ -199,6 +199,7 @@
         }
 
         appendString += '</div><div class="col-sm-4 text-align-center">'
+        appendString += '<hr/>'
         appendString += '<h6>Periods represented</h6>'
 
         if (item.periods.prehistoric != "–") {
