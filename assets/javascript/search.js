@@ -50,7 +50,7 @@
   }
 
   function addBadge(name, code) {
-    return '<span class="badge custom-badge custom-badge-' + code + '">' + name + '</span>'
+    return '<a href="search?query=%22'+name+'%22"><span class="badge custom-badge custom-badge-' + code + '">' + name + '</span></a>'
   }
 
   function createNRHELink(name, id, url) {
