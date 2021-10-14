@@ -41,7 +41,7 @@
       appendString += addBadge("Post-Medieval")
     }
 
-    if (item.periods.20thcentury) {
+    if (item.periods.twentiethcentury) {
       appendString += addBadge("20th century")
     }
   }
