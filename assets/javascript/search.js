@@ -1,7 +1,7 @@
 (function() {
 
   function createNRHELink(name, id, url) {
-    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + name + ' (Id: ' + id + ') <a href="http://' + url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
   }
 
   function createHERLink(url, title, name, id) {
@@ -91,9 +91,9 @@
         if (item.links.her.availability) {
           appendString += createHERLink(item.links.her.main.url, item.links.her.main.title, item.links.her.main.name, item.links.her.main.id)
           if (item.links.her.multiple) {
-            appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.additional1.url + '" target="_blank">' + item.links.her.additional1.title + ' (' + item.links.her.additional1.name + ' Id: ' + item.links.her.additional1.id + ') <i class="bi bi-link-45deg"></i></a></p>'
+            appendString += createHERLink(item.links.her.additional1.url, item.links.her.additional1.title, item.links.her.additional1.name, item.links.her.additional1.id)
             if (item.links.her.additional2.name != "–") {
-              appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.additional2.url + '" target="_blank">' + item.links.her.additional2.title + ' (' + item.links.her.additional2.name + ' Id: ' + item.links.her.additional2.id + ') <i class="bi bi-link-45deg"></i></a></p>'
+              appendString += createHERLink(item.links.her.additional2.url, item.links.her.additional2.title, item.links.her.additional2.name, item.links.her.additional2.id)
             }
           }
         } else {
