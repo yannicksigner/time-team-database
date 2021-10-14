@@ -158,3 +158,27 @@
 .subheader {
   padding-bottom: 5px;
 }
+
+.custom-badge-prehistoric {
+  background-color: #5C4B51;
+}
+
+.custom-badge-palaeolithic {
+  background-color: #8CBEB2;
+}
+
+.custom-badge-mesolithic {
+  background-color: #F2EBBF;
+}
+
+.custom-badge-neolithic {
+  background-color: #F3B562;
+}
+
+.custom-badge-bronzeage {
+  background-color: #F06060;
+}
+
+.custom-badge-ironage {
+  background-color: #60f0f0;
+}
