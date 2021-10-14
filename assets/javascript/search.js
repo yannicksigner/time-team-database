@@ -50,7 +50,7 @@
   }
 
   function addBadge(name, code) {
-    return '<span class="badge custom-badge-'+code+'">'+name+'</span>'
+    return '<span class="badge custom-badge custom-badge-'+code+'">'+name+'</span>'
   }
 
   function createNRHELink(name, id, url) {
