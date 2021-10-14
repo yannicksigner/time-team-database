@@ -326,6 +326,10 @@
         {
           name: "country",
           weight: 0.2
+        },
+        {
+          name: "periods.search",
+          weight: 0.3
         }
       ]
     };
