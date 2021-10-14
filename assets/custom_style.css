@@ -51,7 +51,7 @@
         width: 200px;
     }
     #perioddivider {
-      display: hidden;
+      display: none;
     }
 }
 
