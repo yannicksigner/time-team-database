@@ -61,6 +61,8 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p><hr/>'
 
+        appendString += '<h5>Historic England NRHE Excavation Index</h5>'
+
         if (item.links.ei.availability) {
           appendString += '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei">' + item.links.ei.main.name + ' (Id: ' + item.links.ei.main.id + ') <a href="http://' + item.links.ei.main.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
           if (item.links.ei.multiple) {
@@ -72,6 +74,8 @@
         } else {
           appendString += '<p class="links"><i class="bi bi-archive" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i>No EI entry identified</p>'
         }
+
+        appendString += '<h5>Historic Environment Record</h5>'
 
         if (item.links.her.availability) {
           appendString += '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER"></i><a href="http://' + item.links.her.main.url + '" target="_blank">' + item.links.her.main.title + ' (' + item.links.her.main.name + ' Id: ' + item.links.her.main.id + ') <i class="bi bi-link-45deg"></i></a></p>'
