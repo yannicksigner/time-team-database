@@ -81,11 +81,11 @@
 }
 
 .search-result-item .links>a {
-    color: #A3D2C4
+    color: #F1B6B8
 }
 
 .search-result-item .links>a:hover {
-    color: #F1B6B8
+    color: #A3D2C4
 }
 
 .search-result-item+.search-result-item {
