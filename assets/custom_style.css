@@ -170,29 +170,29 @@
 }
 
 .custom-badge-prehistoric {
-  background-color: #5C4B51;
+  background-color: #170055;
 }
 
 .custom-badge-palaeolithic {
-  background-color: #8CBEB2;
+  background-color: #3E00FF;
 }
 
 .custom-badge-mesolithic {
-  background-color: #F2EBBF;
-  color: #202124;
+  background-color: #AE00FB;
 }
 
 .custom-badge-neolithic {
-  background-color: #F3B562;
+  background-color: #7ECA9C;
+  color: #202124;
 }
 
 .custom-badge-bronzeage {
-  background-color: #F06060;
+  background-color: #CCFFBD;
+  color: #202124;
 }
 
 .custom-badge-ironage {
-  background-color: #60f0f0;
-  color: #202124;
+  background-color: #47597E;
 }
 
 
