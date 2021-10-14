@@ -1,49 +1,52 @@
 (function() {
 
-  function addPeriodBadges(dom, item) {
+  function addPeriodBadges(item) {
+    var html;
     if (item.periods.prehistoric) {
-      appendString += addBadge("Prehistoric")
+      html += addBadge("Prehistoric")
     }
 
     if (item.periods.palaeolithic) {
-      appendString += addBadge("Palaeolithic")
+      html += addBadge("Palaeolithic")
     }
 
     if (item.periods.mesolithic) {
-      appendString += addBadge("Mesolithic")
+      html += addBadge("Mesolithic")
     }
 
     if (item.periods.neolithic) {
-      appendString += addBadge("Neolithic")
+      html += addBadge("Neolithic")
     }
 
     if (item.periods.bronzeage) {
-      appendString += addBadge("Bronze Age")
+      html += addBadge("Bronze Age")
     }
 
     if (item.periods.ironage) {
-      appendString += addBadge("Iron Age")
+      html += addBadge("Iron Age")
     }
 
     if (item.periods.roman) {
-      appendString += addBadge("Roman")
+      html += addBadge("Roman")
     }
 
     if (item.periods.earlymedieval) {
-      appendString += addBadge("Early Medieval")
+      html += addBadge("Early Medieval")
     }
 
     if (item.periods.medieval) {
-      appendString += addBadge("Medieval")
+      html += addBadge("Medieval")
     }
 
     if (item.periods.postmedieval) {
-      appendString += addBadge("Post-Medieval")
+      html += addBadge("Post-Medieval")
     }
 
     if (item.periods.twentiethcentury) {
-      appendString += addBadge("20th century")
+      html += addBadge("20th century")
     }
+
+    return html
   }
 
   function addBadge(name) {
@@ -120,7 +123,7 @@
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
         appendString += '<p class="description">' + item.summary + '</p>'
 
-        addPeriodBadges(appendString, item);
+        appendString += addPeriodBadges(item);
 
         appendString += '<hr/>'
         // SUB-HEADER
