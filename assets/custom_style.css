@@ -80,6 +80,10 @@
     font-size: 13px
 }
 
+.search-result-item .links>a {
+    color: green
+}
+
 .search-result-item+.search-result-item {
     margin-top: 20px;
     display: flex;
