@@ -1,5 +1,55 @@
 (function() {
 
+  function addPeriodBadges(dom, item) {
+    if (item.periods.prehistoric) {
+      appendString += addBadge("Prehistoric")
+    }
+
+    if (item.periods.palaeolithic) {
+      appendString += addBadge("Palaeolithic")
+    }
+
+    if (item.periods.mesolithic) {
+      appendString += addBadge("Mesolithic")
+    }
+
+    if (item.periods.neolithic) {
+      appendString += addBadge("Neolithic")
+    }
+
+    if (item.periods.bronzeage) {
+      appendString += addBadge("Bronze Age")
+    }
+
+    if (item.periods.ironage) {
+      appendString += addBadge("Iron Age")
+    }
+
+    if (item.periods.roman) {
+      appendString += addBadge("Roman")
+    }
+
+    if (item.periods.earlymedieval) {
+      appendString += addBadge("Early Medieval")
+    }
+
+    if (item.periods.medieval) {
+      appendString += addBadge("Medieval")
+    }
+
+    if (item.periods.postmedieval) {
+      appendString += addBadge("Post-Medieval")
+    }
+
+    if (item.periods .20 thcentury) {
+      appendString += addBadge("20th century")
+    }
+  }
+
+  function addBadge(name) {
+    return '<span class="badge bg-primary">'+name+'</span>'
+  }
+
   function createNRHELink(name, id, url) {
     return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
   }
@@ -68,8 +118,11 @@
         appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + ' </h4>'
         //<span class="badge bg-success">'+ ((1-parseFloat(results[i].score)).toFixed(3) * 100).toFixed(1) + '% match</span>
         appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
-        appendString += '<p class="description">' + item.summary + '</p><hr/>'
+        appendString += '<p class="description">' + item.summary + '</p>'
 
+        addPeriodBadges(appendString, item);
+
+        appendString += '<hr/>'
         // SUB-HEADER
         appendString += '<h6 class="subheader">Historic England NRHE Excavation Index<i class="bi bi-info-circle" style="padding-left:5px;" data-toggle="tooltip" data-placement="right" title="Historic England NRHE Excavation Index"></i></h6>'
 
