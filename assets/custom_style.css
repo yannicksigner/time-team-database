@@ -173,6 +173,7 @@
 
 .custom-badge-mesolithic {
   background-color: #F2EBBF;
+  color: #202124;
 }
 
 .custom-badge-neolithic {
@@ -189,7 +190,8 @@
 
 
 .custom-badge-roman {
-  background-color: #EE7F38;
+  background-color: #F2E085;
+  color: #202124;
 }
 
 .custom-badge-earlymedieval {
@@ -197,11 +199,12 @@
 }
 
 .custom-badge-medieval {
-  background-color: #F2E085;
+  background-color: #EE7F38;
 }
 
 .custom-badge-postmedieval {
   background-color: #60f0f0;
+  color: #202124;
 }
 
 .custom-badge-twentiethcentury {
