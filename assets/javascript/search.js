@@ -235,7 +235,7 @@
       searchResults.innerHTML = appendString;
     } else {
       searchResults.innerHTML = '<li>No results found!</li>';
-      togglePageination("full");
+      togglePageination("normal");
     }
     // activate the tooltips (after they have been created)
     $('[data-toggle="tooltip"]').tooltip()
