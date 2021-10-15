@@ -40,3 +40,5 @@ exclude:
   - Gemfile.lock
   - node_modules
   - update_boostrap.sh
+
+google_spreadsheet: https://docs.google.com/spreadsheets/d/13tlJfWIflEA2xGpRRfYw1xoQcGypCpukEkqpt4XYaEY
