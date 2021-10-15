@@ -501,25 +501,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "79731",
+                    "title": "Islay, Finlaggan",
+                    "url": "canmore.org.uk/site/79731"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "37701",
+                    "title": "Islay, Finlaggan",
+                    "url": "canmore.org.uk/site/37701"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "113270",
+                    "title": "Islay, Loch Finlaggan",
+                    "url": "canmore.org.uk/site/113270"
                 }
             },
             "imdb": {
@@ -1476,13 +1476,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Northern Ireland HER",
+                    "id": "ARM 012:015",
+                    "title": "NAVAN FORT, AN EMAIN, AN EAMHAIN, EMAIN MACHA, EMHAIN MHACHA, EMAIN, EMANIA",
+                    "url": "apps.communities-ni.gov.uk/NISMR-PUBLIC/Details.aspx?MonID=5375"
                 },
                 "additional1": {
                     "name": "–",
@@ -2014,13 +2014,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "44077",
+                    "title": "Glasgow, 866, 868 Govan Road, Govan Old Parish Church",
+                    "url": "canmore.org.uk/site/44077"
                 },
                 "additional1": {
                     "name": "–",
@@ -2552,13 +2552,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "3509",
+                    "title": "Sanday, Styes Of Brough",
+                    "url": "canmore.org.uk/site/3509"
                 },
                 "additional1": {
                     "name": "–",
@@ -7619,13 +7619,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "194560",
+                    "title": "Kinlochbervie Wreck': Bagh Poll A' Bhacain, North Minch",
+                    "url": "canmore.org.uk/site/194560"
                 },
                 "additional1": {
                     "name": "–",
@@ -9119,13 +9119,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "1405",
+                    "title": "Fetlar, Wick Of Aith, Giant's Grave",
+                    "url": "canmore.org.uk/site/1405"
                 },
                 "additional1": {
                     "name": "–",
@@ -9767,13 +9767,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "31321",
+                    "title": "Sillerhole, Caravan Park",
+                    "url": "canmore.org.uk/site/31321"
                 },
                 "additional1": {
                     "name": "–",
@@ -10412,25 +10412,25 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "14025",
+                    "title": "Loch Migdale",
+                    "url": "canmore.org.uk/site/14025"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "14027",
+                    "title": "Ceannlocha",
+                    "url": "canmore.org.uk/site/14027"
                 },
                 "additional2": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "14028",
+                    "title": "Loch Migdale",
+                    "url": "canmore.org.uk/site/14028"
                 }
             },
             "imdb": {
@@ -11374,13 +11374,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "58422",
+                    "title": "Roxburgh",
+                    "url": "canmore.org.uk/site/58422"
                 },
                 "additional1": {
                     "name": "–",
@@ -11910,13 +11910,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "65200",
+                    "title": "Drumlanrig Roman Fort",
+                    "url": "canmore.org.uk/site/65200"
                 },
                 "additional1": {
                     "name": "–",
@@ -12341,13 +12341,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "53978",
+                    "title": "East Wemyss, Sliding Cave",
+                    "url": "canmore.org.uk/site/53978"
                 },
                 "additional1": {
                     "name": "–",
@@ -14283,13 +14283,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "11743",
+                    "title": "Mains Of Applecross",
+                    "url": "canmore.org.uk/site/11743"
                 },
                 "additional1": {
                     "name": "–",
@@ -16005,13 +16005,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Scotland HER (Canmore)",
+                    "id": "293929",
+                    "title": "Barra, Allasdale",
+                    "url": "canmore.org.uk/site/293929"
                 },
                 "additional1": {
                     "name": "–",
