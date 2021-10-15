@@ -91,7 +91,7 @@
 
     $("#current-button").text("Page " + pageNum);
 
-    if (results.length) { // Are there any results?
+    if (results.length) {
       var appendString = '';
 
       var iterator;
@@ -235,6 +235,7 @@
       searchResults.innerHTML = appendString;
     } else {
       searchResults.innerHTML = '<li>No results found!</li>';
+      togglePageination("full");
     }
     // activate the tooltips (after they have been created)
     $('[data-toggle="tooltip"]').tooltip()
