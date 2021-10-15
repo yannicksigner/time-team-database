@@ -216,3 +216,6 @@
 .custom-badge-twentiethcentury {
   background-color: #911F27;
 }
+#search-addon {
+    display: none;
+}
