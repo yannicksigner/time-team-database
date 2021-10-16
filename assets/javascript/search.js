@@ -298,7 +298,12 @@
   var searchTerm = getQueryVariable('query');
 
   if (!searchTerm) {
-    searchTerm = "%22Season%22"
+    searchTerm = '"Season"'
+
+    var url = new URL(document.location.href);
+    url.searchParams.set("query", searchTerm); // setting your param
+    var newUrl = url.href;
+    document.location = newUrl;
   }
 
 
