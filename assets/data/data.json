@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "thumbnailurl": "s1ep1.png",
+        "thumbnailurl": "s1ep1.webp",
         "summary": "The Team investigate a site in Somerset that could hold the key to a crucial phase in English history: Alfred the Great's defeat of the Danes. Were this orchard and farmland once Alfred's fortress?",
         "location": "Athelney, Somerset",
         "country": "England",
@@ -109,7 +109,7 @@
     },
     {
         "id": 2,
-        "thumbnailurl": "s1ep2.png",
+        "thumbnailurl": "s1ep2.webp",
         "summary": "The Team investigate a unique piece of military engineering at Ribchester in Lancashire that reveals how the Roman army survived - around AD100 - at the northern frontier of their Empire",
         "location": "Ribchester, Lancashire",
         "country": "England",
@@ -217,7 +217,7 @@
     },
     {
         "id": 3,
-        "thumbnailurl": "s1ep3.png",
+        "thumbnailurl": "s1ep3.webp",
         "summary": "In the gardens - and one kitchen - of Much Wenlock in Shropshire, the Team reveal fascinating evidence about the early development of a medieval town and an important aspect of England's past",
         "location": "Much Wenlock, Shropshire",
         "country": "England",
@@ -325,7 +325,7 @@
     },
     {
         "id": 4,
-        "thumbnailurl": "s1ep4.png",
+        "thumbnailurl": "s1ep4.webp",
         "summary": "The Team visit the site of a Dark Age crannog - a man-made island - in Brecon. What happened to the people who lived there? What was their connection with Ireland and an ancient script known as ogham?",
         "location": "Llangorse Lake, Powys",
         "country": "Wales",
@@ -433,7 +433,7 @@
     },
     {
         "id": 5,
-        "thumbnailurl": "s2ep1.png",
+        "thumbnailurl": "s2ep1.webp",
         "summary": "On Islay in the Scottish Hebrides, the Team try to crack the mysteries of the Lords of the Isles: where were these 13th-century Kings crowned and how did they live?",
         "location": "Finlaggan, Islay",
         "country": "Scotland",
@@ -541,7 +541,7 @@
     },
     {
         "id": 6,
-        "thumbnailurl": "s2ep2.png",
+        "thumbnailurl": "s2ep2.webp",
         "summary": "A building site in the village of Winterboume Gunner, near Salisbury, stands abandoned. Previous developments on the surrounding land unearthed evidence of a Saxon burial ground.",
         "location": "Winterbourne Gunner, Wiltshire",
         "country": "England",
@@ -651,7 +651,7 @@
     },
     {
         "id": 7,
-        "thumbnailurl": "s2ep3.png",
+        "thumbnailurl": "s2ep3.webp",
         "summary": "The Time Team visit the picturesque village of Tockenham, deep in the heart of the ancient Wiltshire countryside",
         "location": "Tockenham, Wiltshire",
         "country": "England",
@@ -759,7 +759,7 @@
     },
     {
         "id": 8,
-        "thumbnailurl": "s2ep4.png",
+        "thumbnailurl": "s2ep4.webp",
         "summary": "Did the first road the Romans built into London cross the river at Lambeth rather than Tower Bridge and if so, does this mean that Lambeth was the site of the original Roman settlement?",
         "location": "Lambeth Palace, London",
         "country": "England",
@@ -868,7 +868,7 @@
     },
     {
         "id": 9,
-        "thumbnailurl": "s2ep5.png",
+        "thumbnailurl": "s2ep5.webp",
         "summary": "This episode takes an in-depth look at archaeology as it happens in a derelict medieval castle stranded in the middle of a Sunderland housing estate",
         "location": "Hylton Castle, Sunderland",
         "country": "England",
@@ -976,7 +976,7 @@
     },
     {
         "id": 10,
-        "thumbnailurl": "s3ep1.png",
+        "thumbnailurl": "s3ep1.webp",
         "summary": "The Team investigate a 2000-year-old underground chamber - a fogou - in Cornwall. What was it used for, is there another underground passage nearby and was there an Iron Age Settlement on the site?",
         "location": "Boleigh, Cornwall",
         "country": "England",
@@ -1084,7 +1084,7 @@
     },
     {
         "id": 11,
-        "thumbnailurl": "s3ep2.png",
+        "thumbnailurl": "s3ep2.webp",
         "summary": "The river valleys of Oxfordshire were home to mammoths 250,000 years ago. The Team help local archaeologists get woolly pachyderm evidence out of a gravel pit before it's turned into a waste tip.",
         "location": "Stanton Harcourt, Oxfordshire",
         "country": "England",
@@ -1192,7 +1192,7 @@
     },
     {
         "id": 12,
-        "thumbnailurl": "s3ep3.png",
+        "thumbnailurl": "s3ep3.webp",
         "summary": "In Somerset, the Team search for evidence of the Knights Templar, the fighting monks who protected pilgrims on their way to the Holy Land in the 12th and 13th centuries",
         "location": "Templecombe, Somerset",
         "country": "England",
@@ -1300,7 +1300,7 @@
     },
     {
         "id": 13,
-        "thumbnailurl": "s3ep4.png",
+        "thumbnailurl": "s3ep4.webp",
         "summary": "In their first underwater excavation, the Team examine the remains of a ship wrecked 400 years ago off the Devon coast. Does enough of it remain to identify it? Was it part of the Spanish Armada?",
         "location": "Teignmouth, Devon",
         "country": "England",
@@ -1409,7 +1409,7 @@
     },
     {
         "id": 14,
-        "thumbnailurl": "s3ep5.png",
+        "thumbnailurl": "s3ep5.webp",
         "summary": "According to Celtic legend, the fort of Emain Macha was built by a king who also built a palace for his treasure and another for the spoils of war. Can the Team find any trace of these other palaces?",
         "location": "Emain Macha, County Armagh",
         "country": "Northern Ireland",
@@ -1517,7 +1517,7 @@
     },
     {
         "id": 15,
-        "thumbnailurl": "s3ep6.png",
+        "thumbnailurl": "s3ep6.webp",
         "summary": "A Suffolk farmer has gathered hundreds of pieces of Roman pottery, jewellery and coins from one of his fields. Where did all this rich material come from and why is it so concentrated in one area?",
         "location": "Preston St. Mary, Suffolk",
         "country": "England",
@@ -1625,7 +1625,7 @@
     },
     {
         "id": 16,
-        "thumbnailurl": "s4ep1.png",
+        "thumbnailurl": "s4ep1.webp",
         "summary": "The Team cross the Atlantic, following in the footsteps of English settlers, to St Mary's City, Maryland, where they join American experts to unearth important finds and challenge existing theories",
         "location": "St Mary's City, Maryland",
         "country": "United States of America",
@@ -1733,7 +1733,7 @@
     },
     {
         "id": 17,
-        "thumbnailurl": "s4ep2.png",
+        "thumbnailurl": "s4ep2.webp",
         "summary": "Was a female skeleton found in Cornwall a leper from a 13th-century colony, a casualty of the Civil War or a plague victim? Or was she put to death after being tried at the Launceston Assizes?",
         "location": "Launceston, Cornwall",
         "country": "England",
@@ -1841,7 +1841,7 @@
     },
     {
         "id": 18,
-        "thumbnailurl": "s4ep3.png",
+        "thumbnailurl": "s4ep3.webp",
         "summary": "Matthew Boulton's 18th-century mint was the world's biggest coin-presser. Tony and the Team are invited to a Handsworth street party when they dig up Birmingham's back gardens to find it.",
         "location": "Soho, Birmingham",
         "country": "England",
@@ -1949,7 +1949,7 @@
     },
     {
         "id": 19,
-        "thumbnailurl": "s4ep4.png",
+        "thumbnailurl": "s4ep4.webp",
         "summary": "An assortment of large, intricately carved gravestones have been found in a Glasgow graveyard. Can the Team work out who was buried under these intriguing stone sculptures?",
         "location": "Govan, Glasgow",
         "country": "Scotland",
@@ -2057,7 +2057,7 @@
     },
     {
         "id": 20,
-        "thumbnailurl": "s4ep5.png",
+        "thumbnailurl": "s4ep5.webp",
         "summary": "A mass of nettles in Yorkshire conceals 2000 years of history, including a Roman fort, and possibly a castle and a manor house. Can the Team uncover the area's secrets before it's turned into a park?",
         "location": "Malton, North Yorkshire",
         "country": "England",
@@ -2165,7 +2165,7 @@
     },
     {
         "id": 21,
-        "thumbnailurl": "s4ep6.png",
+        "thumbnailurl": "s4ep6.webp",
         "summary": "In 1907, a colonel discovered part of a mosaic in Wiltshire, which he believed was from a Roman villa. Now the site's occupied by an army barracks. The Team check out the colonel's theory.",
         "location": "Netheravon, Wiltshire",
         "country": "England",
@@ -2273,7 +2273,7 @@
     },
     {
         "id": 22,
-        "thumbnailurl": "s5ep1.png",
+        "thumbnailurl": "s5ep1.webp",
         "summary": "Tony Robinson and the Team search for the remains of the inner sanctum of the royal private apartments at Trumpeters House in Richmond, Surrey, where Elizabeth I died",
         "location": "Richmond, Surrey",
         "country": "England",
@@ -2381,7 +2381,7 @@
     },
     {
         "id": 23,
-        "thumbnailurl": "s5ep2.png",
+        "thumbnailurl": "s5ep2.webp",
         "summary": "In Iron Age Somerset, areas of high ground were connected by wooden walkways across the marshland. Can vague 1920s reports guide the Team to peat-preserved wooden remains?",
         "location": "Greylake, Somerset",
         "country": "England",
@@ -2489,7 +2489,7 @@
     },
     {
         "id": 24,
-        "thumbnailurl": "s5ep3.png",
+        "thumbnailurl": "s5ep3.webp",
         "summary": "The Team visit Scotland, where schoolchildren on the Orkney island of Sanday asked them to investigate local mounds that are reputedly of Viking origin",
         "location": "Sanday, Orkney",
         "country": "Scotland",
@@ -2597,7 +2597,7 @@
     },
     {
         "id": 25,
-        "thumbnailurl": "s5ep4.png",
+        "thumbnailurl": "s5ep4.webp",
         "summary": "A look back at the Team's visit to a field near the Cotswolds village of Turkdean. Finds included a roof tile bearing a Roman dog's paw-print, a rare 'friendship' brooch and a plunge bath.",
         "location": "Turkdean, Gloucestershire",
         "country": "England",
@@ -2705,7 +2705,7 @@
     },
     {
         "id": 26,
-        "thumbnailurl": "s5ep5.png",
+        "thumbnailurl": "s5ep5.webp",
         "summary": "The Team visit Mallorca in pursuit of the Beaker people, an enigmatic culture that may have introduced metalwork to Britain",
         "location": "Deya, Majorca",
         "country": "Spain",
@@ -2813,7 +2813,7 @@
     },
     {
         "id": 27,
-        "thumbnailurl": "s5ep6.png",
+        "thumbnailurl": "s5ep6.webp",
         "summary": "The Team travel to Aston Eyre in Shropshire, where a farmhouse converted from a medieval gatehouse is the starting point for three days of hard work",
         "location": "Aston Eyre, Shropshire",
         "country": "England",
@@ -2921,7 +2921,7 @@
     },
     {
         "id": 28,
-        "thumbnailurl": "s5ep7.png",
+        "thumbnailurl": "s5ep7.webp",
         "summary": "The Team visit Downpatrick, one of Ireland's most sacred sites, to look for evidence of the early Christian monastery and the later Benedictine buildings that were sited on Cathedral Hill",
         "location": "Downpatrick, County Down",
         "country": "Northern Ireland",
@@ -3029,7 +3029,7 @@
     },
     {
         "id": 29,
-        "thumbnailurl": "s5ep8.png",
+        "thumbnailurl": "s5ep8.webp",
         "summary": "Just yards from the Teesside village of Worsall is the site of a medieval village, and Time Team have just three days to find out why it was suddenly abandoned completely",
         "location": "High Worsall, North Yorkshire",
         "country": "England",
@@ -3137,7 +3137,7 @@
     },
     {
         "id": 30,
-        "thumbnailurl": "s6ep1.png",
+        "thumbnailurl": "s6ep1.webp",
         "summary": "Time Team investigate the site of Josiah Wedgwood's first ever factory",
         "location": "Burslem, Stoke-on-Trent",
         "country": "England",
@@ -3245,7 +3245,7 @@
     },
     {
         "id": 31,
-        "thumbnailurl": "s6ep2.png",
+        "thumbnailurl": "s6ep2.webp",
         "summary": "Papcastle, a small village outside Cockermouth in Cumbria, boasts a Roman fort, even though not much of it has been excavated",
         "location": "Papcastle, Cumbria",
         "country": "England",
@@ -3353,7 +3353,7 @@
     },
     {
         "id": 32,
-        "thumbnailurl": "s6ep3.png",
+        "thumbnailurl": "s6ep3.webp",
         "summary": "The site of Thetford Grammar School in Norfolk may now be a place for exams and play, but in the 13th century, a Dominican friary was here and before that, for a mere 24 years, a Norman cathedral",
         "location": "Thetford, Norfolk",
         "country": "England",
@@ -3461,7 +3461,7 @@
     },
     {
         "id": 33,
-        "thumbnailurl": "s6ep4.png",
+        "thumbnailurl": "s6ep4.webp",
         "summary": "Tony and the Team are at Cooper's Hole in the Cheddar Gorge looking for evidence of Stone Age man",
         "location": "Cheddar Gorge, Somerset",
         "country": "England",
@@ -3569,7 +3569,7 @@
     },
     {
         "id": 34,
-        "thumbnailurl": "s6ep5.png",
+        "thumbnailurl": "s6ep5.webp",
         "summary": "A ruined Norman castle towers over Plympton in Devon; but what else from this period might be hidden under back gardens? Tony and the Team spend three days finding out.",
         "location": "Plympton, Devon",
         "country": "England",
@@ -3677,7 +3677,7 @@
     },
     {
         "id": 35,
-        "thumbnailurl": "s6ep6.png",
+        "thumbnailurl": "s6ep6.webp",
         "summary": "Tony and the Team travel to the heart of Kent to uncover Henry V's lost dockyard. Amazingly it's believed to be at Smallhythe, now a sleepy village, miles from the sea.",
         "location": "Smallhythe, Kent",
         "country": "England",
@@ -3785,7 +3785,7 @@
     },
     {
         "id": 36,
-        "thumbnailurl": "s6ep7.png",
+        "thumbnailurl": "s6ep7.webp",
         "summary": "Tony and the Team take to the fairways to discover why there's a well-preserved Roman bathhouse sitting on a Sussex golf course",
         "location": "Beauport Park, Sussex",
         "country": "England",
@@ -3893,7 +3893,7 @@
     },
     {
         "id": 37,
-        "thumbnailurl": "s6ep8.png",
+        "thumbnailurl": "s6ep8.webp",
         "summary": "The Team are in Norfolk to excavate one of the two US B17 bombers that collided and crashed into Reedham marshes in 1944. They're hoping air crash experts can determine why it happened.",
         "location": "Reedham marshes, Norfolk",
         "country": "England",
@@ -4001,7 +4001,7 @@
     },
     {
         "id": 38,
-        "thumbnailurl": "s6ep9.png",
+        "thumbnailurl": "s6ep9.webp",
         "summary": "Tony and the Team return to the huge Roman villa at Turkdean in the Cotswolds that they discovered in 1998. This visit turns out to be even more rewarding than the first one.",
         "location": "Turkdean, Gloucestershire",
         "country": "England",
@@ -4109,7 +4109,7 @@
     },
     {
         "id": 39,
-        "thumbnailurl": "s6ep10.png",
+        "thumbnailurl": "s6ep10.webp",
         "summary": "Tony Robinson and the Team unlock the secrets of an entire Iron Age village in the Malvern Hills. And, roping in some local oxen, they learn to plough in the same way as our ancestors.",
         "location": "Kemerton, Worcestershire",
         "country": "England",
@@ -4217,7 +4217,7 @@
     },
     {
         "id": 40,
-        "thumbnailurl": "s6ep11.png",
+        "thumbnailurl": "s6ep11.webp",
         "summary": "Time Team are joined by guests Sandi Toksvig and Hugh Fearnley Whittingstall. They unearth fine Saxon jewellery, a stash of Norman pottery and a medieval murder victim near Kings Lynn.",
         "location": "Bawsey, Norfolk",
         "country": "England",
@@ -4325,7 +4325,7 @@
     },
     {
         "id": 41,
-        "thumbnailurl": "s6ep12.png",
+        "thumbnailurl": "s6ep12.webp",
         "summary": "In the first part of a two-part special, Tony leads the Team into the jungle on the Caribbean island of Nevis where they recreate the former Pinney grand estate house",
         "location": "Nevis",
         "country": "West Indies",
@@ -4433,7 +4433,7 @@
     },
     {
         "id": 42,
-        "thumbnailurl": "s6ep13.png",
+        "thumbnailurl": "s6ep13.webp",
         "summary": "The second part of the special from Nevis, where Tony and the Team discover the long-lost colonial capital, Jamestown, proving conclusively that it was not destroyed by a tidal wave",
         "location": "Nevis",
         "country": "West Indies",
@@ -4541,7 +4541,7 @@
     },
     {
         "id": 43,
-        "thumbnailurl": "s7ep1.png",
+        "thumbnailurl": "s7ep1.webp",
         "summary": "Tony Robinson and the experts turn their backs on Benidorm to travel a few miles up the coast to the small port of Denia to show what life was like 1000 years ago, when Denia was an Islamic settlement",
         "location": "Denia",
         "country": "Spain",
@@ -4649,7 +4649,7 @@
     },
     {
         "id": 44,
-        "thumbnailurl": "s7ep2.png",
+        "thumbnailurl": "s7ep2.webp",
         "summary": "In 300 AD Cirencester was the most important town in Roman Britain after London. The enthusiastic residents of Chester Street find out what it's like to be Time Team.",
         "location": "Cirencester, Gloucestershire",
         "country": "England",
@@ -4757,7 +4757,7 @@
     },
     {
         "id": 45,
-        "thumbnailurl": "s7ep3.png",
+        "thumbnailurl": "s7ep3.webp",
         "summary": "Time Team excavate the Spitfire that pilot Paul Klipsch flew across the Channel in for his last day of combat in May 1940. His plane crashed in northern France where his body is buried.",
         "location": "Wierre-Effroy",
         "country": "France",
@@ -4865,7 +4865,7 @@
     },
     {
         "id": 46,
-        "thumbnailurl": "s7ep4.png",
+        "thumbnailurl": "s7ep4.webp",
         "summary": "Time Team descend on the tiny village of Wadden in Dorset, where neighbours Grace and David discovered a huge amount of old pottery in their shared garden during excavations for a new septic tank",
         "location": "Waddon, Dorset",
         "country": "England",
@@ -4973,7 +4973,7 @@
     },
     {
         "id": 47,
-        "thumbnailurl": "s7ep5.png",
+        "thumbnailurl": "s7ep5.webp",
         "summary": "Tony Robinson and the Team travel to the Roman fort of Birdoswald in Cumbria to carry out the first ever excavation of a Roman cemetery near the wall",
         "location": "Birdoswald, Cumbria",
         "country": "England",
@@ -5081,7 +5081,7 @@
     },
     {
         "id": 48,
-        "thumbnailurl": "s7ep6.png",
+        "thumbnailurl": "s7ep6.webp",
         "summary": "Time Team are in search of the real-life Flintstones at one of Britain's major early Stone Age sites at a holiday camp at Elveden in Suffolk",
         "location": "Elveden, Suffolk",
         "country": "England",
@@ -5189,7 +5189,7 @@
     },
     {
         "id": 49,
-        "thumbnailurl": "s7ep7.png",
+        "thumbnailurl": "s7ep7.webp",
         "summary": "After three days excavating a medieval cathedral under Coventry city centre, Time Team discovers a burial chamber and a major historical find: the skeleton of one of Coventry's first Priors",
         "location": "Coventry, West Midlands",
         "country": "England",
@@ -5297,7 +5297,7 @@
     },
     {
         "id": 50,
-        "thumbnailurl": "s7ep8.png",
+        "thumbnailurl": "s7ep8.webp",
         "summary": "The Team rubs shoulders with royalty when they visit Basing House in Hampshire. It was once one of grandest homes in Tudor England and a haunt of Henry VIII and Elizabeth I.",
         "location": "Basing House, Hampshire",
         "country": "England",
@@ -5405,7 +5405,7 @@
     },
     {
         "id": 51,
-        "thumbnailurl": "s7ep9.png",
+        "thumbnailurl": "s7ep9.webp",
         "summary": "The Team travel back to the Bronze Age to Flag Fen in Cambridgeshire. The fenland bog is home to one of the most important archaeological 'wet-sites' in the country.",
         "location": "Flag Fen, Cambridgeshire",
         "country": "England",
@@ -5513,7 +5513,7 @@
     },
     {
         "id": 52,
-        "thumbnailurl": "s7ep10.png",
+        "thumbnailurl": "s7ep10.webp",
         "summary": "Time Team head for Herefordshire in search of the Royal palace of the great Anglo-Saxon leader, King Offa, who ruled the kingdom of Mercia from 757 to 796",
         "location": "Sutton St Nicholas, Herefordshire",
         "country": "England",
@@ -5621,7 +5621,7 @@
     },
     {
         "id": 53,
-        "thumbnailurl": "s7ep11.png",
+        "thumbnailurl": "s7ep11.webp",
         "summary": "The discovery of a rare inscribed Roman stone, a tile bearing the letters PPBR and new evidence on the position of the famous Roman road - Watling Street - excite the experts",
         "location": "Greenwich, London",
         "country": "England",
@@ -5729,7 +5729,7 @@
     },
     {
         "id": 54,
-        "thumbnailurl": "s7ep12.png",
+        "thumbnailurl": "s7ep12.webp",
         "summary": "The Team search for a lost Anglo-Saxon monastery on the rain and wind-swept Headland at Hartlepool in Northumberland",
         "location": "Hartlepool, County Durham",
         "country": "England",
@@ -5837,7 +5837,7 @@
     },
     {
         "id": 55,
-        "thumbnailurl": "s7ep13.png",
+        "thumbnailurl": "s7ep13.webp",
         "summary": "Tony Robinson and the Team faced one of their biggest challenges when they travelled to York to excavate three sites from three different historical periods in just three days",
         "location": "York, North Yorkshire",
         "country": "England",
@@ -5946,7 +5946,7 @@
     },
     {
         "id": 56,
-        "thumbnailurl": "s8ep1.png",
+        "thumbnailurl": "s8ep1.webp",
         "summary": "The team investigate reports of a Saxon cemetery lost in the ground in Lincolnshire. All they find on day one is two teeth, but on the next morning they begin to discover much more.",
         "location": "Normanton, Lincolnshire",
         "country": "England",
@@ -6054,7 +6054,7 @@
     },
     {
         "id": 57,
-        "thumbnailurl": "s8ep2.png",
+        "thumbnailurl": "s8ep2.webp",
         "summary": "Time Team are at amateur archaeologist Derek Batten's castle in Northamptonshire and they discover a link to William the Conqueror",
         "location": "Alderton, Northamptonshire",
         "country": "England",
@@ -6162,7 +6162,7 @@
     },
     {
         "id": 58,
-        "thumbnailurl": "s8ep3.png",
+        "thumbnailurl": "s8ep3.webp",
         "summary": "Archaeological heaven or too good to be true? The Team investigate a site in one garden in Wales that comes a Neolithic tomb, a Norman tower, a Medieval or Roman trackway and an ancient sacred spring.",
         "location": "Llygadwy, Powys",
         "country": "Wales",
@@ -6270,7 +6270,7 @@
     },
     {
         "id": 59,
-        "thumbnailurl": "s8ep4.png",
+        "thumbnailurl": "s8ep4.webp",
         "summary": "Waltham field, in the village of Whittington, five miles from Cheltenham. Alerted by Gloucester County Archaeology, the Team have come in search of a Roman villa.",
         "location": "Waltham Field, Whittington, Gloucestershire",
         "country": "England",
@@ -6378,7 +6378,7 @@
     },
     {
         "id": 60,
-        "thumbnailurl": "s8ep5.png",
+        "thumbnailurl": "s8ep5.webp",
         "summary": "Time Team came to Blaenafon, in south Wales, to look for the world's first railway viaduct. Within 25 years of it being built, it had 'disappeared' from the landscape. Where had it gone?",
         "location": "Blaenavon, Torfaen",
         "country": "Wales",
@@ -6486,7 +6486,7 @@
     },
     {
         "id": 61,
-        "thumbnailurl": "s8ep6.png",
+        "thumbnailurl": "s8ep6.webp",
         "summary": "The Team came to Rycote Park to try to find the remains of a country house that once played host to five reigning monarchs. What was left of the original Tudor mansion?",
         "location": "Rycote, Thame, Oxfordshire",
         "country": "England",
@@ -6594,7 +6594,7 @@
     },
     {
         "id": 62,
-        "thumbnailurl": "s8ep7.png",
+        "thumbnailurl": "s8ep7.webp",
         "summary": "The Team are on Salisbury Plain and there's Roman pottery lying on the surface and an Iron Age fort nearby. Was there a thriving community here 2000 years ago?",
         "location": "Salisbury Plain, Wiltshire",
         "country": "England",
@@ -6702,7 +6702,7 @@
     },
     {
         "id": 63,
-        "thumbnailurl": "s8ep8.png",
+        "thumbnailurl": "s8ep8.webp",
         "summary": "Archaeological evidence of cannibalism in the UK is uncovered when the experts examine Iron Age human remains - suggesting these humans suffered a brutal demise",
         "location": "Alveston, Gloucestershire",
         "country": "England",
@@ -6810,7 +6810,7 @@
     },
     {
         "id": 64,
-        "thumbnailurl": "s8ep9.png",
+        "thumbnailurl": "s8ep9.webp",
         "summary": "In 1838, navvies laying Brunel's Great Western Railway found two Roman floor mosaics, probably from a villa, at Lower Basildon, in Berkshire. Time Team investigate the area further.",
         "location": "Basildon, Berkshire",
         "country": "England",
@@ -6918,7 +6918,7 @@
     },
     {
         "id": 65,
-        "thumbnailurl": "s8ep10.png",
+        "thumbnailurl": "s8ep10.webp",
         "summary": "Lindisfarne, a.k.a. Holy Island, is one of England's most remote, historic and mystical places. But for years locals have been puzzled: why is an apparently empty field known as The Palace?",
         "location": "Lindisfarne, Northumberland",
         "country": "England",
@@ -7027,7 +7027,7 @@
     },
     {
         "id": 66,
-        "thumbnailurl": "s8ep11.png",
+        "thumbnailurl": "s8ep11.webp",
         "summary": "Tony Robinson and the Team spend three days in Shropshire searching for the remains of the medieval castle that once dominated the historic market town of Bridgnorth",
         "location": "Bridgnorth, Shropshire",
         "country": "England",
@@ -7135,7 +7135,7 @@
     },
     {
         "id": 67,
-        "thumbnailurl": "s8ep12.png",
+        "thumbnailurl": "s8ep12.webp",
         "summary": "Sandi Toksvig and Liza Tarbuck join Tony Robinson and the Team as they investigate three separate sites in Canterbury",
         "location": "Canterbury, Kent",
         "country": "England",
@@ -7243,7 +7243,7 @@
     },
     {
         "id": 68,
-        "thumbnailurl": "s8ep13.png",
+        "thumbnailurl": "s8ep13.webp",
         "summary": "Just outside Winchester is a field which, 900 years ago, was home to the city's outcasts. The people who lived there were united by leprosy and their home was the St Mary Magdalene leper hospital.",
         "location": "Winchester, Hampshire",
         "country": "England",
@@ -7351,7 +7351,7 @@
     },
     {
         "id": 69,
-        "thumbnailurl": "s9ep1.png",
+        "thumbnailurl": "s9ep1.webp",
         "summary": "On the foreshore of the river Thames, just opposite the MI6 headquarters at Vauxhall, London, some old timbers have been discovered. Time Team has three days to find out what they are.",
         "location": "Vauxhall, London",
         "country": "England",
@@ -7458,7 +7458,7 @@
     },
     {
         "id": 70,
-        "thumbnailurl": "s9ep2.png",
+        "thumbnailurl": "s9ep2.webp",
         "summary": "Ancaster in Lincolnshire lies on a major Roman road, Ermine Street. The only Roman remains visible today are some massive earth banks and ditches. What was here before them, and why were they built?",
         "location": "Ancaster, Lincolnshire",
         "country": "England",
@@ -7565,7 +7565,7 @@
     },
     {
         "id": 71,
-        "thumbnailurl": "s9ep3.png",
+        "thumbnailurl": "s9ep3.webp",
         "summary": "An amazing shipwreck lies some 20 metres down on the seabed just off the coast of Kinlochbervie, in north-west Scotland. But how did this it end up there, and was she once part of the Spanish Armada?",
         "location": "Kinlochbervie, Sutherland",
         "country": "Scotland",
@@ -7672,7 +7672,7 @@
     },
     {
         "id": 72,
-        "thumbnailurl": "s9ep4.png",
+        "thumbnailurl": "s9ep4.webp",
         "summary": "Under the watchful eyes of the guardians of one of the RAF's most secretive bases, Tony Robinson and the Team have just three days to investigate a most unusual 13th-century monastery",
         "location": "Chicksands, Bedfordshire",
         "country": "England",
@@ -7779,7 +7779,7 @@
     },
     {
         "id": 73,
-        "thumbnailurl": "s9ep5.png",
+        "thumbnailurl": "s9ep5.webp",
         "summary": "This programme takes Time Team back to the earliest beginnings of the Industrial Revolution in the area now known as the Ironbridge Gorge, in Shropshire",
         "location": "Ironbridge Gorge, Shropshire",
         "country": "England",
@@ -7886,7 +7886,7 @@
     },
     {
         "id": 74,
-        "thumbnailurl": "s9ep6.png",
+        "thumbnailurl": "s9ep6.webp",
         "summary": "Can Time Team find the line of Roman road Ermine Street, no sign of which exists above ground in Cheshunt Park today?",
         "location": "Cheshunt, Hertfordshire",
         "country": "England",
@@ -7993,7 +7993,7 @@
     },
     {
         "id": 75,
-        "thumbnailurl": "s9ep7.png",
+        "thumbnailurl": "s9ep7.webp",
         "summary": "Tony and the Team head investigate Cornwall's most important Iron Age site, a market in Helford",
         "location": "Helford, Cornwall",
         "country": "England",
@@ -8100,7 +8100,7 @@
     },
     {
         "id": 76,
-        "thumbnailurl": "s9ep8.png",
+        "thumbnailurl": "s9ep8.webp",
         "summary": "Huge defensive earthworks, remnants of one of the bloodiest Civil War sieges, surround a manor house in High Ercall, Shropshire. Can the Team uncover the secrets of its destruction?",
         "location": "High Ercall, Shropshire",
         "country": "England",
@@ -8207,7 +8207,7 @@
     },
     {
         "id": 77,
-        "thumbnailurl": "s9ep9.png",
+        "thumbnailurl": "s9ep9.webp",
         "summary": "The Team investigate a disused Second World War airfield that was originally designated as a mass burial site for cattle in the foot and mouth epidemic",
         "location": "Throckmorton, Worcestershire",
         "country": "England",
@@ -8314,7 +8314,7 @@
     },
     {
         "id": 78,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Castleford, a former Yorkshire mining town, conceals a big secret. The Team try to uncover the huge fort and Roman highway that cut through the centre of the town.",
         "location": "Castleford, West Yorkshire",
         "country": "England",
@@ -8421,7 +8421,7 @@
     },
     {
         "id": 79,
-        "thumbnailurl": "s9ep11.png",
+        "thumbnailurl": "s9ep11.webp",
         "summary": "A single stone stands on a hill at Henley-in-Arden, Warwickshire. It's the only remnant of what was once a huge medieval castle. So where is the rest of this once-proud stronghold?",
         "location": "Beaudesert, Warwickshire",
         "country": "England",
@@ -8528,7 +8528,7 @@
     },
     {
         "id": 80,
-        "thumbnailurl": "s9ep12.png",
+        "thumbnailurl": "s9ep12.webp",
         "summary": "A field on the Isle of Wight contains scatterings of early pottery and some fine Roman metalwork. The area is known for one grand Roman villa - could this be the site of a second?",
         "location": "Yaverland, Isle of Wight",
         "country": "England",
@@ -8635,7 +8635,7 @@
     },
     {
         "id": 81,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "The cemetery that Time Team excavated in 2001 'Live' opened an important new window onto the so-called Dark Ages",
         "location": "Breamore, Hampshire",
         "country": "England",
@@ -8742,7 +8742,7 @@
     },
     {
         "id": 82,
-        "thumbnailurl": "s10ep1.png",
+        "thumbnailurl": "s10ep1.webp",
         "summary": "The team meet Morris and Pat Jones who, when digging a pond in their Northamptonshire garden, unearthed a skeleton - laid out with a knife, ceremonial pottery and a valuable buckle",
         "location": "Raunds, Northamptonshire",
         "country": "England",
@@ -8850,7 +8850,7 @@
     },
     {
         "id": 83,
-        "thumbnailurl": "s10ep2.png",
+        "thumbnailurl": "s10ep2.webp",
         "summary": "Tony Robinson and the Team meet a Somerset farmer who unexpectedly uncovered a Roman mosaic floor under his pigsties",
         "location": "Dinnington, Somerset",
         "country": "England",
@@ -8958,7 +8958,7 @@
     },
     {
         "id": 84,
-        "thumbnailurl": "s10ep3.png",
+        "thumbnailurl": "s10ep3.webp",
         "summary": "Time Team travels to the Peak District to uncover the story behind a grisly discovery: a mysterious collection of human bones in a deep cave in Derbyshire",
         "location": "Carsington, Derbyshire",
         "country": "England",
@@ -9066,7 +9066,7 @@
     },
     {
         "id": 85,
-        "thumbnailurl": "s10ep4.png",
+        "thumbnailurl": "s10ep4.webp",
         "summary": "The team visits a remote Scottish island to investigate an ancient local myth. What's the truth behind a cliff-top mound known as the Giant's Grave?",
         "location": "Fetlar, Shetland       ",
         "country": "Scotland",
@@ -9174,7 +9174,7 @@
     },
     {
         "id": 86,
-        "thumbnailurl": "s10ep5.png",
+        "thumbnailurl": "s10ep5.webp",
         "summary": "The Team visit Greenwich in search of Henry VIII's lost armoury and jousting yard, which was located beside his favourite palace - now the site for the Naval College and Maritime Museum",
         "location": "Greenwich, London",
         "country": "England",
@@ -9283,7 +9283,7 @@
     },
     {
         "id": 87,
-        "thumbnailurl": "s10ep6.png",
+        "thumbnailurl": "s10ep6.webp",
         "summary": "Tony Robinson and the team hunt for Liberty's first fabrics factory in South London",
         "location": "Merton, London",
         "country": "England",
@@ -9391,7 +9391,7 @@
     },
     {
         "id": 88,
-        "thumbnailurl": "s10ep7.png",
+        "thumbnailurl": "s10ep7.webp",
         "summary": "Tony Robinson and the team visit one of Britain's finest structures - The Royal Crescent in Bath - and their excavations unearth some Roman skeletons and a road.",
         "location": "Bath, Somerset       ",
         "country": "England",
@@ -9499,7 +9499,7 @@
     },
     {
         "id": 89,
-        "thumbnailurl": "s10ep8.png",
+        "thumbnailurl": "s10ep8.webp",
         "summary": "Tony Robinson and the team return to a site they originally investigated in the very first series: Athelney, one of England's most important historic sites",
         "location": "Athelney, Somerset",
         "country": "England",
@@ -9607,7 +9607,7 @@
     },
     {
         "id": 90,
-        "thumbnailurl": "s10ep9.png",
+        "thumbnailurl": "s10ep9.webp",
         "summary": "Time Team travels to the world famous Kew Gardens - but how many of its visitors know they're walking on top of a lost royal palace? The team has just three days to piece it all together.",
         "location": "Kew Gardens, London",
         "country": "England",
@@ -9715,7 +9715,7 @@
     },
     {
         "id": 91,
-        "thumbnailurl": "s10ep10.png",
+        "thumbnailurl": "s10ep10.webp",
         "summary": "A rare Bronze Age cemetery provides the cue for Tony and the Team to take on a rescue mission in Fife before developers move onto the land",
         "location": "Leven, Fife",
         "country": "Scotland",
@@ -9823,7 +9823,7 @@
     },
     {
         "id": 92,
-        "thumbnailurl": "s10ep11.png",
+        "thumbnailurl": "s10ep11.webp",
         "summary": "Tony Robinson and the team are invited to dig up the lawns of one of Britain's grandest stately homes, Castle Howard in Yorkshire",
         "location": "Castle Howard, North Yorkshire",
         "country": "England",
@@ -9931,7 +9931,7 @@
     },
     {
         "id": 93,
-        "thumbnailurl": "s10ep12.png",
+        "thumbnailurl": "s10ep12.webp",
         "summary": "Tony Robinson and the team investigate aerial photos of fields outside Sedgefield that look like a lost Roman town - a town that could be Britain's most northerly Roman civilian settlement.",
         "location": "Sedgefield, County Durham",
         "country": "England",
@@ -10039,7 +10039,7 @@
     },
     {
         "id": 94,
-        "thumbnailurl": "s10ep13.png",
+        "thumbnailurl": "s10ep13.webp",
         "summary": "Tony Robinson and the team investigate the old market town of Appleby in Cumbria where a police station is on the site of no fewer than three historic gaols, now buried under the car park.",
         "location": "Appleby-in-Westmorland, Cumbria",
         "country": "England",
@@ -10147,7 +10147,7 @@
     },
     {
         "id": 95,
-        "thumbnailurl": "s11ep1.png",
+        "thumbnailurl": "s11ep1.webp",
         "summary": "The Team descend on Syon House, west London to search for the site of Syon Abbey, one of England's richest abbeys, founded by Henry V and dissolved by Henry VIII in 1539",
         "location": "Syon House, London",
         "country": "England",
@@ -10254,7 +10254,7 @@
     },
     {
         "id": 96,
-        "thumbnailurl": "s11ep2.png",
+        "thumbnailurl": "s11ep2.webp",
         "summary": "Tony Robinson and the Team descend on the grounds of a medieval manor house in Somerset to investigate a possible Roman villa lying at the bottom of the garden",
         "location": "Whitestaunton Manor, Somerset",
         "country": "England",
@@ -10361,7 +10361,7 @@
     },
     {
         "id": 97,
-        "thumbnailurl": "s11ep3.png",
+        "thumbnailurl": "s11ep3.webp",
         "summary": "The Team are at Loch Migdale in the Highlands diving, hill walking and digging around a mysterious island to piece together the story of Highland life 2000 to 3000 years ago",
         "location": "Loch Migdale, Scottish Highlands",
         "country": "Scotland",
@@ -10468,7 +10468,7 @@
     },
     {
         "id": 98,
-        "thumbnailurl": "s11ep4.png",
+        "thumbnailurl": "s11ep4.webp",
         "summary": "In a field near Lincoln, Anglo-Saxon brooches, pins and clasps uncovered by metal detectorists point to an undiscovered cemetery. Tony Robinson and the Team investigate.",
         "location": "South Carlton, Lincolnshire",
         "country": "England",
@@ -10575,7 +10575,7 @@
     },
     {
         "id": 99,
-        "thumbnailurl": "s11ep5.png",
+        "thumbnailurl": "s11ep5.webp",
         "summary": "The grounds of a Kent hotel have yielded a wide range of intriguing finds: ditches, ramparts, coins and pottery. Could this be the invading Roman army's first fort?",
         "location": "Syndale, Kent",
         "country": "England",
@@ -10682,7 +10682,7 @@
     },
     {
         "id": 100,
-        "thumbnailurl": "s11ep6.png",
+        "thumbnailurl": "s11ep6.webp",
         "summary": "Poole Harbour was a thriving port in the Iron Age, but could Green Island in the centre of the harbour have been a site of earlier industrial mass production?",
         "location": "Green Island, Dorset",
         "country": "England",
@@ -10790,7 +10790,7 @@
     },
     {
         "id": 101,
-        "thumbnailurl": "s11ep7.png",
+        "thumbnailurl": "s11ep7.webp",
         "summary": "Was a quiet rural valley in Staffordshire once home to a mass of blacksmiths' furnaces and do they date back even further than the Elizabethan age?",
         "location": "The Old Furnace, Oakamoor, Staffordshire",
         "country": "England",
@@ -10897,7 +10897,7 @@
     },
     {
         "id": 102,
-        "thumbnailurl": "s11ep8.png",
+        "thumbnailurl": "s11ep8.webp",
         "summary": "As the beach of the Severn river erodes, it reveals astonishing evidence of some of this country's earliest inhabitants",
         "location": "Goldcliff, Newport",
         "country": "Wales",
@@ -11004,7 +11004,7 @@
     },
     {
         "id": 103,
-        "thumbnailurl": "s11ep9.png",
+        "thumbnailurl": "s11ep9.webp",
         "summary": "The Iron Age hill fort in Wittenham is an impressive monument. But it's dwarfed by a neighbouring hill less than 150 metres away. What did the Iron Age tribe use this second, much larger, hill for?",
         "location": "Wittenham Clumps, Oxfordshire",
         "country": "England",
@@ -11111,7 +11111,7 @@
     },
     {
         "id": 104,
-        "thumbnailurl": "s11ep10.png",
+        "thumbnailurl": "s11ep10.webp",
         "summary": "The Team delve under the floorboards at Ogling, a 15th-century manor, in their attempt to locate a fine Saxon hall that once belonged to King Canute",
         "location": "Nassington, Northamptonshire",
         "country": "England",
@@ -11218,7 +11218,7 @@
     },
     {
         "id": 105,
-        "thumbnailurl": "s11ep11.png",
+        "thumbnailurl": "s11ep11.webp",
         "summary": "Back in the 1940s, Basil Brown uncovered enough Roman remains near Ipswich to believe he had found the largest villa in East Anglia. Time Team return to the site to see if he was right.",
         "location": "Ipswich, Suffolk",
         "country": "England",
@@ -11325,7 +11325,7 @@
     },
     {
         "id": 106,
-        "thumbnailurl": "s11ep12.png",
+        "thumbnailurl": "s11ep12.webp",
         "summary": "Five hundred years ago Roxburgh was one of Scotland's major cities. Tony Robinson and the Team have just three days to uncover the remains of one of the country's most important sites.",
         "location": "Roxburgh, Scottish Borders",
         "country": "Scotland",
@@ -11432,7 +11432,7 @@
     },
     {
         "id": 107,
-        "thumbnailurl": "s11ep13.png",
+        "thumbnailurl": "s11ep13.webp",
         "summary": "The Team visit Dorset farmer Simon Meadon's land, which is packed with archaeology, including a large Roman building which might be a villa",
         "location": "Cranborne Chase, Dorset",
         "country": "England",
@@ -11539,7 +11539,7 @@
     },
     {
         "id": 108,
-        "thumbnailurl": "s12ep1.png",
+        "thumbnailurl": "s12ep1.webp",
         "summary": "The cemetery that Time Team excavated in 2001 'Live' opened an important new window onto the so-called Dark Ages",
         "location": "Chenies Manor House, Buckinghamshire",
         "country": "England",
@@ -11647,7 +11647,7 @@
     },
     {
         "id": 109,
-        "thumbnailurl": "s12ep2.png",
+        "thumbnailurl": "s12ep2.webp",
         "summary": "The team investigate mysterious mounds that surround a Yorkshire village. Could they be the remains of an Anglo-Saxon saint's nunnery?",
         "location": "Nether Poppleton, Yorkshire",
         "country": "England",
@@ -11755,7 +11755,7 @@
     },
     {
         "id": 110,
-        "thumbnailurl": "s12ep3.png",
+        "thumbnailurl": "s12ep3.webp",
         "summary": "Time Team join a group of experts to try and solve the mystery of why two Douglas A26 Invader American bombers collided with each other just after take-off in November 1944",
         "location": "Warton near Preston, Lancashire",
         "country": "England",
@@ -11862,7 +11862,7 @@
     },
     {
         "id": 111,
-        "thumbnailurl": "s12ep4.png",
+        "thumbnailurl": "s12ep4.webp",
         "summary": "Twenty years ago, the Duke of Buccleuch discovered that the remains of a Roman fort might lie a few hundred metres from his home, Drumlanrig Castle near Dumfries. Time Team start digging.",
         "location": "Drumlanrig, Dumfries and Galloway",
         "country": "Scotland",
@@ -11970,7 +11970,7 @@
     },
     {
         "id": 112,
-        "thumbnailurl": "s12ep5.png",
+        "thumbnailurl": "s12ep5.webp",
         "summary": "A huge circular crop mark lies in the fens near Peterborough and archaeologists believe it is Neolithic. Is it a farming settlement or a crucial religious site? Time Team investigate.",
         "location": "Northborough, Peterborough",
         "country": "England",
@@ -12078,7 +12078,7 @@
     },
     {
         "id": 113,
-        "thumbnailurl": "s12ep6.png",
+        "thumbnailurl": "s12ep6.webp",
         "summary": "Under the murky fast-flowing waters of the River Hamble near Southampton lies the skeleton of a great medieval warship. Is it the Grace Dieu, Henry V's naval flagship?",
         "location": "Bursledon, Hampshire",
         "country": "England",
@@ -12186,7 +12186,7 @@
     },
     {
         "id": 114,
-        "thumbnailurl": "s12ep7.png",
+        "thumbnailurl": "s12ep7.webp",
         "summary": "Tony Robinson and the Team search for a lost Roman villa in a field near Standish in Gloucestershire",
         "location": "Standish, Gloucestershire",
         "country": "England",
@@ -12294,7 +12294,7 @@
     },
     {
         "id": 115,
-        "thumbnailurl": "s12ep8.png",
+        "thumbnailurl": "s12ep8.webp",
         "summary": "Time Team provide some fascinating answers about the inhabitants of the legendary Wemyss Caves on Fife that are now under serious threat from erosion",
         "location": "Wemyss, Fife",
         "country": "Scotland",
@@ -12402,7 +12402,7 @@
     },
     {
         "id": 116,
-        "thumbnailurl": "s12ep9.png",
+        "thumbnailurl": "s12ep9.webp",
         "summary": "The Team have three days to redraw the map of the picturesque town of St Osyth in Essex and establish whether the timbers found in the creek are the remains of a medieval wharf",
         "location": "St Osyth, Essex",
         "country": "England",
@@ -12510,7 +12510,7 @@
     },
     {
         "id": 117,
-        "thumbnailurl": "s12ep10.png",
+        "thumbnailurl": "s12ep10.webp",
         "summary": "Time Team heads to Dorset, inspired by the intriguing discovery of Roman brooches and coins in a hilltop field, but what they find isn't the Roman Temple they had imagined",
         "location": "South Perrott, Dorset",
         "country": "England",
@@ -12618,7 +12618,7 @@
     },
     {
         "id": 118,
-        "thumbnailurl": "s12ep11.png",
+        "thumbnailurl": "s12ep11.webp",
         "summary": "Loyal Time Team fan Frances Davies may have led the team to an amazing discovery of a whole Norman village in her field in East Yorkshire, a village lost to the records",
         "location": "Skipsea, East Riding of Yorkshire",
         "country": "England",
@@ -12726,7 +12726,7 @@
     },
     {
         "id": 119,
-        "thumbnailurl": "s12ep12.png",
+        "thumbnailurl": "s12ep12.webp",
         "summary": "South Shields is well known for its Roman fort at the end of Hadrian's Wall. The team visit in an attempt to uncover the large Roman military cemetery that must be nearby.",
         "location": "South Shields, Tyne and Wear",
         "country": "England",
@@ -12834,7 +12834,7 @@
     },
     {
         "id": 120,
-        "thumbnailurl": "s12ep13.png",
+        "thumbnailurl": "s12ep13.webp",
         "summary": "Unusual carved stonework, and a huge quantity of 11th to 13th-century pottery and some high-status finds brought Time Team on a hunt for a Norman house or hunting lodge in this former royal forest",
         "location": "Hanslope, Milton Keynes",
         "country": "England",
@@ -12942,7 +12942,7 @@
     },
     {
         "id": 121,
-        "thumbnailurl": "s13ep1.png",
+        "thumbnailurl": "s13ep1.webp",
         "summary": "Tony and the Team travel to Glendon Hall in Northamptonshire to unravel the mystery of the human skeletons found under an outbuilding.",
         "location": "Glendon, Northamptonshire",
         "country": "England",
@@ -13050,7 +13050,7 @@
     },
     {
         "id": 122,
-        "thumbnailurl": "s13ep2.png",
+        "thumbnailurl": "s13ep2.webp",
         "summary": "A colony of moles keeps bringing up pieces of mosaic floor in a Cotswold field. Could these excavations be linked to an important nearby Roman villa?",
         "location": "Withington, Gloucestershire",
         "country": "England",
@@ -13158,7 +13158,7 @@
     },
     {
         "id": 123,
-        "thumbnailurl": "s13ep3.png",
+        "thumbnailurl": "s13ep3.webp",
         "summary": "Time Team sets to work uncovering Manchester's first cotton mill, built by one of the fathers of the Industrial Revolution, Richard Arkwright",
         "location": "Manchester",
         "country": "England",
@@ -13266,7 +13266,7 @@
     },
     {
         "id": 124,
-        "thumbnailurl": "s13ep4.png",
+        "thumbnailurl": "s13ep4.webp",
         "summary": "In Surrey's stockbroker belt stands Wayneflete Tower, all that remains of a grand early Tudor palace. Can the Team uncover enough to tell the story of the whole site?",
         "location": "Esher, Surrey",
         "country": "England",
@@ -13374,7 +13374,7 @@
     },
     {
         "id": 125,
-        "thumbnailurl": "s13ep5.png",
+        "thumbnailurl": "s13ep5.webp",
         "summary": "Time Team have been invited by Dutch archaeologists to help rescue a 35-metre-long perfectly preserved Roman barge that once sailed the river Rhine.",
         "location": "Utrecht",
         "country": "Netherlands",
@@ -13482,7 +13482,7 @@
     },
     {
         "id": 126,
-        "thumbnailurl": "s13ep6.png",
+        "thumbnailurl": "s13ep6.webp",
         "summary": "Tony and the Team descend on the orchards of Kent to search for the lost Anglo-Saxon palace of Eastry, and discover not one but two likely contenders",
         "location": "Eastry, Kent",
         "country": "England",
@@ -13590,7 +13590,7 @@
     },
     {
         "id": 127,
-        "thumbnailurl": "s13ep7.png",
+        "thumbnailurl": "s13ep7.webp",
         "summary": "Time Team travels to the Yorkshire Dales to meet Chris and Barbara Bradley on their farm and try to solve a challenging archaeological jigsaw puzzle",
         "location": "Brimham, Harrogate, Yorkshire",
         "country": "England",
@@ -13698,7 +13698,7 @@
     },
     {
         "id": 128,
-        "thumbnailurl": "s13ep8.png",
+        "thumbnailurl": "s13ep8.webp",
         "summary": "The Time Team travels to the Isle of Sheppey in Kent to investigate the remains of Queenborough Castle, the last royal castle to be built in the medieval period.",
         "location": "Queenborough, Kent",
         "country": "England",
@@ -13806,7 +13806,7 @@
     },
     {
         "id": 129,
-        "thumbnailurl": "s13ep9.png",
+        "thumbnailurl": "s13ep9.webp",
         "summary": "Time Team travels to the South Downs in Sussex to investigate a Stone Age landscape that includes 6000-year-old flint mines.",
         "location": "Blackpatch, near Worthing, Sussex",
         "country": "England",
@@ -13914,7 +13914,7 @@
     },
     {
         "id": 130,
-        "thumbnailurl": "s13ep10.png",
+        "thumbnailurl": "s13ep10.webp",
         "summary": "Time Team descends upon the sleepy Oxfordshire village of Islip in search of a medieval chapel dedicated to Edward the Confessor",
         "location": "Islip, Oxfordshire",
         "country": "England",
@@ -14022,7 +14022,7 @@
     },
     {
         "id": 131,
-        "thumbnailurl": "s13ep11.png",
+        "thumbnailurl": "s13ep11.webp",
         "summary": "The Time Team descend on the village of Ffrith in North Wales to discover whether it is built on the remains of a Roman mining town.",
         "location": "Ffrith, Flintshire",
         "country": "Wales",
@@ -14131,7 +14131,7 @@
     },
     {
         "id": 132,
-        "thumbnailurl": "s13ep12.png",
+        "thumbnailurl": "s13ep12.webp",
         "summary": "Tony and the team travel to Alfoldean in Sussex to uncover a mansio, an official Roman coaching inn located on Stane Street - now the A29.",
         "location": "Alfoldean, Horsham, Sussex",
         "country": "England",
@@ -14239,7 +14239,7 @@
     },
     {
         "id": 133,
-        "thumbnailurl": "s13ep13.png",
+        "thumbnailurl": "s13ep13.webp",
         "summary": "The Team have been invited to Applecross in north-west Scotland to excavate a broch; a monumental stone tower that is one of the largest Iron Age structures in Britain",
         "location": "Applecross near Skye, Scottish Highlands",
         "country": "Scotland",
@@ -14347,7 +14347,7 @@
     },
     {
         "id": 134,
-        "thumbnailurl": "s14ep1.png",
+        "thumbnailurl": "s14ep1.webp",
         "summary": "Tony Robinson and the team head to a golf course on the Isle of Man to investigate the remains of a keeill: a small stone chapel, possibly built by the Vikings",
         "location": "Braddan",
         "country": "Isle of Man",
@@ -14455,7 +14455,7 @@
     },
     {
         "id": 135,
-        "thumbnailurl": "s14ep2.png",
+        "thumbnailurl": "s14ep2.webp",
         "summary": "Tony Robinson and the archaeological team are called in to investigate a small Roman villa unearthed in a field in Somerset that may not be all it appears",
         "location": "Blacklands, near Frome, Somerset",
         "country": "England",
@@ -14563,7 +14563,7 @@
     },
     {
         "id": 136,
-        "thumbnailurl": "s14ep3.png",
+        "thumbnailurl": "s14ep3.webp",
         "summary": "Tony and the team head to Hooke Court in Dorset, a moated manor house with a mysterious past, determined to find out exactly how old it is and who once lived there",
         "location": "Hooke Court, Dorset",
         "country": "England",
@@ -14671,7 +14671,7 @@
     },
     {
         "id": 137,
-        "thumbnailurl": "s14ep4.png",
+        "thumbnailurl": "s14ep4.webp",
         "summary": "Tony Robinson and team visit the island of Anglesey to investigate a previously unknown site that could be a remnant from a lost world dominated by the Druids",
         "location": "Amlwch, Anglesey",
         "country": "Wales",
@@ -14779,7 +14779,7 @@
     },
     {
         "id": 138,
-        "thumbnailurl": "s14ep5.png",
+        "thumbnailurl": "s14ep5.webp",
         "summary": "Time Team investigates the history of the Shorncliffe Redoubt, piecing together how its design and use as a training ground for troops helped to develop the modern army and defend the coast",
         "location": "Sandgate, Kent",
         "country": "England",
@@ -14886,7 +14886,7 @@
     },
     {
         "id": 139,
-        "thumbnailurl": "s14ep6.png",
+        "thumbnailurl": "s14ep6.webp",
         "summary": "After a beautifully preserved Roman cheese press is discovered near the town of Stilton, Time Team can't resist going to investigate",
         "location": "Stilton, Cambridgeshire",
         "country": "England",
@@ -14994,7 +14994,7 @@
     },
     {
         "id": 140,
-        "thumbnailurl": "s14ep7.png",
+        "thumbnailurl": "s14ep7.webp",
         "summary": "Tony Robinson and the Team are in the village of Wicken on the edge of Milton Keynes, where evidence of a Saxon community begins to emerge",
         "location": "Wicken, Northamptonshire",
         "country": "England",
@@ -15102,7 +15102,7 @@
     },
     {
         "id": 141,
-        "thumbnailurl": "s14ep8.png",
+        "thumbnailurl": "s14ep8.webp",
         "summary": "A fantastic array of Roman finds brings Tony Robinson and the team to a field in Cheshire to investigate what looks like an unknown Roman settlement",
         "location": "Warburton, Greater Manchester",
         "country": "England",
@@ -15210,7 +15210,7 @@
     },
     {
         "id": 142,
-        "thumbnailurl": "s14ep9.png",
+        "thumbnailurl": "s14ep9.webp",
         "summary": "Tony Robinson and the Team are at the river Otter in Devon to dig for a watermill that is recorded in The Domesday Book of 1086",
         "location": "Dotton, Devon",
         "country": "England",
@@ -15318,7 +15318,7 @@
     },
     {
         "id": 143,
-        "thumbnailurl": "s14ep10.png",
+        "thumbnailurl": "s14ep10.webp",
         "summary": "Archaeologists in Chesham believe they've found the remains of a medieval building under the manicured lawns of a Georgian house. Could it be the manor house of the infamous Cheyne family?",
         "location": "Chesham Bois, Buckinghamshire",
         "country": "England",
@@ -15425,7 +15425,7 @@
     },
     {
         "id": 144,
-        "thumbnailurl": "s14ep11.png",
+        "thumbnailurl": "s14ep11.webp",
         "summary": "Six hundred Roman coins, 40 brooches and a peculiar piece of metal lead Tony and the Team to a Surrey field. Could it be the site of an unknown Roman temple?",
         "location": "Godstone, Surrey",
         "country": "England",
@@ -15532,7 +15532,7 @@
     },
     {
         "id": 145,
-        "thumbnailurl": "s14ep12.png",
+        "thumbnailurl": "s14ep12.webp",
         "summary": "Tony and the Team travel to Cheshire looking for a long-lost Abbey. Poulton was once home to a small community of Cistercian monks, who founded an Abbey on the banks of the river Dee.",
         "location": "Poulton, Cheshire",
         "country": "England",
@@ -15640,7 +15640,7 @@
     },
     {
         "id": 146,
-        "thumbnailurl": "s14ep13.png",
+        "thumbnailurl": "s14ep13.webp",
         "summary": "Tony Robinson and the Team descend on the bleak landscape of Bodmin Moor to examine a vast, mysterious 300-metre-long stone structure",
         "location": "Bodmin Moor, Cornwall",
         "country": "England",
@@ -15748,7 +15748,7 @@
     },
     {
         "id": 147,
-        "thumbnailurl": "s15ep1.png",
+        "thumbnailurl": "s15ep1.webp",
         "summary": "Tony and the Team unearth some incredible finds at Codnor Castle in Derbyshire, a medieval fortress once grand enough to host royal visits",
         "location": "Codnor Castle, Derbyshire",
         "country": "England",
@@ -15856,7 +15856,7 @@
     },
     {
         "id": 148,
-        "thumbnailurl": "s15ep2.png",
+        "thumbnailurl": "s15ep2.webp",
         "summary": "Tony and the Team dig at a huge Roman fort in County Durham, revealing an extensive cemetery",
         "location": "Binchester, County Durham",
         "country": "England",
@@ -15964,7 +15964,7 @@
     },
     {
         "id": 149,
-        "thumbnailurl": "s15ep3.png",
+        "thumbnailurl": "s15ep3.webp",
         "summary": "Tony and the Team travel to the Hebridean island of Barra, where a storm ripped apart one of the dunes, revealing Bronze Age burials",
         "location": "Allasdale, Barra, Western Isles",
         "country": "Scotland",
@@ -16071,7 +16071,7 @@
     },
     {
         "id": 150,
-        "thumbnailurl": "s15ep4.png",
+        "thumbnailurl": "s15ep4.webp",
         "summary": "Tony and the Team investigate the site of 900-year-old Sewardsley Priory, where a small, impoverished nunnery's nuns were accused of witchcraft, begging and debauchery",
         "location": "Towcester, Northamptonshire",
         "country": "England",
@@ -16178,7 +16178,7 @@
     },
     {
         "id": 151,
-        "thumbnailurl": "s15ep5.png",
+        "thumbnailurl": "s15ep5.webp",
         "summary": "Tony and the Team unearth the secrets of a field in the Cotswolds where Roman coins and a section of mosaic floor have been found",
         "location": "Coberley, Gloucestershire",
         "country": "England",
@@ -16285,7 +16285,7 @@
     },
     {
         "id": 152,
-        "thumbnailurl": "s15ep6.png",
+        "thumbnailurl": "s15ep6.webp",
         "summary": "Tony and the Team visit a south London suburb to unearth the hidden archaeology of the biggest British battle that never was: the defences against a feared Nazi invasion in 1940",
         "location": "South London",
         "country": "England",
@@ -16392,7 +16392,7 @@
     },
     {
         "id": 153,
-        "thumbnailurl": "s15ep7.png",
+        "thumbnailurl": "s15ep7.webp",
         "summary": "In a field just outside Bath, the Team investigate the remains of what could have been one of the country's finest Georgian houses",
         "location": "Hunstrete, Somerset",
         "country": "England",
@@ -16500,7 +16500,7 @@
     },
     {
         "id": 154,
-        "thumbnailurl": "s15ep8.png",
+        "thumbnailurl": "s15ep8.webp",
         "summary": "In Leicestershire, Tony and the Team uncover the rarest of archaeological finds: an Anglo-Saxon settlement, discovered when locals found pieces of 1200-year-old pottery in a field",
         "location": "Stonton Wyville, Leicestershire",
         "country": "England",
@@ -16608,7 +16608,7 @@
     },
     {
         "id": 155,
-        "thumbnailurl": "s15ep9.png",
+        "thumbnailurl": "s15ep9.webp",
         "summary": "The Team dig into the stronghold of the O'Neill clan on a hill above the city of Dungannon in Northern Ireland; a castle seized by English forces in 1602",
         "location": "Dungannon",
         "country": "Northern Ireland",
@@ -16715,7 +16715,7 @@
     },
     {
         "id": 156,
-        "thumbnailurl": "s15ep10.png",
+        "thumbnailurl": "s15ep10.webp",
         "summary": "Tony and the Team visit Cornwall to work out why a wealth of 1500-year-old pottery and metalwork from as far away as North Africa and Turkey has been found in a Padstow field",
         "location": "Padstow, North Cornwall",
         "country": "England",
@@ -16823,7 +16823,7 @@
     },
     {
         "id": 157,
-        "thumbnailurl": "s15ep11.png",
+        "thumbnailurl": "s15ep11.webp",
         "summary": "In County Durham, Tony and the Team investigate a massive stone structure, known locally as The Castles, which has baffled people for centuries. Can the Team work out what it is?",
         "location": "Hamsterley, County Durham",
         "country": "England",
@@ -16931,7 +16931,7 @@
     },
     {
         "id": 158,
-        "thumbnailurl": "s15ep12.png",
+        "thumbnailurl": "s15ep12.webp",
         "summary": "Tony and the Team head off the beaten track in Lincolnshire to discover why a metal detector enthusiast has discovered hundreds of Roman and Iron Age finds in a muddy field",
         "location": "Wickenby, Lincolnshire",
         "country": "England",
@@ -17039,7 +17039,7 @@
     },
     {
         "id": 159,
-        "thumbnailurl": "s15ep13.png",
+        "thumbnailurl": "s15ep13.webp",
         "summary": "The Team head for the intriguingly named Harold's Field in South Wales, where local legend has it that King Harold built a hunting lodge. But is there any truth in the tale?",
         "location": "Portskewett, Monmouthshire",
         "country": "Wales",
@@ -17148,7 +17148,7 @@
     },
     {
         "id": 160,
-        "thumbnailurl": "s16ep1.png",
+        "thumbnailurl": "s16ep1.webp",
         "summary": "Tony Robinson and the Team make an amazing discovery in a Hertfordshire field when they unearth a complex of Roman temples.",
         "location": "Friar's Wash, Hertfordshire",
         "country": "England",
@@ -17256,7 +17256,7 @@
     },
     {
         "id": 161,
-        "thumbnailurl": "s16ep2.png",
+        "thumbnailurl": "s16ep2.webp",
         "summary": "Tony Robinson and the Team piece together the history and layout of a very special wedding present - Scargill Castle, in the remote wilds of County Durham.",
         "location": "Scargill, County Durham",
         "country": "England",
@@ -17363,7 +17363,7 @@
     },
     {
         "id": 162,
-        "thumbnailurl": "s16ep3.png",
+        "thumbnailurl": "s16ep3.webp",
         "summary": "Tony Robinson and the team, working with archaeologists from Queens University in Belfast, take up the challenge to unlock the prehistoric secrets of the headland at Knockdhu, Co. Antrim.",
         "location": "Knockdhu, County Antrim",
         "country": "Northern Ireland",
@@ -17471,7 +17471,7 @@
     },
     {
         "id": 163,
-        "thumbnailurl": "s16ep4.png",
+        "thumbnailurl": "s16ep4.webp",
         "summary": "Tony Robinson and the Team investigate Caerwent in South Wales. It's one of Britain's best-preserved Roman town, but many of its 2000-year-old secrets have yet to be discovered.",
         "location": "Caerwent, Monmouthshire",
         "country": "Wales",
@@ -17579,7 +17579,7 @@
     },
     {
         "id": 164,
-        "thumbnailurl": "s16ep5.png",
+        "thumbnailurl": "s16ep5.webp",
         "summary": "The Team are in the Yorkshire Dales to investigate the Risehill camp settlement, which was inhabited by Victorian railway navvies during the construction of the Settle to Carlisle railway.",
         "location": "Rise Hill, North Yorkshire",
         "country": "England",
@@ -17686,7 +17686,7 @@
     },
     {
         "id": 165,
-        "thumbnailurl": "s16ep6.png",
+        "thumbnailurl": "s16ep6.webp",
         "summary": "Tony Robinson and the Team get a once-in-a-lifetime opportunity to dig in the hallowed grounds of Salisbury Cathedral, where they make discoveries that rewrite its history.",
         "location": "Salisbury Cathedral, Wiltshire",
         "country": "England",
@@ -17793,7 +17793,7 @@
     },
     {
         "id": 166,
-        "thumbnailurl": "s16ep7.png",
+        "thumbnailurl": "s16ep7.webp",
         "summary": "The Team are beside the Thames in Radcot, Oxfordshire, where they hope to uncover a long-lost fortress built in the 12th century, during one of the bloodiest episodes of English history.",
         "location": "Radcot, Oxfordshire",
         "country": "England",
@@ -17900,7 +17900,7 @@
     },
     {
         "id": 167,
-        "thumbnailurl": "s16ep8.png",
+        "thumbnailurl": "s16ep8.webp",
         "summary": "The Team are invited to investigate a Bedfordshire field by a group of amateur archaeologists who have found countless pieces of Roman pottery, coins and building material over the years.",
         "location": "Colworth, Bedfordshire",
         "country": "England",
@@ -18008,7 +18008,7 @@
     },
     {
         "id": 168,
-        "thumbnailurl": "s16ep9.png",
+        "thumbnailurl": "s16ep9.webp",
         "summary": "The Team descend on Looe island, a tiny Cornish isle that legend says was once visited by Jesus Christ. Could it really be one of the earliest Christian sites in the country?",
         "location": "Looe, Cornwall",
         "country": "England",
@@ -18116,7 +18116,7 @@
     },
     {
         "id": 169,
-        "thumbnailurl": "s16ep10.png",
+        "thumbnailurl": "s16ep10.webp",
         "summary": "Tony Robinson and the Team are in Lincoln's Inn, London, where they have been asked to investigate the remains of a 13th-century palace which belonged to Henry III's Lord Chancellor.",
         "location": "Lincoln's Inn, London",
         "country": "England",
@@ -18223,7 +18223,7 @@
     },
     {
         "id": 170,
-        "thumbnailurl": "s16ep11.png",
+        "thumbnailurl": "s16ep11.webp",
         "summary": "Tony Robinson and the Team are in East Anglia to investigate a site that, over the course of thousands of years, may have been a spiritual centre, a burial ground and even a lighthouse",
         "location": "Chapel Head Farm, Warboys, Cambridgeshire",
         "country": "England",
@@ -18330,7 +18330,7 @@
     },
     {
         "id": 171,
-        "thumbnailurl": "s16ep12.png",
+        "thumbnailurl": "s16ep12.webp",
         "summary": "Tony Robinson and the Team are invited to unearth the secrets of one of the best-preserved archaeological sites in Britain: the deserted medieval village of Ulnaby in County Durham.",
         "location": "Ulnaby, County Durham",
         "country": "England",
@@ -18437,7 +18437,7 @@
     },
     {
         "id": 172,
-        "thumbnailurl": "s16ep13.png",
+        "thumbnailurl": "s16ep13.webp",
         "summary": "Tony Robinson and the Team are in Suffolk to investigate a house in Blythburgh where they believe a medieval priory has lain hidden for years.",
         "location": "Blythburgh, Suffolk",
         "country": "England",
@@ -18545,7 +18545,7 @@
     },
     {
         "id": 173,
-        "thumbnailurl": "s17ep1.png",
+        "thumbnailurl": "s17ep1.webp",
         "summary": "Tony Robinson and the Team search for a lost sacristy in Westminster Abbey. It's a dig complicated by centuries of later building work, and one that throws up major surprises.",
         "location": "Westminster Abbey, London",
         "country": "England",
@@ -18652,7 +18652,7 @@
     },
     {
         "id": 174,
-        "thumbnailurl": "s17ep2.png",
+        "thumbnailurl": "s17ep2.webp",
         "summary": "Tony and the Team travel to the Scottish island of Mull, to investigate what they hope are the remains of a chapel set up by St Columba when he brought Christianity to the north of Britain.",
         "location": "Isle of Mull, Inner Hebrides",
         "country": "Scotland",
@@ -18759,7 +18759,7 @@
     },
     {
         "id": 175,
-        "thumbnailurl": "s17ep3.png",
+        "thumbnailurl": "s17ep3.webp",
         "summary": "Tony Robinson and the Team squeeze into wetsuits as they examine the discovery of more than 2,000 high-quality Roman finds, many of them right in the middle of the fast-flowing River Tees.",
         "location": "Piercebridge, North Yorkshire",
         "country": "England",
@@ -18867,7 +18867,7 @@
     },
     {
         "id": 176,
-        "thumbnailurl": "s17ep4.png",
+        "thumbnailurl": "s17ep4.webp",
         "summary": "In Sutton Courtenay, Tony Robinson and the Team investigate a set of buildings once occupied by Anglo-Saxon royalty, and uncover the biggest Saxon building ever discovered in Britain.",
         "location": "Drayton, Oxfordshire",
         "country": "England",
@@ -18974,7 +18974,7 @@
     },
     {
         "id": 177,
-        "thumbnailurl": "s17ep5.png",
+        "thumbnailurl": "s17ep5.webp",
         "summary": "Tony and the Team piece together a blow-by-blow account of the bloody history of picturesque Hopton Castle, where a Royalist force laid siege to a Parliamentarian garrison in the Civil War.",
         "location": "Hopton Castle, Shropshire",
         "country": "England",
@@ -19081,7 +19081,7 @@
     },
     {
         "id": 178,
-        "thumbnailurl": "s17ep6.png",
+        "thumbnailurl": "s17ep6.webp",
         "summary": "Time Team investigate Cunetio, a lost Roman town in Wiltshire, where, in the 1970s, the Team's Phil Harding was one of the archaeologists who investigated a find of 55,000 coins.",
         "location": "Mildenhall, Wiltshire",
         "country": "England",
@@ -19188,7 +19188,7 @@
     },
     {
         "id": 179,
-        "thumbnailurl": "s17ep7.png",
+        "thumbnailurl": "s17ep7.webp",
         "summary": "Tony and the Team examine the remains of the world's first ever purpose-built prisoner of war camp, at Norman Cross in Cambridgeshire, built in 1797 to house 7,000 Napoleonic troops.",
         "location": "Norman Cross, Cambridgeshire",
         "country": "England",
@@ -19295,7 +19295,7 @@
     },
     {
         "id": 180,
-        "thumbnailurl": "s17ep8.png",
+        "thumbnailurl": "s17ep8.webp",
         "summary": "Tony Robinson and the Team find themselves lost in the mists of a Welsh forest as they investigate the remains of Tregruk, one of the biggest castles ever built in Britain.",
         "location": "Tregruk Castle, Llangybi, Monmouthshire",
         "country": "Wales",
@@ -19402,7 +19402,7 @@
     },
     {
         "id": 181,
-        "thumbnailurl": "s17ep9.png",
+        "thumbnailurl": "s17ep9.webp",
         "summary": "A park behind Portsmouth's Tudor naval defences is the site of a hospital built by monks in 1212, but just a small part of it remains. Time Team try to find out where the rest of it was.",
         "location": "Governor's Green, Portsmouth",
         "country": "England",
@@ -19509,7 +19509,7 @@
     },
     {
         "id": 182,
-        "thumbnailurl": "s17ep10.png",
+        "thumbnailurl": "s17ep10.webp",
         "summary": "Tony Robinson and the Team visit the picture-postcard perfect Oxfordshire town of Burford to investigate the location of a medieval hospital in the stunning grounds of Burford Priory.",
         "location": "Burford, Oxfordshire",
         "country": "England",
@@ -19617,7 +19617,7 @@
     },
     {
         "id": 183,
-        "thumbnailurl": "s17ep11.png",
+        "thumbnailurl": "s17ep11.webp",
         "summary": "A quiet Cambridgeshire village gets the full Time Team treatment as Tony and the digging team hunt for the missing remains of what is believed to be one of Britain's biggest Roman villas.",
         "location": "Litlington, Cambridgeshire",
         "country": "England",
@@ -19724,7 +19724,7 @@
     },
     {
         "id": 184,
-        "thumbnailurl": "s17ep12.png",
+        "thumbnailurl": "s17ep12.webp",
         "summary": "Tony and the Team climb a remote Herefordshire hill to investigate one of the biggest prehistoric sites ever featured on Time Team. Was Dinmore Hill the site of a vast Iron Age hill fort?",
         "location": "Dinmore Hill, Herefordshire",
         "country": "England",
@@ -19831,7 +19831,7 @@
     },
     {
         "id": 185,
-        "thumbnailurl": "s17ep13.png",
+        "thumbnailurl": "s17ep13.webp",
         "summary": "Tony and the Team undertake one of their most challenging digs as they investigate extensive Roman remains discovered in the thick undergrowth of Cambridgeshire's Bedford Purlieus Wood.",
         "location": "Bedford Purlieus Wood, Cambridgeshire",
         "country": "England",
@@ -19938,7 +19938,7 @@
     },
     {
         "id": 186,
-        "thumbnailurl": "s18ep1.png",
+        "thumbnailurl": "s18ep1.webp",
         "summary": "Tony and the Team celebrate their 200th dig by unearthing the first stone henge to be discovered in Britain for a century, as they visit Dartmoor",
         "location": "Tottiford Reservoir, Devon",
         "country": "England",
@@ -20045,7 +20045,7 @@
     },
     {
         "id": 187,
-        "thumbnailurl": "s18ep2.png",
+        "thumbnailurl": "s18ep2.webp",
         "summary": "The Team go to Leicestershire to investigate life and death in Anglo Saxon Britain. The Team are intrigued by metal finds and pottery, which suggest they're on the site of a high-status burial ground.",
         "location": "West Langton, Leicestershire",
         "country": "England",
@@ -20152,7 +20152,7 @@
     },
     {
         "id": 188,
-        "thumbnailurl": "s18ep3.png",
+        "thumbnailurl": "s18ep3.webp",
         "summary": "A series of mosaics first discovered 150 years ago in Somerset hint at a grand villa, but the site's been in constant use by the army so no one's had a chance to examine them... until now",
         "location": "High Ham, Somerset",
         "country": "England",
@@ -20259,7 +20259,7 @@
     },
     {
         "id": 189,
-        "thumbnailurl": "s18ep4.png",
+        "thumbnailurl": "s18ep4.webp",
         "summary": "For the first time, Tony chooses the site for investigation: a German anti-aircraft battery built during the Nazis' five-year occupation of Jersey",
         "location": "Les Gellettes",
         "country": "Jersey",
@@ -20366,7 +20366,7 @@
     },
     {
         "id": 190,
-        "thumbnailurl": "s18ep5.png",
+        "thumbnailurl": "s18ep5.webp",
         "summary": "Dense and tranquil woodland in the County Durham countryside seems an unlikely venue for Time Team's investigation into the earliest days of the Industrial Revolution",
         "location": "Derwentcote, County Durham",
         "country": "England",
@@ -20473,7 +20473,7 @@
     },
     {
         "id": 191,
-        "thumbnailurl": "s18ep6.png",
+        "thumbnailurl": "s18ep6.webp",
         "summary": "The Team are digging through the graveyard of St Kyneburgha's in Castor, Cambridgeshire in search of what could be one of the largest Roman structures ever built in Britain",
         "location": "Castor, Cambridgeshire",
         "country": "England",
@@ -20580,7 +20580,7 @@
     },
     {
         "id": 192,
-        "thumbnailurl": "s18ep7.png",
+        "thumbnailurl": "s18ep7.webp",
         "summary": "Groby Old Hall in Leicestershire may appear run-down now but it once belonged to one of the most powerful families in Britain. The Team help its new owners to discover its history.",
         "location": "Groby, Leicestershire",
         "country": "England",
@@ -20687,7 +20687,7 @@
     },
     {
         "id": 193,
-        "thumbnailurl": "s18ep8.png",
+        "thumbnailurl": "s18ep8.webp",
         "summary": "The Team head to Jersey to investigate the origins of Mont Orgueil Castle. The castle that dominates the shore is a Tudor structure built on earlier foundations which require investigation.",
         "location": "Mont Orgueil",
         "country": "Jersey",
@@ -20794,7 +20794,7 @@
     },
     {
         "id": 194,
-        "thumbnailurl": "s18ep9.png",
+        "thumbnailurl": "s18ep9.webp",
         "summary": "The Team descend on the historic Llancaich manor house to investigate an archaeologist's dream. An ancient moat has been discovered in the next field and no one knows what it once protected.",
         "location": "Llancaiach Fawr",
         "country": "Wales",
@@ -20901,7 +20901,7 @@
     },
     {
         "id": 195,
-        "thumbnailurl": "s18ep10.png",
+        "thumbnailurl": "s18ep10.webp",
         "summary": "When Stephen and Stephanie Fry bought a few acres of prime Somerset pasture to graze their horses, they inadvertently also bought the remains of Buck Mill, an 18th-century water mill",
         "location": "Buck Mill, Somerset",
         "country": "England",
@@ -21008,7 +21008,7 @@
     },
     {
         "id": 196,
-        "thumbnailurl": "s19ep1.png",
+        "thumbnailurl": "s19ep1.webp",
         "summary": "Tony Robinson and the Team visit a tiny windswept island off the coast of Wales. It seems that Gateholm Island was once inhabited, but whether by Romans, Vikings, Celts or druids nobody knows.",
         "location": "Gateholm Island, Pembrokeshire",
         "country": "Wales",
@@ -21115,7 +21115,7 @@
     },
     {
         "id": 197,
-        "thumbnailurl": "s19ep2.png",
+        "thumbnailurl": "s19ep2.webp",
         "summary": "There's a problem in Bitterley. The village's school and cottages cluster prettily around the green. But the church and the manor house lie half a mile away, on the other side of a bumpy empty field.",
         "location": "Bitterley, Shropshire",
         "country": "England",
@@ -21222,7 +21222,7 @@
     },
     {
         "id": 198,
-        "thumbnailurl": "s19ep3.png",
+        "thumbnailurl": "s19ep3.webp",
         "summary": "Tony Robinson and the Team head to Dunwich, a village that's falling off the edge of the UK due to coastal erosion",
         "location": "Dunwich, Suffolk",
         "country": "England",
@@ -21329,7 +21329,7 @@
     },
     {
         "id": 199,
-        "thumbnailurl": "s19ep4.png",
+        "thumbnailurl": "s19ep4.webp",
         "summary": "Tony and the Team visit Newmarket, the birthplace of horseracing, in search of the earliest archaeological traces of the sport of kings",
         "location": "Newmarket, Suffolk",
         "country": "England",
@@ -21436,7 +21436,7 @@
     },
     {
         "id": 200,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Tony leads the Team to the village of Beadnell on a beautiful stretch of the Northumbrian coast, to explore an unusual promontory, from which fragments of human bone have emerged over recent years",
         "location": "Beadnell, Northumberland",
         "country": "England",
@@ -21543,7 +21543,7 @@
     },
     {
         "id": 201,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Swansea led the world in copper smelting 200 years ago, but today there's almost nothing to be seen of this unique heritage. So Tony and the Team investigate one of the first copper works.",
         "location": "Pentrechwyth, Swansea",
         "country": "Wales",
@@ -21650,7 +21650,7 @@
     },
     {
         "id": 202,
-        "thumbnailurl": "s19ep7.png",
+        "thumbnailurl": "s19ep7.webp",
         "summary": "Property magnate Paul Whight is so keen to know everything he can about the history of his home that he's rashly invited Tony Robinson and Time Team in to do their worst",
         "location": "Colne Priory, Essex",
         "country": "England",
@@ -21757,7 +21757,7 @@
     },
     {
         "id": 203,
-        "thumbnailurl": "s19ep8.png",
+        "thumbnailurl": "s19ep8.webp",
         "summary": "Kenfig appears to have been a thriving commercial success but then it disappeared, leaving just castle walls to mark its existence. The Team have three days to find out the size of this lost town.",
         "location": "Kenfig, Bridgend",
         "country": "Wales",
@@ -21864,7 +21864,7 @@
     },
     {
         "id": 204,
-        "thumbnailurl": "s19ep9.png",
+        "thumbnailurl": "s19ep9.webp",
         "summary": "Tony and the Team help archaeologists from Cardiff University to examine a new discovery at Caerleon Roman legionary fort in Wales. Did this military outpost also serve another purpose?",
         "location": "Caerleon, Newport",
         "country": "Wales",
@@ -21971,7 +21971,7 @@
     },
     {
         "id": 205,
-        "thumbnailurl": "s19ep10.png",
+        "thumbnailurl": "s19ep10.webp",
         "summary": "For generations a family of Somerset farmers have been wondering if there was ever actually a castle on top of the hill they call Castle Hill",
         "location": "Crewkerne, Somerset",
         "country": "England",
@@ -22078,7 +22078,7 @@
     },
     {
         "id": 206,
-        "thumbnailurl": "s19ep11.png",
+        "thumbnailurl": "s19ep11.webp",
         "summary": "The residents of Clipstone village in Nottinghamshire believe some impressive ruins in a farmer's field may have played a part in the ancient tales of Robin Hood and Bad King John",
         "location": "Clipstone, Nottinghamshire",
         "country": "England",
@@ -22185,7 +22185,7 @@
     },
     {
         "id": 207,
-        "thumbnailurl": "s20ep1.png",
+        "thumbnailurl": "s20ep1.webp",
         "summary": "Golfers at a popular East Midlands golf club now know that a huge wooded bank beside their fairway is a rather special area of 'rough', an old machine gun firing range",
         "location": "Grantham, Lincolnshire",
         "country": "England",
@@ -22292,7 +22292,7 @@
     },
     {
         "id": 208,
-        "thumbnailurl": "s20ep2.png",
+        "thumbnailurl": "s20ep2.webp",
         "summary": "Time Team returns, starting with an episode featuring the Team's largest ever range and number of items from Roman Britain and their most ambitious geophysics project to date",
         "location": "Brancaster, Norfolk",
         "country": "England",
@@ -22399,7 +22399,7 @@
     },
     {
         "id": 209,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Time Team investigate a huge hill near Cardiff that may be immensely significant; was it the Iron Age capital of South Wales? Tony and the Team have just three days to answer some very big questions.",
         "location": "Ely, Cardiff",
         "country": "Wales",
@@ -22506,7 +22506,7 @@
     },
     {
         "id": 210,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Tony and the Team help charismatic Hektor Rous, the son of 'Aussie Earl' Keith Rous, piece together the mysterious history of the family's Tudor country home in Suffolk",
         "location": "Henham Park, Suffolk",
         "country": "England",
@@ -22613,7 +22613,7 @@
     },
     {
         "id": 211,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "In a sensational three days, an ancient site on Salisbury Plain yields burials dating back to 2000BC, along with rare Saxon brooches, beads, spears and jewellery",
         "location": "Figheldean, Wiltshire",
         "country": "England",
@@ -22720,7 +22720,7 @@
     },
     {
         "id": 212,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Tony and the Team head both higher and deeper than they've ever dug before, as they explore a forgotten piece of our industrial heritage: Elizabethan copper mining in the Lake District",
         "location": "Coniston, Cumbria",
         "country": "England",
@@ -22827,7 +22827,7 @@
     },
     {
         "id": 213,
-        "thumbnailurl": "default.png",
+        "thumbnailurl": "default.webp",
         "summary": "Time Team investigate Oakham Castle in Rutland. It's Britain's best preserved 12th-century building but its grounds are full of mysterious lumps and bumps crying out to be investigated.",
         "location": "Oakham Castle, Rutland",
         "country": "England",
@@ -22934,7 +22934,7 @@
     },
     {
         "id": 214,
-        "thumbnailurl": "s20ep8.png",
+        "thumbnailurl": "s20ep8.webp",
         "summary": "In the 1960s, a young PhD student decided to excavate a South Oxfordshire field where a farmer was regularly ploughing up Roman remains. Time Team aim to finish the job started 50 years ago.",
         "location": "Dropshort, Oxfordshire",
         "country": "England",
@@ -23041,7 +23041,7 @@
     },
     {
         "id": 215,
-        "thumbnailurl": "s20ep9.png",
+        "thumbnailurl": "s20ep9.webp",
         "summary": "Tony and the Team search for the remains of a renegade knight's Norman castle in one of Northern Ireland's most picturesque spots",
         "location": "Dundrum Castle, County Down",
         "country": "Northern Ireland",
@@ -23148,7 +23148,7 @@
     },
     {
         "id": 216,
-        "thumbnailurl": "s20ep10.png",
+        "thumbnailurl": "s20ep10.webp",
         "summary": "In the 1950s a group of schoolboys found the remains of Britain's most opulent palace under their playing field. Now Tony and the Team try to piece together this massive Tudor puzzle.",
         "location": "The More, Moor Park, Hertfordshire",
         "country": "England",
@@ -23255,7 +23255,7 @@
     },
     {
         "id": 217,
-        "thumbnailurl": "s20ep11.png",
+        "thumbnailurl": "s20ep11.webp",
         "summary": "When Steve and Pru bought pretty Upton Castle in Pembrokeshire they weren't sure if it was a Victorian folly or an Anglo-Norman castle, built to defend 'Little England beyond Wales' from the locals",
         "location": "Upton Castle, Cosheston, Pembrokeshire",
         "country": "Wales",
