@@ -337,6 +337,7 @@
     };
 
     const fuse = new Fuse(documents, options);
-    displaySearchResults(fuse.search(searchTerm), window.store); // We'll write this in the next section
+
+    displaySearchResults(fuse.search(searchTerm), window.store);
   }
 })();
