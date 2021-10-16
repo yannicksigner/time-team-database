@@ -297,16 +297,6 @@
   // search
   var searchTerm = getQueryVariable('query');
 
-  if (!searchTerm) {
-    searchTerm = '"Season"'
-
-    var url = new URL(document.location.href);
-    url.searchParams.set("query", searchTerm); // setting your param
-    var newUrl = url.href;
-    document.location = newUrl;
-  }
-
-
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
