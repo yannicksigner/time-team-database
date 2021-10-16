@@ -297,6 +297,11 @@
   // search
   var searchTerm = getQueryVariable('query');
 
+  if (!searchTerm) {
+    searchTerm = "%22Season%22"
+  }
+
+
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
 
