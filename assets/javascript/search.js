@@ -50,7 +50,7 @@
   }
 
   function addBadge(name, code) {
-    return '<a href="?query=%22'+name+'%22"><span class="badge custom-badge custom-badge-' + code + '">' + name + '</span></a>'
+    return '<a href="?query=%22' + name + '%22"><span class="badge custom-badge custom-badge-' + code + '">' + name + '</span></a>'
   }
 
   function createNRHELink(name, id, url) {
@@ -249,7 +249,11 @@
     // activate the tooltips (after they have been created)
     $('[data-toggle="tooltip"]').tooltip()
 
-    document.getElementById('search-info').innerHTML = '<p>' + results.length + ' episodes found</p>';
+    if (results.length == 1) {
+      document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episode found</p>';
+    } else {
+      document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episodes found</p>';
+    }
   }
 
   function getQueryVariable(variable) {
