@@ -259,8 +259,10 @@
   function togglePageination(state) {
     var pageNum = parseInt(getQueryVariable('page'));
     if (!getQueryVariable('page')) {
-      var url = document.location.href + "&page=1";
-      document.location = url;
+      var url = new URL(document.location.href);
+      url.searchParams.set("page", 1); // setting your param
+      var newUrl = url.href;
+      document.location = newUrl;
     }
 
     if (state == "normal") {
