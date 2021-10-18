@@ -297,47 +297,48 @@
   // search
   var searchTerm = getQueryVariable('query');
 
+  const options = {
+    ignoreLocation: true,
+    includeScore: true,
+    threshold: 0.3,
+    useExtendedSearch: true,
+    keys: [{
+        name: "location",
+        weight: 0.3
+      },
+      {
+        name: "summary",
+        weight: 0.3
+      },
+      {
+        name: "broadcast.title",
+        weight: 0.3
+      },
+      {
+        name: "broadcast.season",
+        weight: 0.2
+      },
+      {
+        name: "broadcast.episode",
+        weight: 0.2
+      },
+      {
+        name: "country",
+        weight: 0.2
+      },
+      {
+        name: "periods.search",
+        weight: 0.3
+      }
+    ]
+  };
+
+  const fuse = new Fuse(documents, options);
+
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
-
-    const options = {
-      ignoreLocation: true,
-      includeScore: true,
-      threshold: 0.3,
-      useExtendedSearch: true,
-      keys: [{
-          name: "location",
-          weight: 0.3
-        },
-        {
-          name: "summary",
-          weight: 0.3
-        },
-        {
-          name: "broadcast.title",
-          weight: 0.3
-        },
-        {
-          name: "broadcast.season",
-          weight: 0.2
-        },
-        {
-          name: "broadcast.episode",
-          weight: 0.2
-        },
-        {
-          name: "country",
-          weight: 0.2
-        },
-        {
-          name: "periods.search",
-          weight: 0.3
-        }
-      ]
-    };
-
-    const fuse = new Fuse(documents, options);
-
     displaySearchResults(fuse.search(searchTerm), window.store);
+  } else {
+    displaySearchResults(fuse.search("%22Season%22"), window.store);
   }
 })();
