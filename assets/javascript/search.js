@@ -61,6 +61,12 @@
     return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER entry available"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
   }
 
+  function setPageNumberParameter(p_num) {
+    var url = new URL(document.location.href);
+    url.searchParams.set("page", p_num);
+    var newUrl = url.href;
+    document.location = newUrl;
+  }
 
   $('#prev-button').click(function() {
     if (!$('#prev-button').hasClass("disabled")) {
@@ -259,10 +265,7 @@
   function togglePageination(state) {
     var pageNum = parseInt(getQueryVariable('page'));
     if (!getQueryVariable('page')) {
-      var url = new URL(document.location.href);
-      url.searchParams.set("page", 1); // setting your param
-      var newUrl = url.href;
-      document.location = newUrl;
+      setPageNumberParameter(1)
     }
 
     if (state == "normal") {
@@ -288,12 +291,7 @@
   function updatePageination(value) {
     var pageNum = parseInt(getQueryVariable('page'));
     pageNum = pageNum + value;
-
-    var url = new URL(document.location.href);
-    url.searchParams.set("page", pageNum); // setting your param
-    var newUrl = url.href;
-    console.log(newUrl);
-    document.location = newUrl;
+    setPageNumberParameter(pageNum);
   }
 
   // search
