@@ -265,7 +265,7 @@
   function togglePageination(state) {
     var pageNum = parseInt(getQueryVariable('page'));
     if (!getQueryVariable('page')) {
-      setPageNumberParameter(1)
+      setPageNumberParameter(1);
     }
 
     if (state == "normal") {
