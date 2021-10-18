@@ -105,7 +105,8 @@
                 "availability": false
             }
         },
-        "datecreated": "26.09.2021"
+        "datecreated": "26.09.2021",
+        "dateupdated": "26.09.2021"
     },
     {
         "id": 2,
@@ -213,7 +214,8 @@
                 "availability": false
             }
         },
-        "datecreated": "26.09.2021"
+        "datecreated": "26.09.2021",
+        "dateupdated": "26.09.2021"
     },
     {
         "id": 3,
@@ -321,7 +323,8 @@
                 "availability": false
             }
         },
-        "datecreated": "26.09.2021"
+        "datecreated": "26.09.2021",
+        "dateupdated": "26.09.2021"
     },
     {
         "id": 4,
@@ -429,7 +432,8 @@
                 "availability": false
             }
         },
-        "datecreated": "26.09.2021"
+        "datecreated": "26.09.2021",
+        "dateupdated": "26.09.2021"
     },
     {
         "id": 5,
@@ -537,7 +541,8 @@
                 "availability": false
             }
         },
-        "datecreated": "26.09.2021"
+        "datecreated": "26.09.2021",
+        "dateupdated": "26.09.2021"
     },
     {
         "id": 6,
@@ -755,7 +760,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 8,
@@ -864,6 +870,7 @@
             }
         },
         "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021",
         "comment": "paper report?"
     },
     {
@@ -972,7 +979,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 10,
@@ -1080,7 +1088,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 11,
@@ -1188,7 +1197,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 12,
@@ -1296,7 +1306,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 13,
@@ -1405,6 +1416,7 @@
             }
         },
         "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021",
         "comment": "paper report?"
     },
     {
@@ -1513,7 +1525,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 15,
@@ -1621,7 +1634,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 16,
@@ -1729,7 +1743,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 17,
@@ -1837,7 +1852,8 @@
                 "availability": false
             }
         },
-        "datecreated": "27.09.2021"
+        "datecreated": "27.09.2021",
+        "dateupdated": "27.09.2021"
     },
     {
         "id": 18,
@@ -1945,7 +1961,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 19,
@@ -2053,7 +2070,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 20,
@@ -2161,7 +2179,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 21,
@@ -2269,7 +2288,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 22,
@@ -2377,7 +2397,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 23,
@@ -2485,7 +2506,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 24,
@@ -2593,7 +2615,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 25,
@@ -2701,7 +2724,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 26,
@@ -2809,7 +2833,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 27,
@@ -2917,7 +2942,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 28,
@@ -3025,7 +3051,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 29,
@@ -3133,7 +3160,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 30,
@@ -3241,7 +3269,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 31,
@@ -3349,7 +3378,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 32,
@@ -3457,7 +3487,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 33,
@@ -3565,7 +3596,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 34,
@@ -3673,7 +3705,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 35,
@@ -3781,7 +3814,8 @@
                 "availability": false
             }
         },
-        "datecreated": "28.09.2021"
+        "datecreated": "28.09.2021",
+        "dateupdated": "28.09.2021"
     },
     {
         "id": 36,
@@ -3889,7 +3923,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 37,
@@ -3997,7 +4032,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 38,
@@ -4105,7 +4141,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 39,
@@ -4213,7 +4250,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 40,
@@ -4321,7 +4359,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 41,
@@ -4429,7 +4468,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 42,
@@ -4537,7 +4577,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 43,
@@ -4645,7 +4686,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 44,
@@ -4753,7 +4795,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 45,
@@ -4861,7 +4904,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 46,
@@ -4969,7 +5013,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 47,
@@ -5077,7 +5122,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 48,
@@ -5185,7 +5231,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 49,
@@ -5293,7 +5340,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 50,
@@ -5401,7 +5449,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 51,
@@ -5509,7 +5558,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 52,
@@ -5617,7 +5667,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 53,
@@ -5725,7 +5776,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 54,
@@ -5833,7 +5885,8 @@
                 "availability": false
             }
         },
-        "datecreated": "29.09.2021"
+        "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021"
     },
     {
         "id": 55,
@@ -5942,6 +5995,7 @@
             }
         },
         "datecreated": "29.09.2021",
+        "dateupdated": "29.09.2021",
         "comment": "more HER entries"
     },
     {
@@ -6050,7 +6104,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 57,
@@ -6158,7 +6213,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 58,
@@ -6266,7 +6322,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 59,
@@ -6374,7 +6431,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 60,
@@ -6482,7 +6540,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 61,
@@ -6590,7 +6649,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 62,
@@ -6698,7 +6758,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 63,
@@ -6806,7 +6867,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 64,
@@ -6914,7 +6976,8 @@
                 "availability": false
             }
         },
-        "datecreated": "30.09.2021"
+        "datecreated": "30.09.2021",
+        "dateupdated": "30.09.2021"
     },
     {
         "id": 65,
@@ -7023,6 +7086,7 @@
             }
         },
         "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021",
         "comment": "more NI items of additional work by NAA"
     },
     {
@@ -7131,7 +7195,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 67,
@@ -7239,7 +7304,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 68,
@@ -7347,7 +7413,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 69,
@@ -7454,7 +7521,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 70,
@@ -7561,7 +7629,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 71,
@@ -7668,7 +7737,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 72,
@@ -7775,7 +7845,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 73,
@@ -7882,7 +7953,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 74,
@@ -7989,7 +8061,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 75,
@@ -8096,7 +8169,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 76,
@@ -8203,7 +8277,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 77,
@@ -8310,7 +8385,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 78,
@@ -8417,7 +8493,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 79,
@@ -8524,7 +8601,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 80,
@@ -8631,7 +8709,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 81,
@@ -8738,7 +8817,8 @@
                 "availability": false
             }
         },
-        "datecreated": "05.10.2021"
+        "datecreated": "05.10.2021",
+        "dateupdated": "05.10.2021"
     },
     {
         "id": 82,
@@ -8846,7 +8926,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 83,
@@ -8954,7 +9035,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 84,
@@ -9062,7 +9144,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 85,
@@ -9170,7 +9253,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 86,
@@ -9279,6 +9363,7 @@
             }
         },
         "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021",
         "comment": "1 more her entry"
     },
     {
@@ -9387,7 +9472,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 88,
@@ -9495,7 +9581,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 89,
@@ -9603,7 +9690,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 90,
@@ -9711,7 +9799,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 91,
@@ -9819,7 +9908,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 92,
@@ -9927,7 +10017,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 93,
@@ -10035,7 +10126,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 94,
@@ -10143,7 +10235,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 95,
@@ -10250,7 +10343,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 96,
@@ -10357,7 +10451,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 97,
@@ -10464,7 +10559,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 98,
@@ -10571,7 +10667,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 99,
@@ -10678,7 +10775,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 100,
@@ -10786,6 +10884,7 @@
             }
         },
         "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021",
         "comment": "maybe her reference?"
     },
     {
@@ -10893,7 +10992,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 102,
@@ -11000,7 +11100,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 103,
@@ -11107,7 +11208,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 104,
@@ -11214,7 +11316,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 105,
@@ -11321,7 +11424,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 106,
@@ -11428,7 +11532,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 107,
@@ -11535,7 +11640,8 @@
                 "availability": false
             }
         },
-        "datecreated": "06.10.2021"
+        "datecreated": "06.10.2021",
+        "dateupdated": "06.10.2021"
     },
     {
         "id": 108,
@@ -11643,7 +11749,8 @@
                 "url": "PC5U4uhESdg"
             }
         },
-        "datecreated": "07.10.2021"
+        "datecreated": "07.10.2021",
+        "dateupdated": "07.10.2021"
     },
     {
         "id": 109,
@@ -11751,7 +11858,8 @@
                 "url": "I8GMCIHl5W0"
             }
         },
-        "datecreated": "07.10.2021"
+        "datecreated": "07.10.2021",
+        "dateupdated": "07.10.2021"
     },
     {
         "id": 110,
@@ -11858,7 +11966,8 @@
                 "availability": false
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 111,
@@ -11966,7 +12075,8 @@
                 "url": "q7EYftxEl1E"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 112,
@@ -12074,7 +12184,8 @@
                 "url": "1NvMGhtq30E"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 113,
@@ -12182,7 +12293,8 @@
                 "url": "vSpow0idVKM"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 114,
@@ -12290,7 +12402,8 @@
                 "url": "NOSAMIwvBok"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 115,
@@ -12398,7 +12511,8 @@
                 "url": "jUydo57HKh4"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 116,
@@ -12506,7 +12620,8 @@
                 "url": "aJ98P549KFs"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 117,
@@ -12614,7 +12729,8 @@
                 "url": "xsjk2PxXac8"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 118,
@@ -12722,7 +12838,8 @@
                 "url": "gZ4Y6ziZGsY"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 119,
@@ -12830,7 +12947,8 @@
                 "url": "Tu4QAW1HZ0I"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 120,
@@ -12938,7 +13056,8 @@
                 "url": "A7sjBnH6eFQ"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 121,
@@ -13046,7 +13165,8 @@
                 "url": "oEs_us18fZU"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 122,
@@ -13154,7 +13274,8 @@
                 "url": "CocVcfGJ_Lk"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 123,
@@ -13262,7 +13383,8 @@
                 "url": "bTlIv2Taz1o"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 124,
@@ -13370,7 +13492,8 @@
                 "url": "A70ExrIWQ0c"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 125,
@@ -13478,7 +13601,8 @@
                 "url": "xm54srcoLis"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 126,
@@ -13586,7 +13710,8 @@
                 "url": "N8pK0ikTymM"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 127,
@@ -13694,7 +13819,8 @@
                 "url": "K20BfA6lf5k"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 128,
@@ -13802,7 +13928,8 @@
                 "url": "e49Z5Lnvz20"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 129,
@@ -13910,7 +14037,8 @@
                 "url": "PjmIqXUCjgw"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 130,
@@ -14018,7 +14146,8 @@
                 "url": "X-I_c2RrEr0"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 131,
@@ -14127,6 +14256,7 @@
             }
         },
         "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021",
         "comment": "more HER entries"
     },
     {
@@ -14235,7 +14365,8 @@
                 "url": "OubmpRSxV1g"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 133,
@@ -14343,7 +14474,8 @@
                 "url": "zdaEddnq1l0"
             }
         },
-        "datecreated": "08.10.2021"
+        "datecreated": "08.10.2021",
+        "dateupdated": "08.10.2021"
     },
     {
         "id": 134,
@@ -14451,7 +14583,8 @@
                 "url": "kW3UQEDQ0zQ"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 135,
@@ -14559,7 +14692,8 @@
                 "url": "8zr9alncef0"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 136,
@@ -14667,7 +14801,8 @@
                 "url": "myVh270TADw"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 137,
@@ -14775,7 +14910,8 @@
                 "url": "7G27TLrozSI"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 138,
@@ -14882,7 +15018,8 @@
                 "availability": false
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 139,
@@ -14990,7 +15127,8 @@
                 "url": "DZTsAh2frfI"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 140,
@@ -15098,7 +15236,8 @@
                 "url": "NhuVXowS1iM"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 141,
@@ -15206,7 +15345,8 @@
                 "url": "Q3MbyQ9DwX0"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 142,
@@ -15314,7 +15454,8 @@
                 "url": "-sfy7rGABKM"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 143,
@@ -15421,7 +15562,8 @@
                 "availability": false
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 144,
@@ -15528,7 +15670,8 @@
                 "availability": false
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 145,
@@ -15636,7 +15779,8 @@
                 "url": "nL4sSh2V1E4"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 146,
@@ -15744,7 +15888,8 @@
                 "url": "HGG27k7pTO4"
             }
         },
-        "datecreated": "09.10.2021"
+        "datecreated": "09.10.2021",
+        "dateupdated": "09.10.2021"
     },
     {
         "id": 147,
@@ -15852,7 +15997,8 @@
                 "url": "URrI3Y1kVEM"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 148,
@@ -15960,7 +16106,8 @@
                 "url": "eqmAJzFe4X4"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 149,
@@ -16067,7 +16214,8 @@
                 "availability": false
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 150,
@@ -16174,7 +16322,8 @@
                 "availability": false
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 151,
@@ -16281,7 +16430,8 @@
                 "availability": false
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 152,
@@ -16388,7 +16538,8 @@
                 "availability": false
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 153,
@@ -16496,7 +16647,8 @@
                 "url": "Pj-tPz5LnWM"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 154,
@@ -16604,7 +16756,8 @@
                 "url": "rtqjGU4k4uE"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 155,
@@ -16711,7 +16864,8 @@
                 "availability": false
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 156,
@@ -16819,7 +16973,8 @@
                 "url": "qz6qQS3LL8k"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 157,
@@ -16927,7 +17082,8 @@
                 "url": "GV1MMcr32X4"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 158,
@@ -17035,7 +17191,8 @@
                 "url": "hX5SHTWWbQE"
             }
         },
-        "datecreated": "10.10.2021"
+        "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021"
     },
     {
         "id": 159,
@@ -17144,6 +17301,7 @@
             }
         },
         "datecreated": "10.10.2021",
+        "dateupdated": "10.10.2021",
         "comment": "more HER entries"
     },
     {
@@ -17252,7 +17410,8 @@
                 "url": "kZEHXR4ED1s"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 161,
@@ -17359,7 +17518,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 162,
@@ -17467,7 +17627,8 @@
                 "url": "L6zBxQGWSGI"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 163,
@@ -17575,6 +17736,7 @@
             }
         },
         "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021",
         "comment": "more HER entries"
     },
     {
@@ -17682,7 +17844,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 165,
@@ -17789,7 +17952,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 166,
@@ -17896,7 +18060,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 167,
@@ -18004,7 +18169,8 @@
                 "url": "Lpl2i7CEe_o"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 168,
@@ -18112,7 +18278,8 @@
                 "url": "6zYeKiKo3o8"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 169,
@@ -18219,7 +18386,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 170,
@@ -18326,7 +18494,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 171,
@@ -18433,7 +18602,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 172,
@@ -18541,7 +18711,8 @@
                 "url": "vgRPeJWfjJk"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 173,
@@ -18648,7 +18819,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 174,
@@ -18755,7 +18927,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 175,
@@ -18863,7 +19036,8 @@
                 "url": "acEsAeMXtig"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 176,
@@ -18970,7 +19144,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 177,
@@ -19077,7 +19252,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 178,
@@ -19184,7 +19360,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 179,
@@ -19291,7 +19468,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 180,
@@ -19398,7 +19576,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 181,
@@ -19505,7 +19684,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 182,
@@ -19613,7 +19793,8 @@
                 "url": "JEKhRYDpWFk"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 183,
@@ -19720,7 +19901,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 184,
@@ -19827,7 +20009,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 185,
@@ -19931,10 +20114,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "mpyaqTRqBTc"
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "18.10.2021"
     },
     {
         "id": 186,
@@ -20041,7 +20226,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 187,
@@ -20148,7 +20334,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 188,
@@ -20255,7 +20442,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 189,
@@ -20362,7 +20550,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 190,
@@ -20469,7 +20658,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 191,
@@ -20576,7 +20766,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 192,
@@ -20683,7 +20874,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 193,
@@ -20790,7 +20982,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 194,
@@ -20897,7 +21090,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 195,
@@ -21004,7 +21198,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 196,
@@ -21111,7 +21306,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 197,
@@ -21218,7 +21414,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 198,
@@ -21325,7 +21522,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 199,
@@ -21432,7 +21630,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 200,
@@ -21539,7 +21738,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 201,
@@ -21646,7 +21846,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 202,
@@ -21753,7 +21954,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 203,
@@ -21860,7 +22062,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 204,
@@ -21967,7 +22170,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 205,
@@ -22074,7 +22278,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 206,
@@ -22181,7 +22386,8 @@
                 "availability": false
             }
         },
-        "datecreated": "11.10.2021"
+        "datecreated": "11.10.2021",
+        "dateupdated": "11.10.2021"
     },
     {
         "id": 207,
@@ -22288,7 +22494,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 208,
@@ -22395,7 +22602,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 209,
@@ -22502,7 +22710,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 210,
@@ -22609,7 +22818,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 211,
@@ -22716,7 +22926,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 212,
@@ -22823,7 +23034,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 213,
@@ -22930,7 +23142,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 214,
@@ -23037,7 +23250,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 215,
@@ -23144,7 +23358,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 216,
@@ -23251,7 +23466,8 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     },
     {
         "id": 217,
@@ -23358,6 +23574,7 @@
                 "availability": false
             }
         },
-        "datecreated": "12.10.2021"
+        "datecreated": "12.10.2021",
+        "dateupdated": "12.10.2021"
     }
 ]
