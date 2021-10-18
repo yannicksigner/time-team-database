@@ -339,6 +339,6 @@
     document.getElementById('search-box').setAttribute("value", searchTerm);
     displaySearchResults(fuse.search(searchTerm), window.store);
   } else {
-    displaySearchResults(fuse.search("%22Season%22"), window.store);
+    displaySearchResults(fuse.search("Season"), window.store);
   }
 })();
