@@ -236,13 +236,11 @@
         appendString += '<hr/>'
         appendString += '<p class="entry"><i class="bi bi-clock-history" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Last updated"></i>Updated on ' + item.dateupdated + '</p>'
 
-
         appendString += '</div></div></div></section>'
       }
 
       searchResults.innerHTML = appendString;
     } else {
-      searchResults.innerHTML = '<li>No results found!</li>';
       togglePageination("normal");
     }
     // activate the tooltips (after they have been created)
