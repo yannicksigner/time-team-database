@@ -115,7 +115,7 @@ function togglePageination(state) {
 function toggleExtended() {
   if (!getQueryVariable('extended')) {
     setExtendedParameter(false);
-
+  }
   $('#chk1').prop('checked', (getQueryVariable('extended') === 'true'));
 }
 
@@ -318,7 +318,7 @@ function displaySearchResults(results, store) {
 
   toggleExtended();
 
-  if(getQueryVariable('extended') === 'true'){
+  if (getQueryVariable('extended') === 'true') {
     search_threshold = 0.6;
   }
 
