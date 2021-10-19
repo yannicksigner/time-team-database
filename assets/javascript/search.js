@@ -81,6 +81,16 @@
     }
   });
 
+  var search_threshold = 0.3;
+
+  $('#flexSwitchCheckDefault').on('change.bootstrapSwitch', function(e) {
+      if(e.target.checked){
+        search_threshold = 0;
+      } else {
+        search_threshold = 0.3;
+      }
+  });
+  
   var pagesize = 10;
 
   var json = $.getJSON({
@@ -253,8 +263,8 @@
     } else {
       document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episodes found</p>';
     }
-    switchString = '<div class="form-check form-switch"><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"><label class="form-check-label" for="flexSwitchCheckDefault">Increase search tolerance</label></div>';
-    searchString = document.getElementById('search-info').innerHTML;
+    var switchString = '<div class="form-check form-switch"><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"><label class="form-check-label" for="flexSwitchCheckDefault">Increase search tolerance</label></div>';
+    var searchString = document.getElementById('search-info').innerHTML;
     document.getElementById('search-info').innerHTML = searchString + switchString;
   }
 
@@ -309,7 +319,7 @@
   const options = {
     ignoreLocation: true,
     includeScore: true,
-    threshold: 0.3,
+    threshold: search_threshold,
     useExtendedSearch: true,
     keys: [{
         name: "location",
