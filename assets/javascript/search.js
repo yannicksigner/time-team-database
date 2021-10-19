@@ -292,7 +292,13 @@ function displaySearchResults(results, store) {
 }
 
 (function() {
-  console.log("run page");
+
+  if(window.location.search.split('&').length<2){
+    var url = new URL(document.location.href);
+    url.searchParams.set("page", 1);
+    url.searchParams.set("extended", false);
+    document.location = url.href;
+  }
 
   var search_threshold = 0.3;
 
