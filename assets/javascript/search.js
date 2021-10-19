@@ -112,14 +112,11 @@ function togglePageination(state) {
   }
 }
 
-function toggleExtended(state) {
-  var isExtended = (getQueryVariable('extended') === 'true');
-
+function toggleExtended() {
   if (!getQueryVariable('extended')) {
     setExtendedParameter(false);
-  }
 
-  $('#chk1').prop('checked', isExtended);
+  $('#chk1').prop('checked', (getQueryVariable('extended') === 'true'));
 }
 
 function updatePageination(value) {
@@ -318,6 +315,8 @@ function displaySearchResults(results, store) {
       setExtendedParameter(false);
     }
   });
+
+  toggleExtended();
 
   if(getQueryVariable('extended') === 'true'){
     search_threshold = 1;
