@@ -85,7 +85,15 @@ layout: default
 
 <hr />
 
-<div id="search-info" style="display: flex;justify-content: center;"></div>
+<div id="search-info" style="display: flex;justify-content: center;">
+  <p id="result-count" style="text-align:center;"></p>
+  <form action="" method="get" id="thresholdform">
+    <div class="form-check" style="margin-left: 20px;">
+      <input class="form-check-input" type="checkbox" value="" id="chk1">
+      <label class="form-check-label" for="chk1">Increase search threshold</label>
+    </div>
+  </form>
+</div>
 
 <ul id="search-results" class="search-results" style="padding-inline-start: 0px;"></ul>
 

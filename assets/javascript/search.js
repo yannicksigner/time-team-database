@@ -269,15 +269,12 @@ function displaySearchResults(results, store) {
   $('[data-toggle="tooltip"]').tooltip()
 
   if (results.length == 1) {
-    document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episode found</p>';
+    document.getElementById('result-count').innerHTML = results.length + ' episode found';
   } else if (results.length == 0) {
-    document.getElementById('search-info').innerHTML = '<p style="text-align:center;">no episodes found</p>';
+    document.getElementById('result-count').innerHTML = 'no episodes found';
   } else {
-    document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episodes found</p>';
+    document.getElementById('result-count').innerHTML = results.length + ' episodes found';
   }
-  var switchString = '<form id="thresholdform"><div class="form-check" style="margin-left: 20px;"><input class="form-check-input" type="checkbox" value="" id="chk1"><label class="form-check-label" for="chk1">Increase search threshold</label></div></form>';
-  var searchString = document.getElementById('search-info').innerHTML;
-  document.getElementById('search-info').innerHTML = searchString + switchString;
 }
 
 (function() {
