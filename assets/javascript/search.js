@@ -319,7 +319,7 @@ function displaySearchResults(results, store) {
   toggleExtended();
 
   if(getQueryVariable('extended') === 'true'){
-    search_threshold = 1;
+    search_threshold = 0.6;
   }
 
   var json = $.getJSON({
