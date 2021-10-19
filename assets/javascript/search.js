@@ -1,72 +1,73 @@
+function addPeriodBadges(item) {
+  var html = "";
+  if (item.periods.prehistoric) {
+    html += addBadge("Prehistoric", "prehistoric")
+  }
+
+  if (item.periods.palaeolithic) {
+    html += addBadge("Palaeolithic", "palaeolithic")
+  }
+
+  if (item.periods.mesolithic) {
+    html += addBadge("Mesolithic", "mesolithic")
+  }
+
+  if (item.periods.neolithic) {
+    html += addBadge("Neolithic", "neolithic")
+  }
+
+  if (item.periods.bronzeage) {
+    html += addBadge("Bronze Age", "bronzeage")
+  }
+
+  if (item.periods.ironage) {
+    html += addBadge("Iron Age", "ironage")
+  }
+
+  if (item.periods.roman) {
+    html += addBadge("Roman", "roman")
+  }
+
+  if (item.periods.earlymedieval) {
+    html += addBadge("Early Medieval", "earlymedieval")
+  }
+
+  if (item.periods.medieval) {
+    html += addBadge("Medieval", "medieval")
+  }
+
+  if (item.periods.postmedieval) {
+    html += addBadge("Post-Medieval", "postmedieval")
+  }
+
+  if (item.periods.twentiethcentury) {
+    html += addBadge("20th century", "twentiethcentury")
+  }
+
+  return html
+}
+
+function addBadge(name, code) {
+  return '<a href="?query=%22' + name + '%22"><span class="badge custom-badge custom-badge-' + code + '">' + name + '</span></a>'
+}
+
+function createNRHELink(name, id, url) {
+  return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+}
+
+function createHERLink(url, title, name, id) {
+  return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER entry available"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+}
+
+function setPageNumberParameter(p_num) {
+  var url = new URL(document.location.href);
+  url.searchParams.set("page", p_num);
+  var newUrl = url.href;
+  document.location = newUrl;
+}
+
 (function() {
 
-  function addPeriodBadges(item) {
-    var html = "";
-    if (item.periods.prehistoric) {
-      html += addBadge("Prehistoric", "prehistoric")
-    }
-
-    if (item.periods.palaeolithic) {
-      html += addBadge("Palaeolithic", "palaeolithic")
-    }
-
-    if (item.periods.mesolithic) {
-      html += addBadge("Mesolithic", "mesolithic")
-    }
-
-    if (item.periods.neolithic) {
-      html += addBadge("Neolithic", "neolithic")
-    }
-
-    if (item.periods.bronzeage) {
-      html += addBadge("Bronze Age", "bronzeage")
-    }
-
-    if (item.periods.ironage) {
-      html += addBadge("Iron Age", "ironage")
-    }
-
-    if (item.periods.roman) {
-      html += addBadge("Roman", "roman")
-    }
-
-    if (item.periods.earlymedieval) {
-      html += addBadge("Early Medieval", "earlymedieval")
-    }
-
-    if (item.periods.medieval) {
-      html += addBadge("Medieval", "medieval")
-    }
-
-    if (item.periods.postmedieval) {
-      html += addBadge("Post-Medieval", "postmedieval")
-    }
-
-    if (item.periods.twentiethcentury) {
-      html += addBadge("20th century", "twentiethcentury")
-    }
-
-    return html
-  }
-
-  function addBadge(name, code) {
-    return '<a href="?query=%22' + name + '%22"><span class="badge custom-badge custom-badge-' + code + '">' + name + '</span></a>'
-  }
-
-  function createNRHELink(name, id, url) {
-    return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
-  }
-
-  function createHERLink(url, title, name, id) {
-    return '<p class="links"><i class="bi bi-archive-fill" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="HER entry available"></i><a href="http://' + url + '" target="_blank">' + title + ' (' + name + ' Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
-  }
-
-  function setPageNumberParameter(p_num) {
-    var url = new URL(document.location.href);
-    url.searchParams.set("page", p_num);
-    var newUrl = url.href;
-    document.location = newUrl;
-  }
 
   $('#prev-button').click(function() {
     if (!$('#prev-button').hasClass("disabled")) {
