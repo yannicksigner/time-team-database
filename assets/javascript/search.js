@@ -330,7 +330,7 @@ function displaySearchResults(results, store) {
 
     var json = $.getJSON({
       'url': "assets/data/data.json",
-      'async': false
+      'async': true
     });
 
     var documents = JSON.parse(json.responseText);
