@@ -313,13 +313,15 @@ function displaySearchResults(results, store) {
 
   $('#chk1').click(function() {
     if ($('#chk1').is(':checked')) {
-      search_threshold = 0;
       setExtendedParameter(true);
     } else {
-      search_threshold = 0.3;
       setExtendedParameter(false);
     }
   });
+
+  if(getQueryVariable('extended') === 'true'){
+    search_threshold = 0.0;
+  }
 
   var json = $.getJSON({
     'url': "assets/data/data.json",
