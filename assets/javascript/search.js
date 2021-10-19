@@ -82,14 +82,14 @@
   });
 
   var search_threshold = 0.3;
-  
-  $('#chk1').change(function() {
-    if ($(this).prop('checked')) {
+
+  $('#chk1 :checkbox').change(function() {
+    if ($(this).is(':checked')) {
       search_threshold = 0;
     } else {
       search_threshold = 0.3;
     }
-  })
+  });
 
   var pagesize = 10;
 
@@ -263,7 +263,7 @@
     } else {
       document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episodes found</p>';
     }
-    var switchString = '<div class="form-check" style="margin-left: 20px;"><input class="form-check-input" type="checkbox" value="" id="chk1"><label class="form-check-label" for="chk1">Increase search threshold</label></div>';
+    var switchString = '<form id="thresholdform"><div class="form-check" style="margin-left: 20px;"><input class="form-check-input" type="checkbox" value="" id="chk1"><label class="form-check-label" for="chk1">Increase search threshold</label></div></form>';
     var searchString = document.getElementById('search-info').innerHTML;
     document.getElementById('search-info').innerHTML = searchString + switchString;
   }
