@@ -293,93 +293,94 @@ function displaySearchResults(results, store) {
 
 (function() {
 
-  if(window.location.search.split('&').length<2){
+  if (window.location.search.split('&').length < 2) {
     var url = new URL(document.location.href);
     url.searchParams.set('page', 1);
     url.searchParams.set('extended', false);
     document.location = url.href;
-  }
-
-  var search_threshold = 0.3;
-
-  $('#prev-button').click(function() {
-    if (!$('#prev-button').hasClass("disabled")) {
-      updatePageination(-1);
-    }
-  });
-
-  $('#next-button').click(function() {
-    if (!$('#next-button').hasClass("disabled")) {
-      updatePageination(1);
-    }
-  });
-
-  $('#chk1').click(function() {
-    if ($('#chk1').is(':checked')) {
-      setExtendedParameter(true);
-    } else {
-      setExtendedParameter(false);
-    }
-  });
-
-  toggleExtended();
-
-  if (getQueryVariable('extended') === 'true') {
-    search_threshold = 0.6;
-  }
-
-  var json = $.getJSON({
-    'url': "assets/data/data.json",
-    'async': false
-  });
-
-  var documents = JSON.parse(json.responseText);
-
-  // search
-  var searchTerm = getQueryVariable('query');
-
-  const options = {
-    ignoreLocation: true,
-    includeScore: true,
-    threshold: search_threshold,
-    useExtendedSearch: true,
-    keys: [{
-        name: "location",
-        weight: 0.3
-      },
-      {
-        name: "summary",
-        weight: 0.3
-      },
-      {
-        name: "broadcast.title",
-        weight: 0.3
-      },
-      {
-        name: "broadcast.season",
-        weight: 0.2
-      },
-      {
-        name: "broadcast.episode",
-        weight: 0.2
-      },
-      {
-        name: "country",
-        weight: 0.2
-      },
-      {
-        name: "periods.search",
-        weight: 0.3
-      }
-    ]
-  };
-
-  const fuse = new Fuse(documents, options);
-
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
-    displaySearchResults(fuse.search(searchTerm), window.store);
   } else {
-    displaySearchResults(fuse.search("Season"), window.store);
+
+    var search_threshold = 0.3;
+
+    $('#prev-button').click(function() {
+      if (!$('#prev-button').hasClass("disabled")) {
+        updatePageination(-1);
+      }
+    });
+
+    $('#next-button').click(function() {
+      if (!$('#next-button').hasClass("disabled")) {
+        updatePageination(1);
+      }
+    });
+
+    $('#chk1').click(function() {
+      if ($('#chk1').is(':checked')) {
+        setExtendedParameter(true);
+      } else {
+        setExtendedParameter(false);
+      }
+    });
+
+    toggleExtended();
+
+    if (getQueryVariable('extended') === 'true') {
+      search_threshold = 0.6;
+    }
+
+    var json = $.getJSON({
+      'url': "assets/data/data.json",
+      'async': false
+    });
+
+    var documents = JSON.parse(json.responseText);
+
+    // search
+    var searchTerm = getQueryVariable('query');
+
+    const options = {
+      ignoreLocation: true,
+      includeScore: true,
+      threshold: search_threshold,
+      useExtendedSearch: true,
+      keys: [{
+          name: "location",
+          weight: 0.3
+        },
+        {
+          name: "summary",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.title",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.season",
+          weight: 0.2
+        },
+        {
+          name: "broadcast.episode",
+          weight: 0.2
+        },
+        {
+          name: "country",
+          weight: 0.2
+        },
+        {
+          name: "periods.search",
+          weight: 0.3
+        }
+      ]
+    };
+
+    const fuse = new Fuse(documents, options);
+
+    if (searchTerm) {
+      document.getElementById('search-box').setAttribute("value", searchTerm);
+      displaySearchResults(fuse.search(searchTerm), window.store);
+    } else {
+      displaySearchResults(fuse.search("Season"), window.store);
+    }
   }
 })();
