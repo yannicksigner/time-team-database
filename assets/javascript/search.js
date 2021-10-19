@@ -295,9 +295,8 @@ function displaySearchResults(results, store) {
 
   if(window.location.search.split('&').length<2){
     var url = new URL(document.location.href);
-    var params = new URLSearchParams(url.search);
-    params.set('page', 1);
-    params.set('extended', false);
+    url.searchParams.set('page', 1);
+    url.searchParams.set('extended', false);
     document.location = url.href;
   }
 
