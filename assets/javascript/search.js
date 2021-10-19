@@ -83,7 +83,7 @@
 
   var search_threshold = 0.3;
 
-  $('#chk1 :checkbox').change(function() {
+  $('#chk1').change(function() {
     console.log($(this).is(':checked'));
     if ($(this).is(':checked')) {
       search_threshold = 0;
