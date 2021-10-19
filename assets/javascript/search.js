@@ -253,6 +253,9 @@
     } else {
       document.getElementById('search-info').innerHTML = '<p style="text-align:center;">' + results.length + ' episodes found</p>';
     }
+    switchString = '<div class="form-check form-switch"><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckDefault"><label class="form-check-label" for="flexSwitchCheckDefault">Increase search tolerance</label></div>';
+    searchString = document.getElementById('search-info').innerHTML;
+    document.getElementById('search-info').innerHTML = searchString + switchString;
   }
 
   function getQueryVariable(variable) {
