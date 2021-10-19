@@ -66,6 +66,13 @@ function setPageNumberParameter(p_num) {
   document.location = newUrl;
 }
 
+function setExtendedParameter(p_state) {
+  var url = new URL(document.location.href);
+  url.searchParams.set("extended", p_state);
+  var newUrl = url.href;
+  document.location = newUrl;
+}
+
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
   var vars = query.split('&');
@@ -103,6 +110,16 @@ function togglePageination(state) {
     $('#next-button').addClass("disabled");
     $('#prev-button').removeClass("disabled");
   }
+}
+
+function toggleExtended(state) {
+  var isExtended = (getQueryVariable('extended') === 'true');
+
+  if (!getQueryVariable('extended')) {
+    setExtendedParameter(false);
+  }
+
+  $('#chk1').prop('checked', isExtended);
 }
 
 function updatePageination(value) {
@@ -293,11 +310,15 @@ function displaySearchResults(results, store) {
     }
   });
 
-  if ($('#chk1').is(':checked')) {
-    search_threshold = 0;
-  } else {
-    search_threshold = 0.3;
-  }
+  $('#chk1').click(function() {
+    if ($('#chk1').is(':checked')) {
+      search_threshold = 0;
+      setExtendedParameter(true);
+    } else {
+      search_threshold = 0.3;
+      setExtendedParameter(false);
+    }
+  });
 
   var json = $.getJSON({
     'url': "assets/data/data.json",
