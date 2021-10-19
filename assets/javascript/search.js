@@ -295,6 +295,7 @@ function displaySearchResults(results, store) {
 }
 
 (function() {
+  conosle.log("run page");
 
   var search_threshold = 0.3;
 
