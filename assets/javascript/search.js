@@ -320,7 +320,7 @@ function displaySearchResults(results, store) {
   });
 
   if(getQueryVariable('extended') === 'true'){
-    search_threshold = 0.0;
+    search_threshold = 1;
   }
 
   var json = $.getJSON({
