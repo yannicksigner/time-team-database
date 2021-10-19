@@ -115,6 +115,7 @@ function displaySearchResults(results, store) {
   var searchResults = document.getElementById('search-results');
   var pageNum = 1;
   pageNum = getQueryVariable('page');
+  var pagesize = 10;
 
   $("#current-button").text("Page " + pageNum);
 
@@ -282,7 +283,6 @@ function displaySearchResults(results, store) {
 (function() {
 
   var search_threshold = 0.3;
-  var pagesize = 10;
 
   $('#prev-button').click(function() {
     if (!$('#prev-button').hasClass("disabled")) {
