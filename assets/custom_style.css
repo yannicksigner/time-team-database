@@ -6,7 +6,6 @@
 .search-result-categories>li>a:hover {
     background-color: #ddd;
     color: #555
-    text-decoration-line: underline;
 }
 
 .search-result-categories>li>a>.glyphicon {
@@ -93,7 +92,7 @@
 
 .search-result-item .links>a:hover {
     color: #A3D2C4;
-    text-decoration: none;
+    text-decoration-line: underline;
     cursor: pointer;
 }
 
