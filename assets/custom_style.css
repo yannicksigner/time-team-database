@@ -6,6 +6,7 @@
 .search-result-categories>li>a:hover {
     background-color: #ddd;
     color: #555
+    text-decoration-line: underline;
 }
 
 .search-result-categories>li>a>.glyphicon {
