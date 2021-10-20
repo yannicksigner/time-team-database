@@ -7,7 +7,7 @@ Second, many of the site locations investigated by Time Team have only seen litt
 ### Which resources have been used?
 A variety of repositories have been consulted in order to identify relevant data regarding the work undertaken during each episode:
 
-* [Historic England NRHE Excavation Index](https://archaeologydataservice.ac.uk/archsearch/browser.xhtml) hosted by the ADS
+* [Historic England NRHE Excavation Index](https://archaeologydataservice.ac.uk/archsearch/browser.xhtml){:target="_blank"} hosted by the ADS
 * [Library of Unpublished Fieldwork Reports](https://archaeologydataservice.ac.uk/archives/view/greylit/query.cfm) hosted by the ADS
 * Various regional (e.g. [Somerset HER](https://www.somersetheritage.org.uk/)) and national (e.g. [Wales HER](https://archwilio.org.uk/arch/)) Historic Environment Record repositories
 * The [Heritage Gateway](https://heritagegateway.org.uk/gateway/default.aspx)
