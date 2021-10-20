@@ -379,7 +379,7 @@ function displaySearchResults(results, store) {
     if (searchTerm) {
       document.getElementById('search-box').setAttribute("value", searchTerm);
       displaySearchResults(fuse.search(searchTerm), window.store);
-      document.title = "Time Team Episode Database | " + searchTerm.replace('"','');
+      document.title = "Time Team Episode Database | " + searchTerm.replace('"','').replace('"','');
     } else {
       displaySearchResults(fuse.search("Season"), window.store);
       document.title = "Time Team Episode Database";
