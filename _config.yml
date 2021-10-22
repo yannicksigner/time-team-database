@@ -8,7 +8,6 @@ repository: "yannicksigner/time-team-database/"
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
 
 header_pages:
 
