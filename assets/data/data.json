@@ -18816,11 +18816,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "gwZ4NU0wLYY"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "30.10.2021"
     },
     {
         "id": 174,
