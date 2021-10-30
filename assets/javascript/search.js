@@ -329,7 +329,7 @@ function displaySearchResults(results, store) {
     }
 
     var json = $.getJSON({
-      'url': "assets/data/data.json",
+      'url': "time-team-database/assets/data/data.json",
       'async': false
     });
 
