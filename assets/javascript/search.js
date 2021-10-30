@@ -302,7 +302,7 @@ function displaySearchResults(results, store) {
 
     var documents = JSON.parse(json.responseText);
 
-    var searchTerm = "season-01";
+    var searchTerm = '"season-01"';
 
     const options = {
       ignoreLocation: true,
