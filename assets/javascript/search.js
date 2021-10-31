@@ -302,7 +302,10 @@ function displaySearchResults(results, store) {
 
     var documents = JSON.parse(json.responseText);
 
+    // site interaction
     var searchTerm = givenST;
+    $('meta[name=description]').attr('content', givenDesc);
+    document.title = givenTitle + " | Time Team Episode Database";
 
     const options = {
       ignoreLocation: true,
