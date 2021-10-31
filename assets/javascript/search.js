@@ -345,7 +345,6 @@ function displaySearchResults(results, store) {
 
     const fuse = new Fuse(documents, options);
     displaySearchResults(fuse.search(searchTerm), window.store);
-    document.title = "Time Team Episode Database | " + searchTerm.replace('"', '').replace('"', '');
 
   } else {
 
