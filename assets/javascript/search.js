@@ -307,7 +307,7 @@ function displaySearchResults(results, store) {
     const options = {
       ignoreLocation: true,
       includeScore: true,
-      threshold: search_threshold,
+      threshold: 0.1,
       useExtendedSearch: true,
       keys: [{
           name: "location",
@@ -394,7 +394,7 @@ function displaySearchResults(results, store) {
       const options = {
         ignoreLocation: true,
         includeScore: true,
-        threshold: 0.1,
+        threshold: search_threshold,
         useExtendedSearch: true,
         keys: [{
             name: "location",
