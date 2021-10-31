@@ -346,6 +346,18 @@ function displaySearchResults(results, store) {
     const fuse = new Fuse(documents, options);
     displaySearchResults(fuse.search(searchTerm), window.store);
 
+    $('#prev-button').click(function() {
+      if (!$('#prev-button').hasClass("disabled")) {
+        updatePageination(-1);
+      }
+    });
+
+    $('#next-button').click(function() {
+      if (!$('#next-button').hasClass("disabled")) {
+        updatePageination(1);
+      }
+    });
+
   } else {
 
     if (window.location.search.split('&').length < 2) {
