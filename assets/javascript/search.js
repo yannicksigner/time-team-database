@@ -302,12 +302,12 @@ function displaySearchResults(results, store) {
 
     var documents = JSON.parse(json.responseText);
 
-    var searchTerm = '"season-01"';
+    var searchTerm = 'season-01';
 
     const options = {
       ignoreLocation: true,
       includeScore: true,
-      threshold: 0.1,
+      threshold: 0.3,
       useExtendedSearch: true,
       keys: [{
           name: "location",
