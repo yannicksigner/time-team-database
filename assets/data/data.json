@@ -18925,11 +18925,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "51kClNdpmCc"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "08.11.2021"
     },
     {
         "id": 175,
