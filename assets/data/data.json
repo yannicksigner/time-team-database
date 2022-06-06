@@ -204,7 +204,7 @@
             "imdb": {
                 "availability": true,
                 "rating": "8.0",
-                "url": "tt0952382/"
+                "url": "tt0952382"
             },
             "channel4": {
                 "availability": true,
@@ -215,7 +215,7 @@
             }
         },
         "datecreated": "26.09.2021",
-        "dateupdated": "26.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 3,
@@ -312,7 +312,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.2",
                 "url": "tt0952380"
             },
             "channel4": {
@@ -324,7 +324,7 @@
             }
         },
         "datecreated": "26.09.2021",
-        "dateupdated": "26.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 4,
@@ -749,7 +749,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.5",
                 "url": "tt0952395"
             },
             "channel4": {
@@ -761,7 +761,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 8,
@@ -1186,7 +1186,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.9",
                 "url": "tt0957402"
             },
             "channel4": {
@@ -1198,7 +1198,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 12,
@@ -1295,7 +1295,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "7.8",
                 "url": "tt0957404"
             },
             "channel4": {
@@ -1307,7 +1307,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 13,
@@ -1404,7 +1404,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.9",
                 "url": "tt0957403"
             },
             "channel4": {
@@ -1416,7 +1416,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021",
+        "dateupdated": "06.06.2022",
         "comment": "paper report?"
     },
     {
@@ -1514,7 +1514,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt0957394"
             },
             "channel4": {
@@ -1526,7 +1526,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 15,
@@ -1623,7 +1623,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.1",
                 "url": "tt0957909"
             },
             "channel4": {
@@ -1635,7 +1635,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 16,
@@ -1732,7 +1732,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt0957401"
             },
             "channel4": {
@@ -1744,7 +1744,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 17,
@@ -1841,7 +1841,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.2",
                 "url": "tt0957391"
             },
             "channel4": {
@@ -1853,7 +1853,7 @@
             }
         },
         "datecreated": "27.09.2021",
-        "dateupdated": "27.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 18,
@@ -1950,7 +1950,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "7.8",
                 "url": "tt0957400"
             },
             "channel4": {
@@ -1962,7 +1962,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 19,
@@ -2059,7 +2059,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.9",
                 "url": "tt0957387"
             },
             "channel4": {
@@ -2071,7 +2071,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 20,
@@ -2495,7 +2495,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.5",
                 "url": "tt0957386"
             },
             "channel4": {
@@ -2507,7 +2507,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 24,
@@ -2713,7 +2713,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.8",
+                "rating": "8.7",
                 "url": "tt0957406"
             },
             "channel4": {
@@ -2725,7 +2725,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 26,
@@ -2822,7 +2822,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.7",
                 "url": "tt0957384"
             },
             "channel4": {
@@ -2834,7 +2834,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 27,
@@ -3040,7 +3040,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "7.8",
                 "url": "tt0957385"
             },
             "channel4": {
@@ -3052,7 +3052,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 29,
@@ -3585,7 +3585,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "7.9",
                 "url": "tt0952373"
             },
             "channel4": {
@@ -3597,7 +3597,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 34,
@@ -3803,7 +3803,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.9",
                 "url": "tt0952384"
             },
             "channel4": {
@@ -3815,7 +3815,7 @@
             }
         },
         "datecreated": "28.09.2021",
-        "dateupdated": "28.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 36,
@@ -3912,7 +3912,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt0952369"
             },
             "channel4": {
@@ -3924,7 +3924,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 37,
@@ -4130,7 +4130,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0957407"
             },
             "channel4": {
@@ -4142,7 +4142,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 39,
@@ -4457,7 +4457,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0957910"
             },
             "channel4": {
@@ -4469,7 +4469,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 42,
@@ -4566,7 +4566,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.4",
                 "url": "tt0957911"
             },
             "channel4": {
@@ -4578,7 +4578,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 43,
@@ -5002,7 +5002,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.3",
                 "url": "tt0954845"
             },
             "channel4": {
@@ -5014,7 +5014,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 47,
@@ -5111,7 +5111,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.1",
                 "url": "tt0952370"
             },
             "channel4": {
@@ -5123,7 +5123,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 48,
@@ -5329,7 +5329,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.1",
                 "url": "tt0954839"
             },
             "channel4": {
@@ -5341,7 +5341,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 50,
@@ -5438,7 +5438,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.3",
                 "url": "tt0954838"
             },
             "channel4": {
@@ -5450,7 +5450,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 51,
@@ -5547,7 +5547,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.8",
+                "rating": "8.7",
                 "url": "tt0723696"
             },
             "channel4": {
@@ -5559,7 +5559,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 52,
@@ -5874,7 +5874,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.2",
                 "url": "tt0954843"
             },
             "channel4": {
@@ -5886,7 +5886,7 @@
             }
         },
         "datecreated": "29.09.2021",
-        "dateupdated": "29.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 55,
@@ -6420,7 +6420,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.3",
                 "url": "tt0723705"
             },
             "channel4": {
@@ -6432,7 +6432,7 @@
             }
         },
         "datecreated": "30.09.2021",
-        "dateupdated": "30.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 60,
@@ -6965,7 +6965,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "8.0",
                 "url": "tt0957378"
             },
             "channel4": {
@@ -6977,7 +6977,7 @@
             }
         },
         "datecreated": "30.09.2021",
-        "dateupdated": "30.09.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 65,
@@ -7184,7 +7184,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt0957382"
             },
             "channel4": {
@@ -7196,7 +7196,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 67,
@@ -7511,7 +7511,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.1",
                 "url": "tt0723704"
             },
             "channel4": {
@@ -7522,7 +7522,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 70,
@@ -7727,7 +7727,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.7",
                 "url": "tt0958795"
             },
             "channel4": {
@@ -7738,7 +7738,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 72,
@@ -7835,7 +7835,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.7",
+                "rating": "8.5",
                 "url": "tt0953877"
             },
             "channel4": {
@@ -7846,7 +7846,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 73,
@@ -7943,7 +7943,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.1",
                 "url": "tt0953878"
             },
             "channel4": {
@@ -7954,7 +7954,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 74,
@@ -8051,7 +8051,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "9.1",
+                "rating": "8.9",
                 "url": "tt0953876"
             },
             "channel4": {
@@ -8062,7 +8062,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 75,
@@ -8159,7 +8159,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0964452"
             },
             "channel4": {
@@ -8170,7 +8170,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 76,
@@ -8267,7 +8267,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.4",
                 "url": "tt0867118"
             },
             "channel4": {
@@ -8278,7 +8278,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 77,
@@ -8375,7 +8375,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.5",
                 "url": "tt0958798"
             },
             "channel4": {
@@ -8386,7 +8386,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 78,
@@ -8483,7 +8483,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.5",
                 "url": "tt0958792"
             },
             "channel4": {
@@ -8494,7 +8494,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 79,
@@ -8591,7 +8591,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.3",
                 "url": "tt0958789"
             },
             "channel4": {
@@ -8602,7 +8602,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 80,
@@ -8699,7 +8699,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.8",
+                "rating": "8.6",
                 "url": "tt0958799"
             },
             "channel4": {
@@ -8710,7 +8710,7 @@
             }
         },
         "datecreated": "05.10.2021",
-        "dateupdated": "05.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 81,
@@ -8915,7 +8915,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.5",
+                "rating": "7.7",
                 "url": "tt0888995"
             },
             "channel4": {
@@ -8927,7 +8927,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 83,
@@ -9024,7 +9024,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0958793"
             },
             "channel4": {
@@ -9036,7 +9036,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 84,
@@ -9133,7 +9133,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0958791"
             },
             "channel4": {
@@ -9145,7 +9145,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 85,
@@ -9242,7 +9242,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "8.2",
                 "url": "tt0958794"
             },
             "channel4": {
@@ -9254,7 +9254,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 86,
@@ -9351,7 +9351,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.9",
                 "url": "tt0723697"
             },
             "channel4": {
@@ -9363,7 +9363,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021",
+        "dateupdated": "06.06.2022",
         "comment": "1 more her entry"
     },
     {
@@ -9461,7 +9461,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.5",
+                "rating": "7.6",
                 "url": "tt0958797"
             },
             "channel4": {
@@ -9473,7 +9473,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 88,
@@ -9570,7 +9570,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "8.1",
                 "url": "tt0958788"
             },
             "channel4": {
@@ -9582,7 +9582,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 89,
@@ -9679,7 +9679,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.4",
                 "url": "tt0970159"
             },
             "channel4": {
@@ -9691,7 +9691,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 90,
@@ -9788,7 +9788,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0723698"
             },
             "channel4": {
@@ -9800,7 +9800,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 91,
@@ -9897,7 +9897,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "8.1",
                 "url": "tt0958796"
             },
             "channel4": {
@@ -9909,7 +9909,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 92,
@@ -10006,7 +10006,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.9",
                 "url": "tt0723695"
             },
             "channel4": {
@@ -10018,7 +10018,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 93,
@@ -10115,7 +10115,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.4",
                 "url": "tt0952383"
             },
             "channel4": {
@@ -10127,7 +10127,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 94,
@@ -10224,7 +10224,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.3",
                 "url": "tt0958787"
             },
             "channel4": {
@@ -10236,7 +10236,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 95,
@@ -10333,7 +10333,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt0959238"
             },
             "channel4": {
@@ -10344,7 +10344,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 96,
@@ -10441,7 +10441,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.6",
                 "url": "tt0959239"
             },
             "channel4": {
@@ -10452,7 +10452,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 97,
@@ -10549,7 +10549,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "8.1",
                 "url": "tt0723700"
             },
             "channel4": {
@@ -10560,7 +10560,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 98,
@@ -10765,7 +10765,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "8.0",
                 "url": "tt0959237"
             },
             "channel4": {
@@ -10776,7 +10776,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 100,
@@ -10873,7 +10873,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt0959233"
             },
             "channel4": {
@@ -10884,7 +10884,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021",
+        "dateupdated": "06.06.2022",
         "comment": "maybe her reference?"
     },
     {
@@ -10982,7 +10982,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.3",
                 "url": "tt0946724"
             },
             "channel4": {
@@ -10993,7 +10993,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 102,
@@ -11090,7 +11090,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "8.1",
                 "url": "tt0959232"
             },
             "channel4": {
@@ -11101,7 +11101,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 103,
@@ -11198,7 +11198,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.4",
                 "url": "tt0959240"
             },
             "channel4": {
@@ -11209,7 +11209,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 104,
@@ -11306,7 +11306,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "7.8",
                 "url": "tt0959234"
             },
             "channel4": {
@@ -11317,7 +11317,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 105,
@@ -11414,7 +11414,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.7",
                 "url": "tt0723694"
             },
             "channel4": {
@@ -11425,7 +11425,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 106,
@@ -11522,7 +11522,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.7",
                 "url": "tt0959235"
             },
             "channel4": {
@@ -11533,7 +11533,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 107,
@@ -11630,7 +11630,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0959231"
             },
             "channel4": {
@@ -11641,7 +11641,7 @@
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "06.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 108,
@@ -12064,7 +12064,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0960645"
             },
             "channel4": {
@@ -12076,7 +12076,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 112,
@@ -12173,7 +12173,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.8",
+                "rating": "8.7",
                 "url": "tt0960655"
             },
             "channel4": {
@@ -12185,7 +12185,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 113,
@@ -12282,7 +12282,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "7.8",
                 "url": "tt0960650"
             },
             "channel4": {
@@ -12294,7 +12294,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 114,
@@ -12391,7 +12391,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.5",
                 "url": "tt0960661"
             },
             "channel4": {
@@ -12403,7 +12403,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 115,
@@ -12609,7 +12609,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0960660"
             },
             "channel4": {
@@ -12621,7 +12621,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 117,
@@ -12718,7 +12718,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.9",
+                "rating": "9.0",
                 "url": "tt0960658"
             },
             "channel4": {
@@ -12730,7 +12730,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 118,
@@ -12936,7 +12936,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.0",
                 "url": "tt0960659"
             },
             "channel4": {
@@ -12948,7 +12948,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 120,
@@ -13045,7 +13045,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.9",
                 "url": "tt0960651"
             },
             "channel4": {
@@ -13057,7 +13057,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 121,
@@ -13263,7 +13263,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0960665"
             },
             "channel4": {
@@ -13275,7 +13275,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 123,
@@ -13372,7 +13372,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.9",
                 "url": "tt0960653"
             },
             "channel4": {
@@ -13384,7 +13384,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 124,
@@ -13481,7 +13481,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.6",
                 "url": "tt0960647"
             },
             "channel4": {
@@ -13493,7 +13493,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 125,
@@ -13590,7 +13590,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt0960662"
             },
             "channel4": {
@@ -13602,7 +13602,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 126,
@@ -13699,7 +13699,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.3",
+                "rating": "7.5",
                 "url": "tt0960646"
             },
             "channel4": {
@@ -13711,7 +13711,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 127,
@@ -13917,7 +13917,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.7",
+                "rating": "7.8",
                 "url": "tt0960656"
             },
             "channel4": {
@@ -13929,7 +13929,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 129,
@@ -14026,7 +14026,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt0960643"
             },
             "channel4": {
@@ -14038,7 +14038,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 130,
@@ -14135,7 +14135,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "8.1",
                 "url": "tt0960652"
             },
             "channel4": {
@@ -14147,7 +14147,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 131,
@@ -14244,7 +14244,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.5",
+                "rating": "7.7",
                 "url": "tt0960648"
             },
             "channel4": {
@@ -14256,7 +14256,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021",
+        "dateupdated": "06.06.2022",
         "comment": "more HER entries"
     },
     {
@@ -14354,7 +14354,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.3",
                 "url": "tt0960641"
             },
             "channel4": {
@@ -14366,7 +14366,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 133,
@@ -14463,7 +14463,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt0960642"
             },
             "channel4": {
@@ -14475,7 +14475,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "08.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 134,
@@ -14572,7 +14572,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0952377"
             },
             "channel4": {
@@ -14584,7 +14584,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 135,
@@ -14681,7 +14681,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt0952371"
             },
             "channel4": {
@@ -14693,7 +14693,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 136,
@@ -14790,7 +14790,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.7",
+                "rating": "7.9",
                 "url": "tt0952375"
             },
             "channel4": {
@@ -14802,7 +14802,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 137,
@@ -14899,7 +14899,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.7",
+                "rating": "7.9",
                 "url": "tt0957376"
             },
             "channel4": {
@@ -14911,7 +14911,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 138,
@@ -15008,7 +15008,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.2",
+                "rating": "7.3",
                 "url": "tt0963676"
             },
             "channel4": {
@@ -15019,7 +15019,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 139,
@@ -15116,7 +15116,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "8.2",
                 "url": "tt0967389"
             },
             "channel4": {
@@ -15128,7 +15128,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 140,
@@ -15225,7 +15225,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "8.0",
                 "url": "tt0972244"
             },
             "channel4": {
@@ -15237,7 +15237,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 141,
@@ -15443,7 +15443,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "8.2",
                 "url": "tt1036885"
             },
             "channel4": {
@@ -15455,7 +15455,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 143,
@@ -15552,7 +15552,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.9",
+                "rating": "8.0",
                 "url": "tt0987794"
             },
             "channel4": {
@@ -15563,7 +15563,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 144,
@@ -15660,7 +15660,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.6",
+                "rating": "7.9",
                 "url": "tt0992762"
             },
             "channel4": {
@@ -15671,7 +15671,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 145,
@@ -15877,7 +15877,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.3",
                 "url": "tt1235030"
             },
             "channel4": {
@@ -15889,7 +15889,7 @@
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "09.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 147,
@@ -16095,7 +16095,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt1235029"
             },
             "channel4": {
@@ -16107,7 +16107,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 149,
@@ -16528,7 +16528,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt1235038"
             },
             "channel4": {
@@ -16539,7 +16539,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 153,
@@ -16854,7 +16854,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.0",
                 "url": "tt1235033"
             },
             "channel4": {
@@ -16865,7 +16865,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 156,
@@ -17071,7 +17071,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.5",
                 "url": "tt1235034"
             },
             "channel4": {
@@ -17083,7 +17083,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 158,
@@ -17180,7 +17180,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.8",
                 "url": "tt1235043"
             },
             "channel4": {
@@ -17192,7 +17192,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 159,
@@ -17289,7 +17289,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.5",
                 "url": "tt1235037"
             },
             "channel4": {
@@ -17301,7 +17301,7 @@
             }
         },
         "datecreated": "10.10.2021",
-        "dateupdated": "10.10.2021",
+        "dateupdated": "06.06.2022",
         "comment": "more HER entries"
     },
     {
@@ -17725,7 +17725,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.5",
                 "url": "tt1363440"
             },
             "channel4": {
@@ -17736,7 +17736,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021",
+        "dateupdated": "06.06.2022",
         "comment": "more HER entries"
     },
     {
@@ -17834,7 +17834,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "8.2",
                 "url": "tt1373369"
             },
             "channel4": {
@@ -17845,7 +17845,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 165,
@@ -18267,7 +18267,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.0",
+                "rating": "7.9",
                 "url": "tt1388277"
             },
             "channel4": {
@@ -18279,7 +18279,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 169,
@@ -18376,7 +18376,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "6.8",
+                "rating": "6.7",
                 "url": "tt1392966"
             },
             "channel4": {
@@ -18387,7 +18387,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 170,
@@ -18918,7 +18918,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "9.3",
+                "rating": "9.2",
                 "url": "tt1648857"
             },
             "channel4": {
@@ -18930,7 +18930,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "08.11.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 175,
@@ -19027,7 +19027,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.8",
+                "rating": "7.7",
                 "url": "tt1652264"
             },
             "channel4": {
@@ -19039,7 +19039,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 176,
@@ -19136,18 +19136,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.9",
+                "rating": "8.7",
                 "url": "tt1661187"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "SttjCzjJ8VA"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 177,
@@ -19244,18 +19245,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.4",
                 "url": "tt1662154"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "oJiH35-tFjE"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 178,
@@ -19352,18 +19354,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.2",
                 "url": "tt1709008"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "zf6NFWMLpDE"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 179,
@@ -19460,7 +19463,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.4",
+                "rating": "8.3",
                 "url": "tt1737062"
             },
             "channel4": {
@@ -19471,7 +19474,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 180,
@@ -19568,7 +19571,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.8",
+                "rating": "8.7",
                 "url": "tt1752900"
             },
             "channel4": {
@@ -19579,7 +19582,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 181,
@@ -19676,7 +19679,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.3",
+                "rating": "8.2",
                 "url": "tt1790573"
             },
             "channel4": {
@@ -19687,7 +19690,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 182,
@@ -19784,7 +19787,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.4",
                 "url": "tt1752898"
             },
             "channel4": {
@@ -19796,7 +19799,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 183,
@@ -19900,11 +19903,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "qConIWslb64"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "24.02.2022"
     },
     {
         "id": 184,
@@ -20226,11 +20230,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "WfDS68UqL00"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 187,
@@ -20327,18 +20332,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.1",
+                "rating": "7.9",
                 "url": "tt1857553"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "Olmq4KOXaMA"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 188,
@@ -20435,18 +20441,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.7",
+                "rating": "8.6",
                 "url": "tt1857552"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "sn0zrbDsKfk"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 189,
@@ -20658,11 +20665,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "I_b5H4TaM7Q"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 191,
@@ -20736,19 +20744,19 @@
                 }
             },
             "her": {
-                "availability": false,
-                "multiple": false,
+                "availability": true,
+                "multiple": true,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Peterborough HER",
+                    "id": "1891",
+                    "title": "St Kyneburgha's Church",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB5530&resourceID=1045"
                 },
                 "additional1": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Peterborough HER",
+                    "id": "1873",
+                    "title": "Castor village Roman sites",
+                    "url": "heritagegateway.org.uk/Gateway/Results_Single.aspx?uid=MPB1710&resourceID=1045"
                 },
                 "additional2": {
                     "name": "–",
@@ -20770,7 +20778,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 192,
@@ -20867,7 +20875,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.4",
                 "url": "tt1889298"
             },
             "channel4": {
@@ -20878,7 +20886,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 193,
@@ -20975,18 +20983,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.5",
+                "rating": "8.4",
                 "url": "tt1889300"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "_-sD-A2_d7s"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 194,
@@ -21090,11 +21099,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "ek_PKCDx-pM"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 195,
@@ -21191,18 +21201,19 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.6",
+                "rating": "8.5",
                 "url": "tt1897835"
             },
             "channel4": {
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "bJl3p2Zoi70"
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 196,
@@ -21407,7 +21418,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.5",
+                "rating": "7.4",
                 "url": "tt2255507"
             },
             "channel4": {
@@ -21418,7 +21429,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 198,
@@ -21623,7 +21634,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "6.4",
+                "rating": "6.3",
                 "url": "tt2255511"
             },
             "channel4": {
@@ -21634,7 +21645,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 200,
@@ -21731,7 +21742,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "7.2",
+                "rating": "7.3",
                 "url": "tt2255505"
             },
             "channel4": {
@@ -21742,7 +21753,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 201,
@@ -21839,7 +21850,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "6.3",
+                "rating": "6.4",
                 "url": "tt2271017"
             },
             "channel4": {
@@ -21850,7 +21861,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "11.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 202,
@@ -23004,13 +23015,13 @@
                 }
             },
             "her": {
-                "availability": false,
+                "availability": true,
                 "multiple": false,
                 "main": {
-                    "name": "–",
-                    "id": "–",
-                    "title": "–",
-                    "url": "–"
+                    "name": "Lake District National Park HER",
+                    "id": "4154",
+                    "title": "Coniston Copper Mines",
+                    "url": "archaeologydataservice.ac.uk/archsearch/record?titleId=2886334"
                 },
                 "additional1": {
                     "name": "–",
@@ -23038,7 +23049,7 @@
             }
         },
         "datecreated": "12.10.2021",
-        "dateupdated": "12.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 213,
@@ -23459,7 +23470,7 @@
             },
             "imdb": {
                 "availability": true,
-                "rating": "8.2",
+                "rating": "8.1",
                 "url": "tt2841916"
             },
             "channel4": {
@@ -23470,7 +23481,7 @@
             }
         },
         "datecreated": "12.10.2021",
-        "dateupdated": "12.10.2021"
+        "dateupdated": "06.06.2022"
     },
     {
         "id": 217,
