@@ -265,9 +265,9 @@ function displaySearchResults(results, store) {
       }
 
       if (item.links.youtube.availability) {
-        appendString += '<p class="entry"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Available on Youtube <a href="https://www.youtube.com/watch?v=' + item.links.youtube.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
+        appendString += '<p class="entry"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Available on YouTube <a href="https://www.youtube.com/watch?v=' + item.links.youtube.url + '" target="_blank"><i class="bi bi-link-45deg"></i></a></p>'
       } else {
-        appendString += '<p class="entry"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Not available on Youtube</p>'
+        appendString += '<p class="entry"><i class="bi bi-youtube" style="margin-right: 11px;"></i>Not available on YouTube</p>'
       }
       appendString += '<hr/>'
       appendString += '<p class="entry"><i class="bi bi-clock-history" style="margin-right: 15px;" data-toggle="tooltip" data-placement="left" title="Last updated"></i>Updated on ' + item.dateupdated + '</p>'
