@@ -11979,16 +11979,16 @@
         "coord": "55.271321,-3.80762",
         "recorded": "–",
         "periods": {
-            "search": "Medieval",
+            "search": "Roman",
             "prehistoric": false,
             "palaeolithic": false,
             "mesolithic": false,
             "neolithic": false,
             "bronzeage": false,
             "ironage": false,
-            "roman": false,
+            "roman": true,
             "earlymedieval": false,
-            "medieval": true,
+            "medieval": false,
             "postmedieval": false,
             "twentiethcentury": false
         },
@@ -12076,7 +12076,7 @@
             }
         },
         "datecreated": "08.10.2021",
-        "dateupdated": "06.06.2022"
+        "dateupdated": "07.03.2023"
     },
     {
         "id": 112,
