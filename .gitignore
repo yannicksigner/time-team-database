@@ -3,3 +3,7 @@ _site
 .jekyll-metadata
 node_modules
 Gemfile.lock
+assets/.DS_Store
+_sass/bootstrap/.DS_Store
+_sass/.DS_Store
+.DS_Store
