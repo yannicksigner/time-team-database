@@ -17743,7 +17743,7 @@
         "id": 164,
         "thumbnailurl": "s16ep5.webp",
         "summary": "The Team are in the Yorkshire Dales to investigate the Risehill camp settlement, which was inhabited by Victorian railway navvies during the construction of the Settle to Carlisle railway.",
-        "location": "Rise Hill, North Yorkshire",
+        "location": "Rise Hill, Cumbria",
         "country": "England",
         "ngr": "SD 76679 89201",
         "coord": "54.29789,-2.35983",
@@ -17805,9 +17805,9 @@
                     "url": "–"
                 },
                 "additional2": {
-                    "accessable": false,
-                    "title": "–",
-                    "url": "–"
+                    "accessable": true,
+                    "title": "Brennan (2015) Working on the railway: the Risehill tunnel navvy camp, Cumbria",
+                    "url": "doi.org/10.1179/0309072815Z.00000000049"
                 }
             },
             "her": {
@@ -17845,7 +17845,7 @@
             }
         },
         "datecreated": "11.10.2021",
-        "dateupdated": "06.06.2022"
+        "dateupdated": "30.11.2023"
     },
     {
         "id": 165,
