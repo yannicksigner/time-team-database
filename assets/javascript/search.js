@@ -52,7 +52,7 @@ function addBadge(name, code) {
 }
 
 function createNRHELink(name, id, url) {
-  return '<p class="links"><img src="https://historicengland.org.uk/public/src/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
+  return '<p class="links"><img src="https://historicengland.org.uk/frontend/dist/shared/images/HE-Logo_White.svg" class="body-ei" data-toggle="tooltip" data-placement="left" title="NRHE entry available"><a href="http://' + url + '" target="_blank">' + name + ' (Id: ' + id + ') <i class="bi bi-link-45deg"></i></a></p>'
 }
 
 function createHERLink(url, title, name, id) {
