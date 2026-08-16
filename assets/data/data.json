@@ -15560,11 +15560,12 @@
                 "availability": false
             },
             "youtube": {
-                "availability": false
+                "availability": true,
+                "url": "v7szfz-4I3E"
             }
         },
         "datecreated": "09.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 144,
