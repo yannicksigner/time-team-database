@@ -10540,14 +10540,15 @@
                 "url": "tt0959238"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-001"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 96,
@@ -10650,14 +10651,15 @@
                 "url": "tt0959239"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-002"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 97,
@@ -10760,14 +10762,15 @@
                 "url": "tt0723700"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-003"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 98,
@@ -10870,14 +10873,15 @@
                 "url": "tt0959236"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-004"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 99,
@@ -10980,14 +10984,15 @@
                 "url": "tt0959237"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-005"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 100,
@@ -11090,14 +11095,15 @@
                 "url": "tt0959233"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-006"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025",
+        "dateupdated": "16.08.2026",
         "comment": "maybe her reference?"
     },
     {
@@ -11201,14 +11207,15 @@
                 "url": "tt0946724"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-007"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 102,
@@ -11311,14 +11318,15 @@
                 "url": "tt0959232"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-008"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 103,
@@ -11421,14 +11429,15 @@
                 "url": "tt0959240"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-009"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 104,
@@ -11531,14 +11540,15 @@
                 "url": "tt0959234"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-010"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 105,
@@ -11641,14 +11651,15 @@
                 "url": "tt0723694"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-011"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 106,
@@ -11751,14 +11762,15 @@
                 "url": "tt0959235"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-012"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 107,
@@ -11861,14 +11873,15 @@
                 "url": "tt0959231"
             },
             "channel4": {
-                "availability": true
+                "availability": true,
+                "url": "35983-013"
             },
             "youtube": {
                 "availability": false
             }
         },
         "datecreated": "06.10.2021",
-        "dateupdated": "16.08.2025"
+        "dateupdated": "16.08.2026"
     },
     {
         "id": 108,
