@@ -161,7 +161,7 @@ function displaySearchResults(results, store) {
       appendString += '<div class="search-result-item-body">'
       appendString += '<div class="row"><div class="col-sm-8">'
       appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + ' </h4>'
-      appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="https://www.openstreetmap.org/#map=6/' + item.lat + '/' + item.lng + '" target="_blank">' + item.ngr + '</i></a></p>'
+      appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="https://www.openstreetmap.org/#map=14/' + item.lat + '/' + item.lng + '" target="_blank">' + item.ngr + '</i></a></p>'
       appendString += '<p class="description">' + item.summary + ' (Source: <a href="https://www.channel4.com/programmes/time-team/episode-guide/series-' + item.broadcast.season.replace("Season 0", "Season ").replace("Season ", "") + '" target="_blank">Channel 4</a>)</p>'
       appendString += '<hr/>'
 
