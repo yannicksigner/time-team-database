@@ -7,6 +7,8 @@
         "country": "England",
         "ngr": "ST 34452 29270",
         "coord": "51.059011,-2.9366813",
+        "lat": 51.059011,
+        "lng": -2.9366813,
         "recorded": "16–18 April 1993",
         "periods": {
             "search": "Medieval",
@@ -116,6 +118,8 @@
         "country": "England",
         "ngr": "SD 65049 35116",
         "coord": "53.811148,-2.5322685",
+        "lat": 53.811148,
+        "lng": -2.5322685,
         "recorded": "3–5 September 1993",
         "periods": {
             "search": "Roman",
@@ -225,6 +229,8 @@
         "country": "England",
         "ngr": "SO 62351 99936",
         "coord": "52.595905,-2.5572447",
+        "lat": 52.595905,
+        "lng": -2.5572447,
         "recorded": "9–11 April 1993",
         "periods": {
             "search": "Medieval",
@@ -334,6 +340,8 @@
         "country": "Wales",
         "ngr": "SO 12884 26890",
         "coord": "51.933676,-3.2685013",
+        "lat": 51.933676,
+        "lng": -3.2685013,
         "recorded": "16–18 September 1993",
         "periods": {
             "search": "Early Medieval",
@@ -443,6 +451,8 @@
         "country": "Scotland",
         "ngr": "NR 38918 68055",
         "coord": "55.834867,-6.1712177",
+        "lat": 55.834867,
+        "lng": -6.1712177,
         "recorded": "24–26 June 1994",
         "periods": {
             "search": "Medieval",
@@ -552,6 +562,8 @@
         "country": "England",
         "ngr": "SU 18252 35209",
         "coord": "51.115884,-1.740623",
+        "lat": 51.115884,
+        "lng": -1.740623,
         "recorded": "6–8 May 1994",
         "periods": {
             "search": "Bronze Age, Early Medieval",
@@ -662,6 +674,8 @@
         "country": "England",
         "ngr": "SU 03945 79281",
         "coord": "51.512442,-1.9445447",
+        "lat": 51.512442,
+        "lng": -1.9445447,
         "recorded": "23–25 April 1994",
         "periods": {
             "search": "Roman, Medieval",
@@ -771,6 +785,8 @@
         "country": "England",
         "ngr": "TQ 30693 79240",
         "coord": "51.496999,-0.11865",
+        "lat": 51.496999,
+        "lng": -0.11865,
         "recorded": "8–10 July 1994",
         "periods": {
             "search": "Roman, Medieval, Post-Medieval",
@@ -881,6 +897,8 @@
         "country": "England",
         "ngr": "NZ 35786 58790",
         "coord": "54.92253,-1.44318",
+        "lat": 54.92253,
+        "lng": -1.44318,
         "recorded": "10–12 June 1994",
         "periods": {
             "search": "Medieval",
@@ -990,6 +1008,8 @@
         "country": "England",
         "ngr": "SW 43717 25172",
         "coord": "50.071303,-5.582972",
+        "lat": 50.071303,
+        "lng": -5.582972,
         "recorded": "17–19 March 1995",
         "periods": {
             "search": "Iron Age",
@@ -1099,6 +1119,8 @@
         "country": "England",
         "ngr": "SP 41367 04979",
         "coord": "51.741998,-1.402281",
+        "lat": 51.741998,
+        "lng": -1.402281,
         "recorded": "21–23 April 1995",
         "periods": {
             "search": "Palaeolithic ",
@@ -1208,6 +1230,8 @@
         "country": "England",
         "ngr": "ST 70958 22112",
         "coord": "50.997661,-2.415219",
+        "lat": 50.997661,
+        "lng": -2.415219,
         "recorded": "26–28 May 1995",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -1317,6 +1341,8 @@
         "country": "England",
         "ngr": "SX 94572 73105",
         "coord": "50.548171,-3.48941",
+        "lat": 50.548171,
+        "lng": -3.48941,
         "recorded": "30 June–2 July 1995",
         "periods": {
             "search": "Post-Medieval",
@@ -1427,6 +1453,8 @@
         "country": "Northern Ireland",
         "ngr": "NV 93463 04687",
         "coord": "54.3453,-6.7186",
+        "lat": 54.3453,
+        "lng": -6.7186,
         "recorded": "7–9 April 1995",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -1536,6 +1564,8 @@
         "country": "England",
         "ngr": "TL 93852 51087",
         "coord": "52.12409,0.83037",
+        "lat": 52.12409,
+        "lng": 0.83037,
         "recorded": "28–30 August 1995",
         "periods": {
             "search": "Palaeolithic, Bronze Age, Iron Age, Roman, Early Medieval, Medieval, Post-Medieval",
@@ -1645,6 +1675,7 @@
         "country": "United States of America",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "17–19 May 1996",
         "periods": {
             "search": "Post-Medieval",
@@ -1754,6 +1785,8 @@
         "country": "England",
         "ngr": "SX 35042 84838",
         "coord": "50.639822,-4.334246",
+        "lat": 50.639822,
+        "lng": -4.334246,
         "recorded": "22–24 March 1996",
         "periods": {
             "search": "Medieval",
@@ -1863,6 +1896,8 @@
         "country": "England",
         "ngr": "SP 05262 88973",
         "coord": "52.498633,-1.923911",
+        "lat": 52.498633,
+        "lng": -1.923911,
         "recorded": "5–7 April 1996",
         "periods": {
             "search": "Post-Medieval",
@@ -1972,6 +2007,8 @@
         "country": "Scotland",
         "ngr": "NS 55359 65884",
         "coord": "55.864368,-4.312815",
+        "lat": 55.864368,
+        "lng": -4.312815,
         "recorded": "15–16 June 1996",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -2081,6 +2118,8 @@
         "country": "England",
         "ngr": "SE 78996 71636",
         "coord": "54.134507,-0.792469",
+        "lat": 54.134507,
+        "lng": -0.792469,
         "recorded": "5–7 July 1996",
         "periods": {
             "search": "Roman, Medieval, Post-Medieval",
@@ -2190,6 +2229,8 @@
         "country": "England",
         "ngr": "SU 14771 48157",
         "coord": "51.232406,-1.789822",
+        "lat": 51.232406,
+        "lng": -1.789822,
         "recorded": "2–4 August 1996",
         "periods": {
             "search": "Prehistoric, Roman, Post-Medieval",
@@ -2299,6 +2340,8 @@
         "country": "England",
         "ngr": "TQ 17497 74843",
         "coord": "51.460373,-0.310116",
+        "lat": 51.460373,
+        "lng": -0.310116,
         "recorded": "25–27 July 1997",
         "periods": {
             "search": "Post-Medieval",
@@ -2409,6 +2452,8 @@
         "country": "England",
         "ngr": "ST 39216 33652",
         "coord": "51.098932,-2.869454",
+        "lat": 51.098932,
+        "lng": -2.869454,
         "recorded": "17–19 March 1997",
         "periods": {
             "search": "Bronze Age",
@@ -2518,6 +2563,8 @@
         "country": "Scotland",
         "ngr": "HY 65475 42113",
         "coord": "59.264121,-2.60732",
+        "lat": 59.264121,
+        "lng": -2.60732,
         "recorded": "7–9 June 1997",
         "periods": {
             "search": "Early Medieval",
@@ -2628,6 +2675,8 @@
         "country": "England",
         "ngr": "SP 09837 19017",
         "coord": "51.86964,-1.85854",
+        "lat": 51.86964,
+        "lng": -1.85854,
         "recorded": "23–25 August 1997",
         "periods": {
             "search": "Roman",
@@ -2737,6 +2786,7 @@
         "country": "Spain",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "9–11 May 1997",
         "periods": {
             "search": "Neolithic",
@@ -2847,6 +2897,8 @@
         "country": "England",
         "ngr": "SO 65296 94139",
         "coord": "52.543986,-2.513156",
+        "lat": 52.543986,
+        "lng": -2.513156,
         "recorded": "27–29 June 1997",
         "periods": {
             "search": "Medieval",
@@ -2956,6 +3008,8 @@
         "country": "Northern Ireland",
         "ngr": "SB 58107 98795",
         "coord": "54.327224,-5.721692",
+        "lat": 54.327224,
+        "lng": -5.721692,
         "recorded": "19–21 February 1997",
         "periods": {
             "search": "Early Medieval",
@@ -3066,6 +3120,8 @@
         "country": "England",
         "ngr": "NZ 38589 09420",
         "coord": "54.478678,-1.405971",
+        "lat": 54.478678,
+        "lng": -1.405971,
         "recorded": "10–12 October 1997",
         "periods": {
             "search": "Medieval",
@@ -3176,6 +3232,8 @@
         "country": "England",
         "ngr": "SJ 86891 49857",
         "coord": "53.045818,-2.196994",
+        "lat": 53.045818,
+        "lng": -2.196994,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval, 20th century",
@@ -3285,6 +3343,8 @@
         "country": "England",
         "ngr": "NY 11070 31279",
         "coord": "54.668705,-3.380394",
+        "lat": 54.668705,
+        "lng": -3.380394,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -3394,6 +3454,8 @@
         "country": "England",
         "ngr": "TL 86779 83092",
         "coord": "52.413928,0.744887",
+        "lat": 52.413928,
+        "lng": 0.744887,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -3503,6 +3565,8 @@
         "country": "England",
         "ngr": "ST 46828 54024",
         "coord": "51.282857,-2.763778",
+        "lat": 51.282857,
+        "lng": -2.763778,
         "recorded": "–",
         "periods": {
             "search": "Mesolithic, Bronze Age, Roman",
@@ -3612,6 +3676,8 @@
         "country": "England",
         "ngr": "SX 54493 55643",
         "coord": "50.382626,-4.047981",
+        "lat": 50.382626,
+        "lng": -4.047981,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -3721,6 +3787,8 @@
         "country": "England",
         "ngr": "TQ 89418 29993",
         "coord": "51.038072,0.700398",
+        "lat": 51.038072,
+        "lng": 0.700398,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -3830,6 +3898,8 @@
         "country": "England",
         "ngr": "TQ 78678 14516",
         "coord": "50.90247,0.539778",
+        "lat": 50.90247,
+        "lng": 0.539778,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -3939,6 +4009,8 @@
         "country": "England",
         "ngr": "TG 43088 03886",
         "coord": "52.578406,1.586435",
+        "lat": 52.578406,
+        "lng": 1.586435,
         "recorded": "–",
         "periods": {
             "search": "20th century",
@@ -4048,6 +4120,8 @@
         "country": "England",
         "ngr": "SP 09856 18985",
         "coord": "51.869354,-1.858265",
+        "lat": 51.869354,
+        "lng": -1.858265,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -4157,6 +4231,8 @@
         "country": "England",
         "ngr": "SO 94193 36698",
         "coord": "52.028665,-2.086049",
+        "lat": 52.028665,
+        "lng": -2.086049,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Early Medieval",
@@ -4266,6 +4342,8 @@
         "country": "England",
         "ngr": "TF 66259 20796",
         "coord": "52.759183,0.462398",
+        "lat": 52.759183,
+        "lng": 0.462398,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Early Medieval, Medieval",
@@ -4375,6 +4453,7 @@
         "country": "West Indies",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -4484,6 +4563,7 @@
         "country": "West Indies",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -4593,6 +4673,7 @@
         "country": "Spain",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -4702,6 +4783,8 @@
         "country": "England",
         "ngr": "SP 02751 01495",
         "coord": "51.712179,-1.961577",
+        "lat": 51.712179,
+        "lng": -1.961577,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -4811,6 +4894,7 @@
         "country": "France",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "20th century",
@@ -4920,6 +5004,8 @@
         "country": "England",
         "ngr": "SY 61576 85760",
         "coord": "50.670234,-2.545086",
+        "lat": 50.670234,
+        "lng": -2.545086,
         "recorded": "–",
         "periods": {
             "search": "Prehistoric, Neolithic, Bronze Age, Iron Age, Medieval, Post-Medieval",
@@ -5029,6 +5115,8 @@
         "country": "England",
         "ngr": "NY 61390 66239",
         "coord": "54.989232,-2.604935",
+        "lat": 54.989232,
+        "lng": -2.604935,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -5138,6 +5226,8 @@
         "country": "England",
         "ngr": "TL 80964 80463",
         "coord": "52.392274,0.658067",
+        "lat": 52.392274,
+        "lng": 0.658067,
         "recorded": "–",
         "periods": {
             "search": "Palaeolithic ",
@@ -5248,6 +5338,8 @@
         "country": "England",
         "ngr": "SP 33527 79119",
         "coord": "52.409056,-1.508557",
+        "lat": 52.409056,
+        "lng": -1.508557,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -5357,6 +5449,8 @@
         "country": "England",
         "ngr": "SU 66170 52778",
         "coord": "51.270322,-1.052882",
+        "lat": 51.270322,
+        "lng": -1.052882,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval ",
@@ -5466,6 +5560,8 @@
         "country": "England",
         "ngr": "TL 23125 99105",
         "coord": "52.575829,-0.1845",
+        "lat": 52.575829,
+        "lng": -0.1845,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -5575,6 +5671,8 @@
         "country": "England",
         "ngr": "SO 51992 45874",
         "coord": "52.109097,-2.702415",
+        "lat": 52.109097,
+        "lng": -2.702415,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -5684,6 +5782,8 @@
         "country": "England",
         "ngr": "TQ 39295 77416",
         "coord": "51.47856,0.004462",
+        "lat": 51.47856,
+        "lng": 0.004462,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -5794,6 +5894,8 @@
         "country": "England",
         "ngr": "NZ 52937 33664",
         "coord": "54.695233,-1.180206",
+        "lat": 54.695233,
+        "lng": -1.180206,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, 20th century",
@@ -5904,6 +6006,8 @@
         "country": "England",
         "ngr": "SE 59683 51870",
         "coord": "53.959484,-1.091878",
+        "lat": 53.959484,
+        "lng": -1.091878,
         "recorded": "–",
         "periods": {
             "search": "Roman, Early Medieval, Medieval, Post-Medieval, 20th century",
@@ -6014,6 +6118,8 @@
         "country": "England",
         "ngr": "SK 93931 46065",
         "coord": "53.003676,-0.601684",
+        "lat": 53.003676,
+        "lng": -0.601684,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -6123,6 +6229,8 @@
         "country": "England",
         "ngr": "SP 74079 46993",
         "coord": "52.116304,-0.919547",
+        "lat": 52.116304,
+        "lng": -0.919547,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -6232,6 +6340,8 @@
         "country": "Wales",
         "ngr": "SO 15146 21399",
         "coord": "51.884672,-3.234257",
+        "lat": 51.884672,
+        "lng": -3.234257,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Roman, Early Medieval, Medieval",
@@ -6342,6 +6452,8 @@
         "country": "England",
         "ngr": "SP 00706 20902",
         "coord": "51.886678,-1.991152",
+        "lat": 51.886678,
+        "lng": -1.991152,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -6452,6 +6564,8 @@
         "country": "Wales",
         "ngr": "SO 24856 09516",
         "coord": "51.779242,-3.090618",
+        "lat": 51.779242,
+        "lng": -3.090618,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -6562,6 +6676,8 @@
         "country": "England",
         "ngr": "SP 66716 04741",
         "coord": "51.737413,-1.035237",
+        "lat": 51.737413,
+        "lng": -1.035237,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -6672,6 +6788,8 @@
         "country": "England",
         "ngr": "SU 18428 50911",
         "coord": "51.257064,-1.737308",
+        "lat": 51.257064,
+        "lng": -1.737308,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -6781,6 +6899,8 @@
         "country": "England",
         "ngr": "ST 63324 87205",
         "coord": "51.582499,-2.530707",
+        "lat": 51.582499,
+        "lng": -2.530707,
         "recorded": "–",
         "periods": {
             "search": "Iron Age",
@@ -6891,6 +7011,8 @@
         "country": "England",
         "ngr": "SU 60691 79310",
         "coord": "51.509468,-1.126886",
+        "lat": 51.509468,
+        "lng": -1.126886,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Roman",
@@ -7000,6 +7122,8 @@
         "country": "England",
         "ngr": "NU 12746 41910",
         "coord": "55.670528,-1.798928",
+        "lat": 55.670528,
+        "lng": -1.798928,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Medieval, Post-Medieval",
@@ -7111,6 +7235,8 @@
         "country": "England",
         "ngr": "SO 71629 92765",
         "coord": "52.532008,-2.41966",
+        "lat": 52.532008,
+        "lng": -2.41966,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -7221,6 +7347,8 @@
         "country": "England",
         "ngr": "TR 14751 57750",
         "coord": "51.278405,1.077766",
+        "lat": 51.278405,
+        "lng": 1.077766,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Early Medieval, Medieval, Post-Medieval",
@@ -7330,6 +7458,8 @@
         "country": "England",
         "ngr": "SU 50536 29587",
         "coord": "51.063401,-1.280206",
+        "lat": 51.063401,
+        "lng": -1.280206,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -7439,6 +7569,8 @@
         "country": "England",
         "ngr": "TQ 30091 77945",
         "coord": "51.485502,-0.127807",
+        "lat": 51.485502,
+        "lng": -0.127807,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -7547,6 +7679,8 @@
         "country": "England",
         "ngr": "SK 98578 43556",
         "coord": "52.980295,-0.533225",
+        "lat": 52.980295,
+        "lng": -0.533225,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -7655,6 +7789,8 @@
         "country": "Scotland",
         "ngr": "NC 18402 53645",
         "coord": "58.433263,-5.112194",
+        "lat": 58.433263,
+        "lng": -5.112194,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -7763,6 +7899,8 @@
         "country": "England",
         "ngr": "TL 12170 39256",
         "coord": "52.040364,-0.366011",
+        "lat": 52.040364,
+        "lng": -0.366011,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -7871,6 +8009,8 @@
         "country": "England",
         "ngr": "SJ 61034 05533",
         "coord": "52.646124,-2.577345",
+        "lat": 52.646124,
+        "lng": -2.577345,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -7979,6 +8119,8 @@
         "country": "England",
         "ngr": "TL 34509 04225",
         "coord": "51.720624,-0.054145",
+        "lat": 51.720624,
+        "lng": -0.054145,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -8087,6 +8229,8 @@
         "country": "England",
         "ngr": "SW 72583 24552",
         "coord": "50.077478,-5.179886",
+        "lat": 50.077478,
+        "lng": -5.179886,
         "recorded": "–",
         "periods": {
             "search": "Iron Age",
@@ -8195,6 +8339,8 @@
         "country": "England",
         "ngr": "SJ 59421 17375",
         "coord": "52.752459,-2.602659",
+        "lat": 52.752459,
+        "lng": -2.602659,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -8303,6 +8449,8 @@
         "country": "England",
         "ngr": "SO 97211 49112",
         "coord": "52.140294,-2.042171",
+        "lat": 52.140294,
+        "lng": -2.042171,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Medieval",
@@ -8411,6 +8559,8 @@
         "country": "England",
         "ngr": "SE 42626 25530",
         "coord": "53.724441,-1.355467",
+        "lat": 53.724441,
+        "lng": -1.355467,
         "recorded": "–",
         "periods": {
             "search": "Roman, Post-Medieval",
@@ -8519,6 +8669,8 @@
         "country": "England",
         "ngr": "SP 15641 66166",
         "coord": "52.293401,-1.772098",
+        "lat": 52.293401,
+        "lng": -1.772098,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -8627,6 +8779,8 @@
         "country": "England",
         "ngr": "SZ 61415 86144",
         "coord": "50.671732,-1.132267",
+        "lat": 50.671732,
+        "lng": -1.132267,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Roman, Early Medieval",
@@ -8735,6 +8889,8 @@
         "country": "England",
         "ngr": "SU 16110 17310",
         "coord": "50.954994,-1.772017",
+        "lat": 50.954994,
+        "lng": -1.772017,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval",
@@ -8843,6 +8999,8 @@
         "country": "England",
         "ngr": "SP 99593 72842",
         "coord": "52.34462,-0.539447",
+        "lat": 52.34462,
+        "lng": -0.539447,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval",
@@ -8952,6 +9110,8 @@
         "country": "England",
         "ngr": "ST 40360 13507",
         "coord": "50.917925,-2.849794",
+        "lat": 50.917925,
+        "lng": -2.849794,
         "recorded": "8–10 May 2002",
         "periods": {
             "search": "Roman ",
@@ -9061,6 +9221,8 @@
         "country": "England",
         "ngr": "SK 24195 53738",
         "coord": "53.080321,-1.64026",
+        "lat": 53.080321,
+        "lng": -1.64026,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Bronze Age, Iron Age, Roman",
@@ -9171,6 +9333,8 @@
         "country": "Scotland",
         "ngr": "HU 62146 90618",
         "coord": "60.594185,-0.867257",
+        "lat": 60.594185,
+        "lng": -0.867257,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval",
@@ -9280,6 +9444,8 @@
         "country": "England",
         "ngr": "TQ 38682 77808",
         "coord": "51.48223,-0.004201",
+        "lat": 51.48223,
+        "lng": -0.004201,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -9391,6 +9557,8 @@
         "country": "England",
         "ngr": "TQ 26405 69842",
         "coord": "51.413519,-0.183752",
+        "lat": 51.413519,
+        "lng": -0.183752,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -9500,6 +9668,8 @@
         "country": "England",
         "ngr": "ST 74603 65473",
         "coord": "51.387727,-2.366371",
+        "lat": 51.387727,
+        "lng": -2.366371,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Roman, Post-Medieval",
@@ -9609,6 +9779,8 @@
         "country": "England",
         "ngr": "ST 34593 29252",
         "coord": "51.058863,-2.934671",
+        "lat": 51.058863,
+        "lng": -2.934671,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Early Medieval, Medieval, Post-Medieval",
@@ -9718,6 +9890,8 @@
         "country": "England",
         "ngr": "TQ 18534 77387",
         "coord": "51.483024,-0.294354",
+        "lat": 51.483024,
+        "lng": -0.294354,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval ",
@@ -9828,6 +10002,8 @@
         "country": "Scotland",
         "ngr": "NO 37870 02098",
         "coord": "56.207395,-3.003143",
+        "lat": 56.207395,
+        "lng": -3.003143,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -9937,6 +10113,8 @@
         "country": "England",
         "ngr": "SE 71450 70000",
         "coord": "54.120905,-0.908317",
+        "lat": 54.120905,
+        "lng": -0.908317,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -10046,6 +10224,8 @@
         "country": "England",
         "ngr": "NZ 34995 29015",
         "coord": "54.655019,-1.459104",
+        "lat": 54.655019,
+        "lng": -1.459104,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -10156,6 +10336,8 @@
         "country": "England",
         "ngr": "NY 68537 20454",
         "coord": "54.578305,-2.488259",
+        "lat": 54.578305,
+        "lng": -2.488259,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval ",
@@ -10265,6 +10447,8 @@
         "country": "England",
         "ngr": "TQ 17333 76615",
         "coord": "51.47634,-0.311899",
+        "lat": 51.47634,
+        "lng": -0.311899,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -10373,6 +10557,8 @@
         "country": "England",
         "ngr": "ST 28014 10525",
         "coord": "50.889703,-3.024814",
+        "lat": 50.889703,
+        "lng": -3.024814,
         "recorded": "–",
         "periods": {
             "search": "Roman, 20th century",
@@ -10481,6 +10667,8 @@
         "country": "Scotland",
         "ngr": "NH 62597 91589",
         "coord": "57.892503,-4.319505",
+        "lat": 57.892503,
+        "lng": -4.319505,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -10589,6 +10777,8 @@
         "country": "England",
         "ngr": "SK 95695 77051",
         "coord": "53.28181,-0.566168",
+        "lat": 53.28181,
+        "lng": -0.566168,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Medieval",
@@ -10697,6 +10887,8 @@
         "country": "England",
         "ngr": "TQ 99451 61065",
         "coord": "51.313727,0.860548",
+        "lat": 51.313727,
+        "lng": 0.860548,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -10805,6 +10997,8 @@
         "country": "England",
         "ngr": "SZ 00746 86586",
         "coord": "50.67893,-1.990799",
+        "lat": 50.67893,
+        "lng": -1.990799,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -10914,6 +11108,8 @@
         "country": "England",
         "ngr": "SK 04144 43535",
         "coord": "52.98913,-1.939713",
+        "lat": 52.98913,
+        "lng": -1.939713,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -11022,6 +11218,8 @@
         "country": "Wales",
         "ngr": "ST 37394 81902",
         "coord": "51.532536,-2.90395",
+        "lat": 51.532536,
+        "lng": -2.90395,
         "recorded": "–",
         "periods": {
             "search": "Prehistoric",
@@ -11130,6 +11328,8 @@
         "country": "England",
         "ngr": "SU 56821 92440",
         "coord": "51.627914,-1.180515",
+        "lat": 51.627914,
+        "lng": -1.180515,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -11238,6 +11438,8 @@
         "country": "England",
         "ngr": "TL 06292 96131",
         "coord": "52.552655,-0.433747",
+        "lat": 52.552655,
+        "lng": -0.433747,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Early Medieval, Medieval",
@@ -11346,6 +11548,8 @@
         "country": "England",
         "ngr": "TM 14733 46647",
         "coord": "52.076522,1.132127",
+        "lat": 52.076522,
+        "lng": 1.132127,
         "recorded": "–",
         "periods": {
             "search": "Roman, 20th century",
@@ -11454,6 +11658,8 @@
         "country": "Scotland",
         "ngr": "NT 71840 33855",
         "coord": "55.597499,-2.448431",
+        "lat": 55.597499,
+        "lng": -2.448431,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -11562,6 +11768,8 @@
         "country": "England",
         "ngr": "ST 97351 14350",
         "coord": "50.928594,-2.039061",
+        "lat": 50.928594,
+        "lng": -2.039061,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Roman",
@@ -11670,6 +11878,8 @@
         "country": "England",
         "ngr": "TQ 01528 98352",
         "coord": "51.674772,-0.53311092",
+        "lat": 51.674772,
+        "lng": -0.53311092,
         "recorded": "16–18 March 2004",
         "periods": {
             "search": "Post-Medieval",
@@ -11779,6 +11989,8 @@
         "country": "England",
         "ngr": "SE 55904 55027",
         "coord": "53.988279,-1.148894",
+        "lat": 53.988279,
+        "lng": -1.148894,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -11888,6 +12100,8 @@
         "country": "England",
         "ngr": "SD 38403 26950",
         "coord": "53.735285,-2.935246",
+        "lat": 53.735285,
+        "lng": -2.935246,
         "recorded": "–",
         "periods": {
             "search": "20th century",
@@ -11997,6 +12211,8 @@
         "country": "Scotland",
         "ngr": "NX 85252 98953",
         "coord": "55.271321,-3.80762",
+        "lat": 55.271321,
+        "lng": -3.80762,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -12106,6 +12322,8 @@
         "country": "England",
         "ngr": "TF 15625 08512",
         "coord": "52.662008,-0.29183",
+        "lat": 52.662008,
+        "lng": -0.29183,
         "recorded": "–",
         "periods": {
             "search": "Neolithic",
@@ -12215,6 +12433,8 @@
         "country": "England",
         "ngr": "SU 50117 10503",
         "coord": "50.891844,-1.288816",
+        "lat": 50.891844,
+        "lng": -1.288816,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -12324,6 +12544,8 @@
         "country": "England",
         "ngr": "SO 80025 08874",
         "coord": "51.778168,-2.29093",
+        "lat": 51.778168,
+        "lng": -2.29093,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Medieval",
@@ -12433,6 +12655,8 @@
         "country": "Scotland",
         "ngr": "NT 34400 97135",
         "coord": "56.162351,-3.057839",
+        "lat": 56.162351,
+        "lng": -3.057839,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -12542,6 +12766,8 @@
         "country": "England",
         "ngr": "TM 11301 15569",
         "coord": "51.798826,1.06306",
+        "lat": 51.798826,
+        "lng": 1.06306,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -12651,6 +12877,8 @@
         "country": "England",
         "ngr": "ST 47103 05308",
         "coord": "50.844866,-2.752691",
+        "lat": 50.844866,
+        "lng": -2.752691,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Bronze Age, Roman",
@@ -12760,6 +12988,8 @@
         "country": "England",
         "ngr": "TA 17287 53870",
         "coord": "53.967614,-0.213551",
+        "lat": 53.967614,
+        "lng": -0.213551,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Early Medieval, Medieval",
@@ -12869,6 +13099,8 @@
         "country": "England",
         "ngr": "NZ 36374 67468",
         "coord": "55.000462,-1.432911",
+        "lat": 55.000462,
+        "lng": -1.432911,
         "recorded": "–",
         "periods": {
             "search": "Prehistoric, Roman",
@@ -12978,6 +13210,8 @@
         "country": "England",
         "ngr": "SP 77199 48128",
         "coord": "52.126082,-0.873735",
+        "lat": 52.126082,
+        "lng": -0.873735,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -13087,6 +13321,8 @@
         "country": "England",
         "ngr": "SP 84569 81369",
         "coord": "52.423777,-0.757779",
+        "lat": 52.423777,
+        "lng": -0.757779,
         "recorded": "–",
         "periods": {
             "search": "Roman, Early Medieval, Medieval",
@@ -13196,6 +13432,8 @@
         "country": "England",
         "ngr": "SP 03365 14924",
         "coord": "51.832918,-1.952569",
+        "lat": 51.832918,
+        "lng": -1.952569,
         "recorded": "2–5 August 2005",
         "periods": {
             "search": "Roman",
@@ -13305,6 +13543,8 @@
         "country": "England",
         "ngr": "SJ 84403 98981",
         "coord": "53.487311,-2.236522",
+        "lat": 53.487311,
+        "lng": -2.236522,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -13414,6 +13654,8 @@
         "country": "England",
         "ngr": "TQ 13077 65104",
         "coord": "51.37374,-0.376815",
+        "lat": 51.37374,
+        "lng": -0.376815,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -13523,6 +13765,7 @@
         "country": "Netherlands",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -13632,6 +13875,8 @@
         "country": "England",
         "ngr": "TR 31251 55975",
         "coord": "51.256012,1.312794",
+        "lat": 51.256012,
+        "lng": 1.312794,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -13741,6 +13986,8 @@
         "country": "England",
         "ngr": "SE 22172 63031",
         "coord": "54.062747,-1.662743",
+        "lat": 54.062747,
+        "lng": -1.662743,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -13850,6 +14097,8 @@
         "country": "England",
         "ngr": "TQ 91233 72153",
         "coord": "51.416134,0.748727",
+        "lat": 51.416134,
+        "lng": 0.748727,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -13959,6 +14208,8 @@
         "country": "England",
         "ngr": "TQ 09622 09541",
         "coord": "50.874978,-0.443323",
+        "lat": 50.874978,
+        "lng": -0.443323,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Bronze Age",
@@ -14068,6 +14319,8 @@
         "country": "England",
         "ngr": "SP 52976 14326",
         "coord": "51.82505,-1.232742",
+        "lat": 51.82505,
+        "lng": -1.232742,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -14177,6 +14430,8 @@
         "country": "Wales",
         "ngr": "SJ 28465 55321",
         "coord": "53.090283,-3.069603",
+        "lat": 53.090283,
+        "lng": -3.069603,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -14287,6 +14542,8 @@
         "country": "England",
         "ngr": "TQ 11840 32975",
         "coord": "51.0852,-0.4046",
+        "lat": 51.0852,
+        "lng": -0.4046,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -14396,6 +14653,8 @@
         "country": "Scotland",
         "ngr": "NG 71169 44361",
         "coord": "57.43176,-5.81387",
+        "lat": 57.43176,
+        "lng": -5.81387,
         "recorded": "–",
         "periods": {
             "search": "Iron Age",
@@ -14505,6 +14764,8 @@
         "country": "Isle of Man",
         "ngr": "SC 33370 74653",
         "coord": "54.140615,-4.552331",
+        "lat": 54.140615,
+        "lng": -4.552331,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval",
@@ -14614,6 +14875,8 @@
         "country": "England",
         "ngr": "ST 76646 54084",
         "coord": "51.28541,-2.336253",
+        "lat": 51.28541,
+        "lng": -2.336253,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -14723,6 +14986,8 @@
         "country": "England",
         "ngr": "ST 53129 00350",
         "coord": "50.800806,-2.666475",
+        "lat": 50.800806,
+        "lng": -2.666475,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -14832,6 +15097,8 @@
         "country": "Wales",
         "ngr": "SH 40872 92523",
         "coord": "53.405465,-4.395224",
+        "lat": 53.405465,
+        "lng": -4.395224,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -14941,6 +15208,8 @@
         "country": "England",
         "ngr": "TR 19352 35417",
         "coord": "51.076135,1.130013",
+        "lat": 51.076135,
+        "lng": 1.130013,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval ",
@@ -15050,6 +15319,8 @@
         "country": "England",
         "ngr": "TL 16896 89830",
         "coord": "52.493863,-0.27964",
+        "lat": 52.493863,
+        "lng": -0.27964,
         "recorded": "–",
         "periods": {
             "search": "Neolithic, Roman, Early Medieval, Medieval",
@@ -15159,6 +15430,8 @@
         "country": "England",
         "ngr": "SP 74507 39420",
         "coord": "52.04817,-0.914954",
+        "lat": 52.04817,
+        "lng": -0.914954,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -15268,6 +15541,8 @@
         "country": "England",
         "ngr": "SJ 70937 88948",
         "coord": "53.396554,-2.438536",
+        "lat": 53.396554,
+        "lng": -2.438536,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -15377,6 +15652,8 @@
         "country": "England",
         "ngr": "SY 08611 88551",
         "coord": "50.689403,-3.295137",
+        "lat": 50.689403,
+        "lng": -3.295137,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -15486,6 +15763,8 @@
         "country": "England",
         "ngr": "SU 96845 99735",
         "coord": "51.688032,-0.600434",
+        "lat": 51.688032,
+        "lng": -0.600434,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -15595,6 +15874,8 @@
         "country": "England",
         "ngr": "TQ 35059 50767",
         "coord": "51.2401,-0.0666",
+        "lat": 51.2401,
+        "lng": -0.0666,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -15704,6 +15985,8 @@
         "country": "England",
         "ngr": "SJ 40659 59118",
         "coord": "53.125909,-2.888253",
+        "lat": 53.125909,
+        "lng": -2.888253,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -15813,6 +16096,8 @@
         "country": "England",
         "ngr": "SX 14170 81528",
         "coord": "50.603806,-4.627464",
+        "lat": 50.603806,
+        "lng": -4.627464,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -15922,6 +16207,8 @@
         "country": "England",
         "ngr": "SK 43343 49956",
         "coord": "53.045125,-1.354947",
+        "lat": 53.045125,
+        "lng": -1.354947,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -16031,6 +16318,8 @@
         "country": "England",
         "ngr": "NZ 21104 31268",
         "coord": "54.676036,-1.674253",
+        "lat": 54.676036,
+        "lng": -1.674253,
         "recorded": "–",
         "periods": {
             "search": "Iron Age",
@@ -16140,6 +16429,8 @@
         "country": "Scotland",
         "ngr": "NF 65588 02837",
         "coord": "56.995162,-7.509125",
+        "lat": 56.995162,
+        "lng": -7.509125,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age",
@@ -16249,6 +16540,8 @@
         "country": "England",
         "ngr": "SP 71747 50781",
         "coord": "52.150658,-0.95281",
+        "lat": 52.150658,
+        "lng": -0.95281,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -16357,6 +16650,8 @@
         "country": "England",
         "ngr": "SO 96674 15200",
         "coord": "51.835399,-2.049679",
+        "lat": 51.835399,
+        "lng": -2.049679,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -16466,6 +16761,8 @@
         "country": "England",
         "ngr": "TQ 43944 76651",
         "coord": "51.470522,0.071049",
+        "lat": 51.470522,
+        "lng": 0.071049,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, 20th century",
@@ -16574,6 +16871,8 @@
         "country": "England",
         "ngr": "ST 64600 62068",
         "coord": "51.356569,-2.509777",
+        "lat": 51.356569,
+        "lng": -2.509777,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -16683,6 +16982,8 @@
         "country": "England",
         "ngr": "SP 74118 93393",
         "coord": "52.533367,-0.908772",
+        "lat": 52.533367,
+        "lng": -0.908772,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Early Medieval",
@@ -16792,6 +17093,8 @@
         "country": "Northern Ireland",
         "ngr": "NV 91504 22740",
         "coord": "54.5058,-6.7674",
+        "lat": 54.5058,
+        "lng": -6.7674,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -16901,6 +17204,8 @@
         "country": "England",
         "ngr": "SW 91037 77167",
         "coord": "50.556811,-4.951477",
+        "lat": 50.556811,
+        "lng": -4.951477,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Roman, Early Medieval",
@@ -17010,6 +17315,8 @@
         "country": "England",
         "ngr": "NZ 10388 33058",
         "coord": "54.692457,-1.840365",
+        "lat": 54.692457,
+        "lng": -1.840365,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Early Medieval",
@@ -17119,6 +17426,8 @@
         "country": "England",
         "ngr": "TF 09400 83403",
         "coord": "53.336229,-0.358506",
+        "lat": 53.336229,
+        "lng": -0.358506,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Medieval",
@@ -17228,6 +17537,8 @@
         "country": "Wales",
         "ngr": "ST 49842 88048",
         "coord": "51.58904,-2.725399",
+        "lat": 51.58904,
+        "lng": -2.725399,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -17338,6 +17649,8 @@
         "country": "England",
         "ngr": "TL 10069 14612",
         "coord": "51.8193,-0.4045",
+        "lat": 51.8193,
+        "lng": -0.4045,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -17447,6 +17760,8 @@
         "country": "England",
         "ngr": "NZ 05365 10714",
         "coord": "54.49173,-1.91868",
+        "lat": 54.49173,
+        "lng": -1.91868,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -17556,6 +17871,8 @@
         "country": "Northern Ireland",
         "ngr": "NW 49665 62140",
         "coord": "54.89111,-5.905278",
+        "lat": 54.89111,
+        "lng": -5.905278,
         "recorded": "–",
         "periods": {
             "search": "Prehistoric",
@@ -17665,6 +17982,8 @@
         "country": "Wales",
         "ngr": "ST 46780 90778",
         "coord": "51.6133,-2.77",
+        "lat": 51.6133,
+        "lng": -2.77,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -17775,6 +18094,8 @@
         "country": "England",
         "ngr": "SD 76679 89201",
         "coord": "54.29789,-2.35983",
+        "lat": 54.29789,
+        "lng": -2.35983,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -17884,6 +18205,8 @@
         "country": "England",
         "ngr": "SU 14286 29507",
         "coord": "51.064722,-1.7975",
+        "lat": 51.064722,
+        "lng": -1.7975,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -17993,6 +18316,8 @@
         "country": "England",
         "ngr": "SU 28530 99450",
         "coord": "51.693081,-1.588644",
+        "lat": 51.693081,
+        "lng": -1.588644,
         "recorded": "–",
         "periods": {
             "search": "Roman, Medieval, Post-Medieval",
@@ -18102,6 +18427,8 @@
         "country": "England",
         "ngr": "SP 97273 60278",
         "coord": "52.23212,-0.57711",
+        "lat": 52.23212,
+        "lng": -0.57711,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman",
@@ -18211,6 +18538,8 @@
         "country": "England",
         "ngr": "SX 25468 51874",
         "coord": "50.34086,-4.45412",
+        "lat": 50.34086,
+        "lng": -4.45412,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, 20th century",
@@ -18320,6 +18649,8 @@
         "country": "England",
         "ngr": "TQ 30977 81411",
         "coord": "51.516448,-0.11376",
+        "lat": 51.516448,
+        "lng": -0.11376,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -18429,6 +18760,8 @@
         "country": "England",
         "ngr": "TL 34213 81574",
         "coord": "52.415706,-0.028039",
+        "lat": 52.415706,
+        "lng": -0.028039,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age, Early Medieval, Medieval",
@@ -18538,6 +18871,8 @@
         "country": "England",
         "ngr": "NZ 22776 17141",
         "coord": "54.549014,-1.649417",
+        "lat": 54.549014,
+        "lng": -1.649417,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -18647,6 +18982,8 @@
         "country": "England",
         "ngr": "TM 45184 75394",
         "coord": "52.32183,1.5964",
+        "lat": 52.32183,
+        "lng": 1.5964,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -18756,6 +19093,8 @@
         "country": "England",
         "ngr": "TQ 30072 79496",
         "coord": "51.499444,-0.1275",
+        "lat": 51.499444,
+        "lng": -0.1275,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -18865,6 +19204,8 @@
         "country": "Scotland",
         "ngr": "NM 49680 54096",
         "coord": "56.611667,-6.081111",
+        "lat": 56.611667,
+        "lng": -6.081111,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval",
@@ -18974,6 +19315,8 @@
         "country": "England",
         "ngr": "NZ 21164 15605",
         "coord": "54.535278,-1.674444",
+        "lat": 54.535278,
+        "lng": -1.674444,
         "recorded": "–",
         "periods": {
             "search": "Prehistoric, Roman",
@@ -19083,6 +19426,8 @@
         "country": "England",
         "ngr": "SU 48865 93670",
         "coord": "51.639722,-1.295278",
+        "lat": 51.639722,
+        "lng": -1.295278,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Roman, Early Medieval",
@@ -19192,6 +19537,8 @@
         "country": "England",
         "ngr": "SO 36702 77944",
         "coord": "52.395833,-2.931667",
+        "lat": 52.395833,
+        "lng": -2.931667,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -19301,6 +19648,8 @@
         "country": "England",
         "ngr": "SU 21593 69384",
         "coord": "51.423056,-1.690833",
+        "lat": 51.423056,
+        "lng": -1.690833,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -19410,6 +19759,8 @@
         "country": "England",
         "ngr": "TL 16143 91113",
         "coord": "52.505556,-0.290278",
+        "lat": 52.505556,
+        "lng": -0.290278,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -19519,6 +19870,8 @@
         "country": "Wales",
         "ngr": "ST 36418 97359",
         "coord": "51.671389,-2.920833",
+        "lat": 51.671389,
+        "lng": -2.920833,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -19628,6 +19981,8 @@
         "country": "England",
         "ngr": "SZ 63321 99166",
         "coord": "50.788611,-1.103056",
+        "lat": 50.788611,
+        "lng": -1.103056,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -19737,6 +20092,8 @@
         "country": "England",
         "ngr": "SP 25128 12189",
         "coord": "51.807778,-1.636944",
+        "lat": 51.807778,
+        "lng": -1.636944,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -19846,6 +20203,8 @@
         "country": "England",
         "ngr": "TL 31215 42555",
         "coord": "52.065833,-0.087222",
+        "lat": 52.065833,
+        "lng": -0.087222,
         "recorded": "–",
         "periods": {
             "search": "Roman, Medieval",
@@ -19955,6 +20314,8 @@
         "country": "England",
         "ngr": "SO 52137 51627",
         "coord": "52.160833,-2.701111",
+        "lat": 52.160833,
+        "lng": -2.701111,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Iron Age",
@@ -20064,6 +20425,8 @@
         "country": "England",
         "ngr": "TL 04449 99907",
         "coord": "52.586944,-0.459722",
+        "lat": 52.586944,
+        "lng": -0.459722,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -20173,6 +20536,8 @@
         "country": "England",
         "ngr": "SX 81079 83164",
         "coord": "50.636, -3.683",
+        "lat": 50.636,
+        "lng": -3.683,
         "recorded": "–",
         "periods": {
             "search": "Mesolithic, Neolithic, Bronze Age, Post-Medieval",
@@ -20282,6 +20647,8 @@
         "country": "England",
         "ngr": "SP 72012 92523",
         "coord": "52.525833, -0.94",
+        "lat": 52.525833,
+        "lng": -0.94,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Early Medieval",
@@ -20391,6 +20758,8 @@
         "country": "England",
         "ngr": "ST 42185 29473",
         "coord": "51.061667,-2.826389",
+        "lat": 51.061667,
+        "lng": -2.826389,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -20500,6 +20869,7 @@
         "country": "Jersey",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "20th century",
@@ -20609,6 +20979,8 @@
         "country": "England",
         "ngr": "NZ 13101 56593",
         "coord": "54.903889,-1.797222",
+        "lat": 54.903889,
+        "lng": -1.797222,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -20718,6 +21090,8 @@
         "country": "England",
         "ngr": "TL 12408 98507",
         "coord": "52.572778,-0.342778",
+        "lat": 52.572778,
+        "lng": -0.342778,
         "recorded": "–",
         "periods": {
             "search": "Roman, Medieval, Post-Medieval",
@@ -20827,6 +21201,8 @@
         "country": "England",
         "ngr": "SK 52380 07633",
         "coord": "52.663889,-1.226944",
+        "lat": 52.663889,
+        "lng": -1.226944,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -20936,6 +21312,7 @@
         "country": "Jersey",
         "ngr": "–",
         "coord": "–",
+        "lat": "–",
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -21045,6 +21422,8 @@
         "country": "Wales",
         "ngr": "ST 11466 96623",
         "coord": "51.661389,-3.281389",
+        "lat": 51.661389,
+        "lng": -3.281389,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -21154,6 +21533,8 @@
         "country": "England",
         "ngr": "ST 74609 28006",
         "coord": "51.050833,-2.363611",
+        "lat": 51.050833,
+        "lng": -2.363611,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -21263,6 +21644,8 @@
         "country": "Wales",
         "ngr": "SM 76954 07243",
         "coord": "51.719444,-5.230556",
+        "lat": 51.719444,
+        "lng": -5.230556,
         "recorded": "–",
         "periods": {
             "search": "Roman, Early Medieval",
@@ -21372,6 +21755,8 @@
         "country": "England",
         "ngr": "SO 57073 77229",
         "coord": "52.391389,-2.632222",
+        "lat": 52.391389,
+        "lng": -2.632222,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -21481,6 +21866,8 @@
         "country": "England",
         "ngr": "TM 47728 70425",
         "coord": "52.276111,1.63",
+        "lat": 52.276111,
+        "lng": 1.63,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval",
@@ -21590,6 +21977,8 @@
         "country": "England",
         "ngr": "TL 64447 63364",
         "coord": "52.243889,0.407222",
+        "lat": 52.243889,
+        "lng": 0.407222,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -21699,6 +22088,8 @@
         "country": "England",
         "ngr": "NU 23967 28666",
         "coord": "55.551111,-1.621667",
+        "lat": 55.551111,
+        "lng": -1.621667,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -21808,6 +22199,8 @@
         "country": "Wales",
         "ngr": "SS 66313 94557",
         "coord": "51.633889,-3.933056",
+        "lat": 51.633889,
+        "lng": -3.933056,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -21917,6 +22310,8 @@
         "country": "England",
         "ngr": "TL 86433 28819",
         "coord": "51.926667,0.71",
+        "lat": 51.926667,
+        "lng": 0.71,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -22026,6 +22421,8 @@
         "country": "Wales",
         "ngr": "SS 80166 82526",
         "coord": "51.528889,-3.728889",
+        "lat": 51.528889,
+        "lng": -3.728889,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -22135,6 +22532,8 @@
         "country": "Wales",
         "ngr": "ST 33192 90201",
         "coord": "51.606667,-2.966111",
+        "lat": 51.606667,
+        "lng": -2.966111,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -22244,6 +22643,8 @@
         "country": "England",
         "ngr": "ST 42091 10628",
         "coord": "50.892222,-2.824722",
+        "lat": 50.892222,
+        "lng": -2.824722,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Medieval",
@@ -22353,6 +22754,8 @@
         "country": "England",
         "ngr": "SK 60325 64775",
         "coord": "53.176667,-1.098889",
+        "lat": 53.176667,
+        "lng": -1.098889,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -22462,6 +22865,8 @@
         "country": "England",
         "ngr": "SK 93267 38008",
         "coord": "52.931389,-0.613889",
+        "lat": 52.931389,
+        "lng": -0.613889,
         "recorded": "–",
         "periods": {
             "search": "20th century",
@@ -22570,6 +22975,8 @@
         "country": "England",
         "ngr": "TF 78206 44016",
         "coord": "52.963889,0.651944",
+        "lat": 52.963889,
+        "lng": 0.651944,
         "recorded": "–",
         "periods": {
             "search": "Iron Age, Roman, Early Medieval",
@@ -22678,6 +23085,8 @@
         "country": "Wales",
         "ngr": "ST 13364 74990",
         "coord": "51.467222,-3.248611",
+        "lat": 51.467222,
+        "lng": -3.248611,
         "recorded": "–",
         "periods": {
             "search": "Iron Age",
@@ -22786,6 +23195,8 @@
         "country": "England",
         "ngr": "TM 45395 77615",
         "coord": "52.341667,1.601111",
+        "lat": 52.341667,
+        "lng": 1.601111,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -22894,6 +23305,8 @@
         "country": "England",
         "ngr": "SU 16567 46906",
         "coord": "51.221111,-1.764167",
+        "lat": 51.221111,
+        "lng": -1.764167,
         "recorded": "–",
         "periods": {
             "search": "Bronze Age, Early Medieval",
@@ -23002,6 +23415,8 @@
         "country": "England",
         "ngr": "SD 28454 98963",
         "coord": "54.381111,-3.103056",
+        "lat": 54.381111,
+        "lng": -3.103056,
         "recorded": "–",
         "periods": {
             "search": "Post-Medieval",
@@ -23110,6 +23525,8 @@
         "country": "England",
         "ngr": "SK 86144 08884",
         "coord": "52.670833,-0.7275",
+        "lat": 52.670833,
+        "lng": -0.7275,
         "recorded": "–",
         "periods": {
             "search": "Early Medieval, Medieval, Post-Medieval",
@@ -23218,6 +23635,8 @@
         "country": "England",
         "ngr": "SU 49420 93892",
         "coord": "51.641667,-1.287222",
+        "lat": 51.641667,
+        "lng": -1.287222,
         "recorded": "–",
         "periods": {
             "search": "Roman",
@@ -23326,6 +23745,8 @@
         "country": "Northern Ireland",
         "ngr": "SB4 9715 91966",
         "coord": "54.261944,-5.844722",
+        "lat": 54.261944,
+        "lng": -5.844722,
         "recorded": "–",
         "periods": {
             "search": "Medieval",
@@ -23434,6 +23855,8 @@
         "country": "England",
         "ngr": "TQ 08255 93943",
         "coord": "51.633889,-0.437222",
+        "lat": 51.633889,
+        "lng": -0.437222,
         "recorded": "–",
         "periods": {
             "search": "Medieval, Post-Medieval",
@@ -23542,6 +23965,8 @@
         "country": "Wales",
         "ngr": "SN 01895 04808",
         "coord": "51.706944,-4.868611",
+        "lat": 51.706944,
+        "lng": -4.868611,
         "recorded": "–",
         "periods": {
             "search": "Medieval",

@@ -161,7 +161,7 @@ function displaySearchResults(results, store) {
       appendString += '<div class="search-result-item-body">'
       appendString += '<div class="row"><div class="col-sm-8">'
       appendString += '<h4 class="search-result-item-heading">' + item.broadcast.title + ' </h4>'
-      appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/' + item.coord + ',11/pin" target="_blank">' + item.ngr + '</i></a></p>'
+      appendString += '<p class="info">' + item.location + ' (' + item.country + ') at <a href="http://osmaps.ordnancesurvey.co.uk/?lat=' + item.lng + 'lon=' + item.lng + '/" target="_blank">' + item.ngr + '</i></a></p>'
       appendString += '<p class="description">' + item.summary + ' (Source: <a href="https://www.channel4.com/programmes/time-team/episode-guide/series-' + item.broadcast.season.replace("Season 0", "Season ").replace("Season ", "") + '" target="_blank">Channel 4</a>)</p>'
       appendString += '<hr/>'
 
@@ -291,7 +291,7 @@ function displaySearchResults(results, store) {
   }
 }
 
-(function() {
+(function () {
 
   if (window.location.pathname.includes("/season/")) {
 
@@ -313,46 +313,46 @@ function displaySearchResults(results, store) {
       threshold: 0.3,
       useExtendedSearch: true,
       keys: [{
-          name: "location",
-          weight: 0.3
-        },
-        {
-          name: "summary",
-          weight: 0.3
-        },
-        {
-          name: "broadcast.title",
-          weight: 0.3
-        },
-        {
-          name: "broadcast.season",
-          weight: 0.2
-        },
-        {
-          name: "broadcast.episode",
-          weight: 0.2
-        },
-        {
-          name: "country",
-          weight: 0.2
-        },
-        {
-          name: "periods.search",
-          weight: 0.3
-        }
+        name: "location",
+        weight: 0.3
+      },
+      {
+        name: "summary",
+        weight: 0.3
+      },
+      {
+        name: "broadcast.title",
+        weight: 0.3
+      },
+      {
+        name: "broadcast.season",
+        weight: 0.2
+      },
+      {
+        name: "broadcast.episode",
+        weight: 0.2
+      },
+      {
+        name: "country",
+        weight: 0.2
+      },
+      {
+        name: "periods.search",
+        weight: 0.3
+      }
       ]
     };
 
     const fuse = new Fuse(documents, options);
     displaySearchResults(fuse.search(searchTerm), window.store);
 
-    $('#prev-button').click(function() {
+    $('#prev-button').click(function () {
       if (!$('#prev-button').hasClass("disabled")) {
         updatePageination(-1);
       }
     });
 
-    $('#next-button').click(function() {
+    $('#next-button').click(function () {
       if (!$('#next-button').hasClass("disabled")) {
         updatePageination(1);
       }
@@ -369,19 +369,19 @@ function displaySearchResults(results, store) {
 
       var search_threshold = 0.3;
 
-      $('#prev-button').click(function() {
+      $('#prev-button').click(function () {
         if (!$('#prev-button').hasClass("disabled")) {
           updatePageination(-1);
         }
       });
 
-      $('#next-button').click(function() {
+      $('#next-button').click(function () {
         if (!$('#next-button').hasClass("disabled")) {
           updatePageination(1);
         }
       });
 
-      $('#chk1').click(function() {
+      $('#chk1').click(function () {
         if ($('#chk1').is(':checked')) {
           setExtendedParameter(true);
         } else {
@@ -411,33 +411,33 @@ function displaySearchResults(results, store) {
         threshold: search_threshold,
         useExtendedSearch: true,
         keys: [{
-            name: "location",
-            weight: 0.3
-          },
-          {
-            name: "summary",
-            weight: 0.3
-          },
-          {
-            name: "broadcast.title",
-            weight: 0.3
-          },
-          {
-            name: "broadcast.season",
-            weight: 0.2
-          },
-          {
-            name: "broadcast.episode",
-            weight: 0.2
-          },
-          {
-            name: "country",
-            weight: 0.2
-          },
-          {
-            name: "periods.search",
-            weight: 0.3
-          }
+          name: "location",
+          weight: 0.3
+        },
+        {
+          name: "summary",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.title",
+          weight: 0.3
+        },
+        {
+          name: "broadcast.season",
+          weight: 0.2
+        },
+        {
+          name: "broadcast.episode",
+          weight: 0.2
+        },
+        {
+          name: "country",
+          weight: 0.2
+        },
+        {
+          name: "periods.search",
+          weight: 0.3
+        }
         ]
       };
 
